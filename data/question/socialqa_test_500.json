@@ -1,0 +1,3002 @@
+[
+    {
+        "idx": 0,
+        "input": "jordan enjoyed robin's work so much that they wanted to sign them to a deal.",
+        "answer": "accept the deal",
+        "output": "What will Robin want to do next?"
+    },
+    {
+        "idx": 1,
+        "input": "Aubrey took Cameron and their friends to the library so the could get books.",
+        "answer": "generous and capable",
+        "output": "How would you describe Aubrey?"
+    },
+    {
+        "idx": 2,
+        "input": "The group really wanted black jackets but Remy persuaded them to change.",
+        "answer": "Find new jackets",
+        "output": "What will Remy want to do next?"
+    },
+    {
+        "idx": 3,
+        "input": "Robin was doing well in the office and turned their work in early. Skylar called Robin into the office.",
+        "answer": "a manager",
+        "output": "How would you describe Skylar as a person?"
+    },
+    {
+        "idx": 4,
+        "input": "Lee was the best interior designer in town, and he created exactly the atmosphere Riley wanted.",
+        "answer": "felt good, he did his job well",
+        "output": "How would Lee feel afterwards?"
+    },
+    {
+        "idx": 5,
+        "input": "Two dipolmats Kendall and Tracy, brought the war to and end so people could live peacefully.",
+        "answer": "See the people live peacefully",
+        "output": "What will Kendall want to do next?"
+    },
+    {
+        "idx": 6,
+        "input": "Jordan watered the garden everyday and was happy to see great results.",
+        "answer": "have planted a garden",
+        "output": "What does Jordan need to do before watering the garden?"
+    },
+    {
+        "idx": 7,
+        "input": "Kai bought a shirt that he had been really wanting for a long time.",
+        "answer": "he earned the shirt",
+        "output": "How would Kai feel afterwards?"
+    },
+    {
+        "idx": 8,
+        "input": "Bailey made Alex deposit every dollar they had into the investment so that the project could move forward.",
+        "answer": "try to convince Alex",
+        "output": "What does Bailey need to do before this?"
+    },
+    {
+        "idx": 9,
+        "input": "Riley complained over dinner that they needed to get a new phone.",
+        "answer": "be eating dinner",
+        "output": "What does Riley need to do before this?"
+    },
+    {
+        "idx": 10,
+        "input": "Aubrey was dating Skylar and wanted to marry them after they graduated from college.",
+        "answer": "will start making wedding plans",
+        "output": "What will happen to Aubrey?"
+    },
+    {
+        "idx": 11,
+        "input": "Robin posed a threat to Kai that involved murdering him and his family.",
+        "answer": "warn their family",
+        "output": "What will Kai want to do next?"
+    },
+    {
+        "idx": 12,
+        "input": "Carson served every person at the table a big glass of wine.",
+        "answer": "make people happy",
+        "output": "What will Carson want to do next?"
+    },
+    {
+        "idx": 13,
+        "input": "Jordan was trying to watch a movie so he shut the door to block out the noise from the other room.",
+        "answer": "did this to not be disturbed",
+        "output": "Why did Jordan do this?"
+    },
+    {
+        "idx": 14,
+        "input": "Sydney placed the top of the wedding cake on the middle layer for the photograph.",
+        "answer": "take a picture",
+        "output": "What will Sydney want to do next?"
+    },
+    {
+        "idx": 15,
+        "input": "Riley gave Casey a report showing that Casey is likely to be laid off by the manager.",
+        "answer": "begin looking for a new job",
+        "output": "What will happen to Casey?"
+    },
+    {
+        "idx": 16,
+        "input": "Alex helped design Robin's experiment in order to test the theory.",
+        "answer": "needed to know the theory",
+        "output": "What does Alex need to do before this?"
+    },
+    {
+        "idx": 17,
+        "input": "Kai grabbed Casey's purse and headed to the mall to take it to Casey.",
+        "answer": "get their car keys and unlock the car",
+        "output": "What will Kai want to do next?"
+    },
+    {
+        "idx": 18,
+        "input": "Jordan went and picked up the photos from the photo booth of the amusement park ride, and then Jordan gave Casey their picture.",
+        "answer": "amused",
+        "output": "How would Jordan feel afterwards?"
+    },
+    {
+        "idx": 19,
+        "input": "Kai spilt Jan's drink bill after they left the bar.",
+        "answer": "responsible",
+        "output": "How would you describe Kai?"
+    },
+    {
+        "idx": 20,
+        "input": "Austin derived their their signature from the consent for to verify that they had received the delivery.",
+        "answer": "Find out whats inside",
+        "output": "What does Austin need to do before this?"
+    },
+    {
+        "idx": 21,
+        "input": "Taylor coupled with Remy's interest and they both went to the old bowling alley.",
+        "answer": "bowl",
+        "output": "What will happen to Remy?"
+    },
+    {
+        "idx": 22,
+        "input": "jesse did not want to be rude but she had to give addison a lecture.",
+        "answer": "apologize to jesse",
+        "output": "What will Addison want to do next?"
+    },
+    {
+        "idx": 23,
+        "input": "Taylor is Kai's son's babysitter.  She puts his son to bed every night when Kai has to work late.",
+        "answer": "works for Kai in the morning",
+        "output": "How would you describe Taylor's relationship to Kai?"
+    },
+    {
+        "idx": 24,
+        "input": "After getting mad over something really stupid, Jesse put Lee's mind at ease.",
+        "answer": "be glad",
+        "output": "What will happen to Lee?"
+    },
+    {
+        "idx": 25,
+        "input": "Jesse is in the hospital recovering from an appendectomy.",
+        "answer": "relieved",
+        "output": "How would Jesse feel afterwards?"
+    },
+    {
+        "idx": 26,
+        "input": "Remy loved Robin's gift of a new coffee machine; it was just what Remy had asked for.",
+        "answer": "needed to sign up for the gift registry",
+        "output": "What does Remy need to do before this?"
+    },
+    {
+        "idx": 27,
+        "input": "Riley wanted more pay so they produced better quality work.",
+        "answer": "someone who loves money",
+        "output": "How would you describe Riley?"
+    },
+    {
+        "idx": 28,
+        "input": "Ash knew that Jan was low on funds, so she lent her the money to pay for groceries.",
+        "answer": "Go buy food",
+        "output": "What will Jan want to do next?"
+    },
+    {
+        "idx": 29,
+        "input": "Riley enhanced students' lives, and other people who supported the students were pleased.",
+        "answer": "award Riley",
+        "output": "What will Others want to do next?"
+    },
+    {
+        "idx": 30,
+        "input": "Sydney was eating dinner with friends. Sydney became uncomfortable when the subject of politics came up.",
+        "answer": "avoids confrontation",
+        "output": "How would you describe Sydney?"
+    },
+    {
+        "idx": 31,
+        "input": "Jan's dog was not potty trained, so Jan taught their dog how to go potty outside.",
+        "answer": "get a dog",
+        "output": "What does Jan need to do before this?"
+    },
+    {
+        "idx": 32,
+        "input": "Cameron got his first tattoo on his arm at the tattoo shop.",
+        "answer": "pick a tattoo design",
+        "output": "What does Cameron need to do before this?"
+    },
+    {
+        "idx": 33,
+        "input": "Cameron took Addison's word for it and they both went to see the blockbuster that day.",
+        "answer": "good",
+        "output": "How would Addison feel as a result?"
+    },
+    {
+        "idx": 34,
+        "input": "Sasha was covering at work for Kendall but hated and quit the job.",
+        "answer": "wanted to give it back to Kendall",
+        "output": "Why did Sasha do this?"
+    },
+    {
+        "idx": 35,
+        "input": "Jan started a blog about a topic she was interested in.",
+        "answer": "read their blog",
+        "output": "What will Others want to do next?"
+    },
+    {
+        "idx": 36,
+        "input": "Alex also read in preparation for an upcoming exam that he needed to pass.",
+        "answer": "test his knowledge",
+        "output": "What will Alex want to do next?"
+    },
+    {
+        "idx": 37,
+        "input": "Riley joined the army and witnessed much violence and danger in their time there.",
+        "answer": "as if war and violence are bad thing",
+        "output": "How would Riley feel afterwards?"
+    },
+    {
+        "idx": 38,
+        "input": "Casey searched around everywhere for her friend's lost puppy.",
+        "answer": "Selfless",
+        "output": "How would you describe Casey?"
+    },
+    {
+        "idx": 39,
+        "input": "Kai skipped school because he wanted to sleep in his nice bed instead.",
+        "answer": "tired",
+        "output": "How would you describe Kai?"
+    },
+    {
+        "idx": 40,
+        "input": "Skylar took us out to lunch for my birthday and we had a lot of fun.",
+        "answer": "Like they had fun",
+        "output": "How would Others feel as a result?"
+    },
+    {
+        "idx": 41,
+        "input": "Jordan told their parents about what happened to the car last week.",
+        "answer": "be disappointed",
+        "output": "How would Others feel as a result?"
+    },
+    {
+        "idx": 42,
+        "input": "With careful planning, execution, and thorough follow-through, Sasha achieved their aims.",
+        "answer": "think carefully about ways to do what they want to do",
+        "output": "What does Sasha need to do before this?"
+    },
+    {
+        "idx": 43,
+        "input": "Jan had a long day and could not stop to get a bite. Starving and tired, Jan made spaghetti to eat when they got home.",
+        "answer": "relieved and satiated",
+        "output": "How would Jan feel afterwards?"
+    },
+    {
+        "idx": 44,
+        "input": "Jan is a political science student who is involved in local politics.",
+        "answer": "passionate about their work",
+        "output": "How would you describe Jan?"
+    },
+    {
+        "idx": 45,
+        "input": "Robin gave the beggar money and offered her moral support.",
+        "answer": "help someone else next",
+        "output": "What will Robin want to do next?"
+    },
+    {
+        "idx": 46,
+        "input": "Robin called her daughter and told her they couldn't afford her college tuition anymore.",
+        "answer": "sad",
+        "output": "How would the others feel?"
+    },
+    {
+        "idx": 47,
+        "input": "Cameron was much older than his brother so he was embarrassed his brother was more successful.",
+        "answer": "Resentful and envious",
+        "output": "How would Cameron feel afterwards?"
+    },
+    {
+        "idx": 48,
+        "input": "Quinn bought her mom a present for her birthday and her mom loved it.",
+        "answer": "smile happily",
+        "output": "What will Quinn want to do next?"
+    },
+    {
+        "idx": 49,
+        "input": "The group of friends was already tense since Sam and Ally's breakup, but Ash added fuel to the fire asking out Ally in front of everyone.",
+        "answer": "very uncomfortable with everything",
+        "output": "How would Others feel as a result?"
+    },
+    {
+        "idx": 50,
+        "input": "Jesse saw Ash's boyfriend and went and made a move on him.",
+        "answer": "paranoid",
+        "output": "How would Ash feel as a result?"
+    },
+    {
+        "idx": 51,
+        "input": "Sydney went to the bank and asked if she had an account.",
+        "answer": "open an account",
+        "output": "What will Sydney want to do next?"
+    },
+    {
+        "idx": 52,
+        "input": "Jordan moved to Hollywood last year after a recruiter said that they could be the next sex symbol of Hollywood.",
+        "answer": "on the road to becoming famous",
+        "output": "How would you describe Jordan?"
+    },
+    {
+        "idx": 53,
+        "input": "Bailey wanted to do something nice, so they invited all of Kai's friends to a surprise party for Kai, but nobody showed up.",
+        "answer": "Frustrated that they wasted their time",
+        "output": "How would Bailey feel afterwards?"
+    },
+    {
+        "idx": 54,
+        "input": "Quinn told Tracy what they intended to achieve in the community project that they volunteered.",
+        "answer": "excited",
+        "output": "How would Quinn feel afterwards?"
+    },
+    {
+        "idx": 55,
+        "input": "Addison made Jordan adjust the length of his pants before going to the party.",
+        "answer": "keep Jordan popular",
+        "output": "Why did Addison do this?"
+    },
+    {
+        "idx": 56,
+        "input": "Aubrey made Lee go outside for a few hours to play with some friends.",
+        "answer": "bored",
+        "output": "Why did Aubrey do this?"
+    },
+    {
+        "idx": 57,
+        "input": "Jesse wrote a note on the board to inform the students that there is going to be a pop quiz at the beginning of class.",
+        "answer": "worried about the quiz",
+        "output": "How would the students feel as a result?"
+    },
+    {
+        "idx": 58,
+        "input": "The boy, Ed, could not afford a new game.  Ed was sad.",
+        "answer": "be a thoughtless person",
+        "output": "Why did Riley do this?"
+    },
+    {
+        "idx": 59,
+        "input": "Austin invited their boyfriend for dinner and they had a nice steak dinner that night.",
+        "answer": "full",
+        "output": "What will happen to Others?"
+    },
+    {
+        "idx": 60,
+        "input": "Kendall closed the door after Sydney left and called the police.",
+        "answer": "go to jail",
+        "output": "What will happen to Sydney?"
+    },
+    {
+        "idx": 61,
+        "input": "Riley swam with their friends in his neighbords\u00b4s pool.",
+        "answer": "buy a swimming suit",
+        "output": "What does Riley need to do before this?"
+    },
+    {
+        "idx": 62,
+        "input": "Jordan spit at the dummy because the look on it's face was disgusting.",
+        "answer": "upset",
+        "output": "How would Jordan feel afterwards?"
+    },
+    {
+        "idx": 63,
+        "input": "Alex put the two lego's together and then put more together with her brohter.",
+        "answer": "help her brother",
+        "output": "Why did Alex do this?"
+    },
+    {
+        "idx": 64,
+        "input": "Taylor made Quinn very angry when they dropped the chocolate cake on the floor.",
+        "answer": "bake another chocolate cake",
+        "output": "What will happen to Quinn?"
+    },
+    {
+        "idx": 65,
+        "input": "Sydney was volunteering to build a house, and they did an excellent job yesterday.",
+        "answer": "accomplished",
+        "output": "How would Others feel as a result?"
+    },
+    {
+        "idx": 66,
+        "input": "Ash brought Lee's family on vacation and was pleased to treat everyone.",
+        "answer": "friendly",
+        "output": "How would Lee feel as a result?"
+    },
+    {
+        "idx": 67,
+        "input": "Kendall brought the war with Tracy to an end. With one glourious signing of the peace treaty.",
+        "answer": "fight the war with Tracy",
+        "output": "What does Kendall need to do before this?"
+    },
+    {
+        "idx": 68,
+        "input": "Carson's friends were fighting over something silly, but Carson washed his hands free of the drama.",
+        "answer": "upset with Carson",
+        "output": "How would friends feel as a result?"
+    },
+    {
+        "idx": 69,
+        "input": "tracy was charismatic so she persuaded the intruder to go.",
+        "answer": "confront the intruder",
+        "output": "What does Tracy need to do before this?"
+    },
+    {
+        "idx": 70,
+        "input": "Addison found a job somewhere that her family would never find her.",
+        "answer": "escape abuse",
+        "output": "Why did Addison do this?"
+    },
+    {
+        "idx": 71,
+        "input": "Quin was done swimming so he swam back to shore.",
+        "answer": "relax on the shore",
+        "output": "What will Quinn want to do next?"
+    },
+    {
+        "idx": 72,
+        "input": "After learning about a string of burglaries in the area, Aubrey protected their property by installing a new security system.",
+        "answer": "more comfortable in their home",
+        "output": "How would Aubrey feel after securing their home?"
+    },
+    {
+        "idx": 73,
+        "input": "Remy pushed the ball too far, so it rolled out into the street.",
+        "answer": "go get the ball",
+        "output": "What will Remy want to do next?"
+    },
+    {
+        "idx": 74,
+        "input": "When the editor failed to show up until late, Alex got the meeting under way.",
+        "answer": "motivated to stay on task",
+        "output": "How would you describe Alex?"
+    },
+    {
+        "idx": 75,
+        "input": "Quinn thought they could handle the mission and he was right.",
+        "answer": "proud afterwards",
+        "output": "How would Quinn feel afterwards?"
+    },
+    {
+        "idx": 76,
+        "input": "Lee walked home from school all by themselves everyday, regardless of the weather.",
+        "answer": "a resilient student",
+        "output": "How would you describe Lee?"
+    },
+    {
+        "idx": 77,
+        "input": "Remy put their feet up in relaxation as he watched TV with popcorn.",
+        "answer": "needed to turn on the TV",
+        "output": "What does Remy need to do before this?"
+    },
+    {
+        "idx": 78,
+        "input": "Lee and Alex went through a lot that day. Lee laid his head on Alex's shoulder.",
+        "answer": "be comforted",
+        "output": "What will Lee want to do next?"
+    },
+    {
+        "idx": 79,
+        "input": "Alex kept the fire under control while it raged around him on the mountain.",
+        "answer": "suffer from smoke inhalation",
+        "output": "What will happen to Alex?"
+    },
+    {
+        "idx": 80,
+        "input": "Lee went to see his brother Addison about making a plan for their parent's anniversary party.",
+        "answer": "get Addison's help in making the party great",
+        "output": "Why did Lee do this?"
+    },
+    {
+        "idx": 81,
+        "input": "Tracy was always good and stayed out of trouble as a kid and adult.",
+        "answer": "proud afterwards",
+        "output": "How would Tracy feel afterwards?"
+    },
+    {
+        "idx": 82,
+        "input": "Sasha layered their hands on his back because they wanted a vigorous massage.",
+        "answer": "give a massage",
+        "output": "Why did Sasha do this?"
+    },
+    {
+        "idx": 83,
+        "input": "Riley saw monkeys at the zoo and they were playing on the bars.",
+        "answer": "happiness",
+        "output": "How would Riley feel afterwards?"
+    },
+    {
+        "idx": 84,
+        "input": "Jordan was having a hard time dealing with their Dad's passing but they found therapy to help.",
+        "answer": "Schedule an appointment",
+        "output": "What will Jordan want to do next?"
+    },
+    {
+        "idx": 85,
+        "input": "Addison scheduled Casey, her dog, to show at 8 am on Friday.",
+        "answer": "make sure Casey has a bath",
+        "output": "Casey will want to do what next with Casey?"
+    },
+    {
+        "idx": 86,
+        "input": "When the town had their independence day parade Carson drove on of the trucks.",
+        "answer": "likes to help the community",
+        "output": "How would you describe Carson?"
+    },
+    {
+        "idx": 87,
+        "input": "Sydney kept Addison entertained throughout the night since there was nothing better to do.",
+        "answer": "entertain Sydney themselves",
+        "output": "What will Addison want to do next?"
+    },
+    {
+        "idx": 88,
+        "input": "according to the article Lee pushed their cart through the crowd.",
+        "answer": "have enough energy",
+        "output": "What does Lee need to do before this?"
+    },
+    {
+        "idx": 89,
+        "input": "Jesse avoided Addison's eye contact inside the store that day.",
+        "answer": "avoid talking to Addison",
+        "output": "Why did Jesse do this?"
+    },
+    {
+        "idx": 90,
+        "input": "Quinn asked Austin to describe the painting that Quinn had just finished, but Austin just said it was terrible.",
+        "answer": "ashamed of his work",
+        "output": "How would Quinn feel afterwards?"
+    },
+    {
+        "idx": 91,
+        "input": "Austin was having a lot of fun playing Dark Souls 3: The Fire Fades Edition.",
+        "answer": "a hardcore gamer",
+        "output": "How would you describe Austin?"
+    },
+    {
+        "idx": 92,
+        "input": "Ash convinced Taylor they would be alright after failing their test.",
+        "answer": "get smarter",
+        "output": "What will happen to Ash?"
+    },
+    {
+        "idx": 93,
+        "input": "Quinn's mother was in surgery.  Quinn rushed to the hospital.",
+        "answer": "see how their mother was doing",
+        "output": "What will Quinn want to do next?"
+    },
+    {
+        "idx": 94,
+        "input": "Remy enjoyed guiding and helping her friends through their problems.",
+        "answer": "a loyal friend",
+        "output": "How would you describe Remy?"
+    },
+    {
+        "idx": 95,
+        "input": "Melanie was applying to nursing school and asked Lee for a recommendation letter.",
+        "answer": "do good work for Lee to impress them",
+        "output": "What did Melanie need to do before this?"
+    },
+    {
+        "idx": 96,
+        "input": "Carson decided to learn how to do a craft. After some research, they settled on knitting to try. They bought some yarn and needles.",
+        "answer": "Look up tutorials on how to crochet",
+        "output": "What will Carson want to do next?"
+    },
+    {
+        "idx": 97,
+        "input": "Kendall provided food for people who were at the shelter during the ice storm that knocked out many people's electricity.",
+        "answer": "like he had done a good job",
+        "output": "How would Kendall feel afterwards?"
+    },
+    {
+        "idx": 98,
+        "input": "Tracy began to spread the peanut butter on the bread in the morning.",
+        "answer": "eat before leaving",
+        "output": "Why did Tracy do this?"
+    },
+    {
+        "idx": 99,
+        "input": "Tracy flicked the bean off the table and at the dog as a prank.",
+        "answer": "laugh",
+        "output": "Why did Tracy do this?"
+    },
+    {
+        "idx": 100,
+        "input": "Riley gave Casey a report after working on it for several hours.",
+        "answer": "relieved to be finished",
+        "output": "How would Riley feel afterwards?"
+    },
+    {
+        "idx": 101,
+        "input": "Aubrey became very angry and pulled Remy apart.",
+        "answer": "be yelled at",
+        "output": "What will happen to Aubrey?"
+    },
+    {
+        "idx": 102,
+        "input": "Austin was having a party. Austin invited all Ash's friends over.",
+        "answer": "wanted to be nice",
+        "output": "Why did Austin do this?"
+    },
+    {
+        "idx": 103,
+        "input": "Skylar continued the behavior longer until she was yelled at by the boss.",
+        "answer": "do things different",
+        "output": "What will Skylar want to do next?"
+    },
+    {
+        "idx": 104,
+        "input": "Jesse just got a credit card, but then Jesse spent too much money online.",
+        "answer": "regret spending too much money",
+        "output": "How would Jesse feel afterwards?"
+    },
+    {
+        "idx": 105,
+        "input": "Jordan played games online and wanted to get his friends to also play.",
+        "answer": "continue playing a favorite game",
+        "output": "What does Jordan need to do after this?"
+    },
+    {
+        "idx": 106,
+        "input": "Kendall followed the doctor's advice.",
+        "answer": "get better",
+        "output": "WHy Kendall do this?"
+    },
+    {
+        "idx": 107,
+        "input": "Although Riley's car broke down, she still got back in time for the movie.",
+        "answer": "relieved for making it",
+        "output": "How would Riley feel after?"
+    },
+    {
+        "idx": 108,
+        "input": "Cameron was visiting Rome on a vacation from work.",
+        "answer": "Others would not care at all",
+        "output": "How would Others feel as a result?"
+    },
+    {
+        "idx": 109,
+        "input": "Remy reached the Earth's equator after several days at sea.",
+        "answer": "take a boat south",
+        "output": "What does Remy need to do before this?"
+    },
+    {
+        "idx": 110,
+        "input": "Quinn reached for Taylor's hand to show him the way to the classroom.",
+        "answer": "be shown the way",
+        "output": "What will happen to Taylor?"
+    },
+    {
+        "idx": 111,
+        "input": "Quinn also gave a smile because the scene was very funny and entertaining.",
+        "answer": "happy",
+        "output": "How would you describe Quinn?"
+    },
+    {
+        "idx": 112,
+        "input": "There was a robbery at the store Alex worked at. The investigator came and Alex gave him an interview.",
+        "answer": "wanted to do his duty",
+        "output": "Why did Alex do this?"
+    },
+    {
+        "idx": 113,
+        "input": "Casey was with her friends and was trying to impress them, so she tossed her drink back.",
+        "answer": "show her friends how cool she was",
+        "output": "Why did Casey do this?"
+    },
+    {
+        "idx": 114,
+        "input": "Jordan went to prison to visit a friend of his that just got a sentence.",
+        "answer": "sad for his friend",
+        "output": "How would Jordan feel afterwards?"
+    },
+    {
+        "idx": 115,
+        "input": "Tracy let things go because they wouldn't agree on anything.",
+        "answer": "would be aggravated",
+        "output": "How would Tracy feel afterwards?"
+    },
+    {
+        "idx": 116,
+        "input": "Riley told Jan that Mark wanted to go on a date with her.",
+        "answer": "wait for Mark",
+        "output": "What will Riley want to do next?"
+    },
+    {
+        "idx": 117,
+        "input": "Ash never returned after a hike in the woods.",
+        "answer": "worried as a result",
+        "output": "How would Others feel as a result?"
+    },
+    {
+        "idx": 118,
+        "input": "Kai had made a promise to his friend and crossed his heart and hoped to die.",
+        "answer": "confident",
+        "output": "How would Kai feel afterwards?"
+    },
+    {
+        "idx": 119,
+        "input": "Addison found the one skylar wanted and bought it as a birthday gift for them.",
+        "answer": "the right thing",
+        "output": "What does Addison need to do before this?"
+    },
+    {
+        "idx": 120,
+        "input": "Carson looked away from Quinn when Quinn fell down off their bike.",
+        "answer": "adverse from danger",
+        "output": "How would you describe Carson?"
+    },
+    {
+        "idx": 121,
+        "input": "Taylor gave their daughter up for adoption without telling the father first.",
+        "answer": "angry and saddened",
+        "output": "How would the other parent feel as a result?"
+    },
+    {
+        "idx": 122,
+        "input": "Tracy had some friends and asked Lee to meet them.",
+        "answer": "Like the could be included",
+        "output": "How would Lee feel as a result?"
+    },
+    {
+        "idx": 123,
+        "input": "Jesse visited her parents after she came home from her honeymoon in France.",
+        "answer": "Happy to see their daughter",
+        "output": "How would Jesse's parents feel as a result?"
+    },
+    {
+        "idx": 124,
+        "input": "Carson knew the barber well and introduced the others to him.",
+        "answer": "The others will want their hair cut next",
+        "output": "What will Others want to do next?"
+    },
+    {
+        "idx": 125,
+        "input": "Kendall provided Jordan with a new interface for his supercomputer.",
+        "answer": "turn on the computer",
+        "output": "What will Jordan want to do next?"
+    },
+    {
+        "idx": 126,
+        "input": "addison was a soldier so he followed orders without question.",
+        "answer": "as calm",
+        "output": "How would Others feel as a result?"
+    },
+    {
+        "idx": 127,
+        "input": "Bailey assumed Casey's position and thought it was a great idea on how to fix the environment.",
+        "answer": "smart",
+        "output": "How would Casey feel as a result?"
+    },
+    {
+        "idx": 128,
+        "input": "Austin proclaimed punishment to the captive criminals after catching them stealing from the gold reserve.",
+        "answer": "make sure they didn't do it again",
+        "output": "Why did Austin do this?"
+    },
+    {
+        "idx": 129,
+        "input": "Lee accidentally left his small child Austin in the house when he left for work.",
+        "answer": "scared",
+        "output": "How would Austin feel as a result?"
+    },
+    {
+        "idx": 130,
+        "input": "Casey rushed Sasha to the vet after she was hit.",
+        "answer": "worry about her dog",
+        "output": "What will happen to Casey?"
+    },
+    {
+        "idx": 131,
+        "input": "After getting lost in the forest, Cameron found a way out.",
+        "answer": "use a map",
+        "output": "What does Cameron need to do before this?"
+    },
+    {
+        "idx": 132,
+        "input": "Kendall gave Taylor's flowers to them to show both of their appreciation.",
+        "answer": "thank them",
+        "output": "Why did Kendall do this?"
+    },
+    {
+        "idx": 133,
+        "input": "Skylar got married to a very nice person and they went on a honeymoon to Toronto.",
+        "answer": "have fun",
+        "output": "What will happen to Skylar?"
+    },
+    {
+        "idx": 134,
+        "input": "Cameron was a worker on a construction crew that was building a house.",
+        "answer": "continue to work on it",
+        "output": "What will Cameron want to do next?"
+    },
+    {
+        "idx": 135,
+        "input": "Jordan tried swimming for the first time and found that they were good at it.",
+        "answer": "needed to put on a swimsuit",
+        "output": "What does Jordan need to do before this?"
+    },
+    {
+        "idx": 136,
+        "input": "Riley began another story about a cowboy riding a horse in the desert.",
+        "answer": "she liked writing",
+        "output": "What will Others want to do next?"
+    },
+    {
+        "idx": 137,
+        "input": "Acting as a go between, Carson gave Bailey Kai's opinion, and has given a response to tell Kai.",
+        "answer": "stop being treated as a messenger",
+        "output": "What will Carson want to do next?"
+    },
+    {
+        "idx": 138,
+        "input": "Cameron won the award for directing the student film last year.",
+        "answer": "continue to make films",
+        "output": "What will happen to Cameron?"
+    },
+    {
+        "idx": 139,
+        "input": "Jesse made her decision and ruled that it was okay to drop out from school and start a new business.",
+        "answer": "brave",
+        "output": "How would you describe Jesse?"
+    },
+    {
+        "idx": 140,
+        "input": "The mission was too hard to do alone, so Quinn required Alex's effort to complete the mission.",
+        "answer": "not afraid to ask for help",
+        "output": "How would Quinn feel afterwards?"
+    },
+    {
+        "idx": 141,
+        "input": "according to the article Jordan maintained their authority.",
+        "answer": "go with the authority",
+        "output": "What will Others want to do next?"
+    },
+    {
+        "idx": 142,
+        "input": "Quinn followed Tracy's advice when they were lost about their life decision.",
+        "answer": "grateful",
+        "output": "How would Quinn feel afterwards?"
+    },
+    {
+        "idx": 143,
+        "input": "Ash examined Riley closely after they fell down the flight of stairs.",
+        "answer": "call for an ambulance",
+        "output": "What will happen to Ash?"
+    },
+    {
+        "idx": 144,
+        "input": "Ash ensured Kai's safety while they were on the airplane.",
+        "answer": "safe",
+        "output": "What will Kai want to do next?"
+    },
+    {
+        "idx": 145,
+        "input": "This Halloween Robin gave Skylar a makeover to play treat or trick and scare people.",
+        "answer": "add accessories",
+        "output": "What will Robin want to do next?"
+    },
+    {
+        "idx": 146,
+        "input": "Alex is eating a steak and a bit gets stuck in his throat.",
+        "answer": "take smaller bites",
+        "output": "What does Alex need to do before this?"
+    },
+    {
+        "idx": 147,
+        "input": "Remy got an A on the test after studying everyday that week.",
+        "answer": "prepared",
+        "output": "How would you describe Remy?"
+    },
+    {
+        "idx": 148,
+        "input": "It had only been a day since he broke up with her and he wasn't ready to talk to her yet, so Jesse avoided contact with Addison in the store.",
+        "answer": "like getting a shot of tequila at the corner bar",
+        "output": "How would Jesse feel afterwards?"
+    },
+    {
+        "idx": 149,
+        "input": "Jan prevented Sydney from becoming angry by listening to her and giving her time to calm down.",
+        "answer": "be thanked by Sydney",
+        "output": "What will happen to Jan?"
+    },
+    {
+        "idx": 150,
+        "input": "Skylar was at the store with their mom when he finally found what he wanted.",
+        "answer": "purchase the item",
+        "output": "What will Skylar want to do next?"
+    },
+    {
+        "idx": 151,
+        "input": "After having a very busy day at work, Remy finally called her friend.",
+        "answer": "a good friend",
+        "output": "How would you describe Remy?"
+    },
+    {
+        "idx": 152,
+        "input": "Aubrey carefully folded Skylar's hands over her chest and demanded the explanation about the burning car.",
+        "answer": "confused",
+        "output": "How would Skylar feel as a result?"
+    },
+    {
+        "idx": 153,
+        "input": "Aubrey was distracted by a store display and became separated from their parents.",
+        "answer": "Yell out for their parents",
+        "output": "What will Aubrey want to do next?"
+    },
+    {
+        "idx": 154,
+        "input": "Cameron was being abused at home so Skyler took her to a shelter.",
+        "answer": "satisfied",
+        "output": "How would Skylar feel afterwards?"
+    },
+    {
+        "idx": 155,
+        "input": "Jan was selling unusual kitchen products and could tell Robin wa interested.",
+        "answer": "make salesperson of the month",
+        "output": "What will happen to Jan?"
+    },
+    {
+        "idx": 156,
+        "input": "Jan and Kendall went to a casino together. While Kendall was in the bathroom, Jan used Kendall's chips in a game and lost them all.",
+        "answer": "apologize",
+        "output": "What will Jan want to do next?"
+    },
+    {
+        "idx": 157,
+        "input": "Cameron filled their face with Botox and it turns out the procedure went haywire.",
+        "answer": "upset",
+        "output": "How would Cameron feel afterwards?"
+    },
+    {
+        "idx": 158,
+        "input": "Jordan eventually ask for help because he spent hours trying to solve it on his own.",
+        "answer": "Prove he could do it on his own",
+        "output": "Why did Jordan do this?"
+    },
+    {
+        "idx": 159,
+        "input": "Quinn played games on Kai's computer all night that night until they won.",
+        "answer": "go to bed",
+        "output": "What will happen to Quinn?"
+    },
+    {
+        "idx": 160,
+        "input": "according to the article to  Riley gave candy to Tracy.",
+        "answer": "give candy to tracy",
+        "output": "What does Riley need to do before this?"
+    },
+    {
+        "idx": 161,
+        "input": "Quinn brushed Ash's fingers softly with concern in their eyes.",
+        "answer": "look at ash",
+        "output": "What does Quinn need to do before this?"
+    },
+    {
+        "idx": 162,
+        "input": "Tracy got her backpack ready last night, and she woke up early this morning and had a good breakfast.",
+        "answer": "be prepared for her day at school",
+        "output": "Why did Tracy do this?"
+    },
+    {
+        "idx": 163,
+        "input": "Cameron used Sydney's advice well, and was able to succeed at the interview.",
+        "answer": "offer Cameron more tips for next time",
+        "output": "What will Sydney want to do next?"
+    },
+    {
+        "idx": 164,
+        "input": "Riley decided to follow his passion.",
+        "answer": "wanted to do what he wanted",
+        "output": "Why did Riley do this?"
+    },
+    {
+        "idx": 165,
+        "input": "Tracy forced their will upon Ash and got Ash to do their chores.",
+        "answer": "Like their chores got done",
+        "output": "How would Ash feel as a result?"
+    },
+    {
+        "idx": 166,
+        "input": "Kendall hid their face in their hands because she was so angry.",
+        "answer": "embarassed",
+        "output": "How would Kendall feel afterwards?"
+    },
+    {
+        "idx": 167,
+        "input": "Sasha broke every record when she took part in many different games.",
+        "answer": "athletic",
+        "output": "How would you describe Sasha?"
+    },
+    {
+        "idx": 168,
+        "input": "Ash got stuck in the snow because she waited too late to go to the store for bread and water.",
+        "answer": "regretful of her decision",
+        "output": "How would you describe Ash now?"
+    },
+    {
+        "idx": 169,
+        "input": "Skylar met Alex for the last time in the coffee shop where they were known to get together.",
+        "answer": "moving",
+        "output": "How would you describe Skylar?"
+    },
+    {
+        "idx": 170,
+        "input": "Lee ran out into the street and rescued Ash's dog from being hit by an oncoming car.",
+        "answer": "save his relationship with Ash",
+        "output": "Why did Lee do this?"
+    },
+    {
+        "idx": 171,
+        "input": "Austin decorated Kendall's house for five hours to make sure that it looked very nice.",
+        "answer": "like Kendall",
+        "output": "What does Austin need to do before this?"
+    },
+    {
+        "idx": 172,
+        "input": "Ash is on a diet and has been doing a good job of not breaking it. Until Jan brings donuts to work. Ash steals a donut.",
+        "answer": "go on a diet",
+        "output": "What does Ash need to do before this?"
+    },
+    {
+        "idx": 173,
+        "input": "Skylar called Robin into the office to talk about her college plans for the upcoming year.",
+        "answer": "make a plan for college",
+        "output": "What will Skylar want to do after being called in?"
+    },
+    {
+        "idx": 174,
+        "input": "Carson was a basketball player and got accepted to a college team.",
+        "answer": "get scouted",
+        "output": "What does Carson need to do before this?"
+    },
+    {
+        "idx": 175,
+        "input": "Aubrey saw Remy's house after Remy invited Aubrey for a Christmas party.",
+        "answer": "buy a gift",
+        "output": "What does Aubrey need to do before this?"
+    },
+    {
+        "idx": 176,
+        "input": "Kendall wanted to watch the new film in the movie theater.",
+        "answer": "see the film",
+        "output": "Why did Kendall do this?"
+    },
+    {
+        "idx": 177,
+        "input": "jesse finally remembered who killed the homeless man but it was too late.",
+        "answer": "as forgetful",
+        "output": "How would you describe Jesse?"
+    },
+    {
+        "idx": 178,
+        "input": "Sasha left work and went home before it got dark.",
+        "answer": "make sure she had all of her things before leaving",
+        "output": "What does Sasha need to do before this?"
+    },
+    {
+        "idx": 179,
+        "input": "according to the article Remy realized fully the situation.",
+        "answer": "better forward",
+        "output": "How would Remy feel afterwards?"
+    },
+    {
+        "idx": 180,
+        "input": "Taylor is a medical doctor at a big hospital.",
+        "answer": "gratified",
+        "output": "How would Taylor feel afterwards?"
+    },
+    {
+        "idx": 181,
+        "input": "Jan called Kai's friend to see if she wanted some snacks.",
+        "answer": "get the snacks",
+        "output": "What will happen to Jan?"
+    },
+    {
+        "idx": 182,
+        "input": "Cameron tried to work on commission as a stock broker. They made almost nothing.",
+        "answer": "try something else",
+        "output": "What will Cameron want to do next?"
+    },
+    {
+        "idx": 183,
+        "input": "Cameron was a big hit at the party after showing off her dance moves to the kids.",
+        "answer": "ask Cameron for tips",
+        "output": "What will Others want to do next?"
+    },
+    {
+        "idx": 184,
+        "input": "Sydney packed up furniture to store at a friends house.",
+        "answer": "would love to thank her friend",
+        "output": "How would Sydney feel afterwards?"
+    },
+    {
+        "idx": 185,
+        "input": "Cameron lost his job and asked Ash if he knew of any openings.",
+        "answer": "get a job next",
+        "output": "What will Cameron want to do next?"
+    },
+    {
+        "idx": 186,
+        "input": "Skylar did not like any of the ideas that her friends came up with and said no to them.",
+        "answer": "stop making ideas",
+        "output": "What will Others want to do next?"
+    },
+    {
+        "idx": 187,
+        "input": "Skylar was moving and couldn't pack up all their belongings by themself.",
+        "answer": "in need of aid",
+        "output": "How would you describe Skylar?"
+    },
+    {
+        "idx": 188,
+        "input": "Sydney sat right next to Jordan but Jordan ignored her the entire time.",
+        "answer": "Worried Jordan may be mad at her",
+        "output": "How would Sydney feel afterwards?"
+    },
+    {
+        "idx": 189,
+        "input": "lee read tracy the article so that tracy could learn the effects of smoking.",
+        "answer": "regret",
+        "output": "What will happen to Tracy?"
+    },
+    {
+        "idx": 190,
+        "input": "Lee completed their application and as it was due in today and gave it to Taylor who then filed it.",
+        "answer": "praise Taylor",
+        "output": "What will Lee want to do next?"
+    },
+    {
+        "idx": 191,
+        "input": "Kendall went to the fortune tell and decided to seek their fortune.",
+        "answer": "know their fortune",
+        "output": "How would you describe Kendall?"
+    },
+    {
+        "idx": 192,
+        "input": "After feeling dizzy for 5 minutes Aubrey instantly fell on the floor.",
+        "answer": "better",
+        "output": "What will Aubrey want to do next?"
+    },
+    {
+        "idx": 193,
+        "input": "Skylar divided voters into classes so that the election will go more smoothly.",
+        "answer": "be efficient",
+        "output": "What will Skylar want to do next?"
+    },
+    {
+        "idx": 194,
+        "input": "Remy was on a first date last night and had a blast.",
+        "answer": "call the next day",
+        "output": "What will Remy want to do next?"
+    },
+    {
+        "idx": 195,
+        "input": "Sydney also gave Ash grief after Ash told her mom about the fight they had with one another.",
+        "answer": "hurt",
+        "output": "How would you describe Sydney?"
+    },
+    {
+        "idx": 196,
+        "input": "Quinn spent many years studying. Finally it became graduation time for him.",
+        "answer": "Accomplished",
+        "output": "How would Quinn feel afterwards?"
+    },
+    {
+        "idx": 197,
+        "input": "Alex was speaking to Addison so they turned slowly towards Alex.",
+        "answer": "look at Alex",
+        "output": "What will Addison want to do next?"
+    },
+    {
+        "idx": 198,
+        "input": "Kendall taught Alex's dog to respond to all different types of commands.",
+        "answer": "thankful",
+        "output": "How would Alex feel as a result?"
+    },
+    {
+        "idx": 199,
+        "input": "Jesse had their feelings hurt by a person that they thought was their friend.",
+        "answer": "sad",
+        "output": "How would Jesse feel afterwards?"
+    },
+    {
+        "idx": 200,
+        "input": "Sydney protected Remy's interests from the other business by giving a big raise.",
+        "answer": "proud",
+        "output": "Why did Sydney do this?"
+    },
+    {
+        "idx": 201,
+        "input": "Bailey showed Quinn how to play and developed their interest in sports.",
+        "answer": "be thanked",
+        "output": "What will happen to Quinn?"
+    },
+    {
+        "idx": 202,
+        "input": "Jordan laid eyes on Ash and was smitten on the first glance.",
+        "answer": "look at Ash",
+        "output": "What does Jordan need to do before this?"
+    },
+    {
+        "idx": 203,
+        "input": "Riley imposed their choice on others which was against their wishes from the beginning.",
+        "answer": "mad at Riley",
+        "output": "How would Others feel as a result?"
+    },
+    {
+        "idx": 204,
+        "input": "casey was in a rush to see what was in the envelope so he tore open the letter.",
+        "answer": "read the letter",
+        "output": "Why did Casey do this?"
+    },
+    {
+        "idx": 205,
+        "input": "Ash and Jordan went to the baseball game and Ash bought them both a hot dog and a beer at the concession stand.",
+        "answer": "and Jordan enjoyed watching the game and eating dinner",
+        "output": "What will Ash and Jordan want to do next?"
+    },
+    {
+        "idx": 206,
+        "input": "Cameron caught Bailey cheating with their friend, so Cameron killed Bailey on the spot.",
+        "answer": "go to heaven",
+        "output": "What will happen to Bailey?"
+    },
+    {
+        "idx": 207,
+        "input": "Skylar fell but they kept going because they were late to school.  Skylar finally looked at her bruise.",
+        "answer": "go to the nurse for a bandage",
+        "output": "Why did Skylar do this?"
+    },
+    {
+        "idx": 208,
+        "input": "Sasha won a lot of money at the lottery but hasn't told anyone yet.",
+        "answer": "contact a lawyer to keep her anonymity",
+        "output": "What does Sasha need to do before this?"
+    },
+    {
+        "idx": 209,
+        "input": "Austin put Kendall and teresa to the war as Austin wanted to be best friends with both of them.",
+        "answer": "guilty about it",
+        "output": "How would Austin feel afterwards?"
+    },
+    {
+        "idx": 210,
+        "input": "Kendall went to Jesse's head with all of her stories about plots against Jesse.",
+        "answer": "wanted Jesse to take action",
+        "output": "Why did Kendall do this?"
+    },
+    {
+        "idx": 211,
+        "input": "austin was good at practicing and he never let a day go by without practicing.",
+        "answer": "encourage austin",
+        "output": "What will happen to Others?"
+    },
+    {
+        "idx": 212,
+        "input": "Jan could tell Robin was interested in being more than friends, but Jan already had a boyfriend so Jan let Robin down easy.",
+        "answer": "someone in a relationship",
+        "output": "How would you describe Jan?"
+    },
+    {
+        "idx": 213,
+        "input": "Sara howled in pain from the tiniest prick to her finger.",
+        "answer": "has a low tolerance for pain",
+        "output": "How would you describe Sasha?"
+    },
+    {
+        "idx": 214,
+        "input": "During his stage magic show Alex wowed the audience by pulling a rabbit out of his hat.",
+        "answer": "pull something else out",
+        "output": "What will Alex want to do next?"
+    },
+    {
+        "idx": 215,
+        "input": "Lee laid next to Aubrey and looked up at the stars in the night sky.",
+        "answer": "cuddle up with Lee",
+        "output": "What will Aubrey want to do next?"
+    },
+    {
+        "idx": 216,
+        "input": "Kendall never returned Jordan's ball, so Jordan prevented Kendall's use of it.",
+        "answer": "keep his ball",
+        "output": "Why did Jordan do this?"
+    },
+    {
+        "idx": 217,
+        "input": "Quinn visited their doctor to get blood work done to make sure she didn't have cancer.",
+        "answer": "hear good news",
+        "output": "What will Quinn want to do after?"
+    },
+    {
+        "idx": 218,
+        "input": "Cameron told Jan that she could go to the mall with her if she wanted to.",
+        "answer": "curious",
+        "output": "How would Cameron feel afterwards?"
+    },
+    {
+        "idx": 219,
+        "input": "Quinn finally agreed to the contract and now they had to get him started at work.",
+        "answer": "show Quinn around the office",
+        "output": "What will Others want to do next?"
+    },
+    {
+        "idx": 220,
+        "input": "Jesse came in before class began and wrote a note on the board for his professor.",
+        "answer": "nervous about how the note would be received",
+        "output": "How would Jesse feel afterwards?"
+    },
+    {
+        "idx": 221,
+        "input": "Robin came across Carson and their friends at the restaurant in town.",
+        "answer": "know Carson before this",
+        "output": "What does Robin need to do before this?"
+    },
+    {
+        "idx": 222,
+        "input": "Bailey's friend had a cat that got pregnant and gave birth five kittens. Bailey got one of them.",
+        "answer": "buy cat milk, litter box and scooper",
+        "output": "What does Bailey need to do before this?"
+    },
+    {
+        "idx": 223,
+        "input": "Tracy kept Bailey company when she was sad about breaking up with her boyfriend.",
+        "answer": "supported and with friends",
+        "output": "How would Bailey feel as a result?"
+    },
+    {
+        "idx": 224,
+        "input": "Alex and Skylar just met for the very first time. Skylar wants to ask Alex on a date and has his phone number.",
+        "answer": "Text Alex and ask him on a date",
+        "output": "What will Skylar do next?"
+    },
+    {
+        "idx": 225,
+        "input": "Aubrey provided Ash and overview of what they were doing so they could start on the work.",
+        "answer": "in control of the situation",
+        "output": "How would you describe Aubrey?"
+    },
+    {
+        "idx": 226,
+        "input": "Casey read her book to the kids in the hospital.",
+        "answer": "taken care of",
+        "output": "How would the kids feel as a result?"
+    },
+    {
+        "idx": 227,
+        "input": "Kendall did not take Tracy's answer seriously when they said they were sailing on a pirate ship all day.",
+        "answer": "Like their friend was silly",
+        "output": "How would Kendall feel afterwards?"
+    },
+    {
+        "idx": 228,
+        "input": "Sasha was riding Austin's bike.",
+        "answer": "was riding Austin's bike",
+        "output": "What will happen to Sasha?"
+    },
+    {
+        "idx": 229,
+        "input": "Lee was feeling emotional. Sam asked Lee what was wrong and Lee opened the floodgates.",
+        "answer": "have a trigger",
+        "output": "What does Lee need to do before this?"
+    },
+    {
+        "idx": 230,
+        "input": "Ash welcomed Cameron back to the team after Cameron apologized for insulting everybody.",
+        "answer": "accept the apology",
+        "output": "What will Ash want to do next?"
+    },
+    {
+        "idx": 231,
+        "input": "tracy was grounded by her parents so she could not let casey come over.",
+        "answer": "visit someone else",
+        "output": "What will Casey want to do next?"
+    },
+    {
+        "idx": 232,
+        "input": "Skylar preached to deaf ears when they warned them of the dangers of the coming storm on the horizon.",
+        "answer": "doing their best to save them",
+        "output": "How would you describe Skylar?"
+    },
+    {
+        "idx": 233,
+        "input": "Lee imputed their problems onto Reilly everytime Lee is frustrated.",
+        "answer": "get tired",
+        "output": "What will happen to Riley?"
+    },
+    {
+        "idx": 234,
+        "input": "Cameron was on the board of a local charity and asked a business owner for support. Cameron persuaded the person to give him money.",
+        "answer": "bring printed materials explaining the charity",
+        "output": "What does Cameron need to do before this to succeed?"
+    },
+    {
+        "idx": 235,
+        "input": "Kai had just gotten married and was moving into a new house in the suburbs.",
+        "answer": "wanted to celebrate their good fortune",
+        "output": "Why did Kai do this?"
+    },
+    {
+        "idx": 236,
+        "input": "Riley was crying and accidently cried in her glass of beer.",
+        "answer": "a whirlwind of emotions",
+        "output": "How would Riley feel afterwards?"
+    },
+    {
+        "idx": 237,
+        "input": "Alex wanted a game and their parents wouldn't buy it, so Alex wanted to make money.",
+        "answer": "buy a toy",
+        "output": "Why did Alex do this?"
+    },
+    {
+        "idx": 238,
+        "input": "Bailey put the kids in their car because they were being too loud in the house.",
+        "answer": "keep them quiet",
+        "output": "Why did Bailey do this?"
+    },
+    {
+        "idx": 239,
+        "input": "Ash held back tears when he got bad news from home.",
+        "answer": "sad afterwards",
+        "output": "How would Ash feel afterwards?"
+    },
+    {
+        "idx": 240,
+        "input": "Alex designed Robin's experiment using rigorous controls and setting up things for statistical analysis.",
+        "answer": "have an understanding of statistics",
+        "output": "What does Alex need to do before this?"
+    },
+    {
+        "idx": 241,
+        "input": "Kendall took his dog home soon. He was close with his dog.",
+        "answer": "a good owner",
+        "output": "How would you describe Kendall?"
+    },
+    {
+        "idx": 242,
+        "input": "Casey asked Aubrey to accept their help because they felt like they needed to return a favor.",
+        "answer": "balance the scales",
+        "output": "Why did Casey do this?"
+    },
+    {
+        "idx": 243,
+        "input": "Austin knows they are on thin ice at work. Their boss is breathing down their neck. Austin works hard to reach their goal before the deadline.",
+        "answer": "avoid being fired or getting in trouble",
+        "output": "Why did Austin do this?"
+    },
+    {
+        "idx": 244,
+        "input": "Skylar met Alex for the first time and it was love at first sight.",
+        "answer": "had felt joy",
+        "output": "How would Alex feel as a result?"
+    },
+    {
+        "idx": 245,
+        "input": "Robin explained their situation to a group of people so they could get some help.",
+        "answer": "a friendly person",
+        "output": "How would you describe Robin?"
+    },
+    {
+        "idx": 246,
+        "input": "Sasha rode their bike every day no matter what the weather or how busy she was.",
+        "answer": "committed",
+        "output": "How would you describe Sasha?"
+    },
+    {
+        "idx": 247,
+        "input": "Addison made sure to listen to Kendall's ideas and put them into action as much as possible.",
+        "answer": "had no good ideas of their own",
+        "output": "Why did Addison do this?"
+    },
+    {
+        "idx": 248,
+        "input": "Bailey answered all the questions correctly because she had studied hard on the test.",
+        "answer": "someone with high work ethic",
+        "output": "How would you describe Bailey?"
+    },
+    {
+        "idx": 249,
+        "input": "Jan received Sasha's payment for all of the goods.",
+        "answer": "go to the bank",
+        "output": "What will Sasha want to do next?"
+    },
+    {
+        "idx": 250,
+        "input": "Sydney really hated broccoli and wasn't pleased when it showed up on their dish at the restaurant.",
+        "answer": "send their meal back to the chef and complain",
+        "output": "What will Sydney want to do with their meal?"
+    },
+    {
+        "idx": 251,
+        "input": "Bailey backed Ash's car up.",
+        "answer": "back the car up",
+        "output": "What will happen to Bailey?"
+    },
+    {
+        "idx": 252,
+        "input": "Remy got pretty good at lying after lying for his entire life.",
+        "answer": "keep telling untruths",
+        "output": "What does Remy need to do before this?"
+    },
+    {
+        "idx": 253,
+        "input": "Riley saved Jan's life and they were the best of friends from then on.",
+        "answer": "indebted as a result",
+        "output": "How would Jan feel as a result?"
+    },
+    {
+        "idx": 254,
+        "input": "Taylor would have passed the test if he had studied.",
+        "answer": "Upset",
+        "output": "How would Taylor feel afterwards?"
+    },
+    {
+        "idx": 255,
+        "input": "Cameron checked Addison's fridge, but noticed that there wasn't anything to eat in it.",
+        "answer": "desperate for any food to fill his belly",
+        "output": "How would Cameron feel afterwards?"
+    },
+    {
+        "idx": 256,
+        "input": "Sasha bumped into Tracy in the hallway and told her she looked tired.",
+        "answer": "sorry for telling Tracy she looks tired",
+        "output": "How would Sasha feel afterwards?"
+    },
+    {
+        "idx": 257,
+        "input": "Taylor continued their efforts to make the collage they were making.",
+        "answer": "finish the collage",
+        "output": "What will Taylor want to do next?"
+    },
+    {
+        "idx": 258,
+        "input": "Aubrey loosened the zipper of Carson's pants. He had wanted Aubrey for as long as he could remember.",
+        "answer": "take her to bed",
+        "output": "What will Carson want to do next?"
+    },
+    {
+        "idx": 259,
+        "input": "Austin checked the fridge for any food that will be good to eat that night.",
+        "answer": "check dates",
+        "output": "What will Austin want to do next?"
+    },
+    {
+        "idx": 260,
+        "input": "Carson got along with bailey very well because they had a lot in common and wanted to be friends.",
+        "answer": "good about having things in common",
+        "output": "How would Carson feel afterwards?"
+    },
+    {
+        "idx": 261,
+        "input": "Taylor kept complaining all day.  They drove Tracy nuts.",
+        "answer": "impatient",
+        "output": "How would you describe Taylor?"
+    },
+    {
+        "idx": 262,
+        "input": "Riley couldn't make enough money to take care of her and put the baby up for adoption.",
+        "answer": "sad and lonely",
+        "output": "How would Riley feel afterwards?"
+    },
+    {
+        "idx": 263,
+        "input": "Skylar applied their desires unto Sasha because she was demanding and bossy.",
+        "answer": "quite submissive",
+        "output": "How would Sasha feel as a result?"
+    },
+    {
+        "idx": 264,
+        "input": "Jan drove home from work one evening and got a flat tire when she was almost there.",
+        "answer": "fix the flat",
+        "output": "What will Jan want to do next?"
+    },
+    {
+        "idx": 265,
+        "input": "Remy put all of their eggs in their own basket rather than putting it in the same basket.",
+        "answer": "keep the eggs from getting mixed up",
+        "output": "Why did Remy do this?"
+    },
+    {
+        "idx": 266,
+        "input": "Carson wanted to take Kai on a date but wanted it to be casual.",
+        "answer": "ask kai out to dinner",
+        "output": "What will Carson want to do next?"
+    },
+    {
+        "idx": 267,
+        "input": "Wanting to see how well it worked, Robin used Tracy's device.",
+        "answer": "thank Tracy",
+        "output": "What will Robin want to do next?"
+    },
+    {
+        "idx": 268,
+        "input": "Lee left Austin's house when it is was midnight.",
+        "answer": "go home  earlier",
+        "output": "Why did Lee do this?"
+    },
+    {
+        "idx": 269,
+        "input": "Skylar came into Sydney's head when Sydney was deciding who to invite to the party.",
+        "answer": "invite Skylar",
+        "output": "What will happen to Sydney?"
+    },
+    {
+        "idx": 270,
+        "input": "Sasha took a turn for the worse because of an unexpected event.",
+        "answer": "needed to be unprepared",
+        "output": "What does Sasha need to do before this?"
+    },
+    {
+        "idx": 271,
+        "input": "Robin helped her friend Sasha feel better and they had a really good t ime.",
+        "answer": "go out with them avain",
+        "output": "What does Robin need to do before this?"
+    },
+    {
+        "idx": 272,
+        "input": "Bailey explained the basis for the issue was grounded in fact not conjecture.",
+        "answer": "a fair judge",
+        "output": "How would Bailey feel afterwards?"
+    },
+    {
+        "idx": 273,
+        "input": "Robin expressed interested in Jordan and wanted to ask him out.",
+        "answer": "find Jordan",
+        "output": "What will happen to Robin?"
+    },
+    {
+        "idx": 274,
+        "input": "Even though their little brother was supposed to write it, Ash wrote the essay for them.",
+        "answer": "keep it a secret",
+        "output": "What will Ash want to do next?"
+    },
+    {
+        "idx": 275,
+        "input": "Austin was at the rodeo waiting for his date, even though she was an hour late.",
+        "answer": "guilty for standing Austin up",
+        "output": "How would Others feel as a result of this?"
+    },
+    {
+        "idx": 276,
+        "input": "Quinn knew their wife was busy so Quinn brought home dinner.",
+        "answer": "Thoughtful",
+        "output": "How would you describe Quinn?"
+    },
+    {
+        "idx": 277,
+        "input": "Lee spent extra time to explain clearly the topic purpose to the students.",
+        "answer": "careful",
+        "output": "How would you describe Lee?"
+    },
+    {
+        "idx": 278,
+        "input": "Ash welcomed Cameron back into the group after she spent weeks in the hospital.",
+        "answer": "avoid talking to her",
+        "output": "What does Ash need to do before this?"
+    },
+    {
+        "idx": 279,
+        "input": "Lee gave an employee she was dating a promotion he didn't deserve.",
+        "answer": "sue her for this",
+        "output": "The others will want to do what as a result?"
+    },
+    {
+        "idx": 280,
+        "input": "Quinn enjoys running a few miles every morning. When the weather is good Quinn swims laps in the pool.",
+        "answer": "an active person always on the move",
+        "output": "How would you describe Quinn?"
+    },
+    {
+        "idx": 281,
+        "input": "Riley showed the ring to their parents to see if it was something his girlfriend would like.",
+        "answer": "see if it was the right thing",
+        "output": "Why did Riley do this?"
+    },
+    {
+        "idx": 282,
+        "input": "Aubrey awaited patiently for Cameron to return her phone call from earlier that day.",
+        "answer": "text Aubrey back",
+        "output": "What will happen to Cameron?"
+    },
+    {
+        "idx": 283,
+        "input": "Riley found their dad a new watch, stole it from the store and got caught.",
+        "answer": "be fined",
+        "output": "What will happen to Riley?"
+    },
+    {
+        "idx": 284,
+        "input": "Skylar met Kendall's boyfriend's parents and they had a long chat about the future.",
+        "answer": "would be nervous",
+        "output": "How would you describe Skylar?"
+    },
+    {
+        "idx": 285,
+        "input": "Sydney was learning a new magic trick and perfected their escape.",
+        "answer": "Glad their work payed off",
+        "output": "How would Sydney feel afterwards?"
+    },
+    {
+        "idx": 286,
+        "input": "Jan got her first haircut at the mall on the weekend.",
+        "answer": "get hair cut",
+        "output": "Why did Jan do this?"
+    },
+    {
+        "idx": 287,
+        "input": "Since he had 30 minutes left on lunch, Lee decided to play tag with his friends.",
+        "answer": "pass the time",
+        "output": "Why did Lee do this?"
+    },
+    {
+        "idx": 288,
+        "input": "Taylor hurt Lee's feelings when they were having an argument one day.",
+        "answer": "say sorry for the argument",
+        "output": "What will happen to Lee?"
+    },
+    {
+        "idx": 289,
+        "input": "Casey wanted to be class president and decided to throw her hat into the ring.",
+        "answer": "need to develop a platform",
+        "output": "What does Casey need to do before this?"
+    },
+    {
+        "idx": 290,
+        "input": "Carson gave his friend a discount and his friend asked if he could pay even less.",
+        "answer": "very angry",
+        "output": "How would Carson feel afterwards?"
+    },
+    {
+        "idx": 291,
+        "input": "Sasha spent a whole day studying for the test.",
+        "answer": "intelligent",
+        "output": "How would you describe Sasha?"
+    },
+    {
+        "idx": 292,
+        "input": "Alex had a fun party at his house with his friends and people he knew.",
+        "answer": "social",
+        "output": "How would Others feel as a result?"
+    },
+    {
+        "idx": 293,
+        "input": "Jan wiped Austin's eyes and told him everything would be ok.",
+        "answer": "get a tissue before this",
+        "output": "What does Jan need to do before this?"
+    },
+    {
+        "idx": 294,
+        "input": "Aubrey found a list for Addison so she could search for jobs.",
+        "answer": "helpful",
+        "output": "How would you describe Aubrey?"
+    },
+    {
+        "idx": 295,
+        "input": "Lee was running outside and twisted their ankle.",
+        "answer": "go outside",
+        "output": "What does Lee need to do before this?"
+    },
+    {
+        "idx": 296,
+        "input": "Bailey placed Taylor at the head of the class because Taylor is a responsible person with a good grade.",
+        "answer": "excited and responsible",
+        "output": "How would Taylor feel as a result?"
+    },
+    {
+        "idx": 297,
+        "input": "Riley served another meal to a select group of their friends that seemed to be more mouth watering and delicious.",
+        "answer": "happy that they received at least one served dish",
+        "output": "How would Others feel as a result?"
+    },
+    {
+        "idx": 298,
+        "input": "Taylor told Kai's parents that he had proposed to Kai.",
+        "answer": "be flattered by Taylor's proposal",
+        "output": "What will Kai's parents say to Taylor?"
+    },
+    {
+        "idx": 299,
+        "input": "Kai gave people hope although they looked hopeless.",
+        "answer": "follow through",
+        "output": "What will Kai want to do next?"
+    },
+    {
+        "idx": 300,
+        "input": "Kai defined Casey's clothing line in short terms for the people to understand.",
+        "answer": "happy for the simplicity",
+        "output": "How would Casey feel as a result?"
+    },
+    {
+        "idx": 301,
+        "input": "Casey was the best gift Ash had ever gotten after he lost his car Bob.",
+        "answer": "Cuddle with Ash",
+        "output": "What will Casey want to do next?"
+    },
+    {
+        "idx": 302,
+        "input": "Sydney didn't think about the consequences and really affected a person's life.",
+        "answer": "act without thinking",
+        "output": "What does Sydney need to do before this?"
+    },
+    {
+        "idx": 303,
+        "input": "Casey loved her new job and told everyone about it.",
+        "answer": "tell people",
+        "output": "What will Casey want to do next?"
+    },
+    {
+        "idx": 304,
+        "input": "Ash was presenting a paper on physics to a group of scientists.",
+        "answer": "wanted to prove his theory",
+        "output": "Why did Ash do this?"
+    },
+    {
+        "idx": 305,
+        "input": "Alex got the hose and turned the snow on the ground into ice.",
+        "answer": "hard working",
+        "output": "How would you describe Alex?"
+    },
+    {
+        "idx": 306,
+        "input": "Aubrey made sure their daughters birthday wish of going to the zoo came true.",
+        "answer": "make their daughter happy",
+        "output": "Why did Aubrey do this?"
+    },
+    {
+        "idx": 307,
+        "input": "Riley ignored all of the warnings about the tsunami from their family, so Riley was washed away.",
+        "answer": "devestated by Riley's death",
+        "output": "How would their family feel as a result?"
+    },
+    {
+        "idx": 308,
+        "input": "Quinn was playing baseball and hit the ball out of the park.",
+        "answer": "run on the bases",
+        "output": "What will Quinn want to do next?"
+    },
+    {
+        "idx": 309,
+        "input": "Cameron renewed their vows today to show their love.",
+        "answer": "kiss their spouse",
+        "output": "What will Cameron want to do next?"
+    },
+    {
+        "idx": 310,
+        "input": "Alex, the on call nurse, eased their pain with medicine.",
+        "answer": "a caring person",
+        "output": "How would you describe Alex?"
+    },
+    {
+        "idx": 311,
+        "input": "Taylor derived their opinion from the fact that they were usually correct in their assessments.",
+        "answer": "listen to their intuition",
+        "output": "What will Taylor want to do next?"
+    },
+    {
+        "idx": 312,
+        "input": "Cameron was excited for the ability to finally return home with a great friend.",
+        "answer": "text the friend",
+        "output": "What does Cameron need to do before this?"
+    },
+    {
+        "idx": 313,
+        "input": "Tracy purchased clothes at the store. They needed to shop for the spring.",
+        "answer": "get money",
+        "output": "What does Tracy need to do before this?"
+    },
+    {
+        "idx": 314,
+        "input": "Tracy gave Jan permission to eat, so they ate a giant steak with potatoes.",
+        "answer": "Hungry",
+        "output": "How would you describe Tracy?"
+    },
+    {
+        "idx": 315,
+        "input": "Kai took a fishing trip with a few buddies to get a way.",
+        "answer": "relax with friends",
+        "output": "Why did Kai do this?"
+    },
+    {
+        "idx": 316,
+        "input": "Tracy was always good and finally they were rewarded for their hard work.",
+        "answer": "grateful to receive a reward",
+        "output": "How would Tracy feel afterwards?"
+    },
+    {
+        "idx": 317,
+        "input": "Jordan saw he could get more. He just wasn't sure how to go about it.",
+        "answer": "ask advice",
+        "output": "What will Jordan want to do next?"
+    },
+    {
+        "idx": 318,
+        "input": "Remy left their keys behind when they moved out of the country.",
+        "answer": "rent a house",
+        "output": "What will Remy want to do next?"
+    },
+    {
+        "idx": 319,
+        "input": "Alex jumped out of bed after his alarm went off, but soon realized he was late.",
+        "answer": "late",
+        "output": "How would you describe Alex?"
+    },
+    {
+        "idx": 320,
+        "input": "Taylor got the TV working again just in time for the Super Bowl.",
+        "answer": "watch football",
+        "output": "What will Taylor want to do next?"
+    },
+    {
+        "idx": 321,
+        "input": "Quinn put gas in the tank and then drove to work to make a lot of money.",
+        "answer": "good",
+        "output": "How would Quinn feel afterwards?"
+    },
+    {
+        "idx": 322,
+        "input": "Riley heard the thunder booming and saw the clouds moving in so she quickly moved toward the house and Riley took Jan inside.",
+        "answer": "thankful to avoid the storm",
+        "output": "How would Riley feel afterwards?"
+    },
+    {
+        "idx": 323,
+        "input": "Austin is a hair stylist who takes care of people's hair.",
+        "answer": "get a mirror",
+        "output": "What will Austin want to do next?"
+    },
+    {
+        "idx": 324,
+        "input": "Alex got out of the cage that a person had put them in forcefully.",
+        "answer": "free",
+        "output": "How would Alex feel afterwards?"
+    },
+    {
+        "idx": 325,
+        "input": "Aubrey went into Ash's room to play with the many toys on the ground.",
+        "answer": "feeling great",
+        "output": "How would you describe Aubrey?"
+    },
+    {
+        "idx": 326,
+        "input": "Alex gave Jan the names of the suspects that had to be investigated.",
+        "answer": "dutiful and courageous",
+        "output": "How would Jan feel as a result?"
+    },
+    {
+        "idx": 327,
+        "input": "Ash came home and had a horrible headache. Medication hadn't helped so they decided to try and take a nap.",
+        "answer": "Try something else since the medication hadn't helped",
+        "output": "Why did Ash do this?"
+    },
+    {
+        "idx": 328,
+        "input": "Addison wanted to clean his room. He got tired of seeing it the way it was.",
+        "answer": "tackle the mess",
+        "output": "Why did Addison do this?"
+    },
+    {
+        "idx": 329,
+        "input": "Remy took melatonin after several weeks of not being able to sleep right.",
+        "answer": "make sure they have no bad side effects",
+        "output": "What will Remy want to do next?"
+    },
+    {
+        "idx": 330,
+        "input": "Taylor took the poor dog she found on the road to the vet.",
+        "answer": "check to make sure the dogs okay",
+        "output": "What will the vet want to do next?"
+    },
+    {
+        "idx": 331,
+        "input": "Austin came back to Carson after the breakup.",
+        "answer": "change his ways",
+        "output": "What does Austin need to do before this?"
+    },
+    {
+        "idx": 332,
+        "input": "Cameron sat on their hands while they were waiting to give their speech.",
+        "answer": "keep from getting nervous",
+        "output": "Why did Cameron do this?"
+    },
+    {
+        "idx": 333,
+        "input": "Kai opened the package after she brought it inside the house.",
+        "answer": "examine the contents",
+        "output": "What will Kai want to do next?"
+    },
+    {
+        "idx": 334,
+        "input": "Carson gave some advice to his son on how to be polite to girls.",
+        "answer": "Listen to his father",
+        "output": "What will his son want to do next?"
+    },
+    {
+        "idx": 335,
+        "input": "Alex is the head of a research and development team.",
+        "answer": "justified",
+        "output": "How would Alex feel afterwards?"
+    },
+    {
+        "idx": 336,
+        "input": "Tracy commanded Lee's army in the battle against their enemies.",
+        "answer": "trust in Tracy",
+        "output": "How would Lee feel as a result?"
+    },
+    {
+        "idx": 337,
+        "input": "Remy loved to dance whenever there was any upbeat music playing.",
+        "answer": "express themselves",
+        "output": "Why did Remy do this?"
+    },
+    {
+        "idx": 338,
+        "input": "Jesse really wanted to be a part of the play. He tried out for a small role. Now Jesse was playing a roll in the production.",
+        "answer": "learn lines",
+        "output": "What does Jesse need to do before this?"
+    },
+    {
+        "idx": 339,
+        "input": "Remy didn't like to be picked on. Remy taught the bullies a lesson.",
+        "answer": "leave him alone",
+        "output": "What will Others want to do next?"
+    },
+    {
+        "idx": 340,
+        "input": "Sasha stole Lee's money that he saved up for a new game system.",
+        "answer": "not get a new game system",
+        "output": "What will happen to Lee?"
+    },
+    {
+        "idx": 341,
+        "input": "When visiting Quinn's house, Carson saw Quinn's son for the first time.",
+        "answer": "introduce himself to Quinn's son",
+        "output": "What will Carson want to do next?"
+    },
+    {
+        "idx": 342,
+        "input": "Robin called the authorities when she got home from work.",
+        "answer": "find her door open",
+        "output": "What does Robin need to do before this?"
+    },
+    {
+        "idx": 343,
+        "input": "Taylor lied and told Alex they were going out of town to avoid going to Alex's party.",
+        "answer": "makes Taylor uncomfortable",
+        "output": "Why did Taylor do this?"
+    },
+    {
+        "idx": 344,
+        "input": "Even though Robin was nervous around people, Robin put their finger on the doorbell.",
+        "answer": "glad that they challenged themself",
+        "output": "How would Robin feel afterwards?"
+    },
+    {
+        "idx": 345,
+        "input": "Skylar shot the breeze with some friends she hadn't seen in a while.",
+        "answer": "friendly to almost everyone",
+        "output": "How would you describe Skylar?"
+    },
+    {
+        "idx": 346,
+        "input": "Jesse spent time online learning about science.",
+        "answer": "learn more about Science",
+        "output": "What will Jesse want to do next?"
+    },
+    {
+        "idx": 347,
+        "input": "Taylor saved the patient's tooth since kids like to leave them for the tooth fairy.",
+        "answer": "did this to be thoughtful",
+        "output": "Why did Taylor do this?"
+    },
+    {
+        "idx": 348,
+        "input": "Austin dotted the is and cross the ts as was their habit and custom.",
+        "answer": "be detailed",
+        "output": "Why did Austin do this?"
+    },
+    {
+        "idx": 349,
+        "input": "carson was his own person so he made sure to march to the beat of a different drum.",
+        "answer": "as individualistic",
+        "output": "How would you describe Carson?"
+    },
+    {
+        "idx": 350,
+        "input": "The managers had a meeting to discuss Lee's tardiness and attitude problems. Lee was going to be fired.",
+        "answer": "not punctual",
+        "output": "How would you describe Lee?"
+    },
+    {
+        "idx": 351,
+        "input": "Cameron took sides and was disappointed to see neither accepted him.",
+        "answer": "be disappointed next",
+        "output": "What will happen to Cameron?"
+    },
+    {
+        "idx": 352,
+        "input": "Tracy was nowhere to be seen as they looked everywhere for her.",
+        "answer": "Stay dead",
+        "output": "What does Tracy need to do before this?"
+    },
+    {
+        "idx": 353,
+        "input": "Aubrey is signing autographs outside their hotel. Aubrey asks security to push back the crowd. The security is beginning to get over run.",
+        "answer": "get to a car and leave",
+        "output": "What will Aubrey want to do next?"
+    },
+    {
+        "idx": 354,
+        "input": "Cameron was handed his neighbors' mail so he delivered it to them.",
+        "answer": "Tell them to have a good day",
+        "output": "What will Cameron want to do next?"
+    },
+    {
+        "idx": 355,
+        "input": "Alex realized that Jan left her wallet in his car after he dropped her off.",
+        "answer": "call Alex",
+        "output": "What will happen to Jan?"
+    },
+    {
+        "idx": 356,
+        "input": "Alex finally decided to get it over with and told Tracy she was pregnant.",
+        "answer": "talk about the pregnancy",
+        "output": "What will Tracy want to do next?"
+    },
+    {
+        "idx": 357,
+        "input": "Tracy went outside and played in the snow.",
+        "answer": "throw snow balls",
+        "output": "What will Tracy want to do next?"
+    },
+    {
+        "idx": 358,
+        "input": "Austin had never kissed a girl before. Austin bit Skylar's lower lip.",
+        "answer": "shocked about this",
+        "output": "What will happen to Skylar?"
+    },
+    {
+        "idx": 359,
+        "input": "Addison narrowed Ash's choices.  Ash was happy that Addison helped them decide on what to do.",
+        "answer": "agree to help",
+        "output": "What does Addison need to do before this?"
+    },
+    {
+        "idx": 360,
+        "input": "Austin never let a day go by they didn't finish their chores.",
+        "answer": "Tell Austin how well they do",
+        "output": "What will Others want to do next?"
+    },
+    {
+        "idx": 361,
+        "input": "Robin had gotten lost and couldn't decide which way to go. Robin picked Bailey's way.",
+        "answer": "indecisive",
+        "output": "How would you describe Robin?"
+    },
+    {
+        "idx": 362,
+        "input": "Cameron was getting bullied but decided to fight their own battle.",
+        "answer": "independent",
+        "output": "How would you describe Cameron?"
+    },
+    {
+        "idx": 363,
+        "input": "Robin cast a shadow over everyone with their bad mood and ruined the party.",
+        "answer": "apologetic for their behavior",
+        "output": "How would Robin feel afterwards?"
+    },
+    {
+        "idx": 364,
+        "input": "Cameron's brother's birthday is today, and they have been fighting a lot lately, so Cameron hadn't made anything to give them.",
+        "answer": "express their feelings",
+        "output": "Why did Cameron do this?"
+    },
+    {
+        "idx": 365,
+        "input": "Jordan said it another time as well. There was no going back this time.",
+        "answer": "warn them",
+        "output": "What does Jordan need to do before this?"
+    },
+    {
+        "idx": 366,
+        "input": "Austin called their dad for help when their car wouldn't start.",
+        "answer": "Dad will call a tow truck to go and get Austin's car",
+        "output": "What will happen to the dad?"
+    },
+    {
+        "idx": 367,
+        "input": "Casey left the room in a hurry, so Taylor shut the door behind Casey.",
+        "answer": "needed to walk to the door",
+        "output": "What does Taylor need to do before this?"
+    },
+    {
+        "idx": 368,
+        "input": "Skylar met their requirements for the loan, and was able to get their first mortgage.",
+        "answer": "excited to have a new house",
+        "output": "How would Skylar feel afterwards?"
+    },
+    {
+        "idx": 369,
+        "input": "Bailey wanted Aubrey's parents to go to the party.",
+        "answer": "invite Aubrey's parents",
+        "output": "What will Aubrey want to do next?"
+    },
+    {
+        "idx": 370,
+        "input": "Sasha thought quickly because she had to solve the problem.",
+        "answer": "knowledgeable",
+        "output": "How would you describe Sasha?"
+    },
+    {
+        "idx": 371,
+        "input": "Seeing that the dog was getting rambunctious, Jan let him outside.",
+        "answer": "entertained by the dog",
+        "output": "How would Jan feel afterwards?"
+    },
+    {
+        "idx": 372,
+        "input": "Sasha would no longer be happy with their group of friends if they were mean to her.",
+        "answer": "friendly",
+        "output": "How would you describe Sasha?"
+    },
+    {
+        "idx": 373,
+        "input": "Taylor was driving down the street and swerved really hard to the right quickly.",
+        "answer": "avoid hitting something in the street",
+        "output": "Why did Taylor do this?"
+    },
+    {
+        "idx": 374,
+        "input": "Remy was fired because she complained of unsafe practices.  Remy took her employer to court.",
+        "answer": "needed determine what safe practices were",
+        "output": "Before this what did Remy need to do?"
+    },
+    {
+        "idx": 375,
+        "input": "Kendall had an appointment at the doctor's office and decided to arrive there early.",
+        "answer": "greet Kendall",
+        "output": "What will happen to Others?"
+    },
+    {
+        "idx": 376,
+        "input": "Aubrey took kindly to the stranger because the stranger helped Aubrey with directions.",
+        "answer": "amicable",
+        "output": "How would Aubrey feel afterwards?"
+    },
+    {
+        "idx": 377,
+        "input": "Casey tied and sashayed together during the dance and had a blast.",
+        "answer": "keep dancing",
+        "output": "What will Casey want to do next?"
+    },
+    {
+        "idx": 378,
+        "input": "Because Jan was jealous of the esteem with which coworkers held Casey, she told everybody in the office a horrible lie about Casey.",
+        "answer": "wonder why Jan said that",
+        "output": "What will happen to Jan?"
+    },
+    {
+        "idx": 379,
+        "input": "Riley became a father after many years of waiting for a miracle.",
+        "answer": "happy",
+        "output": "How would Riley feel afterwards?"
+    },
+    {
+        "idx": 380,
+        "input": "Bailey needed every second. She was in a hurry and always seemed to be.",
+        "answer": "rushed",
+        "output": "How would Bailey feel as a result?"
+    },
+    {
+        "idx": 381,
+        "input": "Addison checked Skylar's car for any problems and fixed a belt that was in bad shape.",
+        "answer": "handy",
+        "output": "How would you describe Addison?"
+    },
+    {
+        "idx": 382,
+        "input": "Skylar loved to dance, so she turned dancing into a career.",
+        "answer": "very coordinated",
+        "output": "How would you describe Skylar?"
+    },
+    {
+        "idx": 383,
+        "input": "Lee saw Tracy standing in a doorway looking dejected so Lee made his way over to Tracy.",
+        "answer": "ask Tracy what was wrong with her",
+        "output": "Why did Lee do this?"
+    },
+    {
+        "idx": 384,
+        "input": "Robin made Bailey acquaintance by going with her to the big prom.",
+        "answer": "get close to Bailey",
+        "output": "What will Robin want to do next?"
+    },
+    {
+        "idx": 385,
+        "input": "Kendall was an archer at a castle. They prevented the attack from happening.",
+        "answer": "have a bow",
+        "output": "What does Kendall need to do before this?"
+    },
+    {
+        "idx": 386,
+        "input": "Casey returned to Jordan's room because she wanted to resolve the conflict.",
+        "answer": "relieved to solve their issue",
+        "output": "How would Jordan feel after?"
+    },
+    {
+        "idx": 387,
+        "input": "Robin, at home from college, was invited along to the park by Aubrey to play with her friends.",
+        "answer": "Aubrey's sister",
+        "output": "How would you describe Robin?"
+    },
+    {
+        "idx": 388,
+        "input": "Aubrey was working on a math test. Aubrey understood the problem well so she had no issues.",
+        "answer": "needed to understand the math",
+        "output": "What does Aubrey need to do before this?"
+    },
+    {
+        "idx": 389,
+        "input": "Austin opened the closet door and took out the broom, then eyed the crumbs on the floor.",
+        "answer": "Use the broom to sweep",
+        "output": "What will Austin want to do next?"
+    },
+    {
+        "idx": 390,
+        "input": "Jordan persuaded the citizens to vote.  They wanted to serve in the city council.",
+        "answer": "convince others",
+        "output": "What will Jordan want to do next?"
+    },
+    {
+        "idx": 391,
+        "input": "Tracy examined every element of the drink and concluded it was safe.",
+        "answer": "take the drink",
+        "output": "Why did Tracy do this?"
+    },
+    {
+        "idx": 392,
+        "input": "Casey was making dinner for their parents so she came and got what she needed in the shop.",
+        "answer": "get the goods",
+        "output": "What will Casey want to do next?"
+    },
+    {
+        "idx": 393,
+        "input": "Cameron pleased every audience member with their dance choreography and routine.",
+        "answer": "celebrate",
+        "output": "What will happen to their parents?"
+    },
+    {
+        "idx": 394,
+        "input": "Sasha advised Carson to not go surfing today as the sea was too rough but Carson ignored Sasha'a advice and went anyway and ended up having a minor accident.",
+        "answer": "like an idiot",
+        "output": "How would Carson feel afterwards?"
+    },
+    {
+        "idx": 395,
+        "input": "Jesse is a lawyer pleading a case to the jury.",
+        "answer": "forceful",
+        "output": "How would Jesse feel afterwards?"
+    },
+    {
+        "idx": 396,
+        "input": "Bailey met life's demands by making sure to follow the rules.",
+        "answer": "enjoy life",
+        "output": "Why did Bailey do this?"
+    },
+    {
+        "idx": 397,
+        "input": "Cameron provided care to individuals who were unable to live on their own.",
+        "answer": "feed individuals breakfast",
+        "output": "What will Cameron want to do next?"
+    },
+    {
+        "idx": 398,
+        "input": "Riley washed the dishes since the kitchen appeared to be messy.",
+        "answer": "have clean dishes",
+        "output": "Why did Riley do this?"
+    },
+    {
+        "idx": 399,
+        "input": "Jordan contributed to Robin's understanding of physics when he helped her with her homework.",
+        "answer": "bring his physics notes to Robin's house",
+        "output": "What does Jordan need to do before this?"
+    },
+    {
+        "idx": 400,
+        "input": "Bailey read aloud a letter she got from her boyfriend overseas.",
+        "answer": "ward off an unwanted potential suitor",
+        "output": "Why did Bailey do this?"
+    },
+    {
+        "idx": 401,
+        "input": "Robin was always late, making planning with him to be a pain.",
+        "answer": "not invite Robin",
+        "output": "What will Others want to do next?"
+    },
+    {
+        "idx": 402,
+        "input": "Ash was super hungry after working all day.  She didn't care how much her meal cost or what it was.",
+        "answer": "was famished",
+        "output": "Why did Ash do this?"
+    },
+    {
+        "idx": 403,
+        "input": "Quinn met Carson's boyfriend, but thought they were rude and pretentious.",
+        "answer": "annoyed to have to socialize",
+        "output": "How would Quinn feel afterwards?"
+    },
+    {
+        "idx": 404,
+        "input": "ash never missed the dentist and they even missed the anniversary to go to the dentist.",
+        "answer": "upset with ash",
+        "output": "How would Others feel as a result?"
+    },
+    {
+        "idx": 405,
+        "input": "Bailey provided information to the members about the new park being constructed.",
+        "answer": "happy about the improvements",
+        "output": "How would the members feel as a result?"
+    },
+    {
+        "idx": 406,
+        "input": "Carson was worried about his friend in the hospital but saw that his friend was doing well the next day.",
+        "answer": "relieved and elated",
+        "output": "How would you describe Carson?"
+    },
+    {
+        "idx": 407,
+        "input": "Robin knew they would give her food because she was very hungry.",
+        "answer": "eat",
+        "output": "What will Robin want to do next?"
+    },
+    {
+        "idx": 408,
+        "input": "Kendall saw tears run down Jordan's cheeks when Kendall told Jordan the news about his father.",
+        "answer": "comfort Jordan",
+        "output": "What will Kendall want to do next?"
+    },
+    {
+        "idx": 409,
+        "input": "Jan started a conversation with a random stranger while sitting at the bar.",
+        "answer": "open to strangers",
+        "output": "How would you describe Jan?"
+    },
+    {
+        "idx": 410,
+        "input": "Jordan ran the bases smoothly and felt good about getting a home run.",
+        "answer": "Congratulate them",
+        "output": "What will Others want to do next?"
+    },
+    {
+        "idx": 411,
+        "input": "Jesse didn't know Ash, but Austin did so Jesse took Ash at Austin's word.",
+        "answer": "Trust Austin",
+        "output": "What does Jesse need to do before this?"
+    },
+    {
+        "idx": 412,
+        "input": "Casey delivered Ash's message to their mother since Ash had to work overtime.",
+        "answer": "talk to their mother",
+        "output": "What does Casey need to do before this?"
+    },
+    {
+        "idx": 413,
+        "input": "Jordan was very upset with Jack because Jack did something very stupid and harmful.",
+        "answer": "Enraged",
+        "output": "How would you describe Jordan?"
+    },
+    {
+        "idx": 414,
+        "input": "Riley established close ties in the area before opening a business.",
+        "answer": "make money next",
+        "output": "What will Riley want to do next?"
+    },
+    {
+        "idx": 415,
+        "input": "Ash paid Cameron's bills and got a big thank you because of this act.",
+        "answer": "proud",
+        "output": "What will happen to Ash?"
+    },
+    {
+        "idx": 416,
+        "input": "Jan inflicted pain upon Bailey. They then apologized for their actions.",
+        "answer": "go to prison",
+        "output": "What will happen to Jan?"
+    },
+    {
+        "idx": 417,
+        "input": "Kendall had problems with their teacher at school. Jordan was able to give some advice.",
+        "answer": "help Kendall",
+        "output": "Why did Jordan do this?"
+    },
+    {
+        "idx": 418,
+        "input": "Jan got some extra money as a bonus for doing a good job.",
+        "answer": "keep the money safe",
+        "output": "What will Jan want to do next?"
+    },
+    {
+        "idx": 419,
+        "input": "Skylar was building a computer that was faster than what they could buy. Skylar did their utmost best.",
+        "answer": "have knowledge",
+        "output": "What does Skylar need to do before this?"
+    },
+    {
+        "idx": 420,
+        "input": "Tracy wanted to be seen as a good student at school.",
+        "answer": "approval from others",
+        "output": "How would Tracy feel afterwards?"
+    },
+    {
+        "idx": 421,
+        "input": "Kendall had lost a job. Kendall asked Skyler to lower the rent, Skyler complied with Kendall's request as an apartment owner.",
+        "answer": "thank Skyler",
+        "output": "What will happen to Kendall?"
+    },
+    {
+        "idx": 422,
+        "input": "Remy carried out Addison's work plans when she was on maternity leave.",
+        "answer": "help Addison with her plans",
+        "output": "Why did Remy carry out the plans?"
+    },
+    {
+        "idx": 423,
+        "input": "Casey held Robin's face down in the water for several seconds until Robin began gasping for air.",
+        "answer": "try to get some air",
+        "output": "What will Robin want to do next?"
+    },
+    {
+        "idx": 424,
+        "input": "Carson was a very stubborn person who didn't take his father's advice to be careful.",
+        "answer": "bullheaded",
+        "output": "How would you describe Carson?"
+    },
+    {
+        "idx": 425,
+        "input": "Sydney got all Kendall's friends together for one last party before everyone moves away to college.",
+        "answer": "a great friend",
+        "output": "How would Sydney feel afterwards?"
+    },
+    {
+        "idx": 426,
+        "input": "Quinn called the landlord to file a complaint about his neighbor's drug use.",
+        "answer": "set up an inspection to evict the tenants",
+        "output": "What will the landlord want to do next?"
+    },
+    {
+        "idx": 427,
+        "input": "Kendall took professional pictures of Tracy at a publicity event. Kendall selected the best ones and enhanced them to sell to Tracy.",
+        "answer": "Proud of her work",
+        "output": "How would you describe Kendall?"
+    },
+    {
+        "idx": 428,
+        "input": "Jan went to the school and picked up her daughter Casey who was waiting.",
+        "answer": "go home",
+        "output": "What will happen to Casey?"
+    },
+    {
+        "idx": 429,
+        "input": "Alex moved to a new place. They got lost on the way home.",
+        "answer": "be forgetful",
+        "output": "What does Alex need to do before this?"
+    },
+    {
+        "idx": 430,
+        "input": "jesse thanked the university for a grant and others were angry that they didn't get a grant.",
+        "answer": "be jealous",
+        "output": "What will happen to Others?"
+    },
+    {
+        "idx": 431,
+        "input": "Jan gave Bailey another chance after he broke her heart two years ago on that raining night.",
+        "answer": "not want to waste the second chance",
+        "output": "What does Jan need to do before this?"
+    },
+    {
+        "idx": 432,
+        "input": "Ash gave Aubrey Jan's name when she asked under some heavy interrogation from friends and family.",
+        "answer": "felt pressured by others",
+        "output": "Why did Ash do this?"
+    },
+    {
+        "idx": 433,
+        "input": "Quinn is a newscaster, and she asked Austin, a meteorologist, to describe the weather.",
+        "answer": "glad to get weather news from Austin",
+        "output": "How would you describe Quinn?"
+    },
+    {
+        "idx": 434,
+        "input": "Lee hired the applicant on the spot because there was not going to be anyone better.",
+        "answer": "be decisive",
+        "output": "Why did Lee do this?"
+    },
+    {
+        "idx": 435,
+        "input": "Robin leaved Aubrey alone while she read the book.",
+        "answer": "considerate",
+        "output": "How would Robin feel afterwards?"
+    },
+    {
+        "idx": 436,
+        "input": "Aubrey reviewed the chart before giving her take on it to everyone else.",
+        "answer": "summarize her thoughts",
+        "output": "Why did Aubrey do this?"
+    },
+    {
+        "idx": 437,
+        "input": "Bailey scarred the hell out of Alex because Alex was a violent person.",
+        "answer": "have no friend",
+        "output": "What will happen to Alex?"
+    },
+    {
+        "idx": 438,
+        "input": "Austin listed every item that they needed from the store.",
+        "answer": "prepared afterwards",
+        "output": "How would Austin feel afterwards?"
+    },
+    {
+        "idx": 439,
+        "input": "Sasha worked for aubrey and owed a lot of her success to him.",
+        "answer": "lucky",
+        "output": "How would Sasha feel afterwards?"
+    },
+    {
+        "idx": 440,
+        "input": "austin needed some new clothes so he bought a brand new shirt.",
+        "answer": "examine the shirt",
+        "output": "What will Austin want to do next?"
+    },
+    {
+        "idx": 441,
+        "input": "Riley went off on a tangent after realizing his drums were destroyed during the party.",
+        "answer": "express anger over the drums",
+        "output": "Why did Riley do this?"
+    },
+    {
+        "idx": 442,
+        "input": "Addison tried hard in class and got a very good grade on their math exam.",
+        "answer": "quite envious",
+        "output": "How would Others feel as a result?"
+    },
+    {
+        "idx": 443,
+        "input": "Robin called their daughter on the phone and told her that she loved her.",
+        "answer": "thank the other person",
+        "output": "What will Others want to do next?"
+    },
+    {
+        "idx": 444,
+        "input": "Cameron hammered his school project together using a cheat sheet he bought from someone who already took the test.",
+        "answer": "Some of the classmates found out because Cameron was a serious drunk instead of a good student and after finding out, squealed on him",
+        "output": "How would Others feel as a result?"
+    },
+    {
+        "idx": 445,
+        "input": "Cameron put the fruit in a blender and turned it on high to make a smoothie.",
+        "answer": "pick out the fruit",
+        "output": "What does Cameron need to do before this?"
+    },
+    {
+        "idx": 446,
+        "input": "Remy passed the other car quickly as she was in a hurry to get home and the car was going really slow.",
+        "answer": "annoyed at the other driver",
+        "output": "How would Remy feel afterwards?"
+    },
+    {
+        "idx": 447,
+        "input": "Carson had a lot of work related responsibilities and was alway busy.",
+        "answer": "burned out",
+        "output": "How would Carson feel afterwards?"
+    },
+    {
+        "idx": 448,
+        "input": "Bailey pushed Robin's hair back and saw that Robin had a black eye from being abused.",
+        "answer": "empathetic",
+        "output": "How would Bailey feel afterwards?"
+    },
+    {
+        "idx": 449,
+        "input": "Taylor showed Kendall a movie that they were in the process of developing.",
+        "answer": "start making the movie",
+        "output": "What does Taylor need to do before this?"
+    },
+    {
+        "idx": 450,
+        "input": "Jan made Riley the point of discussion when talking at the dinner table.",
+        "answer": "talk about Jan",
+        "output": "What will Jan want to do next?"
+    },
+    {
+        "idx": 451,
+        "input": "After getting a good night's rest, Cameron felt like a normal person and wanted to eat his favorite food, pasta.",
+        "answer": "satisfied",
+        "output": "How would you describe Cameron?"
+    },
+    {
+        "idx": 452,
+        "input": "Bailey was gardening. They pushed up daisies to make room for roses.",
+        "answer": "pull weeds",
+        "output": "What will Bailey want to do next?"
+    },
+    {
+        "idx": 453,
+        "input": "kendall was a persistent person so he took another look.",
+        "answer": "persistent and determined",
+        "output": "How would Kendall feel afterwards?"
+    },
+    {
+        "idx": 454,
+        "input": "quinn was playing a game and she was able to fool skylar and their cat in the process.",
+        "answer": "as amused",
+        "output": "How would Skylar feel as a result?"
+    },
+    {
+        "idx": 455,
+        "input": "Kai played professional basketball before a knee injury ended their career.",
+        "answer": "get a business degree",
+        "output": "What will Kai want to do next?"
+    },
+    {
+        "idx": 456,
+        "input": "carson was a reasonable person so he provided lee with an explanation.",
+        "answer": "as normal",
+        "output": "How would Lee feel as a result?"
+    },
+    {
+        "idx": 457,
+        "input": "Kai decorated his house for the party he was throwing on the weekend.",
+        "answer": "clean the house",
+        "output": "What does Kai need to do before this?"
+    },
+    {
+        "idx": 458,
+        "input": "Sasha took Sydney's family for granted and often stole things from them.",
+        "answer": "angry at Sasha",
+        "output": "How would Sydney feel as a result?"
+    },
+    {
+        "idx": 459,
+        "input": "Sydney put the boxes in storage in order to keep the comics safe.",
+        "answer": "prudent",
+        "output": "How would you describe Sydney?"
+    },
+    {
+        "idx": 460,
+        "input": "Robin is easily offended and she assumed Sydney's dirty look was aimed at her.",
+        "answer": "confused about it",
+        "output": "How would Robin feel afterwards?"
+    },
+    {
+        "idx": 461,
+        "input": "It was their anniversary and Sydney surprised their husband.",
+        "answer": "plan the surprise",
+        "output": "What does Sydney need to do before this?"
+    },
+    {
+        "idx": 462,
+        "input": "Carson played soccer in the park till he got tired and went home.",
+        "answer": "rejuvenated",
+        "output": "How would Others feel as a result?"
+    },
+    {
+        "idx": 463,
+        "input": "Bailey spent a lot of her own money on a homeless shelter in town.",
+        "answer": "go to the shelter",
+        "output": "What will Others want to do next?"
+    },
+    {
+        "idx": 464,
+        "input": "Quinn let them have it all. He knew they needed it more than he did.",
+        "answer": "be fair",
+        "output": "Why did Quinn do this?"
+    },
+    {
+        "idx": 465,
+        "input": "Carson wrote a blog online to talk about their interests which include cars and trains.",
+        "answer": "express their interests",
+        "output": "Why did Carson do this?"
+    },
+    {
+        "idx": 466,
+        "input": "Carson said they would find it which made everyone feel more at ease.",
+        "answer": "more relaxed",
+        "output": "How would everyone feel as a result?"
+    },
+    {
+        "idx": 467,
+        "input": "Ash earned the money they needed to pay their monthly rent.",
+        "answer": "pay their rent",
+        "output": "Why did Ash do this?"
+    },
+    {
+        "idx": 468,
+        "input": "Kai put a bowl in the aquarium then Kai put water there.",
+        "answer": "So the lizard could cool off",
+        "output": "Why did Kai do this?"
+    },
+    {
+        "idx": 469,
+        "input": "Robin cleaned Tracy's house because Robin had to pay off a debt.",
+        "answer": "gather cleaning supplies",
+        "output": "What does Robin need to do before this?"
+    },
+    {
+        "idx": 470,
+        "input": "Wanting to celebrate with friends and family, Kendall had a party at Jordan's house.",
+        "answer": "quite popular",
+        "output": "How would Jordan feel as a result?"
+    },
+    {
+        "idx": 471,
+        "input": "Skylar gave Carson the peace sign and Skylar could see that this made Carson happy.",
+        "answer": "was happy",
+        "output": "How would Skylar feel afterwards?"
+    },
+    {
+        "idx": 472,
+        "input": "As manager of the team, Sasha determined who played and who did not.",
+        "answer": "Others thought Sasha was unfair",
+        "output": "What did others feel about Sasha?"
+    },
+    {
+        "idx": 473,
+        "input": "Kendall took a picture of Tracy then posted it on Instagram.",
+        "answer": "like they took a good picture",
+        "output": "How would Tracy feel as a result?"
+    },
+    {
+        "idx": 474,
+        "input": "Addison slept surprisingly well this week all things considered.",
+        "answer": "rested",
+        "output": "Why did Addison do this?"
+    },
+    {
+        "idx": 475,
+        "input": "Bailey knew that people were after his friend Alex, so he watched his back.",
+        "answer": "careful and courageous",
+        "output": "How would Bailey feel afterwards?"
+    },
+    {
+        "idx": 476,
+        "input": "Remy thought Addison was fun to hang out with, so Remy showed Addison around.",
+        "answer": "begin to fall in love with Addison",
+        "output": "What will happen to Remy?"
+    },
+    {
+        "idx": 477,
+        "input": "Kendall considered the possibility of quitting smoking and decided to do it.",
+        "answer": "relieved",
+        "output": "How would Kendall feel afterwards?"
+    },
+    {
+        "idx": 478,
+        "input": "Remy got really excited about the concert that night.",
+        "answer": "go to the event",
+        "output": "What does Remy need to do before this?"
+    },
+    {
+        "idx": 479,
+        "input": "Austin was still in the band and he still played the guitar.",
+        "answer": "Impressed",
+        "output": "How would others feel afterwards?"
+    },
+    {
+        "idx": 480,
+        "input": "Jordan invited Jan over for dinner at his place on saturday night.",
+        "answer": "remembered",
+        "output": "How would Jan feel as a result?"
+    },
+    {
+        "idx": 481,
+        "input": "Alex had a party at his house while his parents were out of town even though they told him not to.",
+        "answer": "punish Alex for having a party",
+        "output": "What will happen to Alex's parents?"
+    },
+    {
+        "idx": 482,
+        "input": "Jesse was holding his test to turn in and dropped it into the crack between his desk.",
+        "answer": "silly",
+        "output": "How would you describe Jesse?"
+    },
+    {
+        "idx": 483,
+        "input": "Casey is unhappy with the results they got from dying their own hair. Skylar helps Casey redo their hair.",
+        "answer": "fix the problem with Casey's hair",
+        "output": "Why did Skylar do this?"
+    },
+    {
+        "idx": 484,
+        "input": "Tracy had to take the SATs on Saturday and spent the whole week studying.",
+        "answer": "wanted to get into a good college",
+        "output": "Why did Tracy do this?"
+    },
+    {
+        "idx": 485,
+        "input": "Kendall improved their quality of life by making the job pay a bit more that year.",
+        "answer": "feeling smart",
+        "output": "How would you describe Kendall?"
+    },
+    {
+        "idx": 486,
+        "input": "Jesse mortgaged their house and gambled with the money, but Jesse lost every penny.",
+        "answer": "lose their house",
+        "output": "What will happen to Jesse?"
+    },
+    {
+        "idx": 487,
+        "input": "Aubrey brought donuts for everyone at youth group. She always thought of others.",
+        "answer": "buy a gift for Aubrey",
+        "output": "What will the youth want to do next?"
+    },
+    {
+        "idx": 488,
+        "input": "Quinn got little in return for the car she traded in.",
+        "answer": "Get a quote",
+        "output": "What does Quinn need to do before this?"
+    },
+    {
+        "idx": 489,
+        "input": "Quinn was completely falling apart after the break up.",
+        "answer": "sad and broken hearted",
+        "output": "How would you describe Quinn?"
+    },
+    {
+        "idx": 490,
+        "input": "Kai wasn't good at keeping up with the rest of the kids in school. Taylor increased Kai's efficiency at school by working with him.",
+        "answer": "determined",
+        "output": "How would you describe Taylor?"
+    },
+    {
+        "idx": 491,
+        "input": "Ash took Kai's medicine as directed and gave it to her.",
+        "answer": "count them out",
+        "output": "What does Ash need to do before this?"
+    },
+    {
+        "idx": 492,
+        "input": "They kew Addison would be out of work for a while for surgery so while she was gone Aubrey would perform Addison's function within the company.",
+        "answer": "help Aubrey with any questions she may have fulfilling the role",
+        "output": "What will Addison want to do next?"
+    },
+    {
+        "idx": 493,
+        "input": "Austin planted flowers in a place Tracy told them was too sunny. Tracy protected Austin's flowers from the sun while they were at the store.",
+        "answer": "have to move their flowers",
+        "output": "What will happen to Austin?"
+    },
+    {
+        "idx": 494,
+        "input": "Remy was really impressed after hearing it so they shared the author's story.",
+        "answer": "Watch others impressions",
+        "output": "What will Remy want to do next?"
+    },
+    {
+        "idx": 495,
+        "input": "Carson knew that his friends would want some of the money that he had just found.",
+        "answer": "force Carson to share",
+        "output": "What will Others want to do next?"
+    },
+    {
+        "idx": 496,
+        "input": "Addison had been adopted at birth by her parents. Addison found her birth mother.",
+        "answer": "meet her biological mother",
+        "output": "Why did Addison do this?"
+    },
+    {
+        "idx": 497,
+        "input": "quinn did not know how to cook so she required alex's effort to cook dinner.",
+        "answer": "ask alex to help",
+        "output": "What will Quinn want to do next?"
+    },
+    {
+        "idx": 498,
+        "input": "Remy and Sasha met a few minutes ago. Remy cupped Sasha's cheek and attempted to kiss them.",
+        "answer": "like she wants a kiss",
+        "output": "How would Sasha feel as a result?"
+    },
+    {
+        "idx": 499,
+        "input": "Casey went home and started trying to learn how to play the guitar.",
+        "answer": "learn the guitar",
+        "output": "What will happen to Casey?"
+    }
+]

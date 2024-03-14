@@ -1,0 +1,3002 @@
+[
+    {
+        "input_1": "a black and white dog running through some red and white poles",
+        "input_2": "Black and white dog in living room standing on hind legs.",
+        "output": "no",
+        "idx": 0
+    },
+    {
+        "input_1": "People ride and paddle a raft.",
+        "input_2": "Four people are floating on a raft.",
+        "output": "no",
+        "idx": 1
+    },
+    {
+        "input_1": "This eclipses the old record of  set in .",
+        "input_2": "This breaks the daily record of  set in .",
+        "output": "yes",
+        "idx": 2
+    },
+    {
+        "input_1": "A woman is running on the beach.",
+        "input_2": "A dog is swimming in a pool.",
+        "output": "no",
+        "idx": 3
+    },
+    {
+        "input_1": "north korea denies involvement in any nuclear program in syria.",
+        "input_2": "north korea denies involvement in any syrian nuclear project.",
+        "output": "yes",
+        "idx": 4
+    },
+    {
+        "input_1": "A woman is frying something in the pan.",
+        "input_2": "A man is playing his guitar.",
+        "output": "no",
+        "idx": 5
+    },
+    {
+        "input_1": "A large black bird is sitting in the water.",
+        "input_2": "The birds are swimming in the water.",
+        "output": "no",
+        "idx": 6
+    },
+    {
+        "input_1": "A dog wearing a green sweater and a backpack walking on snow.",
+        "input_2": "A small dog wearing a green sweater and a backpack walks through snow.",
+        "output": "yes",
+        "idx": 7
+    },
+    {
+        "input_1": "Cooley said he expects Muhammad will similarly be called as a witness at a pretrial hearing for Malvo.",
+        "input_2": "Lee Boyd Malvo will be called as a witness Wednesday in a pretrial hearing for fellow sniper suspect John Allen Muhammad.",
+        "output": "no",
+        "idx": 8
+    },
+    {
+        "input_1": "A girl is playing a violin.",
+        "input_2": "A baby is laughing and giggling.",
+        "output": "no",
+        "idx": 9
+    },
+    {
+        "input_1": "Red double decker bus on side of street.",
+        "input_2": "A red double decker bus on a city street.",
+        "output": "yes",
+        "idx": 10
+    },
+    {
+        "input_1": "The hearing occurred a day after the Pentagon for the first time singled out an officer, Dallager, for not addressing the scandal.",
+        "input_2": "The hearing came one day after the Pentagon for the first time singled out an officer - Dallager - for failing to address the scandal.",
+        "output": "yes",
+        "idx": 11
+    },
+    {
+        "input_1": "Crowds, Dignitaries Gather for Mandela Memorial Service",
+        "input_2": "Obama takes 'selfie' at Mandela's funeral service",
+        "output": "no",
+        "idx": 12
+    },
+    {
+        "input_1": "The man is playing the guitar.",
+        "input_2": "The man is playing with a skull.",
+        "output": "no",
+        "idx": 13
+    },
+    {
+        "input_1": "Hong Kong was flat, Australia , Singapore and South Korea lost 0.2-0.4 percent.",
+        "input_2": "Australia was flat, Singapore was down 0.3 percent by midday and South Korea added 0.2 percent.",
+        "output": "no",
+        "idx": 14
+    },
+    {
+        "input_1": "A woman is peeling a potato.",
+        "input_2": "A lion is walking around.",
+        "output": "no",
+        "idx": 15
+    },
+    {
+        "input_1": "\"This child was literally neglected to death,\" Armstrong County District Attorney Scott Andreassi said.",
+        "input_2": "Armstrong County District Attorney Scott Andreassi said the many family photos in the home did not include Kristen.",
+        "output": "no",
+        "idx": 16
+    },
+    {
+        "input_1": "A woman is seasoning a piece of meat.",
+        "input_2": "A man is loading a rifle with bullets.",
+        "output": "no",
+        "idx": 17
+    },
+    {
+        "input_1": "A person cuts an onion.",
+        "input_2": "A person is cutting an onion.",
+        "output": "yes",
+        "idx": 18
+    },
+    {
+        "input_1": "A cat is playing the piano.",
+        "input_2": "A cat is licking its paw.",
+        "output": "no",
+        "idx": 19
+    },
+    {
+        "input_1": "Syrian journalists killed in capital",
+        "input_2": "US Marines killed in base attack",
+        "output": "no",
+        "idx": 20
+    },
+    {
+        "input_1": "A young child slides down an orange slide.",
+        "input_2": "A little boy in denim overalls slides down an orange slide.",
+        "output": "yes",
+        "idx": 21
+    },
+    {
+        "input_1": "Syria urges refugees to return",
+        "input_2": "Syria's tenuous truce takes hold",
+        "output": "no",
+        "idx": 22
+    },
+    {
+        "input_1": "Prosecutors contended that Mr. Durst had plotted the murder to assume Mr. Black's identity.",
+        "input_2": "Prosecutors maintained that Durst murdered Black to try to assume Black's identity.",
+        "output": "yes",
+        "idx": 23
+    },
+    {
+        "input_1": "Death toll from west Chinas violence rises to 35",
+        "input_2": "Urgent: Death toll from NE China fire rises to 112",
+        "output": "no",
+        "idx": 24
+    },
+    {
+        "input_1": "4 dead, 3 injured in east China road accident",
+        "input_2": "2 dead, 8 injured in central Israel traffic accident",
+        "output": "no",
+        "idx": 25
+    },
+    {
+        "input_1": "Singapore shares open 0.83% higher on Wednesday",
+        "input_2": "Singapore shares open 0.06% lower on Tuesday",
+        "output": "no",
+        "idx": 26
+    },
+    {
+        "input_1": "australian television reporter peter lloyd faces 3 new drug charges in singapore.",
+        "input_2": "according to court documents -- on 25 july australian television reporter peter lloyd faced 3 new drug charges in singapore.",
+        "output": "no",
+        "idx": 27
+    },
+    {
+        "input_1": "We are all vessels filled with many wonders.",
+        "input_2": "Landon Memory from CATS We are all vessels filled with many wonders.",
+        "output": "no",
+        "idx": 28
+    },
+    {
+        "input_1": "17 killed in US drone attack on Yemen wedding party",
+        "input_2": "U.S. drone mistakenly kills 14 in Yemen wedding convoy",
+        "output": "yes",
+        "idx": 29
+    },
+    {
+        "input_1": "World powers and Iran to resume expert nuclear talks on Dec. 30",
+        "input_2": "Iran nuclear experts, world powers to resume talks next week",
+        "output": "yes",
+        "idx": 30
+    },
+    {
+        "input_1": "\"Gorgons don't exist\" - fine.",
+        "input_2": "\"Satyrs don't exist\" - fine.",
+        "output": "no",
+        "idx": 31
+    },
+    {
+        "input_1": "the golden triangle region was 1 of the world's biggest producers of opium.",
+        "input_2": "helmand province is the world's largest producer of opium.",
+        "output": "no",
+        "idx": 32
+    },
+    {
+        "input_1": "For the trillionth time, I've never said rehabilitation doesn't work.",
+        "input_2": "The point you quote should say \"I never said rehabilitation could never work.\"",
+        "output": "no",
+        "idx": 33
+    },
+    {
+        "input_1": "A person is slicing onions.",
+        "input_2": "A person is peeling an onion.",
+        "output": "no",
+        "idx": 34
+    },
+    {
+        "input_1": "Chicago teacher strike nears end with 'framework' agreement in place",
+        "input_2": "General strike ends: Histadrut, Treasury reach agreement",
+        "output": "no",
+        "idx": 35
+    },
+    {
+        "input_1": "A woman is peeling a potato.",
+        "input_2": "A woman is slicing a tomato.",
+        "output": "no",
+        "idx": 36
+    },
+    {
+        "input_1": "If so, state that is why they're not true.",
+        "input_2": "Please, what about them are not true.",
+        "output": "no",
+        "idx": 37
+    },
+    {
+        "input_1": "capital offenses in iran include murder, rape, armed robbery, apostasy, blasphemy, serious drug trafficking, repeated sodomy, adultery, prostitution, treason and espionage.",
+        "input_2": "capital offenses in iran include murder, rape, armed robbery, serious drug trafficking and adultery.",
+        "output": "no",
+        "idx": 38
+    },
+    {
+        "input_1": "A train is at a train station.",
+        "input_2": "a train in a station.",
+        "output": "yes",
+        "idx": 39
+    },
+    {
+        "input_1": "\"What does pressing the number one do?\"",
+        "input_2": "\"Pressing the number one does English.\"",
+        "output": "no",
+        "idx": 40
+    },
+    {
+        "input_1": "A young boy in a brown jacket playing with snow.",
+        "input_2": "Two dogs are playing in the snow.",
+        "output": "no",
+        "idx": 41
+    },
+    {
+        "input_1": "NATO US troop detained over shooting of Afghan civilians",
+        "input_2": "U.S. says saddened by shooting on Afghan civilians",
+        "output": "no",
+        "idx": 42
+    },
+    {
+        "input_1": "Death toll rises in Russia plane crash",
+        "input_2": "Death toll rises to 39 in Italy coach crash",
+        "output": "no",
+        "idx": 43
+    },
+    {
+        "input_1": "A woman is holding a dancing baby up.",
+        "input_2": "A woman is abusing her child.",
+        "output": "no",
+        "idx": 44
+    },
+    {
+        "input_1": "The Dow Jones industrial average .DJI edged up 13.33 points, or 0.15 percent, to 9,196.55.",
+        "input_2": "The Dow Jones industrial average <.DJI> was off 7.75 points, or 0.08 percent, at 9,175.47.",
+        "output": "no",
+        "idx": 45
+    },
+    {
+        "input_1": "Five alternate jurors were also chosen, with a final one set to be selected Friday morning from the panel.",
+        "input_2": "Five alternate jurors also were selected, with a sixth alternate to be picked on Friday.",
+        "output": "yes",
+        "idx": 46
+    },
+    {
+        "input_1": "The man is drawing.",
+        "input_2": "A man is drawing.",
+        "output": "yes",
+        "idx": 47
+    },
+    {
+        "input_1": "Annan warns talks of Syria risks",
+        "input_2": "Putin, Annan meet on Syria crisis",
+        "output": "no",
+        "idx": 48
+    },
+    {
+        "input_1": "I wood have asked her if she is up for a treesome.",
+        "input_2": "I wood have at least asked if a threesome was out of the question.",
+        "output": "yes",
+        "idx": 49
+    },
+    {
+        "input_1": "A girl in a purple shirt and pink headband posing",
+        "input_2": "A young girl wearing a hat and blue jeans is on a swing.",
+        "output": "no",
+        "idx": 50
+    },
+    {
+        "input_1": "A black and white cat lying on a blanket.",
+        "input_2": "A black and white cat sleeps on a purple blanket.",
+        "output": "yes",
+        "idx": 51
+    },
+    {
+        "input_1": "Tornadoes rip through Midwest, killing 6 and devastating neighborhoods",
+        "input_2": "Tornadoes, damaging storms hit U.S. Midwest, killing 5",
+        "output": "no",
+        "idx": 52
+    },
+    {
+        "input_1": "A dog in the snow.",
+        "input_2": "Two dogs in snow.",
+        "output": "no",
+        "idx": 53
+    },
+    {
+        "input_1": "Russian lawmakers pass new bill restricting Internet",
+        "input_2": "Russia says ballistic 'objects' fired in Mediterranean",
+        "output": "no",
+        "idx": 54
+    },
+    {
+        "input_1": "A dog leaping over a hurdle.",
+        "input_2": "A dog leaps over the hurdle.",
+        "output": "yes",
+        "idx": 55
+    },
+    {
+        "input_1": "Two cartoon rabbits are kissing.",
+        "input_2": "A rabbit is kissing another rabbit.",
+        "output": "yes",
+        "idx": 56
+    },
+    {
+        "input_1": "The two dogs are playing fetch in the snow.",
+        "input_2": "Two dogs are playing together in the grass.",
+        "output": "no",
+        "idx": 57
+    },
+    {
+        "input_1": "But church members and observers say they expect that the decision could be problematic for many Episcopalians.",
+        "input_2": "But church members and observers say they anticipate that the decision here could pose doctrinal problems for some Episcopalians who believe the Bible prohibits homosexuality.",
+        "output": "yes",
+        "idx": 58
+    },
+    {
+        "input_1": "the cfe is very important for european security.",
+        "input_2": "the cfe is a cornerstone of european security.",
+        "output": "yes",
+        "idx": 59
+    },
+    {
+        "input_1": "saudi arabia is an absolute monarchy that has taken steps towards reform.",
+        "input_2": "saudi arabia is an absolute monarchy and has a consultative council appointed by the government.",
+        "output": "no",
+        "idx": 60
+    },
+    {
+        "input_1": "George Zimmerman 'to be charged' with killing Trayvon Martin",
+        "input_2": "George Zimmerman to be charged in Trayvon Martin case, official says",
+        "output": "yes",
+        "idx": 61
+    },
+    {
+        "input_1": "russia has ratified the amended version but the united states and other nato members have refused to do so until the russian government withdraws troops from the former soviet republics of moldova and georgia.",
+        "input_2": "the united states and other nato members have refused to ratify the amended version until russia withdraws troops from former soviet republics moldova and georgia.",
+        "output": "yes",
+        "idx": 62
+    },
+    {
+        "input_1": "A man is looking out of a window.",
+        "input_2": "A woman is swimming in the water.",
+        "output": "no",
+        "idx": 63
+    },
+    {
+        "input_1": "Bush wanted \"to see an aircraft landing the same way that the pilots saw an aircraft landing,\" White House press secretary Ari Fleischer said yesterday.",
+        "input_2": "On Tuesday, before Byrd's speech, Fleischer said Bush wanted ''to see an aircraft landing the same way that the pilots saw an aircraft landing.",
+        "output": "yes",
+        "idx": 64
+    },
+    {
+        "input_1": "A man is slicing a pepper.",
+        "input_2": "A person cuts a big green pepper apart.",
+        "output": "yes",
+        "idx": 65
+    },
+    {
+        "input_1": "The Senate Banking Committee is scheduled to hold a hearing on Tuesday where Donaldson is scheduled to testify on hedge and mutual funds.",
+        "input_2": "The Senate Banking Committee is scheduled to hold a hearing on Tuesday, when Donaldson will be questioned about hedge and mutual funds.",
+        "output": "yes",
+        "idx": 66
+    },
+    {
+        "input_1": "A woman is deboning a fish.",
+        "input_2": "A man catches a fish.",
+        "output": "no",
+        "idx": 67
+    },
+    {
+        "input_1": "Two children in a field of red flowers.",
+        "input_2": "Two kids are playing in a field of red flowers.",
+        "output": "yes",
+        "idx": 68
+    },
+    {
+        "input_1": "A woman is eating something.",
+        "input_2": "A woman is eating meat.",
+        "output": "no",
+        "idx": 69
+    },
+    {
+        "input_1": "A black and white photo of a living room with a large window, sofa, and chair.",
+        "input_2": "A black and white scene of a well furnished room with a view outlooking a forest.",
+        "output": "no",
+        "idx": 70
+    },
+    {
+        "input_1": "Palestinian prisoner ending hunger strike after deal",
+        "input_2": "Israel to free Palestinian hunger striker",
+        "output": "no",
+        "idx": 71
+    },
+    {
+        "input_1": "The statewide unemployment rate fell to 6.4 percent, down from a revised 6.7 percent in August.",
+        "input_2": "The unemployment rate in San Joaquin County dipped last month to 8.5 percent, down nearly a full percentage point from August.",
+        "output": "no",
+        "idx": 72
+    },
+    {
+        "input_1": "Red Cross worker killed in Pakistan",
+        "input_2": "British Red Cross doctor kidnapped in Pakistan found beheaded",
+        "output": "yes",
+        "idx": 73
+    },
+    {
+        "input_1": "Libyans begin handing in weapons",
+        "input_2": "Libyans transfer weapons to army",
+        "output": "no",
+        "idx": 74
+    },
+    {
+        "input_1": "A dog is jumping over a barrier at a agility competition.",
+        "input_2": "A dog jumping over an obstacle course fence.",
+        "output": "yes",
+        "idx": 75
+    },
+    {
+        "input_1": "ISAF: 4 coalition troops killed in attack involving Afghan police",
+        "input_2": "NATO says four troops killed in \"insider\" attack in Afghan south",
+        "output": "no",
+        "idx": 76
+    },
+    {
+        "input_1": "A dog is looking into swimming pool.",
+        "input_2": "A dog is walking around a pool.",
+        "output": "no",
+        "idx": 77
+    },
+    {
+        "input_1": "A man is playing soccer.",
+        "input_2": "A man is drawing some figures.",
+        "output": "no",
+        "idx": 78
+    },
+    {
+        "input_1": "North Korea Postpones Family Reunions with South",
+        "input_2": "North Korea 'postpones' family unions with South Korea",
+        "output": "yes",
+        "idx": 79
+    },
+    {
+        "input_1": "Agribusiness: Mad cow disease found in California",
+        "input_2": "USDA Confirms Case of Mad Cow Disease in California",
+        "output": "yes",
+        "idx": 80
+    },
+    {
+        "input_1": "Tunisian opposition politician shot dead",
+        "input_2": "Tunisia opposition leader slain; protests erupt",
+        "output": "no",
+        "idx": 81
+    },
+    {
+        "input_1": "Daniels said he doesn't know what Bush will have to say about him at tonight's $2,000-per-person presidential fund-raiser.",
+        "input_2": "Daniels said he doesn't know what Bush will say at tonight's $2,000-per-person reception to raise funds for his presidential re-election bid.",
+        "output": "yes",
+        "idx": 82
+    },
+    {
+        "input_1": "A black and white dog is swimming in a large green lake.",
+        "input_2": "A black dog runs fast into shallow water.",
+        "output": "no",
+        "idx": 83
+    },
+    {
+        "input_1": "a number of suspected islamic militants with alleged al-qaida links have been arrested in malaysia and singapore, and officials stated the militants' network extends into indonesia.",
+        "input_2": "suspected islamic militants with alleged al-qaida links have been arrested in malaysia and singapore.",
+        "output": "no",
+        "idx": 84
+    },
+    {
+        "input_1": "Carnival Corp. stock was trading at $31.29 during midday trading Wednesday, down 72 cents or 2.25 percent.",
+        "input_2": "Carnival Corp. stock was down 2.5 percent, or 81 cents, at $31.20 on the New York Stock Exchange.",
+        "output": "no",
+        "idx": 85
+    },
+    {
+        "input_1": "Russian coal mines seek new outlets in China",
+        "input_2": "Russian foreign minister to meet UN chief",
+        "output": "no",
+        "idx": 86
+    },
+    {
+        "input_1": "WORLD No. 2 Lleyton Hewitt has accused the Association of Tennis Professionals of malice, including an alleged attempt last year to dupe him into refusing a drug test.",
+        "input_2": "World No.2 Lleyton Hewitt has accused his professional peers of long-standing malice, including an attempt last year to dupe him into refusing a drug test.",
+        "output": "yes",
+        "idx": 87
+    },
+    {
+        "input_1": "The latest snapshot of the labor markets was slightly better than economists were expecting; they were forecasting claims to fall no lower than 410,000 for last week.",
+        "input_2": "Despite problems in the job market, the latest snapshot of the labor markets was slightly better than economists were expecting.",
+        "output": "no",
+        "idx": 88
+    },
+    {
+        "input_1": "Benzema faces possible charges in sex-tape case",
+        "input_2": "Menendez faces possible corruption charges",
+        "output": "no",
+        "idx": 89
+    },
+    {
+        "input_1": "Allen responds to Farrow's abuse claims in letter",
+        "input_2": "Allen defends self against Farrow's abuse claims",
+        "output": "yes",
+        "idx": 90
+    },
+    {
+        "input_1": "A white dog runs through a field of yellow flowers.",
+        "input_2": "A dog with a red collar runs in a forest in the middle of winter.",
+        "output": "no",
+        "idx": 91
+    },
+    {
+        "input_1": "U.N. to take up Syria resolution",
+        "input_2": "UN Assembly to Vote on Syria Resolution",
+        "output": "yes",
+        "idx": 92
+    },
+    {
+        "input_1": "A man and a dog are playing tug of war.",
+        "input_2": "A man dances on a colorful wall.",
+        "output": "no",
+        "idx": 93
+    },
+    {
+        "input_1": "World sends emergency relief to battered Philippines",
+        "input_2": "Typhoon Haiyan: world sends relief to battered Philippines",
+        "output": "yes",
+        "idx": 94
+    },
+    {
+        "input_1": "A woman feeds an animal by hand.",
+        "input_2": "The women are feeding the animal.",
+        "output": "no",
+        "idx": 95
+    },
+    {
+        "input_1": "Thai political protests paralyse more ministries",
+        "input_2": "Thai protesters besiege more ministries",
+        "output": "yes",
+        "idx": 96
+    },
+    {
+        "input_1": "Obama pledges to reignite economy",
+        "input_2": "Obama to press Congress to act on economy",
+        "output": "no",
+        "idx": 97
+    },
+    {
+        "input_1": "Inflation falls to 15-month low: what the analysts say",
+        "input_2": "Inflation falls to 15-month low",
+        "output": "yes",
+        "idx": 98
+    },
+    {
+        "input_1": "A brown and white dog is walking next to a man on a skateboard.",
+        "input_2": "A blond child is laying on a branch of a tree in a green field.",
+        "output": "no",
+        "idx": 99
+    },
+    {
+        "input_1": "I thought that was mostly just the Dutch.",
+        "input_2": "In fact, it's just the Dutch.",
+        "output": "no",
+        "idx": 100
+    },
+    {
+        "input_1": "A man climbing a cliff face.",
+        "input_2": "A man climbs a sheer cliff face.",
+        "output": "yes",
+        "idx": 101
+    },
+    {
+        "input_1": "New Zealand set to legalise gay marriage",
+        "input_2": "New Zealand votes to legalise same-sex marriage",
+        "output": "yes",
+        "idx": 102
+    },
+    {
+        "input_1": "Advancing issues outnumbered decliners about 8 to 5 on the New York Stock Exchange.",
+        "input_2": "Declining issues outnumbered advancers slightly more than 3 to 1 on the New York Stock Exchange.",
+        "output": "no",
+        "idx": 103
+    },
+    {
+        "input_1": "A woman is tapping her fingers on a table.",
+        "input_2": "A woman is tapping her fingers.",
+        "output": "yes",
+        "idx": 104
+    },
+    {
+        "input_1": "They have actually showed a cooling trend since  due to the recent decline.",
+        "input_2": "get a cooling trend from  because of the recent decline.",
+        "output": "yes",
+        "idx": 105
+    },
+    {
+        "input_1": "A person is frying.",
+        "input_2": "A person is peeling a potato.",
+        "output": "no",
+        "idx": 106
+    },
+    {
+        "input_1": "Garner said the self-proclaimed mayor of Baghdad, Mohammed Mohsen al-Zubaidi, was released after two days in coalition custody.",
+        "input_2": "Garner said self-proclaimed Baghdad mayor Mohammed Mohsen Zubaidi was released 48 hours after his detention in late April.",
+        "output": "yes",
+        "idx": 107
+    },
+    {
+        "input_1": "We intend to appeal vigorously and still expect to be vindicated ultimately.",
+        "input_2": "We think this was bad law, and we still expect to be vindicated ultimately.",
+        "output": "no",
+        "idx": 108
+    },
+    {
+        "input_1": "Thousands evacuated in Moscow metro fire",
+        "input_2": "Thousands evacuated after fire breaks out in Moscow Metro",
+        "output": "yes",
+        "idx": 109
+    },
+    {
+        "input_1": "Meningitis is an infection of the spinal cord fluid and the tissue around the brain.",
+        "input_2": "Meningitis is an infection of the fluid in a person's spinal cord and around the brain.",
+        "output": "yes",
+        "idx": 110
+    },
+    {
+        "input_1": "An injured woman co-worker also was hospitalized and was listed in good condition.",
+        "input_2": "A woman was listed in good condition at Memorial's HealthPark campus, he said.",
+        "output": "no",
+        "idx": 111
+    },
+    {
+        "input_1": "The findings are published in the November 6 edition of the journal Nature.",
+        "input_2": "Both studies are published on Thursday in Nature, the British weekly science journal.",
+        "output": "no",
+        "idx": 112
+    },
+    {
+        "input_1": "A flat screen TV on the floor.",
+        "input_2": "A flat-screen TV sits on the floor.",
+        "output": "yes",
+        "idx": 113
+    },
+    {
+        "input_1": "You should put scientists on a pedestal.",
+        "input_2": "Why do people like you put scientist on a pedestal?",
+        "output": "no",
+        "idx": 114
+    },
+    {
+        "input_1": "two puppies playing around in the grass",
+        "input_2": "Two puppies play in the grass",
+        "output": "yes",
+        "idx": 115
+    },
+    {
+        "input_1": "Australia to establish the world's largest marine reserve",
+        "input_2": "Australia creates world's largest marine reserves",
+        "output": "yes",
+        "idx": 116
+    },
+    {
+        "input_1": "Five birds stand on the snow.",
+        "input_2": "Several cardinals stand in the snow.",
+        "output": "yes",
+        "idx": 117
+    },
+    {
+        "input_1": "Red Cross worker killed in Pakistan",
+        "input_2": "Kidnapped UK aid worker killed in Pakistan",
+        "output": "no",
+        "idx": 118
+    },
+    {
+        "input_1": "A woman is slicing an onion.",
+        "input_2": "A man is shown slicing a carrot with a knife.",
+        "output": "no",
+        "idx": 119
+    },
+    {
+        "input_1": "Chinese president meets Indian vice president",
+        "input_2": "Chinese president meets U.S. state secretary",
+        "output": "no",
+        "idx": 120
+    },
+    {
+        "input_1": "Obama lauds progress on gay rights in inaugural address",
+        "input_2": "Thousands protest gay marriage in France",
+        "output": "no",
+        "idx": 121
+    },
+    {
+        "input_1": "The man is eating pizza.",
+        "input_2": "A man is eating a slice of pizza.",
+        "output": "yes",
+        "idx": 122
+    },
+    {
+        "input_1": "Bangladesh factory owners arrested as death toll nears 350",
+        "input_2": "Bangladesh factory owners arrested",
+        "output": "no",
+        "idx": 123
+    },
+    {
+        "input_1": "Russia finds dead lawyer Magnitsky guilty in posthumous trial",
+        "input_2": "Russia convicts dead lawyer Magnitsky in posthumous trial",
+        "output": "yes",
+        "idx": 124
+    },
+    {
+        "input_1": "Wal-Mart estimates more than 100 million Americans visit their stores every week.",
+        "input_2": "Each week 138 million shoppers visit Wal-Mart's 4,750 stores.",
+        "output": "no",
+        "idx": 125
+    },
+    {
+        "input_1": "Influential Palestinians Seek One Democratic State",
+        "input_2": "Arab League Backs Palestinian Stance in Peace Talks",
+        "output": "no",
+        "idx": 126
+    },
+    {
+        "input_1": "Has Annie ever used her sexuality like that?",
+        "input_2": "One word: Zombies Has Annie ever used her sexuality like that?",
+        "output": "yes",
+        "idx": 127
+    },
+    {
+        "input_1": "A group of river barges with trees in the background.",
+        "input_2": "A young girl wearing a bike helmet with a bicycle in the background.",
+        "output": "no",
+        "idx": 128
+    },
+    {
+        "input_1": "indian nationals constitute the largest number of foreign inmates in nepal prisons.",
+        "input_2": "drug traffickers from foreign countries constitute the largest percentage of foreign inmates in nepal.",
+        "output": "no",
+        "idx": 129
+    },
+    {
+        "input_1": "No Thatcherite can ever call themselves a libertarian.",
+        "input_2": "Ergo it offends me when Thatcherites call themselves libertarian.",
+        "output": "no",
+        "idx": 130
+    },
+    {
+        "input_1": "A group of people are firing up a hot air balloon.",
+        "input_2": "A large group of people riding brown and white horses.",
+        "output": "no",
+        "idx": 131
+    },
+    {
+        "input_1": "Thai opposition protesters begin Bangkok shutdown",
+        "input_2": "Thai protesters launch Bangkok 'shutdown'",
+        "output": "yes",
+        "idx": 132
+    },
+    {
+        "input_1": "Two U.S. soldiers shot, killed by Afghan soldier",
+        "input_2": "Two British soldiers killed by Afghan policeman",
+        "output": "no",
+        "idx": 133
+    },
+    {
+        "input_1": "A slow loris bites a persons fingers.",
+        "input_2": "A small animal is chewing on a finger.",
+        "output": "no",
+        "idx": 134
+    },
+    {
+        "input_1": "Coronation Street's Bill Roache Arrested",
+        "input_2": "Coronation Street stars hail 'amazing' new set",
+        "output": "no",
+        "idx": 135
+    },
+    {
+        "input_1": "A dog is jumping into a swimming pool after a duck.",
+        "input_2": "A dog jumping into a swimming pool.",
+        "output": "no",
+        "idx": 136
+    },
+    {
+        "input_1": "A girl is wearing a purple sash and matching skirt.",
+        "input_2": "A group of girls stands wearing jean skirts and superman shirts.",
+        "output": "no",
+        "idx": 137
+    },
+    {
+        "input_1": "Captain of sunken South Korean ferry arrested",
+        "input_2": "Captain of capsized S Korean Ferry Arrested",
+        "output": "yes",
+        "idx": 138
+    },
+    {
+        "input_1": "Two girls are in pajama pants and appear to be dancing.",
+        "input_2": "Two girls with baseball caps are eating a snack outside.",
+        "output": "no",
+        "idx": 139
+    },
+    {
+        "input_1": "'Scores of bodies' found in Syria",
+        "input_2": "Eight more bodies found on ship",
+        "output": "no",
+        "idx": 140
+    },
+    {
+        "input_1": "Three dogs racing on a dirt track",
+        "input_2": "Cars racing on a dirt track",
+        "output": "no",
+        "idx": 141
+    },
+    {
+        "input_1": "The man poses for a photo in front of the train.",
+        "input_2": "A man stands on a platform in front of a silver train.",
+        "output": "no",
+        "idx": 142
+    },
+    {
+        "input_1": "Olivia Colman wins second BAFTA Award",
+        "input_2": "Baftas 2013: Olivia Colman picks up two awards",
+        "output": "yes",
+        "idx": 143
+    },
+    {
+        "input_1": "The currency briefly weakened slightly on Monday to trade at 55.34/39, not far from its record low of 55.75.",
+        "input_2": "The currency briefly weakened on Monday morning but rebounded to trade at 55.25/29, little changed from Friday.",
+        "output": "no",
+        "idx": 144
+    },
+    {
+        "input_1": "Cone threw an  game.",
+        "input_2": "Addie Joss Cone threw an  game.",
+        "output": "yes",
+        "idx": 145
+    },
+    {
+        "input_1": "10 Things to Know for Wednesday",
+        "input_2": "10 Things to Know for Today",
+        "output": "no",
+        "idx": 146
+    },
+    {
+        "input_1": "London-based NCRI official Ali Safavi told Reuters: \"We condemn this raid, which is in our view illegal and morally and politically unjustifiable.\"",
+        "input_2": "\"We condemn this raid which is in our view illegal and morally and politically unjustifiable,\" London-based NCRI official Ali Safavi told Reuters by telephone.",
+        "output": "yes",
+        "idx": 147
+    },
+    {
+        "input_1": "Critics say the law violates civil liberties, something House Judiciary Committee Chairman James Sensenbrenner, R-Wis., says he is sensitive to.",
+        "input_2": "House Judiciary Committee Chairman James Sensenbrenner, R-Wis., says he is sensitive to civil liberties complaints.",
+        "output": "yes",
+        "idx": 148
+    },
+    {
+        "input_1": "The people threw the dummy over the cliff edge.",
+        "input_2": "Some people are throwing a dummy off a cliff.",
+        "output": "yes",
+        "idx": 149
+    },
+    {
+        "input_1": "On the upside, Coca-Cola Co. (nyse: KO - news - people) reported higher profit for the quarter early on Thursday, helped by European demand.",
+        "input_2": "Coca-Cola Co. (KO) reported higher profit for the quarter, helped by European demand, early on Thursday.",
+        "output": "yes",
+        "idx": 150
+    },
+    {
+        "input_1": "Fish are swimming.",
+        "input_2": "A fish is swimming.",
+        "output": "yes",
+        "idx": 151
+    },
+    {
+        "input_1": "Saudi to give Lebanese army $3 billion",
+        "input_2": "Saudi Arabia to grant Lebanese army $3 billion",
+        "output": "yes",
+        "idx": 152
+    },
+    {
+        "input_1": "Red Sox beat Tigers to reach World Series",
+        "input_2": "Red Sox beat Tigers 5-2 to advance to World Series",
+        "output": "yes",
+        "idx": 153
+    },
+    {
+        "input_1": "6 Killed by Hot Lava as Indonesia Volcano Erupts",
+        "input_2": "Five dead in Indonesian eruption",
+        "output": "no",
+        "idx": 154
+    },
+    {
+        "input_1": "NATO Soldier Killed In Afghan Attack",
+        "input_2": "NATO soldier killed in S. Afghanistan",
+        "output": "yes",
+        "idx": 155
+    },
+    {
+        "input_1": "The benchmark 10-year note US10YT=RR lost 11/32 in price, taking its yield to 3.21 percent from 3.17 percent late on Monday.",
+        "input_2": "Further out the curve, the benchmark 10-year note US10YT=RR shed 18/32 in price, taking its yield to 3.24 percent from 3.17 percent.",
+        "output": "no",
+        "idx": 156
+    },
+    {
+        "input_1": "Talabani told him the Governing Council would \"need UN assistance and advice in implementing the new decisions which have been taken.\"",
+        "input_2": "Talabani told him Iraqi leaders would \"need U.N. assistance and advice in implementing the new decisions which have been taken\" on organising an interim Iraqi government by June.",
+        "output": "no",
+        "idx": 157
+    },
+    {
+        "input_1": "A person is folding a piece of paper.",
+        "input_2": "Someone is folding a piece of paper.",
+        "output": "yes",
+        "idx": 158
+    },
+    {
+        "input_1": "The technology-laced Nasdaq Composite Index .IXIC rose 39.39 points, or 2.2 percent, to 1,826.33, after losing more than 2 percent on Tuesday.",
+        "input_2": "The blue-chip Dow Jones industrial average .DJI jumped 194.14 points, or 2.09 percent, to 9,469.20 after sinking more than 1 percent a day earlier.",
+        "output": "no",
+        "idx": 159
+    },
+    {
+        "input_1": "A man is slicing vegetables.",
+        "input_2": "A woman is slicing a potato.",
+        "output": "no",
+        "idx": 160
+    },
+    {
+        "input_1": "Egyptian military spokesman denounces incitement against army",
+        "input_2": "Labor ministry announcement due on Monday",
+        "output": "no",
+        "idx": 161
+    },
+    {
+        "input_1": "Pratt &Whitney had said that 75 per cent of the engine equipment would be outsourced to Europe, with final assembly in Germany.",
+        "input_2": "Pratt & Whitney had said that if it won the contract 75 per cent of the engine equipment would be outsourced to European suppliers, with final assembly in Germany.",
+        "output": "yes",
+        "idx": 162
+    },
+    {
+        "input_1": "Kerry: $4b Palestinian Economic Plan Could Work",
+        "input_2": "Kerry: No deal yet in nuclear talks with Iran",
+        "output": "no",
+        "idx": 163
+    },
+    {
+        "input_1": "\"Americans don't cut and run, we have to see this misadventure through,\" she said.",
+        "input_2": "She also pledged to bring peace to Iraq: \"Americans don't cut and run, we have to see this misadventure through.\"",
+        "output": "yes",
+        "idx": 164
+    },
+    {
+        "input_1": "The dog is barking at the toy.",
+        "input_2": "A dog is barking at a toy.",
+        "output": "yes",
+        "idx": 165
+    },
+    {
+        "input_1": "Two girls on the shore watch people in a boat fish.",
+        "input_2": "Two males, one in red and one in white playing a basketball game.",
+        "output": "no",
+        "idx": 166
+    },
+    {
+        "input_1": "A woman slices tofu.",
+        "input_2": "A woman is cutting tofu.",
+        "output": "yes",
+        "idx": 167
+    },
+    {
+        "input_1": "A boy is playing piano and singing.",
+        "input_2": "A pig is agitating a lion.",
+        "output": "no",
+        "idx": 168
+    },
+    {
+        "input_1": "Tsunami warning: No need for SA to panic",
+        "input_2": "Tsunami warning after Aceh quake",
+        "output": "no",
+        "idx": 169
+    },
+    {
+        "input_1": "Mali hunts jihadist nightclub killers",
+        "input_2": "Militants attack UN as Mali hunts jihadist nightclub killers",
+        "output": "no",
+        "idx": 170
+    },
+    {
+        "input_1": "A man is playing on his keyboard.",
+        "input_2": "A man is playing a guitar.",
+        "output": "no",
+        "idx": 171
+    },
+    {
+        "input_1": "One had also pointed to the word refugee in an English/Turkish dictionary.",
+        "input_2": "One man had brandished an English-Turkish dictionary and pointed to the word \"refugee\".",
+        "output": "yes",
+        "idx": 172
+    },
+    {
+        "input_1": "last week russia announced that it will suspend participation in the cfe.",
+        "input_2": "nato regrets russia's decision to suspend participation in the cfe.",
+        "output": "no",
+        "idx": 173
+    },
+    {
+        "input_1": "International rescue workers are scouring flattened debris for survivors in Iran's shattered ancient Silk Road city of Bam after a violent earthquake killed more than 20,000 people.",
+        "input_2": "International rescue workers hacked desperately through flattened debris for survivors and cemeteries overflowed in Iran's ancient Silk Road city of Bam yesterday.",
+        "output": "no",
+        "idx": 174
+    },
+    {
+        "input_1": "U.S. drone strike kills 10 in northwest Pakistan",
+        "input_2": "US drone in Pakistan kills 10 suspected militants",
+        "output": "yes",
+        "idx": 175
+    },
+    {
+        "input_1": "Iraq army fights to retake Tikrit",
+        "input_2": "Iraq army claims victory in Tikrit",
+        "output": "no",
+        "idx": 176
+    },
+    {
+        "input_1": "Committee nears final big immigration decisions",
+        "input_2": "Senate Judiciary Committee nearing final big decisions in shaping immigration bill",
+        "output": "no",
+        "idx": 177
+    },
+    {
+        "input_1": "Besides Hampton and Newport News, the grant funds water testing in Yorktown, King George County, Norfolk and Virginia Beach.",
+        "input_2": "The grant also funds beach testing in King George County, Norfolk and Virginia Beach.",
+        "output": "no",
+        "idx": 178
+    },
+    {
+        "input_1": "Thieves snatch English Channel swimmer's custom-made wheelchair",
+        "input_2": "Thieves steal Channel swimmer's wheelchair",
+        "output": "yes",
+        "idx": 179
+    },
+    {
+        "input_1": "A couple are running towards the ocean.",
+        "input_2": "A man and and woman are running together, holding hands.",
+        "output": "no",
+        "idx": 180
+    },
+    {
+        "input_1": "That package included increases to both the city's sales and income taxes.",
+        "input_2": "He also objects to the sales and personal income tax increases in the package.",
+        "output": "no",
+        "idx": 181
+    },
+    {
+        "input_1": "Warm , maybe record.",
+        "input_2": "Warmer , almost certainly a record.",
+        "output": "yes",
+        "idx": 182
+    },
+    {
+        "input_1": "If you asked , conservatives, the numbers will be skewed to the right.",
+        "input_2": "If you asked , progressives, the numbers would be skewed to the left.",
+        "output": "no",
+        "idx": 183
+    },
+    {
+        "input_1": "The one that has  walks home afterwards and goes to sleep.",
+        "input_2": "The one that has three walks home and beats his wife.",
+        "output": "no",
+        "idx": 184
+    },
+    {
+        "input_1": "Hajj to go ahead despite crane collapse, officials vow",
+        "input_2": "Hajj to go ahead despite crane collapse",
+        "output": "yes",
+        "idx": 185
+    },
+    {
+        "input_1": "A man is cutting a potato.",
+        "input_2": "A woman is cutting a tomato.",
+        "output": "no",
+        "idx": 186
+    },
+    {
+        "input_1": "Syria peace plan conditions \u201cunacceptable,\u201d opposition says",
+        "input_2": "Syria peace dashed as deadline passes",
+        "output": "no",
+        "idx": 187
+    },
+    {
+        "input_1": "spain currently holds the rotating presidency of the osce.",
+        "input_2": "spain currently holds the osce's presidency.",
+        "output": "yes",
+        "idx": 188
+    },
+    {
+        "input_1": "Jury nullification has NOTHING to do with the Constitutionality of laws.",
+        "input_2": "Jury nullification means a law isn't Constitutional?",
+        "output": "no",
+        "idx": 189
+    },
+    {
+        "input_1": "Two foxes are eating from a plate on a brick patio.",
+        "input_2": "Foxes are eating from a plate.",
+        "output": "no",
+        "idx": 190
+    },
+    {
+        "input_1": "A jockey riding a horse.",
+        "input_2": "A jockey riding a horse in a pen.",
+        "output": "yes",
+        "idx": 191
+    },
+    {
+        "input_1": "Two white cows in a green pasture.",
+        "input_2": "The tan horse is in the pasture.",
+        "output": "no",
+        "idx": 192
+    },
+    {
+        "input_1": "Texans saddled with skyrocketing homeowners premiums might finally be getting relief.",
+        "input_2": "Relief is in sight for Texans saddled with skyrocketing homeowners insurance premiums.",
+        "output": "yes",
+        "idx": 193
+    },
+    {
+        "input_1": "A chef is cleaning up a bowl of soup.",
+        "input_2": "A man is wiping the edge of a bowl off.",
+        "output": "no",
+        "idx": 194
+    },
+    {
+        "input_1": "india and pakistan remain outside the treaty.",
+        "input_2": "israel remains outside the treaty.",
+        "output": "no",
+        "idx": 195
+    },
+    {
+        "input_1": "A man is diving into a swimming pool.",
+        "input_2": "A man is singing into a microphone.",
+        "output": "no",
+        "idx": 196
+    },
+    {
+        "input_1": "Avengers sets box office record",
+        "input_2": "'Hunger Games' sets box office records",
+        "output": "no",
+        "idx": 197
+    },
+    {
+        "input_1": "He said European governments \"have blocked all new bio-crops because of unfounded, unscientific fears.",
+        "input_2": "\"They have blocked all new bio-crops because of unfounded, unscientific fears,\" Bush said.",
+        "output": "no",
+        "idx": 198
+    },
+    {
+        "input_1": "3 dead, 27 injured in SW China accident",
+        "input_2": "35 dead and 165 missing in India boat accident",
+        "output": "no",
+        "idx": 199
+    },
+    {
+        "input_1": "A man in a straw hat shades his phone while others walk on a busy sidewalk.",
+        "input_2": "A man lies on a street with his headand shoulders under a parked car that is jacked up.",
+        "output": "no",
+        "idx": 200
+    },
+    {
+        "input_1": "Gunmen kill 9 foreign tourists, 1 Pakistani",
+        "input_2": "Gunmen Kill 11 Foreign Tourists in Pakistan",
+        "output": "no",
+        "idx": 201
+    },
+    {
+        "input_1": "The man is sitting at the top of a rocky mountain.",
+        "input_2": "A person sticks their head out of a tent at the top of a mountain.",
+        "output": "no",
+        "idx": 202
+    },
+    {
+        "input_1": "Two constructions workers sit on a beam taking a break.",
+        "input_2": "The man is putting on his shirt near an elevator.",
+        "output": "no",
+        "idx": 203
+    },
+    {
+        "input_1": "If I'm angry, it will show up in one of those scans..",
+        "input_2": "If I'm hyper active, it will show up in one of those scans..",
+        "output": "no",
+        "idx": 204
+    },
+    {
+        "input_1": "A man is lifting weights.",
+        "input_2": "A woman is exercising her abs.",
+        "output": "no",
+        "idx": 205
+    },
+    {
+        "input_1": "A young girl riding a white and grey horse.",
+        "input_2": "a little girl is riding a white and grey horse.",
+        "output": "yes",
+        "idx": 206
+    },
+    {
+        "input_1": "Dzhokhar Tsarnaev pleads not guilty to Boston bombing charges",
+        "input_2": "Dzhokhar Tsarnaev charged in Boston Marathon bombing",
+        "output": "no",
+        "idx": 207
+    },
+    {
+        "input_1": "Three dogs in the snow by a fence.",
+        "input_2": "Two dogs drink water in a lake.",
+        "output": "no",
+        "idx": 208
+    },
+    {
+        "input_1": "Israel and Hamas to observe brief Gaza truce",
+        "input_2": "Israel And Hamas 'Accept Temporary Truce'",
+        "output": "yes",
+        "idx": 209
+    },
+    {
+        "input_1": "An animal is walking.",
+        "input_2": "A woman is applying eye makeup.",
+        "output": "no",
+        "idx": 210
+    },
+    {
+        "input_1": "Anti-American Protests Over Film Expand to Nearly 20 Countries",
+        "input_2": "Anti-American fury sweeps Middle East over film",
+        "output": "yes",
+        "idx": 211
+    },
+    {
+        "input_1": "A black and white cow standing in a grassy field.",
+        "input_2": "a black and white cow standing in the field.",
+        "output": "yes",
+        "idx": 212
+    },
+    {
+        "input_1": "The animal is eating.",
+        "input_2": "A woman is dancing.",
+        "output": "no",
+        "idx": 213
+    },
+    {
+        "input_1": "Stone notified Captain Lord.",
+        "input_2": "He too notified Captain Lord.",
+        "output": "no",
+        "idx": 214
+    },
+    {
+        "input_1": "There is no more egg cell post-fertilization.",
+        "input_2": "There is no more sperm cell.",
+        "output": "no",
+        "idx": 215
+    },
+    {
+        "input_1": "Hockey goal-keeper laying on the ice in front of net.",
+        "input_2": "A hockey player is laying on the ice in front of the goal.",
+        "output": "yes",
+        "idx": 216
+    },
+    {
+        "input_1": "A man is playing a guitar.",
+        "input_2": "A boy is playing a piano.",
+        "output": "no",
+        "idx": 217
+    },
+    {
+        "input_1": "Iran, a large important partner for Russia: Novak",
+        "input_2": "Iran reiterates support for Iraq, Syria",
+        "output": "no",
+        "idx": 218
+    },
+    {
+        "input_1": "A person peels shrimp.",
+        "input_2": "The lady peeled the shrimp.",
+        "output": "no",
+        "idx": 219
+    },
+    {
+        "input_1": "The Note's Must-Reads for Friday May 24, 2013",
+        "input_2": "The Note's Must-Reads for Tuesday October 29, 2013",
+        "output": "no",
+        "idx": 220
+    },
+    {
+        "input_1": "Is it legal to grow?",
+        "input_2": "Yes, it's legal to grow.",
+        "output": "no",
+        "idx": 221
+    },
+    {
+        "input_1": "A cat is playing with an antenna.",
+        "input_2": "A boy is playing in the mud.",
+        "output": "no",
+        "idx": 222
+    },
+    {
+        "input_1": "We never got out of it in the first place!",
+        "input_2": "Where does the money come from in the first place?",
+        "output": "no",
+        "idx": 223
+    },
+    {
+        "input_1": "Aussie surfers find stricken asylum seekers",
+        "input_2": "Mayday: fears for asylum seekers",
+        "output": "no",
+        "idx": 224
+    },
+    {
+        "input_1": "A man is talking on the phone.",
+        "input_2": "A man is talking.",
+        "output": "no",
+        "idx": 225
+    },
+    {
+        "input_1": "A female applies something to he hair with her hands.",
+        "input_2": "A cat is eating a slice of watermelon.",
+        "output": "no",
+        "idx": 226
+    },
+    {
+        "input_1": "Janet Yellen to become first woman to lead the Federal Reserve",
+        "input_2": "US Senate confirms Janet Yellen as US Federal Reserve chief",
+        "output": "yes",
+        "idx": 227
+    },
+    {
+        "input_1": "Two people sitting at a table at a restaurant.",
+        "input_2": "A group of people sitting around a table on a porch.",
+        "output": "no",
+        "idx": 228
+    },
+    {
+        "input_1": "An airplane facing the camera.",
+        "input_2": "A lone cow sits in the cold of the yard.",
+        "output": "no",
+        "idx": 229
+    },
+    {
+        "input_1": "A group of people sitting around a desk.",
+        "input_2": "A group of girls on a beach.",
+        "output": "no",
+        "idx": 230
+    },
+    {
+        "input_1": "Obama and Romney focus on swing-states",
+        "input_2": "Team Anna yet to decide on contesting state polls",
+        "output": "no",
+        "idx": 231
+    },
+    {
+        "input_1": "\"This case was both mentally challenging and emotionally exhausting,\" said the foreman, Jim Wolfcale, a 41-year-old minister.",
+        "input_2": "Jim Wolfcale, the jury foreman and a minister, said, \"This case was both mentally challenging and emotionally exhausting.\"",
+        "output": "yes",
+        "idx": 232
+    },
+    {
+        "input_1": "Thailand: Iranians planned to attack Israelis",
+        "input_2": "Malaysia to extradite Iranian for attack on Israelis",
+        "output": "no",
+        "idx": 233
+    },
+    {
+        "input_1": "The new study does not support your claim.",
+        "input_2": "The physical evidence does not support your claim.",
+        "output": "no",
+        "idx": 234
+    },
+    {
+        "input_1": "A man is eating.",
+        "input_2": "A woman is rock climbing.",
+        "output": "no",
+        "idx": 235
+    },
+    {
+        "input_1": "china will resolutely oppose the means of the delivery of mass destructive weapons.",
+        "input_2": "china has always opposed the proliferation of weapons of mass destruction.",
+        "output": "yes",
+        "idx": 236
+    },
+    {
+        "input_1": "n.r. mohanty stated that an agreement had been signed between the defense research and development organisation, hindustan aeronautics limited and the indian air force to upgrade india's ageing fleet of mig-27 m aircraft.",
+        "input_2": "mohanty stated that the upgrade will be done soon as it has almost been finalised by the defense research and development organisation, hindustan aeronautics limited and the indian air force.",
+        "output": "no",
+        "idx": 237
+    },
+    {
+        "input_1": "Nigel Farage calls on Government to let Syrian refugees into UK",
+        "input_2": "'No plans' to resettle Syrian refugees in the UK",
+        "output": "no",
+        "idx": 238
+    },
+    {
+        "input_1": "Egypt's leader imposes state of emergency in 3 cities",
+        "input_2": "Egypt president declares state of emergency in three cities",
+        "output": "yes",
+        "idx": 239
+    },
+    {
+        "input_1": "The lady put the dried noodles in the hot water to cook.",
+        "input_2": "A woman places a container of noodles in a pan of water.",
+        "output": "yes",
+        "idx": 240
+    },
+    {
+        "input_1": "russia had threatened several times to withdraw from the cfe when it was at odds with the united states over u.s. plans to install a missile defense shield in eastern",
+        "input_2": "russia has repeatedly threatened withdrawal from the cfe in opposition to plans for the extension of the us missile defense shield to eastern europe.",
+        "output": "yes",
+        "idx": 241
+    },
+    {
+        "input_1": "A women sitting in a chair at Christmas holding make up.",
+        "input_2": "A train sitting on the tracks in a train yard.",
+        "output": "no",
+        "idx": 242
+    },
+    {
+        "input_1": "Relief in Boston as second suspect captured",
+        "input_2": "Police confirm how suspect was captured",
+        "output": "no",
+        "idx": 243
+    },
+    {
+        "input_1": "Sorkin, who faces charges of conspiracy to obstruct justice and lying to a grand jury, was to have been tried separately.",
+        "input_2": "Sorkin was to have been tried separately on charges of conspiracy and lying to a grand jury.",
+        "output": "yes",
+        "idx": 244
+    },
+    {
+        "input_1": "libyan foreign minister abdel rahman shalgam visited london during the first visit by a libyan foreign minister since 1969.",
+        "input_2": "shalgam's visit to london is the first by a libyan foreign minister since 1969.",
+        "output": "yes",
+        "idx": 245
+    },
+    {
+        "input_1": "China yuan strengthens to new high against USD",
+        "input_2": "China yuan weakens to 6.1705 against USD",
+        "output": "no",
+        "idx": 246
+    },
+    {
+        "input_1": "Yahoo! to name Google's Mayer as CEO: report",
+        "input_2": "Yahoo names Google exec Mayer as CEO",
+        "output": "yes",
+        "idx": 247
+    },
+    {
+        "input_1": "korobeynichev's laboratory worked with the u.s. lawrence livermore national laboratory.",
+        "input_2": "korobeynichev's laboratory worked with other scientific institutes.",
+        "output": "no",
+        "idx": 248
+    },
+    {
+        "input_1": "US gov't officially designates Haqqani network as terrorists",
+        "input_2": "US designates Haqqani network as terrorists",
+        "output": "yes",
+        "idx": 249
+    },
+    {
+        "input_1": "A woman is slicing some vegetables.",
+        "input_2": "The woman is dicing garlic.",
+        "output": "no",
+        "idx": 250
+    },
+    {
+        "input_1": "santos stated colombian police found the evidence in 2 computers discovered with slain rebel leader raul reyes.",
+        "input_2": "francisco santos stated that colombian police found the evidence on two computers discovered with raul reyes.",
+        "output": "yes",
+        "idx": 251
+    },
+    {
+        "input_1": "South Africa's Mandela taken to hospital",
+        "input_2": "Nelson Mandela taken to hospital",
+        "output": "yes",
+        "idx": 252
+    },
+    {
+        "input_1": "Israeli military court rejects appeal of Palestinian hunger striker",
+        "input_2": "Israel reaches deal with Palestinian hunger strikers",
+        "output": "no",
+        "idx": 253
+    },
+    {
+        "input_1": "Mr Hadley, who has a new partner and child, said: \"I am absolutely delighted.",
+        "input_2": "In a statement issued by his solicitors, Mr Hadley said: \"I am absolutely delighted with the outcome of proceedings.",
+        "output": "no",
+        "idx": 254
+    },
+    {
+        "input_1": "A group of four children dancing in a backyard.",
+        "input_2": "A group of children do stretches on colored mats.",
+        "output": "no",
+        "idx": 255
+    },
+    {
+        "input_1": "Four dead in Indonesia train accident",
+        "input_2": "Five dead as Indonesia train collides with fuel truck",
+        "output": "no",
+        "idx": 256
+    },
+    {
+        "input_1": "A man is playing the guitar.",
+        "input_2": "A man seated in a room is playing the guitar.",
+        "output": "yes",
+        "idx": 257
+    },
+    {
+        "input_1": "a breakdown of order in china will lead to significant global turmoil.",
+        "input_2": "a breakdown of order in china will be worse than in afghanistan or yugoslavia.",
+        "output": "no",
+        "idx": 258
+    },
+    {
+        "input_1": "Two U.S. soldiers killed in \"insider\" attack in Afghanistan",
+        "input_2": "8 soldiers killed in bomb attack in NW Pakistan",
+        "output": "no",
+        "idx": 259
+    },
+    {
+        "input_1": "The company is highlighting the addition of .NET and J2EE support to its Enterprise Application Environment (EAE) with the new mainframe.",
+        "input_2": "The company is also adding .Net and J2EE support to its Enterprise Application Environment development toolset, Sapp said.",
+        "output": "yes",
+        "idx": 260
+    },
+    {
+        "input_1": "South Asia follows, with 1.1 millions youths infected \u2014 62 percent of them female.",
+        "input_2": "Of the 1.1 million infected in south Asia, 62% are female.",
+        "output": "yes",
+        "idx": 261
+    },
+    {
+        "input_1": "Bradley Cooper and JJ Abrams in talks about filming a Lance Armstrong biopic",
+        "input_2": "Bradley Cooper in talks to play Lance Armstrong in biopic",
+        "output": "yes",
+        "idx": 262
+    },
+    {
+        "input_1": "A large white and grey dog runs through a yellow tunnel in an obstacle course.",
+        "input_2": "A white and black dog is running out of a yellow and orange tube.",
+        "output": "yes",
+        "idx": 263
+    },
+    {
+        "input_1": "A man in a white suit walks down the street holding a newspaper.",
+        "input_2": "A man in a white suit walks outside carrying a newspaper.",
+        "output": "yes",
+        "idx": 264
+    },
+    {
+        "input_1": "Syria condemns Israeli air strikes.",
+        "input_2": "Series of deadly attacks strikes Iraq",
+        "output": "no",
+        "idx": 265
+    },
+    {
+        "input_1": "General Myers told reporters that \"at first blush, it doesn't look like any rules were broken\".",
+        "input_2": "\"At first blush, it doesn't look like any rules were broken,\" said Gen. Richard Myers, chairman of the Joint Chiefs of Staff.",
+        "output": "yes",
+        "idx": 266
+    },
+    {
+        "input_1": "Like this  year old who was shot dead in a marijuana-related crime.",
+        "input_2": "Or the  year old boy shot dead with automatic weapons by marijuana dealers.",
+        "output": "yes",
+        "idx": 267
+    },
+    {
+        "input_1": "The turtle followed the fish.",
+        "input_2": "A sea turtle is hunting for fish.",
+        "output": "no",
+        "idx": 268
+    },
+    {
+        "input_1": "A large gray dog is playing in the deep snow.",
+        "input_2": "Four dogs playing in the snow.",
+        "output": "no",
+        "idx": 269
+    },
+    {
+        "input_1": "I'm going to shout for justice for Trayvon.",
+        "input_2": "The people shouting for justice for Trayvon are all hypocrites.",
+        "output": "no",
+        "idx": 270
+    },
+    {
+        "input_1": "A woman is slicing meat with a knife.",
+        "input_2": "A man is spreading out dough.",
+        "output": "no",
+        "idx": 271
+    },
+    {
+        "input_1": "IAC's stock closed yesterday down $2.81, or 7.6 percent, at $34.19.",
+        "input_2": "InterActiveCorp's shares closed at $34.19, down $2.81, or 7.6 percent on the Nasdaq Stock Market.",
+        "output": "yes",
+        "idx": 272
+    },
+    {
+        "input_1": "A man spreads butter on a big piece of bread.",
+        "input_2": "A man is smearing butter on a slice of garlic bread.",
+        "output": "no",
+        "idx": 273
+    },
+    {
+        "input_1": "A horse rider is riding a white horse.",
+        "input_2": "A woman leading a white horse.",
+        "output": "no",
+        "idx": 274
+    },
+    {
+        "input_1": "The murky waters of the South China Sea",
+        "input_2": "Peace lies over the South China Sea",
+        "output": "no",
+        "idx": 275
+    },
+    {
+        "input_1": "Car Bomb Kills 37 in Northwest Pakistan",
+        "input_2": "Bomb kills three in northwest Pakistan",
+        "output": "no",
+        "idx": 276
+    },
+    {
+        "input_1": "A man is playing a guitar.",
+        "input_2": "A man tries to read the paper.",
+        "output": "no",
+        "idx": 277
+    },
+    {
+        "input_1": "Australian PM says 'Very confident' signals are from black box",
+        "input_2": "Australian PM confident sounds are from Flight 370",
+        "output": "yes",
+        "idx": 278
+    },
+    {
+        "input_1": "Another said its members would continue to call the more than 50 million phone numbers on the Federal Trade Commission's list.",
+        "input_2": "Meantime, the Direct Marketing Association said its members should not call the nearly 51 million numbers on the list.",
+        "output": "no",
+        "idx": 279
+    },
+    {
+        "input_1": "Tsunami warning issued for southern Alaska",
+        "input_2": "Tsunami warning after Canada quake",
+        "output": "no",
+        "idx": 280
+    },
+    {
+        "input_1": "China stocks open lower on Wednesday",
+        "input_2": "China's stocks close lower on Monday",
+        "output": "no",
+        "idx": 281
+    },
+    {
+        "input_1": "They were at Raffles Hospital over the weekend for further evaluation.",
+        "input_2": "They underwent more tests over the weekend, and are now warded at Raffles Hospital.",
+        "output": "no",
+        "idx": 282
+    },
+    {
+        "input_1": "But U.S. troops will not shrink from mounting raids and attacking their foes when their locations can be pinpointed.",
+        "input_2": "But American troops will not shrink from mounting raids in the locations of their foes that can be pinpointed.",
+        "output": "yes",
+        "idx": 283
+    },
+    {
+        "input_1": "A person is boiling noodles.",
+        "input_2": "A woman is boiling noodles in water.",
+        "output": "yes",
+        "idx": 284
+    },
+    {
+        "input_1": "Someone is playing a piano.",
+        "input_2": "A man is playing a guitar.",
+        "output": "no",
+        "idx": 285
+    },
+    {
+        "input_1": "Still, the \"somewhat ambiguous ruling\" might be a setback for Static Control depending on how it developed its competing product, Merrill Lynch analyst Steven Milunovich said.",
+        "input_2": "But Merrill Lynch analyst Steven Milunovich said the \"somewhat ambiguous ruling\" by regulators might be a setback for Static Control depending on how it developed its competing product.",
+        "output": "yes",
+        "idx": 286
+    },
+    {
+        "input_1": "Corpses Of 53 Men Found South Of Baghdad",
+        "input_2": "Iraqi officials: 50 bodies found south of Baghdad",
+        "output": "yes",
+        "idx": 287
+    },
+    {
+        "input_1": "The SIA says the DRAM market is expected to grow 2.9 percent to $15.7 billion in 2003 and 43 percent to $22.5 billion in 2004.",
+        "input_2": "The Americas market will decline 2.1 percent to $30.6 billion in 2003, and then grow 15.7 percent to $35.4 billion in 2004.",
+        "output": "no",
+        "idx": 288
+    },
+    {
+        "input_1": "A man is getting into a car.",
+        "input_2": "A man is getting into a car in a garage.",
+        "output": "yes",
+        "idx": 289
+    },
+    {
+        "input_1": "Since being drafted into service in 1971, it has racked up a record 45 accidents, with 393 deaths.",
+        "input_2": "It has a chequered safety record, including 47 accidents that resulted in 668 deaths.",
+        "output": "no",
+        "idx": 290
+    },
+    {
+        "input_1": "In Hong Kong, 24 patients were quarantined Wednesday after seven public hospital workers developed flu-like symptoms.",
+        "input_2": "This after seven health care workers at a public hospital fell ill with flu-like symptoms.",
+        "output": "no",
+        "idx": 291
+    },
+    {
+        "input_1": "South Korea Says North Fired Missiles",
+        "input_2": "North Korea launches short-range missiles",
+        "output": "no",
+        "idx": 292
+    },
+    {
+        "input_1": "A living room with a dining table in the background.",
+        "input_2": "A boy doing a wheelie on a plank with the beach in the background.",
+        "output": "no",
+        "idx": 293
+    },
+    {
+        "input_1": "Mandela to spend Christmas in hospital",
+        "input_2": "Mandela movie to open this month in South Africa",
+        "output": "no",
+        "idx": 294
+    },
+    {
+        "input_1": "A man is playing a violin.",
+        "input_2": "A woman is using a sewing machine.",
+        "output": "no",
+        "idx": 295
+    },
+    {
+        "input_1": "Judge Leroy Millette Jr. can reduce the punishment to life in prison without parole when Muhammad is formally sentenced Feb. 12, but Virginia judges rarely take such action.",
+        "input_2": "Though the judge can reduce the punishment to life in prison without parole, experts say Virginia judges rarely take that opportunity.",
+        "output": "no",
+        "idx": 296
+    },
+    {
+        "input_1": "Jagan Reddy shifted to hospital, power crisis continues in Seemandhra",
+        "input_2": "Telangana: Jagan to spend Thursday in hospital; blackout continues in Seemandhra",
+        "output": "yes",
+        "idx": 297
+    },
+    {
+        "input_1": "Navy Jet Crashes Into Apartment Building",
+        "input_2": "US Navy Jet Crashes into Apartment Block",
+        "output": "yes",
+        "idx": 298
+    },
+    {
+        "input_1": "Costa's semifinal opponent is Spaniard Juan Carlos Ferrero, whom he beat in last year's final.",
+        "input_2": "Costa will play Juan Carlos Ferrero next in a rematch of last year's final.",
+        "output": "yes",
+        "idx": 299
+    },
+    {
+        "input_1": "Japan closes last nuclear reactor",
+        "input_2": "Japan switches off last nuclear power plant this weekend",
+        "output": "yes",
+        "idx": 300
+    },
+    {
+        "input_1": "The man talked on the telephone.",
+        "input_2": "The man is talking on the phone.",
+        "output": "yes",
+        "idx": 301
+    },
+    {
+        "input_1": "Jury nullification means a law isn't Constitutional?",
+        "input_2": "No. Jury nullification does not mean that a law is unconstuitutional.",
+        "output": "no",
+        "idx": 302
+    },
+    {
+        "input_1": "Long lines formed outside gas stations and people rushed to get money from cash machines Sunday as Israelis prepared to weather a strike that threatened to paralyze the country.",
+        "input_2": "Long lines formed Sunday outside gas stations and people rushed to get money from cash machines as Israelis braced for the strike's effects.",
+        "output": "yes",
+        "idx": 303
+    },
+    {
+        "input_1": "Manning sentenced to 35 years in prison",
+        "input_2": "Ariel Castro sentenced to 1,000 years in prison",
+        "output": "no",
+        "idx": 304
+    },
+    {
+        "input_1": "those who ignore history are doomed to repeat it.",
+        "input_2": "ooo strike TWO those who ignore history are doomed to repeat it.",
+        "output": "yes",
+        "idx": 305
+    },
+    {
+        "input_1": "4 foreign soldiers killed in Afghan east",
+        "input_2": "4 French Soldiers Reported Killed in Afghanistan",
+        "output": "yes",
+        "idx": 306
+    },
+    {
+        "input_1": "Men are running a race.",
+        "input_2": "Racers are running down a track.",
+        "output": "no",
+        "idx": 307
+    },
+    {
+        "input_1": "US drone strike kills six in Pakistan officials",
+        "input_2": "U.S. drone kills 4 militants in Pakistan",
+        "output": "no",
+        "idx": 308
+    },
+    {
+        "input_1": "Pena Nieto wins Mexico presidential vote: exit polls",
+        "input_2": "Poll: Putin to win Russia presidential vote",
+        "output": "no",
+        "idx": 309
+    },
+    {
+        "input_1": "Group of horses grazing in grassy field.",
+        "input_2": "A group of horses grazing in a field.",
+        "output": "yes",
+        "idx": 310
+    },
+    {
+        "input_1": "Suspected U.S. drone strike kills 5 in Pakistan",
+        "input_2": "Suspected US drone targets Islamic seminary in Pakistan",
+        "output": "no",
+        "idx": 311
+    },
+    {
+        "input_1": "French retirees will increase from one fifth to a third of the population by 2040.",
+        "input_2": "By 2040, retirees will account for a third of the population, up from a fifth today.",
+        "output": "yes",
+        "idx": 312
+    },
+    {
+        "input_1": "Earlier, he told France Inter-Radio, \"I think we can now qualify what is happening as a genuine epidemic.\"",
+        "input_2": "\"I think we can now qualify what is happening as a genuine epidemic,\" Health Minister Jean-Francois Mattei said on France Inter radio.",
+        "output": "no",
+        "idx": 313
+    },
+    {
+        "input_1": "After Hughes refused to rehire Hernandez, he complained to the Equal Employment Opportunity Commission.",
+        "input_2": "Hernandez filed an Equal Employment Opportunity Commission complaint and sued.",
+        "output": "no",
+        "idx": 314
+    },
+    {
+        "input_1": "In a statement distributed Friday, 28 Chechen non-governmental organizations said they would boycott the vote.",
+        "input_2": "In a statement distributed today, 28 Chechen non-governmental organisations said they would boycott the vote and warned voters to expect fraud.",
+        "output": "yes",
+        "idx": 315
+    },
+    {
+        "input_1": "Anti-government protesters storm the streets of Kyiv",
+        "input_2": "Ukraine protesters topple Lenin statue",
+        "output": "no",
+        "idx": 316
+    },
+    {
+        "input_1": "Australian PM Kevin Rudd calls election for 7 September",
+        "input_2": "Australian PM Rudd calls Sept. 7 poll",
+        "output": "yes",
+        "idx": 317
+    },
+    {
+        "input_1": "Shares of USA Interactive rose $2.28, or 7 percent, to $34.96 on Friday in Nasdaq Stock Market composite trading and have gained 53 percent this year.",
+        "input_2": "Shares of LendingTree rose $6.03, or 41 percent, to close at $20.72 on the Nasdaq stock market yesterday.",
+        "output": "no",
+        "idx": 318
+    },
+    {
+        "input_1": "iran insists that the program is aimed solely at peaceful pursuits such as the generation of",
+        "input_2": "iran insists that its nuclear program is for peaceful purposes",
+        "output": "yes",
+        "idx": 319
+    },
+    {
+        "input_1": "SARS went on to claim the lives of 44 people in the Toronto area, including two nurses and a doctor.",
+        "input_2": "The virus killed 44 people in the Toronto area, including one doctor and two nurses.",
+        "output": "no",
+        "idx": 320
+    },
+    {
+        "input_1": "The boy cut the grass by the curb with scissors.",
+        "input_2": "A boy cuts grass with scissors.",
+        "output": "yes",
+        "idx": 321
+    },
+    {
+        "input_1": "Iran's Rouhani warns of Talibanisation in Syria",
+        "input_2": "Russia, China Concerned About Israeli Airstrikes in Syria",
+        "output": "no",
+        "idx": 322
+    },
+    {
+        "input_1": "EU heaps new sanctions on Syria",
+        "input_2": "EU imposes new sanctions on Syrian regime",
+        "output": "yes",
+        "idx": 323
+    },
+    {
+        "input_1": "The government recently shelved peace talks with the MILF, being brokered by Malaysia, after a string of attacks, including three bombings, on Mindanao.",
+        "input_2": "The government recently shelved peace talks being brokered by neighbouring Malaysia after a spate of attacks on Mindanao, including three deadly bombings, that it blamed on the MILF.",
+        "output": "yes",
+        "idx": 324
+    },
+    {
+        "input_1": "Flash floods kill 58 in eastern Afghanistan",
+        "input_2": "Bomb wounds 16 in eastern Afghanistan",
+        "output": "no",
+        "idx": 325
+    },
+    {
+        "input_1": "A man standing on a boat is pulling another boat close by with a bamboo stick.",
+        "input_2": "a man in a black hat standing in front of a brick wall and a sign",
+        "output": "no",
+        "idx": 326
+    },
+    {
+        "input_1": "On Sunday, a U.S. soldier was killed and another injured in southern Iraq when a munitions dump exploded.",
+        "input_2": "On Sunday, a U.S. soldier was killed and another injured when a munitions dump they were guarding exploded in southern Iraq.",
+        "output": "yes",
+        "idx": 327
+    },
+    {
+        "input_1": "A woman plays the guitar.",
+        "input_2": "A man sings and plays the guitar.",
+        "output": "no",
+        "idx": 328
+    },
+    {
+        "input_1": "Russia releases Greenpeace doctor",
+        "input_2": "Russian court releases Greenpeace ship doctor on bail",
+        "output": "yes",
+        "idx": 329
+    },
+    {
+        "input_1": "U.S. prosecutors have arrested more than 130 individuals and have seized more than $17 million in a continuing crackdown on Internet fraud and abuse.",
+        "input_2": "More than 130 people have been arrested and $17 million worth of property seized in an Internet fraud sweep announced Friday by three U.S. government agencies.",
+        "output": "yes",
+        "idx": 330
+    },
+    {
+        "input_1": "A person is cutting a potato.",
+        "input_2": "A person is slicing a shallot.",
+        "output": "no",
+        "idx": 331
+    },
+    {
+        "input_1": "A child with his hands on his head.",
+        "input_2": "A little boy stands with his hands on top of his head",
+        "output": "yes",
+        "idx": 332
+    },
+    {
+        "input_1": "five people standing on a sidewalk",
+        "input_2": "Five people on a sidewalk.",
+        "output": "yes",
+        "idx": 333
+    },
+    {
+        "input_1": "Telemarketers who call numbers on the list after Oct. 1 could face fines of up to $11,000 per call.",
+        "input_2": "Under the law, telemarketers who call numbers on the list can be fined up to $11,000 for each violation.",
+        "output": "yes",
+        "idx": 334
+    },
+    {
+        "input_1": "Three dead, including gunman, in Maryland mall shooting",
+        "input_2": "3 dead in Maryland mall shooting",
+        "output": "yes",
+        "idx": 335
+    },
+    {
+        "input_1": "Khan Said named as new Pakistani Taliban leader after Hakimullah Mehsud killed in drone strike",
+        "input_2": "Pakistani Taliban chief Hakimullah Mehsud killed in drone strike",
+        "output": "no",
+        "idx": 336
+    },
+    {
+        "input_1": "A girl playing is a pile of colorful balls.",
+        "input_2": "A little girl plays in a pit of colorful balls.",
+        "output": "yes",
+        "idx": 337
+    },
+    {
+        "input_1": "the legislation is the most recent effort by japan to ascribe more freedom to its tightly controlled military and would overturn a ban on the military use of space.",
+        "input_2": "the legislation is the most recent effort by japan to ascribe more freedom to the tightly controlled military technically known as a self-defense force.",
+        "output": "yes",
+        "idx": 338
+    },
+    {
+        "input_1": "A black dog is walking on the grass with a stick in it's mouth.",
+        "input_2": "A boy holds a net with a snake in it close to the ground.",
+        "output": "no",
+        "idx": 339
+    },
+    {
+        "input_1": "Mandela released from hospital",
+        "input_2": "Israeli president released from hospital",
+        "output": "no",
+        "idx": 340
+    },
+    {
+        "input_1": "A man is playing a guitar.",
+        "input_2": "A man is stabbing a target.",
+        "output": "no",
+        "idx": 341
+    },
+    {
+        "input_1": "Yellow boat on a beach.",
+        "input_2": "A yellow boat on shore.",
+        "output": "yes",
+        "idx": 342
+    },
+    {
+        "input_1": "The woman is pencilling on eye shadow.",
+        "input_2": "The girl is using an eye pencil on her eyelid.",
+        "output": "no",
+        "idx": 343
+    },
+    {
+        "input_1": "Miliband pledges to strengthen minimum wage",
+        "input_2": "Portugal-China to strengthen scientific research ties",
+        "output": "no",
+        "idx": 344
+    },
+    {
+        "input_1": "Shares of LendingTree rose $6.21, or 42 percent, to $20.90 after hitting $21.36 earlier.",
+        "input_2": "LendingTree shares rose 43 percent, or $6.31, to $21, more than doubling in the last two months.",
+        "output": "no",
+        "idx": 345
+    },
+    {
+        "input_1": "Pakistani plane crashes with 127 on board",
+        "input_2": "Pakistani Plane Crashes With 130 People On Board",
+        "output": "no",
+        "idx": 346
+    },
+    {
+        "input_1": "A bicycle is parked outside a bookstore.",
+        "input_2": "People stand outside a bookstore.",
+        "output": "no",
+        "idx": 347
+    },
+    {
+        "input_1": "A dog in a \"superman\" shirt sleeps on a blanket.",
+        "input_2": "A brown dog in a Superman shirt is laying on a blue blanket.",
+        "output": "yes",
+        "idx": 348
+    },
+    {
+        "input_1": "Colourful support at World Cup in Brazil",
+        "input_2": "Merkel to attend World Cup final",
+        "output": "no",
+        "idx": 349
+    },
+    {
+        "input_1": "Sylvester Stallone's son found dead in Hollywood",
+        "input_2": "Sylvester Stallone\u00e2\u20ac\u2122s son, Sage Stallone, found dead in Hol",
+        "output": "no",
+        "idx": 350
+    },
+    {
+        "input_1": "Maldives holds fresh election for president",
+        "input_2": "Maldives holds fresh presidential election",
+        "output": "yes",
+        "idx": 351
+    },
+    {
+        "input_1": "Cows grazing in a snow covered field.",
+        "input_2": "Five cows grazing in a snow covered field.",
+        "output": "yes",
+        "idx": 352
+    },
+    {
+        "input_1": "the united states government and other nato members have refused to ratify the amended treaty until officials in moscow withdraw troops from the former soviet republics of moldova and georgia.",
+        "input_2": "the united states and other nato members have refused ratify the amended treaty until russia completely withdraws from moldova and georgia.",
+        "output": "yes",
+        "idx": 353
+    },
+    {
+        "input_1": "Pataki praised Abraham's decision, and LIPA Chairman Richard Kessel said the cable should be kept in operation permanently.",
+        "input_2": "LIPA Chairman Richard Kessel said that meant the cable could be used \"as we see fit.",
+        "output": "no",
+        "idx": 354
+    },
+    {
+        "input_1": "Israel faces European backlash over settlement plan",
+        "input_2": "Israel called to account over latest settlement plans by European countries",
+        "output": "yes",
+        "idx": 355
+    },
+    {
+        "input_1": "South Africa prays for Nelson Mandela",
+        "input_2": "South Africa unites in prayer and song for Nelson Mandela",
+        "output": "yes",
+        "idx": 356
+    },
+    {
+        "input_1": "Children play fight with swords.",
+        "input_2": "A child and parent pet a horse.",
+        "output": "no",
+        "idx": 357
+    },
+    {
+        "input_1": "Fighting erupted after four North Korean journalists confronted a dozen South Korean activists protesting human rights abuses in the North outside the main media centre.",
+        "input_2": "Trouble flared when at least four North Korean reporters rushed from the Taegu media centre to confront a dozen activists protesting against human rights abuses in the North.",
+        "output": "no",
+        "idx": 358
+    },
+    {
+        "input_1": "2 Americans Killed as Afghan Unrest Enters Fifth Day",
+        "input_2": "Two American Officers Murdered As Afghan Unrest Continues",
+        "output": "yes",
+        "idx": 359
+    },
+    {
+        "input_1": "That's what the data available shows.",
+        "input_2": "That's what the historical record shows.",
+        "output": "yes",
+        "idx": 360
+    },
+    {
+        "input_1": "anatoly sokolov announced-- soviet-built a-135 missile defense system around moscow is obsolete and inefficient.",
+        "input_2": "soviet-built a-135 missile defense system around moscow is obsolete and inefficient.",
+        "output": "yes",
+        "idx": 361
+    },
+    {
+        "input_1": "Prosecutor Jim Hardin called the decision a victory for Kathleen Peterson's family.",
+        "input_2": "Members of Kathleen Peterson's family were not present.",
+        "output": "no",
+        "idx": 362
+    },
+    {
+        "input_1": "Spokesmen for the FBI, CIA, Canadian Security Intelligence Service and Royal Canadian Mounted Police declined to comment on El Shukrijumah's stay in Canada.",
+        "input_2": "The FBI, CIA, Canadian Security Intelligence Service and Royal Canadian Mounted Police declined to comment on the Washington Times report.",
+        "output": "no",
+        "idx": 363
+    },
+    {
+        "input_1": "2 Turkish unions call for strike on Monday in protest over police violence",
+        "input_2": "Turkey unrest: Unions call for strike over police crackdown",
+        "output": "no",
+        "idx": 364
+    },
+    {
+        "input_1": "A woman is riding a horse.",
+        "input_2": "A man is running on rope.",
+        "output": "no",
+        "idx": 365
+    },
+    {
+        "input_1": "They passed through the Lemelson Medical, Educational and Research Foundation Limited Partnership in 2001 to Syndia.",
+        "input_2": "It said the patents were \"allegedly\" assigned to Syndia in 2001 through the Lemelson Medical, Educational and Research Foundation Limited Partnership.",
+        "output": "no",
+        "idx": 366
+    },
+    {
+        "input_1": "Mitt Romney wins Republican primary in Indiana",
+        "input_2": "Romney wins Florida Republican primary",
+        "output": "no",
+        "idx": 367
+    },
+    {
+        "input_1": "Comcast Class A shares were up 8 cents at $30.50 in morning trading on the Nasdaq Stock Market.",
+        "input_2": "The stock rose 48 cents to $30 yesterday in Nasdaq Stock Market trading.",
+        "output": "no",
+        "idx": 368
+    },
+    {
+        "input_1": "She said Jane Doe's lawyers asked Verizon to withhold her name because she was planning on challenging the subpoena.",
+        "input_2": "Jane Doe, deciding to fight the subpoena, asked Verizon to withhold her name.",
+        "output": "yes",
+        "idx": 369
+    },
+    {
+        "input_1": "A man is riding a motorcycle.",
+        "input_2": "A man is riding a horse.",
+        "output": "no",
+        "idx": 370
+    },
+    {
+        "input_1": "A man is riding a bike.",
+        "input_2": "A panda bear is eating.",
+        "output": "no",
+        "idx": 371
+    },
+    {
+        "input_1": "Chera Larkins, 32, of Manhattan, charged with three sham marriages, is also charged with perjury and filing a false instrument.",
+        "input_2": "Chera Larkins, 32, of Manhattan, charged with perjury and filing a false instrument in three marriage applications.",
+        "output": "yes",
+        "idx": 372
+    },
+    {
+        "input_1": "A woman wearing a pink shirt jumps in the air with her arms and legs spread to her sides.",
+        "input_2": "A man wearing suspenders and sunglasses leaps up in the air with his arms and legs spread out to the side.",
+        "output": "no",
+        "idx": 373
+    },
+    {
+        "input_1": "A dog carries a leash in its mouth.",
+        "input_2": "A fluffy dog carries a black leash in its mouth.",
+        "output": "yes",
+        "idx": 374
+    },
+    {
+        "input_1": "Men tried to behead soldier on London street, court hears",
+        "input_2": "Australia spied on Indonesia president: reports",
+        "output": "no",
+        "idx": 375
+    },
+    {
+        "input_1": "China, India vow to further bilateral ties",
+        "input_2": "China Scrambles to Reassure Jittery Stock Traders",
+        "output": "no",
+        "idx": 376
+    },
+    {
+        "input_1": "A tent and a campsite in a sunlit forest.",
+        "input_2": "A white dog on a beach is carrying a stick in its mouth.",
+        "output": "no",
+        "idx": 377
+    },
+    {
+        "input_1": "Yvette Cooper backs gay marriage bill",
+        "input_2": "White House backs gay marriage",
+        "output": "no",
+        "idx": 378
+    },
+    {
+        "input_1": "The consumer group generated $4.47 billion of profit and $20 billion of revenue from January to June, 53% of Citigroup's profit and revenue.",
+        "input_2": "It generated $4.47 billion of profit and $20 billion of revenue in the year's first half, 53 percent of Citigroup's totals.",
+        "output": "yes",
+        "idx": 379
+    },
+    {
+        "input_1": "A blue and orange airplane flying with its landing gear down.",
+        "input_2": "A red and blue plane flying with its landing gears down.",
+        "output": "no",
+        "idx": 380
+    },
+    {
+        "input_1": "A boy wearing a red shirt runs across the grass with a furry dog.",
+        "input_2": "A sports fan is wearing face paint in the stands.",
+        "output": "no",
+        "idx": 381
+    },
+    {
+        "input_1": "A boy is playing a key-board.",
+        "input_2": "A boy is sitting in a room playing a piano by lamp light.",
+        "output": "no",
+        "idx": 382
+    },
+    {
+        "input_1": "French forces attack al-Qaeda's Mali allies",
+        "input_2": "A battle to retake north Mali: Hundreds of French troops drive back al-Qaida-linked rebels",
+        "output": "no",
+        "idx": 383
+    },
+    {
+        "input_1": "Syrian fighter pilot defects to Jordan",
+        "input_2": "Syrian PM defects to Jordan",
+        "output": "no",
+        "idx": 384
+    },
+    {
+        "input_1": "Hrithik Roshan, wife Sussanne part ways",
+        "input_2": "Hrithik Roshan, Sussanne to divorce",
+        "output": "yes",
+        "idx": 385
+    },
+    {
+        "input_1": "During the same quarter last year, EDS declared a profit of $354 million, or 72 cents per share.",
+        "input_2": "EDS reported a first-quarter loss of $126 million, or 26 cents per share.",
+        "output": "no",
+        "idx": 386
+    },
+    {
+        "input_1": "A person is slicing some onions.",
+        "input_2": "A hamster is singing.",
+        "output": "no",
+        "idx": 387
+    },
+    {
+        "input_1": "A man makes a call on a cell phone.",
+        "input_2": "A man is making a phone call.",
+        "output": "yes",
+        "idx": 388
+    },
+    {
+        "input_1": "Man arrested over double murder",
+        "input_2": "WA man arrested in police drug raid",
+        "output": "no",
+        "idx": 389
+    },
+    {
+        "input_1": "Senate confirms Yellen as Fed head",
+        "input_2": "US Senate confirms Yellen as Fed's next chair",
+        "output": "yes",
+        "idx": 390
+    },
+    {
+        "input_1": "Shares of Corixa were gaining 71 cents, or 10%, to $7.91 on the Nasdaq.",
+        "input_2": "In late-morning trading on the Nasdaq Stock Market, Corixa was up 74 cents, or 10%, at $7.94.",
+        "output": "no",
+        "idx": 391
+    },
+    {
+        "input_1": "A group of young ballerinas are in a dance studio.",
+        "input_2": "A group of young ladies in bikinis.",
+        "output": "no",
+        "idx": 392
+    },
+    {
+        "input_1": "a white dog running in the snow",
+        "input_2": "The dogs are running in the snow.",
+        "output": "no",
+        "idx": 393
+    },
+    {
+        "input_1": "A man is playing the piano.",
+        "input_2": "A woman is playing a guitar.",
+        "output": "no",
+        "idx": 394
+    },
+    {
+        "input_1": "\"They drive around in their cars, while people are being killed 500 metres away,\" he said on Sunday.",
+        "input_2": "\"What they are doing right now is they drive around in their cars, while people are being killed 500 metres away.",
+        "output": "yes",
+        "idx": 395
+    },
+    {
+        "input_1": "\"I think it should have been released years ago,\" said Brian Rohrbough, whose son, Daniel, was killed at Columbine.",
+        "input_2": "Brian Rohrbough, whose son, Daniel, was killed at Columbine, said the tape raises disturbing issues.",
+        "output": "no",
+        "idx": 396
+    },
+    {
+        "input_1": "Suicide bomber kills 9 at Pakistan political rally",
+        "input_2": "Suicide bomber kills guard at US embassy in Turkey",
+        "output": "no",
+        "idx": 397
+    },
+    {
+        "input_1": "Can he really make mone from google ad sense.",
+        "input_2": "Who makes money off google ad sense?",
+        "output": "no",
+        "idx": 398
+    },
+    {
+        "input_1": "George W. Bush warns against bitter immigration debate",
+        "input_2": "George W Bush weighs into immigration debate",
+        "output": "no",
+        "idx": 399
+    },
+    {
+        "input_1": "Those reports were denied by the interior minister, Prince Nayef.",
+        "input_2": "However, the Saudi interior minister, Prince Nayef, denied the reports.",
+        "output": "yes",
+        "idx": 400
+    },
+    {
+        "input_1": "Dealers said the single currency's downward momentum against the dollar could pick up speed if it broke below $1.15.",
+        "input_2": "Dealers said the euro's downward momentum may pick up speed should it break below $1.15.",
+        "output": "yes",
+        "idx": 401
+    },
+    {
+        "input_1": "Egypt\u2019s Coptic Church Names New Pope",
+        "input_2": "Egypt's Coptic Church Prepares to Choose Pope",
+        "output": "no",
+        "idx": 402
+    },
+    {
+        "input_1": "Saudis to permit women to compete in Olympics",
+        "input_2": "Saudi Women Allowed To Compete At Olympics",
+        "output": "yes",
+        "idx": 403
+    },
+    {
+        "input_1": "Suicide bomber kills 14 in Afghanistan",
+        "input_2": "Suicide blast kills 1 in Afghan capital",
+        "output": "no",
+        "idx": 404
+    },
+    {
+        "input_1": "Details of Aung San Suu Kyi's visit to Ireland",
+        "input_2": "Rapturous welcome for Aung San Suu Kyi's historic trip",
+        "output": "no",
+        "idx": 405
+    },
+    {
+        "input_1": "After 26 hours of surgery and a year of anticipation, the boys were separated Sunday at Children's Medical Center of Dallas.",
+        "input_2": "Two-year-old Egyptian twin boys, born with their heads conjoined, have been separated after 26 hours of surgery at the Children's Medical Centre in Dallas.",
+        "output": "no",
+        "idx": 406
+    },
+    {
+        "input_1": "Syrian forces bombard Homs, Russia warns of civil war",
+        "input_2": "Syrian forces bombard Homs, Lavrov arrives for talks",
+        "output": "no",
+        "idx": 407
+    },
+    {
+        "input_1": "5 people buried in Colorado avalanche",
+        "input_2": "'5 snowboarders killed in Colorado avalanche'",
+        "output": "no",
+        "idx": 408
+    },
+    {
+        "input_1": "it will be hosted by the australian government.",
+        "input_2": "the u.s. plans have angered the russian government.",
+        "output": "no",
+        "idx": 409
+    },
+    {
+        "input_1": "7 killed in monster truck crash",
+        "input_2": "6 killed in Mexico \u2018monster truck\u2019 crash",
+        "output": "no",
+        "idx": 410
+    },
+    {
+        "input_1": "The Ireland Palestine Solidarity Campaign, of which Mr O Muireag\u00e1in was a member, welcomed his release.",
+        "input_2": "The Ireland Palestine Solidarity Campaign, of which he was a member, said he was researching a schools exchange project.",
+        "output": "no",
+        "idx": 411
+    },
+    {
+        "input_1": "Red double decker bus.",
+        "input_2": "Red double decker bus with hood up.",
+        "output": "yes",
+        "idx": 412
+    },
+    {
+        "input_1": "A bicycle is parked by a shop.",
+        "input_2": "A green bike parked outside a book store.",
+        "output": "yes",
+        "idx": 413
+    },
+    {
+        "input_1": "A black dog wearing an orange collar is entangled with fishing wire.",
+        "input_2": "The black dog wearing a red collar shakes water off.",
+        "output": "no",
+        "idx": 414
+    },
+    {
+        "input_1": "Freedom of speech has consequences!",
+        "input_2": "If freedom of speech has consequences then it is not free.",
+        "output": "no",
+        "idx": 415
+    },
+    {
+        "input_1": "Capello quits as England manager",
+        "input_2": "Capello resigns as England manager",
+        "output": "yes",
+        "idx": 416
+    },
+    {
+        "input_1": "A mallard and a tame white duck on the grass near water.",
+        "input_2": "A small child in a pink dress sits on a table.",
+        "output": "no",
+        "idx": 417
+    },
+    {
+        "input_1": "Govt. to hold talks with FTII students",
+        "input_2": "Cameron to hold talks with Sturgeon on UK future",
+        "output": "no",
+        "idx": 418
+    },
+    {
+        "input_1": "sheep standing in afield.",
+        "input_2": "A sheep grazing in a field.",
+        "output": "no",
+        "idx": 419
+    },
+    {
+        "input_1": "My parents have told me it is bad for you.",
+        "input_2": "My teachers have told me it is bad for you.",
+        "output": "no",
+        "idx": 420
+    },
+    {
+        "input_1": "France Hails Breakthrough after U.S.-Russia Deal on Syria Weapons",
+        "input_2": "France Welcomes US-Russia Deal on Syria",
+        "output": "yes",
+        "idx": 421
+    },
+    {
+        "input_1": "Saudi Women To Protest Against Driving Ban",
+        "input_2": "Saudi women drive in protest with little problem",
+        "output": "no",
+        "idx": 422
+    },
+    {
+        "input_1": "Eric Gagne earned his 17th save in as many opportunities as he struck out three in the ninth and allowed only an infield single by Greg Norton.",
+        "input_2": "Closer Eric Gagne earned his 17th save in as many opportunities as he struck out three of the four batters he faced in the ninth.",
+        "output": "yes",
+        "idx": 423
+    },
+    {
+        "input_1": "this further aggravated the situation.",
+        "input_2": "north korea should not act further to aggravate the situation.",
+        "output": "no",
+        "idx": 424
+    },
+    {
+        "input_1": "Sachin Tendulkar says I'm not God, I'm Sachin",
+        "input_2": "Sachin Tendulkar scores cricket's first 100th century",
+        "output": "no",
+        "idx": 425
+    },
+    {
+        "input_1": "A black dog with a blue collar is running in the snow.",
+        "input_2": "A black dog wearing a blue collar is running through the snow.",
+        "output": "yes",
+        "idx": 426
+    },
+    {
+        "input_1": "In the weeks leading up to the execution, several Florida officials received anonymous threatening letters.",
+        "input_2": "Several Florida officials connected to the case have received threatening letters, accompanied by rifle bullets.",
+        "output": "no",
+        "idx": 427
+    },
+    {
+        "input_1": "Meteorite hits central Russia, more than 500 people hurt",
+        "input_2": "Meteorite hits central Russia, 400 hurt",
+        "output": "no",
+        "idx": 428
+    },
+    {
+        "input_1": "Mr Howard said he also had faith in the system under which Hicks could be tried.",
+        "input_2": "Mr Howard also said yesterday that Hicks would be fairly treated, saying he had faith in the US justice system.",
+        "output": "yes",
+        "idx": 429
+    },
+    {
+        "input_1": "alto huallaga is located northeast of the capital lima.",
+        "input_2": "puerto cabezas is located 557 km northeast of managua, nicaragua.",
+        "output": "no",
+        "idx": 430
+    },
+    {
+        "input_1": "Glasgow Helicopter Crash Search Ends",
+        "input_2": "Glasgow Helicopter Crash: Woman PC Is Victim",
+        "output": "no",
+        "idx": 431
+    },
+    {
+        "input_1": "Several shots rang out in the darkness, but only one gator had been killed by 11 p.m.",
+        "input_2": "Several shots rang out Wednesday night, but no gators were killed then.",
+        "output": "no",
+        "idx": 432
+    },
+    {
+        "input_1": "Two Santa trackers competing this Christmas",
+        "input_2": "Spain turning back the clock on siestas",
+        "output": "no",
+        "idx": 433
+    },
+    {
+        "input_1": "Three no votes would kill it for now.",
+        "input_2": "It would take three votes to kill the ACC's expansion.",
+        "output": "yes",
+        "idx": 434
+    },
+    {
+        "input_1": "A black and white spotted dog jumps over a stream.",
+        "input_2": "A black and white spotted dog is jumping over the small stream of water.",
+        "output": "yes",
+        "idx": 435
+    },
+    {
+        "input_1": "EU slaps sanctions on Assad family",
+        "input_2": "EU sanctions Assad's wife; mortars hit Homs",
+        "output": "no",
+        "idx": 436
+    },
+    {
+        "input_1": "Suicide bomber kills 16 in Afghanistan",
+        "input_2": "Suicide bomber kills 12 in Nigeria church",
+        "output": "no",
+        "idx": 437
+    },
+    {
+        "input_1": "egypt and jordan have signed the nuclear nonproliferation treaty and have long called for a middle east free of weapons of mass destruction.",
+        "input_2": "syria has signed the nuclear nonproliferation treaty and has allowed agency experts to inspect its only known nuclear facility.",
+        "output": "yes",
+        "idx": 438
+    },
+    {
+        "input_1": "Apple revenue misses again, iPhone disappoints",
+        "input_2": "U.S. trade agency rules for Samsung, bans iPhone 4 imports",
+        "output": "no",
+        "idx": 439
+    },
+    {
+        "input_1": "A bay foal is walking next to its mother in a grassy field.",
+        "input_2": "Close-up of young horse walking next to a larger horse.",
+        "output": "no",
+        "idx": 440
+    },
+    {
+        "input_1": "A kangroo is eating something.",
+        "input_2": "A kangaroo is eating.",
+        "output": "yes",
+        "idx": 441
+    },
+    {
+        "input_1": "It is mostly just the Dutch.",
+        "input_2": "In fact, it's just the Dutch.",
+        "output": "yes",
+        "idx": 442
+    },
+    {
+        "input_1": "Couple marry in the UK's first Scientology wedding",
+        "input_2": "Couple get married in Britain's first Scientology wedding",
+        "output": "yes",
+        "idx": 443
+    },
+    {
+        "input_1": "The lady chopped up the green onions.",
+        "input_2": "The lady cut up a green onion.",
+        "output": "yes",
+        "idx": 444
+    },
+    {
+        "input_1": "We think they have the right to choose.",
+        "input_2": "\"We think PeopleSoft customers deserve the right to choose,\" Ellison said.",
+        "output": "no",
+        "idx": 445
+    },
+    {
+        "input_1": "Iran Nuclear Talks Enter Third Day",
+        "input_2": "Iran nuclear talks enter crucial third day",
+        "output": "yes",
+        "idx": 446
+    },
+    {
+        "input_1": "Scribner's body was found floating in the city's Portage Bay, where he lived with his wife in a houseboat.",
+        "input_2": "A kayaker found Dr. Scribner's body floating near the doctor's houseboat in Portage Bay, where he was eating lunch when his wife, Ethel, left for an appointment.",
+        "output": "no",
+        "idx": 447
+    },
+    {
+        "input_1": "First significant gas found offshore Kenya",
+        "input_2": "Raiders kill 38 in latest land clashes in Kenya",
+        "output": "no",
+        "idx": 448
+    },
+    {
+        "input_1": "Pictures of the day: 7 August 2013",
+        "input_2": "Picture of the Day",
+        "output": "no",
+        "idx": 449
+    },
+    {
+        "input_1": "Dozens killed in Nigerian riots",
+        "input_2": "Dozens killed in Kenyan clashes",
+        "output": "no",
+        "idx": 450
+    },
+    {
+        "input_1": "Purge sends chilling message to North Korea's elite",
+        "input_2": "Purge of Kim uncle sends chilling message to North Korea\u2019s elite",
+        "output": "yes",
+        "idx": 451
+    },
+    {
+        "input_1": "EU declares Hezbollah's military wing terror group",
+        "input_2": "EU puts Hezbollah military wing on terror list",
+        "output": "yes",
+        "idx": 452
+    },
+    {
+        "input_1": "A man is playing flute.",
+        "input_2": "A man is petting a tied up dog.",
+        "output": "no",
+        "idx": 453
+    },
+    {
+        "input_1": "You wanna know what I find curious?",
+        "input_2": "That's what I find curious.",
+        "output": "no",
+        "idx": 454
+    },
+    {
+        "input_1": "New World Trade Center declared tallest building in U.S.",
+        "input_2": "One World Trade Center Named Tallest US Building",
+        "output": "yes",
+        "idx": 455
+    },
+    {
+        "input_1": "A man puts seasoning in a bowl of water.",
+        "input_2": "The man added seasoning to water in a bowl.",
+        "output": "yes",
+        "idx": 456
+    },
+    {
+        "input_1": "Egyptians vote in landmark presidential election",
+        "input_2": "Egyptians go to polls in historic election",
+        "output": "yes",
+        "idx": 457
+    },
+    {
+        "input_1": "West hails Syria opposition vote to join peace talks",
+        "input_2": "Syrian opposition to name delegation for talks",
+        "output": "no",
+        "idx": 458
+    },
+    {
+        "input_1": "A woman dances while a man plays the keyboard.",
+        "input_2": "A woman is dancing on a stage.",
+        "output": "no",
+        "idx": 459
+    },
+    {
+        "input_1": "Still, revenues from the extra premiums would not be huge.",
+        "input_2": "How would the extra premiums be collected?",
+        "output": "no",
+        "idx": 460
+    },
+    {
+        "input_1": "A boy goes down an inflatable slide.",
+        "input_2": "A boy in red slides down an inflatable ride.",
+        "output": "yes",
+        "idx": 461
+    },
+    {
+        "input_1": "Strong new quake hits shattered Pak region",
+        "input_2": "Powerful new earthquake hits shattered Pakistan region",
+        "output": "yes",
+        "idx": 462
+    },
+    {
+        "input_1": "While the Ibrahims had one separation operation, Goodrich and Dr. David Staffenberg plan about three for the Aguirres, with several weeks between each.",
+        "input_2": "Instead of one long operation to separate the twins, Goodrich and Dr. David Staffenberg plan about three, with several weeks between each.",
+        "output": "yes",
+        "idx": 463
+    },
+    {
+        "input_1": "The woman is putting paste into a dish.",
+        "input_2": "A woman is pulling some kind of sticky goo out of a bowl.",
+        "output": "no",
+        "idx": 464
+    },
+    {
+        "input_1": "Venezuela assembly meets amid Chavez health crisis",
+        "input_2": "Assembly meets amid Chavez crisis",
+        "output": "no",
+        "idx": 465
+    },
+    {
+        "input_1": "Afghans flock to colleges, even as Taliban loom",
+        "input_2": "Afghan District Governor Defects To Taliban",
+        "output": "no",
+        "idx": 466
+    },
+    {
+        "input_1": "Soccer Ref Punched by Player Dies",
+        "input_2": "Police: Utah soccer referee punched by player dies",
+        "output": "yes",
+        "idx": 467
+    },
+    {
+        "input_1": "US Senate approves fiscal cliff deal",
+        "input_2": "It's official: Deal reached on \"fiscal cliff\"",
+        "output": "no",
+        "idx": 468
+    },
+    {
+        "input_1": "You seem to think that poor people are not responsible for their actions.",
+        "input_2": "People are responsible for their actions.",
+        "output": "no",
+        "idx": 469
+    },
+    {
+        "input_1": "James Murdoch quits BSkyB",
+        "input_2": "James Murdoch quits role at BSkyB",
+        "output": "yes",
+        "idx": 470
+    },
+    {
+        "input_1": "A woman tosses a cat in the air, and the cat hangs off a rod on the ceiling.",
+        "input_2": "A person throws a cat in the air and it grabs onto the ceiling.",
+        "output": "no",
+        "idx": 471
+    },
+    {
+        "input_1": "JK Rowling launches her first adult novel",
+        "input_2": "Syria launches ground assault in Aleppo",
+        "output": "no",
+        "idx": 472
+    },
+    {
+        "input_1": "A man is rowing a boat.",
+        "input_2": "A man is shooting off a gun.",
+        "output": "no",
+        "idx": 473
+    },
+    {
+        "input_1": "Two Asian men and Asian woman sit in black massage chairs.",
+        "input_2": "Two Asian men and a woman are relaxing in massage chairs.",
+        "output": "yes",
+        "idx": 474
+    },
+    {
+        "input_1": "China's new PM rejects US hacking claims",
+        "input_2": "China Premier Li rejects 'groundless' US hacking accusations",
+        "output": "yes",
+        "idx": 475
+    },
+    {
+        "input_1": "A passer-by found Ben hiding along a dirt road in Spanish Fork Canyon about 7 p.m., with his hands still taped together but his feet free.",
+        "input_2": "A passer-by found the boy hiding along a dirt road in Spanish Fork Canyon about 7 p.m. Thursday, with his feet free but his hands still taped.",
+        "output": "yes",
+        "idx": 476
+    },
+    {
+        "input_1": "Fletcher said he expects to have the support of lawmakers from agricultural states, many of whom are on the committee.",
+        "input_2": "He said he also expects to have the support of lawmakers from other agricultural states.",
+        "output": "no",
+        "idx": 477
+    },
+    {
+        "input_1": "Treasury\u0012s long-range plan is to provide retail buyers of all Treasury securities the ability to manage their holdings online in a single account.",
+        "input_2": "The Treasury said wants to give retail buyers of all Treasury securities the ability eventually to manage holdings online in a single account.",
+        "output": "yes",
+        "idx": 478
+    },
+    {
+        "input_1": "A 32-count indictment \"strikes at one of the very top targets in the drug trafficking world,\" U.S. Attorney Marcos Jimenez said.",
+        "input_2": "The newly unsealed 32-count indictment alleges money laundering and conspiracy and \"strikes at one of the very top targets in the drug-trafficking world,\" Jim\u00e9nez said.",
+        "output": "no",
+        "idx": 479
+    },
+    {
+        "input_1": "A man is mowing grass.",
+        "input_2": "A guy is mowing the lawn.",
+        "output": "yes",
+        "idx": 480
+    },
+    {
+        "input_1": "That objection was cited by PeopleSoft's board in rejecting Oracle's offer.",
+        "input_2": "PeopleSoft's board has recommended stockholders reject the offer.",
+        "output": "no",
+        "idx": 481
+    },
+    {
+        "input_1": "\"Oh, you're such a good person!",
+        "input_2": "You're such a bad person!\"",
+        "output": "no",
+        "idx": 482
+    },
+    {
+        "input_1": "Myanmar's pro-democracy leader Aung San Suu Kyi will return home late Friday but will remain in detention after recovering from surgery at a Yangon hospital, her personal physician said.",
+        "input_2": "Myanmar's pro-democracy leader Aung San Suu Kyi will be kept under house arrest following her release from a hospital where she underwent surgery, her personal physician said Friday.",
+        "output": "yes",
+        "idx": 483
+    },
+    {
+        "input_1": "Ukrainian President orders 7-day ceasefire in the east",
+        "input_2": "Uganda's President Museveni agrees to sign anti-gays Bill",
+        "output": "no",
+        "idx": 484
+    },
+    {
+        "input_1": "French Socialist Party wins parliament victory",
+        "input_2": "French Socialists win absolute parliament majority",
+        "output": "yes",
+        "idx": 485
+    },
+    {
+        "input_1": "Two people are walking through some water.",
+        "input_2": "Two girls are walking by a tree in front of a brick building.",
+        "output": "no",
+        "idx": 486
+    },
+    {
+        "input_1": "A dog biting on a can.",
+        "input_2": "A dog opens a can of food.",
+        "output": "no",
+        "idx": 487
+    },
+    {
+        "input_1": "Shankill blast victims to be remembered",
+        "input_2": "Crocodile victim's body recovered",
+        "output": "no",
+        "idx": 488
+    },
+    {
+        "input_1": "4 Killed in US Drone Strike in Pakistan",
+        "input_2": "U.S. Drone Strike Kills 3 in Pakistan",
+        "output": "no",
+        "idx": 489
+    },
+    {
+        "input_1": "Police launched an international hunt for Shevaun Pennington after she ran away with 31-year-old Toby Studabaker Saturday.",
+        "input_2": "Shevaun Pennington disappeared on Saturday morning after arranging to meet 31-year-old Toby Studabaker.",
+        "output": "no",
+        "idx": 490
+    },
+    {
+        "input_1": "Taiwan's president charters plane to pay respects to Lee",
+        "input_2": "Poland president loses to challenger",
+        "output": "no",
+        "idx": 491
+    },
+    {
+        "input_1": "Bremer said one initiative is to launch a $70 million nationwide program in the next two weeks to clean up neighborhoods and build community projects.",
+        "input_2": "Bremer said he would launch a $70-million program in the next two weeks to clean up neighborhoods across Iraq and build community projects, but gave no details.",
+        "output": "no",
+        "idx": 492
+    },
+    {
+        "input_1": "US Attorney General Holder resigns",
+        "input_2": "Attorney General Eric Holder to Resign",
+        "output": "yes",
+        "idx": 493
+    },
+    {
+        "input_1": "US drone strike kills 5 militants in Pakistan",
+        "input_2": "U.S. drone strikes kill 16 suspected militants in Yemen",
+        "output": "no",
+        "idx": 494
+    },
+    {
+        "input_1": "from the year prior.",
+        "input_2": "warmed.C from the year prior.",
+        "output": "no",
+        "idx": 495
+    },
+    {
+        "input_1": "A woman is putting on makeup.",
+        "input_2": "A band is singing.",
+        "output": "no",
+        "idx": 496
+    },
+    {
+        "input_1": "Three teenage girls danced in the room.",
+        "input_2": "Some teenage girls are dancing for the camera.",
+        "output": "no",
+        "idx": 497
+    },
+    {
+        "input_1": "Two red buses parked up with gardens in front of them.",
+        "input_2": "Red buses are parked by a large white building beside a formal garden.",
+        "output": "no",
+        "idx": 498
+    },
+    {
+        "input_1": "Ex-Virginia governor Bob McDonnell charged with corruption",
+        "input_2": "Virginia's ex-Gov. Bob McDonnell, wife charged with corruption",
+        "output": "yes",
+        "idx": 499
+    }
+]

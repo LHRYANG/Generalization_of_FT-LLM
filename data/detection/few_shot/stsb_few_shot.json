@@ -1,0 +1,42 @@
+[
+    {
+        "input_1": "US postpones missile test over N Korea tensions",
+        "input_2": "Embassies staying put in N. Korea despite tension",
+        "output": "no"
+    },
+    {
+        "input_1": "Carney sets high bar to change at BoE",
+        "input_2": "Carney sets high bar to changes at Bank of England",
+        "output": "yes"
+    },
+    {
+        "input_1": "jamaat-i-islami's youth wing staged a separate demonstration in kashmir.",
+        "input_2": "jamaat-i-islami's youth wing's demonstration was against a us attack on iraq.",
+        "output": "no"
+    },
+    {
+        "input_1": "Earlier, he told France Inter-Radio, \"I think we can now qualify what is happening as a genuine epidemic.\"",
+        "input_2": "\"I think we can now qualify what is happening as a genuine epidemic,\" Health Minister Jean-Francois Mattei said on France Inter radio.",
+        "output": "no"
+    },
+    {
+        "input_1": "Two women mix something in a food processor.",
+        "input_2": "Two women make something in a blender.",
+        "output": "yes"
+    },
+    {
+        "input_1": "People are walking in the garden.",
+        "input_2": "One boy is talking with other man.",
+        "output": "no"
+    },
+    {
+        "input_1": "A number below 50 suggests contraction in the manufacturing sector, while a number above that indicates expansion.",
+        "input_2": "A reading above 50 suggests growth in the sector, while a number below that level indicates contraction.",
+        "output": "yes"
+    },
+    {
+        "input_1": "Today in History, Dec. 2",
+        "input_2": "Today in History, April 23",
+        "output": "no"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "input_1": ".  Substantively, if not literally, she made a morox.",
+        "input_2": "She didn't make a morox.",
+        "output": "contradiction"
+    },
+    {
+        "input_1": "Instead, children are active agents, contributing to the creation of their own thought processes by collaborating with more experienced cultural members in meaningful activities.",
+        "input_2": "There is meaningful learning done when students work with experienced cultural members. ",
+        "output": "entailment"
+    },
+    {
+        "input_1": "As a result, 60 percent of our budget comes from United Way of Central Indiana, 10 percent from schools, and the remaining 30 percent from the generosity of business, our own fundraising activities and individual gifts.",
+        "input_2": "60% of our budget comes from the United Way of Central Indiana, which gives us a large donation ever May.",
+        "output": "neutral"
+    },
+    {
+        "input_1": "When I found out that the infant mortality rate in Indiana was 86 percent greater than for mothers in Sweden, I was shocked.",
+        "input_2": "Sweden has a significantly higher rate of infant mortality than Indiana.",
+        "output": "contradiction"
+    },
+    {
+        "input_1": "In Great Expectations (Chapter VI), we learn how  ..",
+        "input_2": "Contained in Chapter VI, Great Expectations is an important lesson.",
+        "output": "neutral"
+    },
+    {
+        "input_1": "GENI organizes teacher workshops for K-12 teachers and assists them in developing geography teaching materials for classroom use.",
+        "input_2": "GENI does not assist teachers at all. ",
+        "output": "contradiction"
+    },
+    {
+        "input_1": "It is not widely recognized that in our community there are families in need.",
+        "input_2": "There are families in our community that are in need.",
+        "output": "entailment"
+    },
+    {
+        "input_1": "We had a large tractor-trailer parked out front and uh, these guys all assembled to take the pews out of the church.",
+        "input_2": "They loaded the churches pews onto a small car and it just wouldn't run after.",
+        "output": "contradiction"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "idx": 4591,
+        "input": "Archaea live everywhere on Earth, including extreme environments.",
+        "answer": "everywhere",
+        "output": "Where do archea live?"
+    },
+    {
+        "idx": 2026,
+        "input": "A genetic disorder that is caused by a mutation can be inherited. Therefore, people with a genetic disorder in their family may be concerned about having children with the disorder. Professionals known as genetic counselors can help them understand the risks of their children being affected. If they decide to have children, they may be advised to have prenatal (\u201cbefore birth\u201d) testing to see if the fetus has any genetic abnormalities. One method of prenatal testing is amniocentesis. In this procedure, a few fetal cells are extracted from the fluid surrounding the fetus, and the fetal chromosomes are examined.",
+        "answer": "children being affected",
+        "output": "Professionals known as genetic counselors can help them understand the risks of?"
+    },
+    {
+        "idx": 831,
+        "input": "Many human diseases are caused by protists. Most of them are caused by protozoa. They are parasites that invade and live in the human body. The parasites get a place to live and nutrients from the human host. In return, they make the host sick. Examples of human diseases caused by protozoa include giardiasis and malaria.",
+        "answer": "protozoa",
+        "output": "Giardiasis and malaria are diseases caused by what organism?"
+    },
+    {
+        "idx": 4765,
+        "input": "Algae play significant roles as producers in aquatic ecosystems. Microscopic forms live suspended in the water column. They are the main component of phytoplankton. As such, they contribute to the food base of most marine ecosystems.",
+        "answer": "algae",
+        "output": "What is the main component of phytoplankton?"
+    },
+    {
+        "idx": 2039,
+        "input": "Parasitism is a symbiotic relationship in which the parasitic species benefits while the host species is harmed.",
+        "answer": "parasitism",
+        "output": "What do you call the symbiotic relationship where a parasite benefits while the host is harmed?"
+    },
+    {
+        "idx": 3761,
+        "input": "If you look at your hand, what do you see? Of course, you see skin, which consists of cells. But what are skin cells made of? Like all living cells, they are made of matter. In fact, all things are made of matter. Matter is anything that takes up space and has mass. Matter, in turn, is made up of chemical substances. In this lesson you will learn about the chemical substances that make up living things.",
+        "answer": "matter",
+        "output": "What term is used to describe anything that takes up space and has mass?"
+    },
+    {
+        "idx": 9,
+        "input": "Earthquake magnitude affects how much damage is done in an earthquake. A larger earthquake damages more buildings and kills more people than a smaller earthquake. But that's not the only factor that determines earthquake damage. The location of an earthquake relative to a large city is important. More damage is done if the ground shakes for a long time.",
+        "answer": "magnitude",
+        "output": "What general property of an earthquake is used to describe its relative strength?"
+    },
+    {
+        "idx": 2977,
+        "input": "Volcanoes occur most often along plate boundaries.",
+        "answer": "volcanoes",
+        "output": "What landform occurs most often along plate boundaries?"
+    }
+]

@@ -1,0 +1,3002 @@
+[
+    {
+        "input_1": "what was the problem",
+        "input_2": "What was the issue?",
+        "output": "entailment",
+        "idx": 0
+    },
+    {
+        "input_1": "The management of the cafe has established the rules for the use of their facility.",
+        "input_2": "The management of the cafe is extremely lax.",
+        "output": "contradiction",
+        "idx": 1
+    },
+    {
+        "input_1": "Oh, yes, sir. Dorcas was looking very curiously at him and, to tell the truth, so was I. ",
+        "input_2": "Dorcas and I were both intrigued by him.",
+        "output": "entailment",
+        "idx": 2
+    },
+    {
+        "input_1": "These men had never seen rain before, Jon realized.",
+        "input_2": "The men lived in the rainforest.",
+        "output": "contradiction",
+        "idx": 3
+    },
+    {
+        "input_1": "so it's it's changing and the summers are getting hot and the winters are cold but i guess i can live with it",
+        "input_2": "The summers are cold and the winters are warm.",
+        "output": "contradiction",
+        "idx": 4
+    },
+    {
+        "input_1": "Though he abstains from showbizzy campaigning, he markets his virtue and exploits his legend.",
+        "input_2": "He is not capable to market his virtue, exploiting his legend.",
+        "output": "contradiction",
+        "idx": 5
+    },
+    {
+        "input_1": "Ca'daan felt his skin get hot and unable to come up with any suitable response, moved on.",
+        "input_2": "Ca'daan was getting sunburned.",
+        "output": "neutral",
+        "idx": 6
+    },
+    {
+        "input_1": "14 Managing for  Federal Managers' Views Show Need for Ensuring Top Leadership Skills (GAO-01-127, Oct. 20, 2000); Management  Using the Results Act and Quality Management to Improve Federal Performance (GAO/T-GGD-99-151, July 29, 1999); and Management  Elements of Successful Improvement Initiatives (GAO/T- GGD-00-26, Oct. 15, 1999).",
+        "input_2": "The document  Management Using the Results Act and Quality Management to Improve Federal Performance was put in place on July 29, 1999.",
+        "output": "entailment",
+        "idx": 7
+    },
+    {
+        "input_1": "would you barbecue a turkey or a chicken or",
+        "input_2": "Would you cook a turkey or chicken in a barbecue?",
+        "output": "entailment",
+        "idx": 8
+    },
+    {
+        "input_1": "No, I don't know. ",
+        "input_2": "Yes, I know.",
+        "output": "contradiction",
+        "idx": 9
+    },
+    {
+        "input_1": "That, too, was locked or bolted on the inside. ",
+        "input_2": "It too was locked inside.",
+        "output": "entailment",
+        "idx": 10
+    },
+    {
+        "input_1": "Fast forward to 1994 and beyond.",
+        "input_2": "Onwards to 1994 and beyond.",
+        "output": "entailment",
+        "idx": 11
+    },
+    {
+        "input_1": "But in all probability the girl will have entirely forgotten the intervening period, and will take up life where she left off at the sinking of the Lusitania.\"",
+        "input_2": "The girl will have most likely forgotten that period.",
+        "output": "entailment",
+        "idx": 12
+    },
+    {
+        "input_1": "These aliens may seek legal assistance at any time during the year, although limited English ability and lack of knowledge of rights and procedures may provide obstacles to seeking and obtaining representation.",
+        "input_2": "These immigrants often need legal assistance for the workplace.",
+        "output": "neutral",
+        "idx": 13
+    },
+    {
+        "input_1": "The rule prohibits the sale of nicotine-containing cigarettes and smokeless tobacco to individuals under the age of 18; requires manufacturers, distributors, and retailers to comply with various conditions regarding the sale and distribution of these products; requires retailers to verify a purchaser's age by photographic identification; prohibits all free samples; limits the distribution of these products through vending machines and self-service displays by permitting such methods of sale only in facilities where access by individuals under 18 is prohibited; limits the advertising and labeling to which children and adolescents are exposed; prohibits promotional, non-tobacco items such as hats and tee shirts; prohibits sponsorship of",
+        "input_2": "The rule will not allow for cigarettes that contain nicotine to be sold to anyone under 18 years of age. ",
+        "output": "entailment",
+        "idx": 14
+    },
+    {
+        "input_1": "As it is now, Web companies not only have the ability to provide diabolically precise demographic targeting to political campaigns, they can also make such offers exclusively.",
+        "input_2": "Web companies use targeted demographics to inform politicians campaigns. ",
+        "output": "entailment",
+        "idx": 15
+    },
+    {
+        "input_1": "NHTSA noted that the only other possible interpretation of section 330 was to treat the phrase standards promulgated . . . prior to the enactment of this section as",
+        "input_2": "The only other possible interpretation of section 330 was to treat the phrase standards promulgated, as noted by NHTSA.",
+        "output": "entailment",
+        "idx": 16
+    },
+    {
+        "input_1": "and they have a bar also which is always crowded as can be  but it's it's an specially fine restaurant and when you consider they take no plastic or checks",
+        "input_2": "They have a bar, which is always empty.",
+        "output": "contradiction",
+        "idx": 17
+    },
+    {
+        "input_1": "Spock did not cure American mothers and fathers of their impossible dream of being professional parents equipped with the developmentally correct answers.",
+        "input_2": "Spock was unable to cure the impossible dream of American parents.",
+        "output": "entailment",
+        "idx": 18
+    },
+    {
+        "input_1": "According to this plan, areas that were predominantly Arab the Gaza Strip, the central part of the country, the northwest corner, and the West Bank were to remain under Arab control as Palestine, while the southern Negev Des?\u03a5rt and the northern coastal strip would form the new State of Israel.",
+        "input_2": "We want to give Palestine and Israel a two-state solution that benefits both of them.",
+        "output": "neutral",
+        "idx": 19
+    },
+    {
+        "input_1": "bGross national saving is held constant as a share of GDP at 18.",
+        "input_2": "bGross national saving represents a national bank.",
+        "output": "neutral",
+        "idx": 20
+    },
+    {
+        "input_1": "And he claimed she earned $11,000 a month - or $132,000 a year - from a home quilting business she had owned for 22 years.",
+        "input_2": "He claimed that she had a home quilting business that made $132,000 each year.",
+        "output": "entailment",
+        "idx": 21
+    },
+    {
+        "input_1": "Small boats tie up here with batches of crayfish, fresh fish, and eel, and housewives clamor for the fishermen to weigh their choices on rudimentary scales.",
+        "input_2": "The fish are weighed using high tech digital scales.",
+        "output": "contradiction",
+        "idx": 22
+    },
+    {
+        "input_1": "(Hypothetical data for this example are given in table 2.2.)",
+        "input_2": "The possible data is in table 2.2",
+        "output": "entailment",
+        "idx": 23
+    },
+    {
+        "input_1": "The key question may be not what Hillary knew but when she knew it.",
+        "input_2": "Hillary never knew anything.",
+        "output": "contradiction",
+        "idx": 24
+    },
+    {
+        "input_1": "To the sociologists' speculations, add mine.",
+        "input_2": "Add my speculation to the sociologists', said the old man.",
+        "output": "neutral",
+        "idx": 25
+    },
+    {
+        "input_1": "Diamonds are graded from D to X, with only D, E, and F considered good, D being colorless or  river white,  J  slightly tinted,  Q  light yellow,  and S to X  yellow.  ",
+        "input_2": "Diamonds are rated alphabetically, the ones from D to F are considered the best.",
+        "output": "entailment",
+        "idx": 26
+    },
+    {
+        "input_1": "yeah okay you go ahead",
+        "input_2": "Maybe you can go ahead. ",
+        "output": "-",
+        "idx": 27
+    },
+    {
+        "input_1": "he was he's of course uh i guess he's trained in this uh martial arts of some sort but the plot was bland the acting was bland It was just mostly centered upon his abilities to",
+        "input_2": "The plot was exciting because he was trained in martial arts.  ",
+        "output": "contradiction",
+        "idx": 28
+    },
+    {
+        "input_1": "No money no results!\" Another voice which Tommy rather thought was that of Boris replied: \"Will you guarantee that there ARE results?\"",
+        "input_2": "Can you guarantee that there will be results with money? ",
+        "output": "neutral",
+        "idx": 29
+    },
+    {
+        "input_1": "Eighty percent of pagers in the United States were knocked out by a satellite malfunction in space.",
+        "input_2": "A majority of pagers in the United States were disrupted by a satellite malfunction.",
+        "output": "entailment",
+        "idx": 30
+    },
+    {
+        "input_1": "Their ideas and initiatives can be implemented at the local and national levels.",
+        "input_2": "Their ideas are only valid on a local basis.",
+        "output": "contradiction",
+        "idx": 31
+    },
+    {
+        "input_1": "I felt an immeasurable 230 contempt for him\u2026 .",
+        "input_2": "I had no reason for feeling the way I did about him.",
+        "output": "neutral",
+        "idx": 32
+    },
+    {
+        "input_1": "Complacency came easily after a couple of weeks without capture.",
+        "input_2": "It was dangerous that we let our guards down.",
+        "output": "neutral",
+        "idx": 33
+    },
+    {
+        "input_1": "And the trunk? Big? Mother asked again to keep up appearances.",
+        "input_2": "Mother, trying to be humble, asked if the trunk was small.",
+        "output": "contradiction",
+        "idx": 34
+    },
+    {
+        "input_1": "WHOLE LIFE POLICIES - Policies that provide insurance over the insured's entire life and the proceeds (face amount) are paid only upon death of the insured.",
+        "input_2": "A whole life policy is the best choice for someone who expects to live to the age of 90.",
+        "output": "neutral",
+        "idx": 35
+    },
+    {
+        "input_1": "Zoom-out vs. zoom- Ever since Roe , pro-life posters and pamphlets have depicted isolated fetuses.",
+        "input_2": "Isolated fetuses have featured on pro-life pamphlets in the aftermath of Roe.",
+        "output": "entailment",
+        "idx": 36
+    },
+    {
+        "input_1": "And put like that, she added confidentially to Tommy, \"nobody could boggle at the expense!\" Nobody did, which was the great thing.",
+        "input_2": "She talked to Tommy",
+        "output": "entailment",
+        "idx": 37
+    },
+    {
+        "input_1": "But there's plenty more.",
+        "input_2": "It looks like we're running low, but there's plenty more in the next room. ",
+        "output": "neutral",
+        "idx": 38
+    },
+    {
+        "input_1": "Indeed, the Democratic counteroffensive has already begun.",
+        "input_2": "There was a previous offensive move made..",
+        "output": "entailment",
+        "idx": 39
+    },
+    {
+        "input_1": "Meanwhile, critics on the left argue that because the United States failed to intervene in Rwanda, its intervention in Kosovo is morally suspect and probably racist.",
+        "input_2": "The US did not intervene in the Rwandan conflict.",
+        "output": "entailment",
+        "idx": 40
+    },
+    {
+        "input_1": "Some travelers add Molokai and Lanai to their itineraries.",
+        "input_2": "Several tourists decide to plan for traveling to Molokai and Lanai.",
+        "output": "entailment",
+        "idx": 41
+    },
+    {
+        "input_1": "The Congress also told LSC that it could not continue to fund its grantees presumptively and that it must begin to distribute its funds on a competitive basis.",
+        "input_2": "LSC was told by Congress no longer could grantees be funded presumptively and funds have to be distributed on a basis that is competitive. ",
+        "output": "entailment",
+        "idx": 42
+    },
+    {
+        "input_1": "uh somewhat they're not my favorite team i am uh somewhat familiar with them",
+        "input_2": "I know a little about them, but they are not may favorite team.",
+        "output": "entailment",
+        "idx": 43
+    },
+    {
+        "input_1": "they they are good",
+        "input_2": "They are terrible.",
+        "output": "contradiction",
+        "idx": 44
+    },
+    {
+        "input_1": "ooh that does get high yeah i mean",
+        "input_2": "That does get high because you want so many different extras.",
+        "output": "neutral",
+        "idx": 45
+    },
+    {
+        "input_1": "that's true um-hum well that's true the America's paying all this money to have other people give uh aid to other countries so they could be paying their own people and training their own people at the same time",
+        "input_2": "America has spent nothing on foreign aid so how would they be able to train and pay their own people.",
+        "output": "contradiction",
+        "idx": 46
+    },
+    {
+        "input_1": "Enthusiasm for Disney's Broadway production of The Lion King dwindles.",
+        "input_2": "The broadway production of The Lion King was amazing, but audiences are getting bored.",
+        "output": "neutral",
+        "idx": 47
+    },
+    {
+        "input_1": "In addition, special service areas are funded for two populations with special needs - Native Americans and migrant workers.",
+        "input_2": "Native Americans and migrant workers do not have any special areas. ",
+        "output": "contradiction",
+        "idx": 48
+    },
+    {
+        "input_1": "What Ellison is doing here, as Hemingway did, is equating the process of becoming an artist with that of becoming a man.",
+        "input_2": "Ellison and Hemingway took different ways to compare becoming a man.",
+        "output": "contradiction",
+        "idx": 49
+    },
+    {
+        "input_1": "The analyses comply with the informational requirements of the sections including the classes of small entities subject to the rule and alternatives considered to reduce the burden on the small entities.",
+        "input_2": "The analyses try to follow informational requirements for relevant small entities.",
+        "output": "entailment",
+        "idx": 50
+    },
+    {
+        "input_1": "The purpose of the Self-Inspection process was to provide programs a means to verify, by reviewing a sample of cases, that their 1999 CSR data satisfies LSC's standards for accuracy.",
+        "input_2": "Verification of accuracy is the primary cause of success in business.",
+        "output": "neutral",
+        "idx": 51
+    },
+    {
+        "input_1": "Any subsequent alterations to the data can be readily detected.",
+        "input_2": "Alterations can be detected.",
+        "output": "entailment",
+        "idx": 52
+    },
+    {
+        "input_1": "Because of the casualties, Lind says, the United States would eventually have had to leave Vietnam anyway.",
+        "input_2": "Lind thought the US would stay in Vietnam forever.",
+        "output": "contradiction",
+        "idx": 53
+    },
+    {
+        "input_1": "Case Studies in Science Education.",
+        "input_2": "Education about science.",
+        "output": "entailment",
+        "idx": 54
+    },
+    {
+        "input_1": "Too bad it chose to use McIntyre instead.",
+        "input_2": "McIntyre was not picked to be used.",
+        "output": "contradiction",
+        "idx": 55
+    },
+    {
+        "input_1": "In April 1453 the Sultan's armies massed outside the city walls, outnumbering the Byzantines ten to one.",
+        "input_2": "There were ten times as many of the Sultan's armies than Byzantines but they still lost.",
+        "output": "neutral",
+        "idx": 56
+    },
+    {
+        "input_1": "i don't know i i do i can think of all the uh the biblical things about it too where what did they say to uh i can't think of the scripture Render unto Caesar's what is Caesar's so",
+        "input_2": "I know this because I own a bible.",
+        "output": "neutral",
+        "idx": 57
+    },
+    {
+        "input_1": "I took to him at once.",
+        "input_2": "I like him even more now. ",
+        "output": "neutral",
+        "idx": 58
+    },
+    {
+        "input_1": "Normally, these discussions are kept secret.",
+        "input_2": "In usual circumstances, what is said is not to be shared..",
+        "output": "entailment",
+        "idx": 59
+    },
+    {
+        "input_1": "This marvelous Victorian-Gothic building is famous for the fanciful stone carvings around the base of its pillars (one pillar, reputedly depicting the club members, shows monkeys playing billiards).",
+        "input_2": "The Victorian-Gothic building is famous for their rude members.",
+        "output": "contradiction",
+        "idx": 60
+    },
+    {
+        "input_1": "so he donates a lot not everything but a lot of the material then what he doesn't donate we just go out and buy",
+        "input_2": "He donates all of the material.",
+        "output": "contradiction",
+        "idx": 61
+    },
+    {
+        "input_1": "oh yeah well i play softball a couple of times a year it's they're getting ready to start up the the season again",
+        "input_2": "They play softball alongside rounders usually",
+        "output": "neutral",
+        "idx": 62
+    },
+    {
+        "input_1": "Territorial rights, in the form of a deck chair, can be assured for a nominal sum.",
+        "input_2": "You have a lot of territory.",
+        "output": "neutral",
+        "idx": 63
+    },
+    {
+        "input_1": "(j) Promotional items a member receives as a consequence of using travel or transportation services procured by the United States or accepted pursuant to 31",
+        "input_2": "Frequent flyer miles are one of the promotional items a member can receive.",
+        "output": "neutral",
+        "idx": 64
+    },
+    {
+        "input_1": "Ho there--what the devil?\"  The overseer's hand spun Hanson around.",
+        "input_2": "The overseer's hands grabbed Hanson by the shoulders.",
+        "output": "neutral",
+        "idx": 65
+    },
+    {
+        "input_1": "He's a bad lot. ",
+        "input_2": "He's a good lot",
+        "output": "contradiction",
+        "idx": 66
+    },
+    {
+        "input_1": "In addition, the senior executives at these organizations demonstrated their sustained commitment to financerelated improvement initiatives by using key business/line managers to drive improvement efforts, attending key meetings, ensuring that the necessary resources are made available, and creating a system of rewards and incentives to recognize those who support improvement initiatives.",
+        "input_2": "Senior executives showed their commitment to improvements by using key managers.",
+        "output": "entailment",
+        "idx": 67
+    },
+    {
+        "input_1": "His failure will endure.",
+        "input_2": "The man did not try hard enough.",
+        "output": "neutral",
+        "idx": 68
+    },
+    {
+        "input_1": "well the difficulty is is if you look in the Old Testament and and the numbers of places that uh the Lord went out and just simply struck down and that was part of the problem when they went into the Promised Land that they that they uh they didn't destroy everybody and that that's",
+        "input_2": "The Lord struck down all the places he went to. ",
+        "output": "neutral",
+        "idx": 69
+    },
+    {
+        "input_1": "Sure enough, there was the chest, a fine old piece, all studded with brass nails, and full to overflowing with every imaginable type of garment. ",
+        "input_2": "The chest wasn't big enough to completely contain all of the garments.",
+        "output": "entailment",
+        "idx": 70
+    },
+    {
+        "input_1": "At the western end of Cowgate (where it meets Holyrood Road), you will see one of the few remaining sections of Edinburgh's old city wall (Flodden Wall), built following the Lang Siege of the 1570s.",
+        "input_2": "Flodden Wall was built by the townspeople to protect against further invasion.",
+        "output": "neutral",
+        "idx": 71
+    },
+    {
+        "input_1": "Also, stakeholders may not interpret principles consistently, and it is important for stakeholders to have the same conceptual framework as preparers when interpreting a principle.",
+        "input_2": "stakeholders may not interpret principles consistently",
+        "output": "entailment",
+        "idx": 72
+    },
+    {
+        "input_1": "At the west end is a detailed model of the whole temple complex.",
+        "input_2": "The model temple complex was built in the 1900s.",
+        "output": "neutral",
+        "idx": 73
+    },
+    {
+        "input_1": "STANDARD COSTING - A costing method that attaches costs to cost objects based on reasonable estimates or cost studies and by means of budgeted rates rather than according to actual costs incurred.",
+        "input_2": "Standard Costing was applied to the ledger.",
+        "output": "neutral",
+        "idx": 74
+    },
+    {
+        "input_1": "pretty good newspaper uh-huh",
+        "input_2": "The newspaper is horrible.",
+        "output": "contradiction",
+        "idx": 75
+    },
+    {
+        "input_1": "The road along the coastline to the south travels through busy agricultural towns and fishing villages untouched by tourism.",
+        "input_2": "The towns along the road have benefits from the tourism that flows down the road.",
+        "output": "contradiction",
+        "idx": 76
+    },
+    {
+        "input_1": "yeah uh-huh yeah it's one of the things uh if you read in the newspapers and stuff he's the critics really like it or they really don't",
+        "input_2": " The critics either like or really dislike that one.",
+        "output": "entailment",
+        "idx": 77
+    },
+    {
+        "input_1": "Friendly Fire , by Joe Lovano and Greg Osby (Blue Note Records).",
+        "input_2": "Friendly Fire was written by Joe Lovano and Greg Osby.",
+        "output": "entailment",
+        "idx": 78
+    },
+    {
+        "input_1": "Daniel sat buried by the lights, occasionally pressing things.",
+        "input_2": "Daniel was covered by lights and he was not standing. ",
+        "output": "entailment",
+        "idx": 79
+    },
+    {
+        "input_1": "Fast forward to 1994 and beyond.",
+        "input_2": "Fast forward to 1994 and all the years after.",
+        "output": "entailment",
+        "idx": 80
+    },
+    {
+        "input_1": "Credibility is a vital factor, and Jim Lehrer does, indeed, have it.",
+        "input_2": "Jim Lehrer has a lot of credibility, which is good for him.",
+        "output": "entailment",
+        "idx": 81
+    },
+    {
+        "input_1": "'But if White has any designs at all on living, he'll be as far from Little as he can possibly get by now.'",
+        "input_2": "White should be afraid to come back to Little.",
+        "output": "neutral",
+        "idx": 82
+    },
+    {
+        "input_1": "i voted in the last national one yeah i'm not sure if i got the last local one",
+        "input_2": "I'm not sure if I got to vote in the last local one.",
+        "output": "entailment",
+        "idx": 83
+    },
+    {
+        "input_1": "and uh well if you if you got got him a power mower it'd probably take him a lot less time to do it but i enjoy doing it i feel good doing it uh i i feel a lot better doing it with a power mower with that with a  with a pull tractor on it so i don't have to push so hard",
+        "input_2": "Buying him a power mower would probably help him finish the job sooner.",
+        "output": "entailment",
+        "idx": 84
+    },
+    {
+        "input_1": "A 1994 Roper Poll concluded that the NewsHour is perceived by the public as the most credible newscast in the country.",
+        "input_2": "A 1984 Poll concluded NewsHour is seen as the most credible newscast by the public and that it is the most popular.",
+        "output": "-",
+        "idx": 85
+    },
+    {
+        "input_1": "yeah right right yeah i know i uh i remember my college days  and having to do that too",
+        "input_2": "I remember that when I went to college we didn't have anything like that.",
+        "output": "contradiction",
+        "idx": 86
+    },
+    {
+        "input_1": "That would be a tenfold increase in the Internet's share.",
+        "input_2": "That would cause the Internet's share to rise by a factor of ten.",
+        "output": "entailment",
+        "idx": 87
+    },
+    {
+        "input_1": "All requests to provide live testimony at one of the two public hearings were granted.",
+        "input_2": "There were over four hundred requests submitted.",
+        "output": "neutral",
+        "idx": 88
+    },
+    {
+        "input_1": "Then he shrugged.",
+        "input_2": "He never bothered to shrug about things.",
+        "output": "contradiction",
+        "idx": 89
+    },
+    {
+        "input_1": "The strangest role reversal is going on right now and concerns democracy itself.",
+        "input_2": "There is a role reversal going on in relation to democracy.",
+        "output": "entailment",
+        "idx": 90
+    },
+    {
+        "input_1": "This one-at-a-time, uncoordinated series of regulatory requirements for the power industry is not the optimal approach for the environment, the power generation sector, or American consumers.",
+        "input_2": "This is not the optimal approach.",
+        "output": "entailment",
+        "idx": 91
+    },
+    {
+        "input_1": "The Wither's eldest boy, one of the four of the town militia, saluted in the old style with his stick sword.",
+        "input_2": "The Wither's only had daughters. ",
+        "output": "contradiction",
+        "idx": 92
+    },
+    {
+        "input_1": "But the third try worked better.",
+        "input_2": "The third try worked better because we had proper tools.",
+        "output": "neutral",
+        "idx": 93
+    },
+    {
+        "input_1": "yeah well Rochester's like right on the shores isn't it",
+        "input_2": "Rochester is right on the shores.",
+        "output": "entailment",
+        "idx": 94
+    },
+    {
+        "input_1": "He was born Siddhartha Gautama in a grove of sal trees at Lumbini (just across the Nepalese border) around the year 566 b.c.",
+        "input_2": "Siddartha Gautama's mother gave birth to him in the centre of the tree grove. ",
+        "output": "entailment",
+        "idx": 95
+    },
+    {
+        "input_1": "oh really it wouldn't matter if we plant them when it was starting to get warmer",
+        "input_2": "Warmer weather doesn't alter planting time.",
+        "output": "entailment",
+        "idx": 96
+    },
+    {
+        "input_1": "In the original, Reich is set up by his host and then ambushed by a hostile questioner named John, and when he tries to answer with an eloquent Mr. Smith speech (My fist is clenched.",
+        "input_2": "In the original, Reich is in control of the whole situation.",
+        "output": "contradiction",
+        "idx": 97
+    },
+    {
+        "input_1": "Major journeys from one part of the country to another, say, from Milan to Rome or down to Naples, is most enjoyed by train buffs and travelers with plenty of time, patience, and curiosity.",
+        "input_2": "People who like trains or who are patient are most likely to enjoy long train trips in Italy.",
+        "output": "entailment",
+        "idx": 98
+    },
+    {
+        "input_1": "The man who had once come up with a has-been corner skit, in which, as Zmuda recalls, forgotten performers would be sent out to flounder in front of an audience ...",
+        "input_2": "The man designed a skit where popular performers went out and enjoyed total success in front of a crowd.",
+        "output": "contradiction",
+        "idx": 99
+    },
+    {
+        "input_1": "In short, this is a whole new costing area that would need to be undertaken.",
+        "input_2": "In a nutshell, this new costing area would not need to be undertaken.",
+        "output": "contradiction",
+        "idx": 100
+    },
+    {
+        "input_1": "Marriage is an important institution.",
+        "input_2": "Marriage is important to society.",
+        "output": "entailment",
+        "idx": 101
+    },
+    {
+        "input_1": "Not quite as large is the Papal Crose commemorating Pope John Paul II's visit in 1979, when more than one million people gathered to celebrate mass.",
+        "input_2": "Pope John Paul II also visited in 1983.",
+        "output": "neutral",
+        "idx": 102
+    },
+    {
+        "input_1": "Meet the Press host Tim Russert took his Christmas vacation five days early by letting Rep.",
+        "input_2": "Tim Russert, host of Meet The Press took his Christmas vacation five days sooner.",
+        "output": "entailment",
+        "idx": 103
+    },
+    {
+        "input_1": "3) The gap between the productivity of women and the productivity of men.",
+        "input_2": "The gap of genders.",
+        "output": "neutral",
+        "idx": 104
+    },
+    {
+        "input_1": "Jon drew it out and stabbed again in the man's throat.",
+        "input_2": "Jon stabbed the man's throat multiple times.",
+        "output": "entailment",
+        "idx": 105
+    },
+    {
+        "input_1": " \"You're not going to marry him, do you hear?\" he said dictatorially.",
+        "input_2": "\"You will not take him as your husband.\"",
+        "output": "entailment",
+        "idx": 106
+    },
+    {
+        "input_1": "I entered her shack, opening the painted door covered in runes of warding.",
+        "input_2": "I entered the shack through the hole in the ceiling.  It was abandoned, and smelled musty and odd.",
+        "output": "contradiction",
+        "idx": 107
+    },
+    {
+        "input_1": "We shouldn't have been here as soon as this even, if it hadn't been for the fact that there was a smart doctor on the spot, who gave us the tip through the Coroner. ",
+        "input_2": "There had a doctor who assisted us through the Coroner.",
+        "output": "entailment",
+        "idx": 108
+    },
+    {
+        "input_1": "Diets for men in their prime",
+        "input_2": "Healthy eating choices for optimally aged men. ",
+        "output": "entailment",
+        "idx": 109
+    },
+    {
+        "input_1": "Should we invite these young wealthies back to our comparatively humble, small home?",
+        "input_2": "Our home is small and humble, compared to that of wealthies. ",
+        "output": "entailment",
+        "idx": 110
+    },
+    {
+        "input_1": "With most plants needing to install control equipment to meet these requirements, it is likely that this approach would lead to installation of controls that become obsolete and stranded capital investments as additional requirements are promulgated.",
+        "input_2": "Most plants are already up to code.",
+        "output": "contradiction",
+        "idx": 111
+    },
+    {
+        "input_1": "There were beads of perspiration on his brow.",
+        "input_2": "He was perfectly calm and dry as he waited.",
+        "output": "contradiction",
+        "idx": 112
+    },
+    {
+        "input_1": "Auditors from another country engaged to conduct audits in their country should meet the professional qualifications to practice under that country's laws and regulations or other acceptable standards, such as those issued by the International Organization of Supreme Audit Institutions.",
+        "input_2": "The majority of the world abides by a common auditing code.",
+        "output": "neutral",
+        "idx": 113
+    },
+    {
+        "input_1": "uh it's in Georgia it's yeah it's right outside of Macon and and it's just a i like the way that i like the way that idea of the south is",
+        "input_2": "It's in Georgia but it's a very long distance from Macon.",
+        "output": "contradiction",
+        "idx": 114
+    },
+    {
+        "input_1": "He married Dona Filipa Moniz (Perestrelo), the daughter of Porto Santo's first governor, and lived on the island for a period, fathering a son there.",
+        "input_2": "He made a life for himself on the island, marrying Dona Filipa Moniz and siring a son.",
+        "output": "entailment",
+        "idx": 115
+    },
+    {
+        "input_1": "They were inferior.",
+        "input_2": "Substandard, they were.",
+        "output": "entailment",
+        "idx": 116
+    },
+    {
+        "input_1": "The national award was created to recognize an attorney in practice for less than 10 years for excellence in public interest or pro bono activities.",
+        "input_2": "The national award giving to attorneys for excellence in public interest, is given to 10 attorneys annually. ",
+        "output": "neutral",
+        "idx": 117
+    },
+    {
+        "input_1": "oh uh-huh well no they wouldn't would they no",
+        "input_2": "No, they would like to do that.",
+        "output": "contradiction",
+        "idx": 118
+    },
+    {
+        "input_1": "Back to the subject of celebrity interviews, British magazines have published a huge number with actress Kate Winslet, the star of Titanic , to promote a new British film she has made.",
+        "input_2": "British magazines interviewed Kate Winslet 37 times in 2008.",
+        "output": "neutral",
+        "idx": 119
+    },
+    {
+        "input_1": "Endorphins were flowing.",
+        "input_2": "I was very calm and collected.",
+        "output": "contradiction",
+        "idx": 120
+    },
+    {
+        "input_1": "Apparently, Greuze wasn't worried about needing protection.",
+        "input_2": "Greuze concerned himself all the time with needing protection.",
+        "output": "contradiction",
+        "idx": 121
+    },
+    {
+        "input_1": "Unless the mention of the Ritz was an accidental remark?\"",
+        "input_2": "Was mentioning the Ritz accidental?",
+        "output": "entailment",
+        "idx": 122
+    },
+    {
+        "input_1": "Wear a nicely ventilated hat and keep to the shade in the street.",
+        "input_2": "The buildings are so low that there is no shade in the streets.",
+        "output": "contradiction",
+        "idx": 123
+    },
+    {
+        "input_1": "Cases in Comparative",
+        "input_2": "Cases care not related to law.",
+        "output": "neutral",
+        "idx": 124
+    },
+    {
+        "input_1": "And if they did come, as remote as that is, you and your men look strong enough to handle anything.",
+        "input_2": "The men were warriors.",
+        "output": "neutral",
+        "idx": 125
+    },
+    {
+        "input_1": "The Throne Room is one of a series of apartments built during the reign of Charles II, though it was originally designed as a guard room that screened entrants to the private chambers beyond.",
+        "input_2": "The Throne Room is an apartment built during the reign of George III.",
+        "output": "contradiction",
+        "idx": 126
+    },
+    {
+        "input_1": "true yeah i know it isn't that ridiculous we have cable which helps a lot",
+        "input_2": "It isn't that absurd; we have cable, which is great.",
+        "output": "entailment",
+        "idx": 127
+    },
+    {
+        "input_1": "i don't know she said they go crazy",
+        "input_2": "She stated that they remained calm and sane.",
+        "output": "contradiction",
+        "idx": 128
+    },
+    {
+        "input_1": "it would probably be a lot more work and probably not turn out as good",
+        "input_2": "Oh that way sounds great, it could turn out even better",
+        "output": "contradiction",
+        "idx": 129
+    },
+    {
+        "input_1": "The Commission published a summary of its Final Regulatory Flexibility Analysis in the Federal Register on September 12, 1996 (61 Fed.",
+        "input_2": "A Final Regulatory Flexibility Analysis was published by the Commission in 1996",
+        "output": "entailment",
+        "idx": 130
+    },
+    {
+        "input_1": "Once they know their Social Security benefits promised under current law, workers can calculate how much they can expect from employer-sponsored pension plans and how much they need to save on their own for retirement.",
+        "input_2": "Employer sponsored pension plans give workers money so that they can save for retirement.",
+        "output": "entailment",
+        "idx": 131
+    },
+    {
+        "input_1": "no chemicals and plus then you can use it as a fertilizer and not have to worry about spreading those chemicals like on your lawn or your bushes or whatever",
+        "input_2": "The products are used for many things",
+        "output": "neutral",
+        "idx": 132
+    },
+    {
+        "input_1": "Friendly Fire , by Joe Lovano and Greg Osby (Blue Note Records).",
+        "input_2": "Friendly Fire is about war treaties. ",
+        "output": "neutral",
+        "idx": 133
+    },
+    {
+        "input_1": "Jon was fighting at full speed, sweat forming on his brow.",
+        "input_2": "Jon was fighting demons at full speed.",
+        "output": "neutral",
+        "idx": 134
+    },
+    {
+        "input_1": "actually i think abortion's going to take a turn where there's not going to be as many because i think contraceptives are going to be more popular i mean i realize that they are popular now but i think",
+        "input_2": "I believe that the rising popularity of contraceptives will push the abortion rate down.",
+        "output": "entailment",
+        "idx": 135
+    },
+    {
+        "input_1": "In addition to the arguments previously advanced by the Vice Presidentas representatives and addressed in our June 22 letter to the Counsel to the Vice President (see Enclosure 1), the Vice Presidentas August 2 letter to the Congress asserts that the study is not authorized by statute because GAO is limited to looking at the aresults- of programs and that GAO does not have a right of access to documents because the Vice President is not included under the term aagency- used in GAOas statute.",
+        "input_2": "The Vice President believes that GAO shouldn't be able to read documents.",
+        "output": "neutral",
+        "idx": 136
+    },
+    {
+        "input_1": "St. Barts, of course, is completely undefended.",
+        "input_2": "St. Barts is a military powerhouse.  ",
+        "output": "contradiction",
+        "idx": 137
+    },
+    {
+        "input_1": "She leaned back in her chair.",
+        "input_2": "She was sitting on a chair. ",
+        "output": "entailment",
+        "idx": 138
+    },
+    {
+        "input_1": "Of the four main buildings, all of them whitewashed and decorated with bright painted sculptures, the first is where the worshippers bring offerings of flowers and fruit, the second is for sacred dances, and the third for viewing the divine effigies, which are enshrined in the sanctum of the fourth and tallest edifice.",
+        "input_2": "There are six main buildings, all painted beige.",
+        "output": "contradiction",
+        "idx": 139
+    },
+    {
+        "input_1": "The Gaiety Theatre in South King Street is worth visiting for its ornate d??cor.",
+        "input_2": "The Trump Tower is a terrible place to visit for ornate decor.",
+        "output": "neutral",
+        "idx": 140
+    },
+    {
+        "input_1": "Bush the elder came of age when New England Republicans led the party, and patrician manners were boons to a Republican.",
+        "input_2": "New England Republicans were weak.",
+        "output": "contradiction",
+        "idx": 141
+    },
+    {
+        "input_1": "Second, reducing the rate of HIV transmission is in any event not the only social goal worth  If it were, we'd outlaw sex entirely.",
+        "input_2": "Reducing HIV is important, but there are also other worthy causes.",
+        "output": "entailment",
+        "idx": 142
+    },
+    {
+        "input_1": "Mr. Clinton rewards Mr. Knight for his fund raising, Mr. Gore lays the groundwork for his anticipated presidential bid four years from now, and the companies, by hiring Mr. Knight, get the administration's ear.",
+        "input_2": "Mr. Clinton appreciated Mr. Knight for his fund raising.",
+        "output": "entailment",
+        "idx": 143
+    },
+    {
+        "input_1": "Court officials include the phone numbers of the local Legal Services office and county lawyer referral system on every summons.",
+        "input_2": "Court officials don't get involved in figuring out how people will get legal help.",
+        "output": "contradiction",
+        "idx": 144
+    },
+    {
+        "input_1": "profit rather",
+        "input_2": "Our profit has not been good.",
+        "output": "neutral",
+        "idx": 145
+    },
+    {
+        "input_1": "In the other bracket, the Broncos beat the New York Jets.",
+        "input_2": "The Broncos beat the New York Jets. ",
+        "output": "entailment",
+        "idx": 146
+    },
+    {
+        "input_1": "Even if auditors do not follow such other standards and methodologies, they may still serve as a useful source of guidance to auditors in planning their work under GAGAS.",
+        "input_2": "GAGAS requires strict compliance for auditors to follow.",
+        "output": "neutral",
+        "idx": 147
+    },
+    {
+        "input_1": "i was trying to think about some of my favorite people that i liked in music and they're none of them are recent right",
+        "input_2": "All of my favorite musicians are current. ",
+        "output": "contradiction",
+        "idx": 148
+    },
+    {
+        "input_1": "from grocery store baggers that want to buy my car because it's a Trans Am they're high school seniors seventeen years old and they got to impress their girl friend",
+        "input_2": "My Trans Am isn't popular at all.",
+        "output": "contradiction",
+        "idx": 149
+    },
+    {
+        "input_1": "He loved her.",
+        "input_2": "He hated her.",
+        "output": "contradiction",
+        "idx": 150
+    },
+    {
+        "input_1": "North of Mytilini, stop at the village of Moria, where you will find the remains of a huge Roman aqueduct surrounded by grazing goats.",
+        "input_2": "The most popular site north of Mytilni is the village of Moria.",
+        "output": "neutral",
+        "idx": 151
+    },
+    {
+        "input_1": "Now they're telling mothers to deny food to infants all night long once the kids are a few months old.",
+        "input_2": "Infants are allowed to feed at night during their first months.",
+        "output": "contradiction",
+        "idx": 152
+    },
+    {
+        "input_1": "Once or twice, but they seem more show than battle, said Adrin.",
+        "input_2": "Adrin said they weren't serious about battling.",
+        "output": "entailment",
+        "idx": 153
+    },
+    {
+        "input_1": "Taking an ecumenical tack, nation officials in Chicago recently issued edicts commanding preachers to back off their anti-Semitic rhetoric.",
+        "input_2": "Nation officials in Chicago refuse to get involved in religious issues.",
+        "output": "contradiction",
+        "idx": 154
+    },
+    {
+        "input_1": "The way we try to approach it is to identify every legal problem that a client has.",
+        "input_2": "All of the client's legal problems are supposed to be identified.",
+        "output": "entailment",
+        "idx": 155
+    },
+    {
+        "input_1": "yeah although i do worry that how easy this one was might be a bad lesson uh to the to the younger people um you know than there is the other generation",
+        "input_2": "I do think it will be a good lesson.",
+        "output": "contradiction",
+        "idx": 156
+    },
+    {
+        "input_1": "Under the rule, HUD may also accept an assignment of",
+        "input_2": "HUD has nor rules they need to follow.",
+        "output": "contradiction",
+        "idx": 157
+    },
+    {
+        "input_1": "Whether a government postal service can engage in these kinds of negotiations deserves serious study.",
+        "input_2": "It is already certain that the postal service can engage in these negotiations.",
+        "output": "contradiction",
+        "idx": 158
+    },
+    {
+        "input_1": "okay okay that's it that GTE had purchased Tigon and yeah that's what we have",
+        "input_2": "GTE spent a lot of money to acquire Tigon.",
+        "output": "neutral",
+        "idx": 159
+    },
+    {
+        "input_1": "The author began with a set of hunches or hypotheses about what can go wrong in agency management, and what would be evidence supporting-or contradicting-these hypotheses.",
+        "input_2": "The author began with a set of theories about the ways in which agency management can go right.",
+        "output": "contradiction",
+        "idx": 160
+    },
+    {
+        "input_1": "Also, Time claims that for the past year, the FBI has been seeking Robert Jacques, a possible accomplice to Timothy McVeigh in the Oklahoma City bombing.",
+        "input_2": "It is suggested the feds have been looking for an accomplice to the bombing for the past year.",
+        "output": "entailment",
+        "idx": 161
+    },
+    {
+        "input_1": "It's all right.",
+        "input_2": "Everything is a disaster.",
+        "output": "contradiction",
+        "idx": 162
+    },
+    {
+        "input_1": "Thus, the imbalance in the volume of mail exchanged magnifies the effect of the relatively higher rates in these countries.",
+        "input_2": "There is more mail coming in than going out.",
+        "output": "neutral",
+        "idx": 163
+    },
+    {
+        "input_1": "Bien! he said at last. ",
+        "input_2": "He finally blurted something out.",
+        "output": "entailment",
+        "idx": 164
+    },
+    {
+        "input_1": "Moreover, Las Vegas has recently started to show signs of maturity in its cultural status as well.",
+        "input_2": "The culture of Las Vegas has recently matured.",
+        "output": "entailment",
+        "idx": 165
+    },
+    {
+        "input_1": "um i know that i had heard that uh McDonald's has gotten so much flack about sending their hot foods out in the Styrofoam that they are going to work on something",
+        "input_2": "Styrofoam is not a safe thing to have near food.",
+        "output": "neutral",
+        "idx": 166
+    },
+    {
+        "input_1": "The program covers those units covered by the new nationwide sulfur dioxide trading program that are located in the States in the WRAP and that, in any year starting in 2000, emit more than 100 tons of sulfur dioxide and are used to produce electricity for sale.",
+        "input_2": "The program covers units covered by the nationwide sulfur dioxide trading program.",
+        "output": "entailment",
+        "idx": 167
+    },
+    {
+        "input_1": "Britons, however, trumpet their poet laureate as worthy of the ranks of Blake, Keats, Hardy and Auden (the Times of London).",
+        "input_2": "Britons trumpet their poet laureate as worthy of the ranks of Blake, Keats, Hardy and Auden (the Times of London).",
+        "output": "entailment",
+        "idx": 168
+    },
+    {
+        "input_1": "right well the warmth that developed between them and again it i think was a picture of relationships",
+        "input_2": "They got married after a while.",
+        "output": "neutral",
+        "idx": 169
+    },
+    {
+        "input_1": "Something in his mind seemed also to have developed a \"tan\" that let him face the bite of chance without flinching.",
+        "input_2": "He had somehow become more accustomed to facing chances.",
+        "output": "entailment",
+        "idx": 170
+    },
+    {
+        "input_1": "2. Receiving Water Samples",
+        "input_2": "The water samples are received by the lab.",
+        "output": "neutral",
+        "idx": 171
+    },
+    {
+        "input_1": "The last stages of uploading are like a mental dry-heave.",
+        "input_2": "The final part of uploading feels like a mental dry-heave.",
+        "output": "entailment",
+        "idx": 172
+    },
+    {
+        "input_1": "Today it is possible to walk through the old agora (marketplace) and stroll along Roman roads.",
+        "input_2": "Thre is nothing left today of the old Roman roads. ",
+        "output": "contradiction",
+        "idx": 173
+    },
+    {
+        "input_1": "The percent of total cost for each function included in the model and cost elasticity (with respect to volume) are shown in Table 1.",
+        "input_2": "Table 1 also shows a picture diagram for each function. ",
+        "output": "neutral",
+        "idx": 174
+    },
+    {
+        "input_1": "Possibly no other country has had such a turbulent history.",
+        "input_2": "The country's history has been largely peaceful.",
+        "output": "contradiction",
+        "idx": 175
+    },
+    {
+        "input_1": "But for some recipients, there is a downside to the checks from Anthem Inc., issued to policyholders as part of the insurer's conversion to a publicly traded company.",
+        "input_2": "Anthem inc has crazy fees on their checks",
+        "output": "neutral",
+        "idx": 176
+    },
+    {
+        "input_1": "By coordinating policy development and awareness activities in this manner, she helps ensure that new risks and policies are communicated promptly and that employees are periodically reminded of existing policies through means such as monthly bulletins, an intranet web site, and presentations to new employees.",
+        "input_2": "There are a lot of communication channels.",
+        "output": "neutral",
+        "idx": 177
+    },
+    {
+        "input_1": "Republican consultants agree that conservative candidates in the South, Southwest, Midwest, and Rocky Mountains will beg for Reed's talents and connections.",
+        "input_2": "Candidates in the Rocky Mountains will beg the loudest.",
+        "output": "neutral",
+        "idx": 178
+    },
+    {
+        "input_1": "The pope, suggesting that Gen.",
+        "input_2": "Gen is being suggested by the Pope. ",
+        "output": "entailment",
+        "idx": 179
+    },
+    {
+        "input_1": "facilitate suits for benefits by using the State and Federal courts and the independent bar on which those courts depend for the proper performance of their duties and responsibilities.",
+        "input_2": "Federal refers to national and state refers to local, duties and responsibilities may vary between Federal and State levels.",
+        "output": "neutral",
+        "idx": 180
+    },
+    {
+        "input_1": "maybe adult literacy maybe you know composition writing maybe you know uh volunteering you know on a tutor line or though the even through the elementary schools for help with homework or the other part of me says is God i've had enough kids  do i really",
+        "input_2": "I don't know if I really want to put in more effort volunteering since I've already gone through that with my children",
+        "output": "neutral",
+        "idx": 181
+    },
+    {
+        "input_1": "Not only must capital goods be replaced as they depreciate, but new generations of workers must be comparably",
+        "input_2": "Capital goods are able to last for eternity.",
+        "output": "contradiction",
+        "idx": 182
+    },
+    {
+        "input_1": "Inside are leather-bound regimental books with each serviceperson's name duly inscribed.",
+        "input_2": "There are books that have each person's name.",
+        "output": "entailment",
+        "idx": 183
+    },
+    {
+        "input_1": "France knew a good thing when she seized one, but then so did Britain.",
+        "input_2": "France knew this was a good place to stay.",
+        "output": "neutral",
+        "idx": 184
+    },
+    {
+        "input_1": "This was the site of the Bateau-Lavoir studio, an unprepossessing glass-roofed loft reconstructed since a 1970 fire.",
+        "input_2": "This was the site of the studio which had an unprepssessing glass roof.",
+        "output": "entailment",
+        "idx": 185
+    },
+    {
+        "input_1": "Therefore, many leading finance organizations have calculated and compared these percentages as a general indication of how well they supported the organization's business objectives.",
+        "input_2": "Finance organization calculated data about every other organization.",
+        "output": "neutral",
+        "idx": 186
+    },
+    {
+        "input_1": "I ordered Better Sexual Techniques , Advanced Sexual Techniques , Making Sex Fun , and Advanced Oral Sex Techniques (priced about $11.",
+        "input_2": "My orders did not have any sexual references.",
+        "output": "contradiction",
+        "idx": 187
+    },
+    {
+        "input_1": "At the western end of Cowgate (where it meets Holyrood Road), you will see one of the few remaining sections of Edinburgh's old city wall (Flodden Wall), built following the Lang Siege of the 1570s.",
+        "input_2": "Flodden Wall was built in the late 18th century.",
+        "output": "contradiction",
+        "idx": 188
+    },
+    {
+        "input_1": "oh older ones too i know a few of those",
+        "input_2": "I don't know any of the older ones.",
+        "output": "contradiction",
+        "idx": 189
+    },
+    {
+        "input_1": "On various episodes he is a member, along with Bluebeard and the Grim Reaper, of the Jury of the Damned; he takes part in a snake-bludgeoning (in a scandal exposed by a Bob Woodward book); his enemies list is used for dastardly purposes; even his dog Checkers is said to be bound for hell.",
+        "input_2": "There are no episodes where he is a member of anything.",
+        "output": "contradiction",
+        "idx": 190
+    },
+    {
+        "input_1": "The city plans to build a community center for Lincoln Place and a future fire station on the site.",
+        "input_2": "The fire station that the city will build is going to be painted red and very large.",
+        "output": "neutral",
+        "idx": 191
+    },
+    {
+        "input_1": "This site provides information links, tools, and resources developed for the benefit of the audit profession, including audit programs, best practices, and research services.",
+        "input_2": "Thousands of auditors across the country have visited the site in recent weeks.",
+        "output": "neutral",
+        "idx": 192
+    },
+    {
+        "input_1": "The herds give a sense of proportion to the vast openness, just as the scattered farmhouses and characteristic drystone walls add reassuring warmth to even the loneliest valley.",
+        "input_2": "The area is completely devoid of life.",
+        "output": "contradiction",
+        "idx": 193
+    },
+    {
+        "input_1": "The Vice President and his representatives have asserted that GAO lacks the statutory authority to examine the activities of the NEPDG, recognizing only GAOas authority to audit its financial transactions.",
+        "input_2": "The Vice President and his representatives have argued that GAO does not have the ability to investigate the actions of the NEPDG, the only authority GAO has is to audit its financial transactions. ",
+        "output": "entailment",
+        "idx": 194
+    },
+    {
+        "input_1": "Three more days went by in dreary inaction.",
+        "input_2": "The next three days were packed with action.",
+        "output": "contradiction",
+        "idx": 195
+    },
+    {
+        "input_1": "During the Crimean War (1854 56) she set up a hospital in the huge Selimiye Barracks (Selimiye Kelase).",
+        "input_2": "The Crimean War ended in the 1840s.",
+        "output": "contradiction",
+        "idx": 196
+    },
+    {
+        "input_1": "Along the eastern coastline are several fine beaches with perfect windsurfing conditions in their wide, shallow bays.",
+        "input_2": "The shallow bays and the coastline are the worst place for windsurfing.",
+        "output": "contradiction",
+        "idx": 197
+    },
+    {
+        "input_1": "yeah pay fifteen yeah yes i know yeah and when you pay fifteen dollars a month it sure takes a long time",
+        "input_2": "When you pay $15 a month, it takes a long time but I can't afford any more.",
+        "output": "neutral",
+        "idx": 198
+    },
+    {
+        "input_1": "He'd gone a long way on what he'd found in one elementary book.",
+        "input_2": "He learned a lot from that elementary book.",
+        "output": "neutral",
+        "idx": 199
+    },
+    {
+        "input_1": "The islands' names refer to the different force winds hitting them, not their topography.",
+        "input_2": "The name of the islands are based on their topography.",
+        "output": "contradiction",
+        "idx": 200
+    },
+    {
+        "input_1": "In the north, the snowcapped Alps and jagged pink pinnacles of the Dolomites; the gleaming Alpine-backed lakes of Como, Garda, and Maggiore; the fertile and industrial plain of the Po, stretching from Turin and Milan across to ancient Verona; the Palladian-villa studded hills of Vicenza; and the romantic canals of Venice.",
+        "input_2": "The Alps are covered in snow.",
+        "output": "entailment",
+        "idx": 201
+    },
+    {
+        "input_1": "Companies that were foreign had to accept Indian financial participation and management.",
+        "input_2": "Foreign companies had to take Indian money in order to operate their businesses.",
+        "output": "neutral",
+        "idx": 202
+    },
+    {
+        "input_1": "oh yes how well i know i was laid off last year but i was i was lucky because i was one of the first groups to go",
+        "input_2": "My group was the very last group to get laid off.",
+        "output": "contradiction",
+        "idx": 203
+    },
+    {
+        "input_1": "farmworkers conducted by the U.S.",
+        "input_2": "A labor survey also considered the views of agricultural workers.",
+        "output": "neutral",
+        "idx": 204
+    },
+    {
+        "input_1": "I was to watch for an advertisement in the Times.",
+        "input_2": "I was anticipating an ad in the newspaper. ",
+        "output": "entailment",
+        "idx": 205
+    },
+    {
+        "input_1": "She was a very good mistress to me, sir.",
+        "input_2": "She was perfect at her job. ",
+        "output": "neutral",
+        "idx": 206
+    },
+    {
+        "input_1": "oh i did and i laughed real hard when i took it in for the two thousand mile checkup and uh",
+        "input_2": "I could not believe how well it passed the two thousand mile checkup.",
+        "output": "neutral",
+        "idx": 207
+    },
+    {
+        "input_1": "The Sikhs reacted violently to persecution, and the Marathas spread to Orissa, after which, in the year 1739, Nadir Shah of Persia invaded and carried off the Peacock Throne (broken up after his assassination).",
+        "input_2": "The Sikhs submitted to the persecution.",
+        "output": "contradiction",
+        "idx": 208
+    },
+    {
+        "input_1": "see now in a situation like that the boys are only sixteen years old and they were sexually involved with her and i think like at that particular point she was twenty three you know so she wasn't really that much older than them and being a boy at that age i think that they're very um you know let's face it that's at a point in your life when you you're just starting to realize all the things of life",
+        "input_2": "Everyone involved was the same age.",
+        "output": "contradiction",
+        "idx": 209
+    },
+    {
+        "input_1": "In short, this is a whole new costing area that would need to be undertaken.",
+        "input_2": "In a nutshell, this new costing area would need to be undertaken.",
+        "output": "entailment",
+        "idx": 210
+    },
+    {
+        "input_1": "i don't know how what it would take to be come up with a true perfect system or if one exists but",
+        "input_2": "A perfect solution may exist, but I don't know of it.",
+        "output": "entailment",
+        "idx": 211
+    },
+    {
+        "input_1": "The Mosque of El-Jezzar, built in 1781, dominates the landside of the old city (the other three sides jut into the Mediterranean).",
+        "input_2": "The old city contains the Mosque of El-Jezzar, which was built over 200 years ago.",
+        "output": "entailment",
+        "idx": 212
+    },
+    {
+        "input_1": "The FCC has created two tiers of small business for this service with the approval of the SBA.",
+        "input_2": "The SBA has given the go-ahead for the FCC to divide this service into two tiers of small business.",
+        "output": "entailment",
+        "idx": 213
+    },
+    {
+        "input_1": "There are many such at the present time.",
+        "input_2": "There are over two currently.",
+        "output": "entailment",
+        "idx": 214
+    },
+    {
+        "input_1": "that's right you can work yourself to death well i'm sorry to hear your color didn't come out so good over the weekend",
+        "input_2": "I'm glad it didn't go as planned. ",
+        "output": "contradiction",
+        "idx": 215
+    },
+    {
+        "input_1": "The White House denies this.",
+        "input_2": "The White House, off the record, knows it to be true.",
+        "output": "neutral",
+        "idx": 216
+    },
+    {
+        "input_1": "8 A stoichiometry of 1.03 is typical when the FGD process is producing gypsum by-product, while a stoichiometry of 1.05 is needed to produce waste suitable for a landfill.",
+        "input_2": "A stoichiometry of 1.03 is typical when the FGD process is not producing gypsum by-product",
+        "output": "contradiction",
+        "idx": 217
+    },
+    {
+        "input_1": "The researchers found expected stresses like the loss of a check in the mail and the illness of loved ones.",
+        "input_2": "The stresses affected people much diffferently than the researchers expected.",
+        "output": "contradiction",
+        "idx": 218
+    },
+    {
+        "input_1": "evaluation questions.",
+        "input_2": "Only statements of the evaluation are available.",
+        "output": "contradiction",
+        "idx": 219
+    },
+    {
+        "input_1": "Something may be better than nothing . If trials compared low-cost therapy to the complete AZT regimen it's likely that the new regimens will prove less effective.",
+        "input_2": "It is better to have little than to have none at all.",
+        "output": "entailment",
+        "idx": 220
+    },
+    {
+        "input_1": "Did the ancestors of the Indians really come from Asia over the Aleutian land bridge?",
+        "input_2": "The Indians ancestors likely traveled in groups of 100 over the Aleutian land bridge. ",
+        "output": "neutral",
+        "idx": 221
+    },
+    {
+        "input_1": "much with whatever it's with the Black the Black problem or whatever that may be now",
+        "input_2": "There is a Black issue that could be called something else now.",
+        "output": "entailment",
+        "idx": 222
+    },
+    {
+        "input_1": "It was made up to look as much like an old-fashioned steam train as possible.",
+        "input_2": "They altered it enough over the course of the day to fit in with the old-timey theme.",
+        "output": "neutral",
+        "idx": 223
+    },
+    {
+        "input_1": "They would burn to the ground by morning.",
+        "input_2": "By morning, they would burn to the ground.",
+        "output": "entailment",
+        "idx": 224
+    },
+    {
+        "input_1": "The Washington Post called it the culmination of a six-month game of political chicken.",
+        "input_2": "It has been called by the Washington Post as the culmination of a six-month game of political chicken.",
+        "output": "entailment",
+        "idx": 225
+    },
+    {
+        "input_1": "but i've lived up here all my life and i'm fifty eight years old so i i could",
+        "input_2": "I have lived in this place for fifty eight years.",
+        "output": "entailment",
+        "idx": 226
+    },
+    {
+        "input_1": "Jon walked back to the town to the smithy.",
+        "input_2": "Jon continued on into the mountains.",
+        "output": "contradiction",
+        "idx": 227
+    },
+    {
+        "input_1": "The agency also receives a percentage of money from the Interest On Lawyers' Trust Accounts.",
+        "input_2": "They get some funding from the account.",
+        "output": "entailment",
+        "idx": 228
+    },
+    {
+        "input_1": "Summer boasts long, warm days with strong sunlight and hazy views.",
+        "input_2": "Be sure to keep a shade umbrella with you during the Summer.",
+        "output": "neutral",
+        "idx": 229
+    },
+    {
+        "input_1": "5 The share of gross national saving used to replace depreciated capital has increased over the past 40 years.",
+        "input_2": "Depreciated capital does not need to be replaced.",
+        "output": "contradiction",
+        "idx": 230
+    },
+    {
+        "input_1": "oh i don't know either the other growing up all i knew was",
+        "input_2": "I know because I learned it growing up",
+        "output": "contradiction",
+        "idx": 231
+    },
+    {
+        "input_1": "Then as he caught the other's sidelong glance, \"No, the chauffeur won't help you any.",
+        "input_2": "The chauffeur will not help him to do anything.",
+        "output": "entailment",
+        "idx": 232
+    },
+    {
+        "input_1": "yeah it's just a matter of education i think",
+        "input_2": "I think it just depends on education.",
+        "output": "entailment",
+        "idx": 233
+    },
+    {
+        "input_1": "You name it L.A.'s got it.",
+        "input_2": "L.A. offers everything.",
+        "output": "entailment",
+        "idx": 234
+    },
+    {
+        "input_1": "Lalley also is enthused about other bar efforts on behalf of the poor, most notably the Legal Assistance Center will operate out of the new courthouse.",
+        "input_2": "The poor are also enthusiastic about the bar's help towards them.",
+        "output": "neutral",
+        "idx": 235
+    },
+    {
+        "input_1": "The 2000 census showed Illinois with about 35,000 fewer people who are eligible for LSC services because of low income, about $22,000 a year for a family of four, Kleiman said.",
+        "input_2": "Low income is the only disqualifying factor in LSC services eligibility.",
+        "output": "neutral",
+        "idx": 236
+    },
+    {
+        "input_1": "He pointed at his bald head.",
+        "input_2": "He made an effort to point out his bald head.",
+        "output": "entailment",
+        "idx": 237
+    },
+    {
+        "input_1": "Daniel nodded, fetching me a glass of beer.",
+        "input_2": "Daniel got me a vodka and tonic. ",
+        "output": "contradiction",
+        "idx": 238
+    },
+    {
+        "input_1": "The most comfortable courses are in the cooler hill stations, notably Cameron Highlands and Fraser's Hill.",
+        "input_2": "The hill stations were too cold for a course.",
+        "output": "contradiction",
+        "idx": 239
+    },
+    {
+        "input_1": "This historically renowned freshwater lake, known both as the Sea of Galilee and Lake Kinneret (meaning a harp, after its shape), is just 58 km (36 miles) in circumference.",
+        "input_2": "The lake is full of fresh water and measures 36 miles around.",
+        "output": "entailment",
+        "idx": 240
+    },
+    {
+        "input_1": "Basically, to sell myself.",
+        "input_2": "Selling myself is a very important thing.",
+        "output": "neutral",
+        "idx": 241
+    },
+    {
+        "input_1": "The event is the definition of a crowd pleaser, replete with appearances by the Rockettes, the Mormon Tabernacle Choir, and Santa Claus (the act isn't entirely without bite; there's also a very funny moment involving a heart attack).",
+        "input_2": "If Santa Claus has a heart attack, the Rockettes will have to save Christmas.",
+        "output": "neutral",
+        "idx": 242
+    },
+    {
+        "input_1": "he's a college graduate type guy he's been in all he's an entrepreneur and he gives very practical financial advice about cars very you know not not nothing college level basic stuff his name is Bruce Williams he's on national radio uh i don't know what it would be down there you might want to whatever your radio talk shows are down there he's on that channel it's uh it's five seventy up here",
+        "input_2": "the entrepreneur advises people about the financial aspect of cars",
+        "output": "entailment",
+        "idx": 243
+    },
+    {
+        "input_1": "Well aware of the island's burgeoning wealth and repository of supplies, the French pirate Bertrand de Montluc sailed into Funchal harbor with his 11-galleon armada and 1,300 men.",
+        "input_2": "The pirate Bertrand de Montluc avoided the wealthy island owing to its heavily armed garrison.",
+        "output": "contradiction",
+        "idx": 244
+    },
+    {
+        "input_1": "Despite huge projected increases in food production, per capita food consumption in South Asia, the Middle East, and the less-developed nations of Africa will scarcely improve or will actually decline below present inadequate levels.",
+        "input_2": "Despite the predicted increases in food production, less-developed African nations will improve or decline.",
+        "output": "entailment",
+        "idx": 245
+    },
+    {
+        "input_1": "but like they always say you know got a good profit sharing plan just no profit",
+        "input_2": "This profit sharing plan sounds like a scam.",
+        "output": "neutral",
+        "idx": 246
+    },
+    {
+        "input_1": "How did this man know?",
+        "input_2": "The man knew something.",
+        "output": "entailment",
+        "idx": 247
+    },
+    {
+        "input_1": "The important thing is to realize that it's way past time to move it.",
+        "input_2": "It cannot be moved, now or ever.",
+        "output": "contradiction",
+        "idx": 248
+    },
+    {
+        "input_1": " \"The summons was only for Dave Hanson,\" Ser Perth said sternly as the three drew up to him.",
+        "input_2": "The only one that had been invited was Dave Hanson.",
+        "output": "entailment",
+        "idx": 249
+    },
+    {
+        "input_1": "substitute my my yeah my kid'll do uh four or five hours this week for me no problem",
+        "input_2": "My kid will be doing a few hours for me.",
+        "output": "entailment",
+        "idx": 250
+    },
+    {
+        "input_1": "Control activities occur at all levels and functions of the entity.",
+        "input_2": "There are numerous different control activities.",
+        "output": "neutral",
+        "idx": 251
+    },
+    {
+        "input_1": "So have I for that matter, but I flatter myself that my choice of dishes was more judicious than yours.",
+        "input_2": "My choice of dishes were better than yours but yours were good too.",
+        "output": "neutral",
+        "idx": 252
+    },
+    {
+        "input_1": "In these cases, participants risk losing not only their jobs but also a significant portion of their retirement savings if their company files for bankruptcy.",
+        "input_2": "Participants have no risk in losing their job in these cases.",
+        "output": "contradiction",
+        "idx": 253
+    },
+    {
+        "input_1": "There was no longer any  when you wanted some unbridled adult fun, Las Vegas was the place to be.",
+        "input_2": "Las Vegas was billed as a fun destination for all ages.",
+        "output": "contradiction",
+        "idx": 254
+    },
+    {
+        "input_1": "During the half-century of its existence, Israel has absorbed approximately 2.5 million Jewish immigrants, displaced persons, refugees, and survivors of the Nazi Holocaust.",
+        "input_2": "Israel was the Jewish populace's only option to escape from the Holocaust.",
+        "output": "neutral",
+        "idx": 255
+    },
+    {
+        "input_1": "uh yeah they were uh they were very good i was impressed",
+        "input_2": "Anyone could do what they did, I was bored.",
+        "output": "contradiction",
+        "idx": 256
+    },
+    {
+        "input_1": "She did not reply.",
+        "input_2": "She didn't respond.",
+        "output": "entailment",
+        "idx": 257
+    },
+    {
+        "input_1": "During the half-century of its existence, Israel has absorbed approximately 2.5 million Jewish immigrants, displaced persons, refugees, and survivors of the Nazi Holocaust.",
+        "input_2": "Israel shunned the Jewish people from entering to escape the Nazi Holocaust.",
+        "output": "contradiction",
+        "idx": 258
+    },
+    {
+        "input_1": "Julius before the safe in the flat, her own question and the pause before his reply, \"Nothing.\" Was there really nothing? ",
+        "input_2": "In the flat, Julius answered her after pausing.",
+        "output": "entailment",
+        "idx": 259
+    },
+    {
+        "input_1": "In Roman times a temple to Jupiter stood here, followed in the fourth century by the first Christian church, Saint-Etienne.",
+        "input_2": "Saint-Etienne, a Christian church, had a temple to Jupiter and performed rituals during Roman times",
+        "output": "contradiction",
+        "idx": 260
+    },
+    {
+        "input_1": "Possibly three months.\"",
+        "input_2": "Maybe three months. ",
+        "output": "entailment",
+        "idx": 261
+    },
+    {
+        "input_1": "The best place to view the spring azaleas is at the Azalea Festival in the last week of April at Tokyo's Nezu shrine.",
+        "input_2": "There are no festivals held in the month of April in Tokyo.  ",
+        "output": "contradiction",
+        "idx": 262
+    },
+    {
+        "input_1": "After several years of private practice from 1982-90, he became the judge of Decatur County Court for a year.",
+        "input_2": "After working in the military for nearly a decade, he became Sheriff of Decatur County.",
+        "output": "contradiction",
+        "idx": 263
+    },
+    {
+        "input_1": "uh uh yeah that well um the older you get the more convenience you try to bring with you i guess so i'm up to dragging the trailer around which is my next step is going to be probably Winnebago i hope if i only can afford one but that",
+        "input_2": "The older you get, the more you want to be spur of the moment.",
+        "output": "neutral",
+        "idx": 264
+    },
+    {
+        "input_1": "As Malaysia has moved resolutely into the modern age, it has also remained, culturally and historically, a rich, multi-layered blend of traditions wrapped up within a modern, busy economy.",
+        "input_2": "Malaysia is an old country. ",
+        "output": "neutral",
+        "idx": 265
+    },
+    {
+        "input_1": "yeah i try to no i uh uh try not to use any insecticides at all i try not to even use insecticides on my lawn but i sometimes i can't manage",
+        "input_2": "I'd rather not use any insecticides at all, but sometimes I really need to",
+        "output": "entailment",
+        "idx": 266
+    },
+    {
+        "input_1": "Czesiek had suitable experience in the matter.",
+        "input_2": "The Czesiek had no experience in the matter.",
+        "output": "contradiction",
+        "idx": 267
+    },
+    {
+        "input_1": "Many Gothic and Renaissance buildings have been lovingly restored.",
+        "input_2": "One of the Gothic buildings that has been restored is a church.",
+        "output": "neutral",
+        "idx": 268
+    },
+    {
+        "input_1": "If he were someone who was an assistant, with an ailing mother to support, well, it would be impossible.",
+        "input_2": "It wouldn't be possible for him to be the assistant manager of Hardees if his mother was sick. ",
+        "output": "neutral",
+        "idx": 269
+    },
+    {
+        "input_1": "An important part of U.S. diplomacy is getting sovereign states to work together voluntarily.",
+        "input_2": "It's not important for states to work together.",
+        "output": "contradiction",
+        "idx": 270
+    },
+    {
+        "input_1": "Likewise, at their production decision reviews, these programs did not capture manufacturing and product reliability knowledge consistent with best practices.",
+        "input_2": "At their production decision reviews, these programs did not capture manufacturing.",
+        "output": "entailment",
+        "idx": 271
+    },
+    {
+        "input_1": "and the like a guy does it and he has his own pigs",
+        "input_2": "The guy is a pig farmer in Iowa.",
+        "output": "neutral",
+        "idx": 272
+    },
+    {
+        "input_1": "But they persevered, she said, firm and optimistic in their search, until they were finally allowed by a packed restaurant to eat their dinner off the floor.",
+        "input_2": "They were allowed to eat on the floor of a restaurant.",
+        "output": "entailment",
+        "idx": 273
+    },
+    {
+        "input_1": "Today it is possible to walk through the old agora (marketplace) and stroll along Roman roads.",
+        "input_2": "Walking through the old agora is a popular pastime. ",
+        "output": "neutral",
+        "idx": 274
+    },
+    {
+        "input_1": "Mr. Inglethorp, said the Coroner, \"you have heard your wife's dying words repeated here. ",
+        "input_2": "Mr. Inglethorp, we are sorry we couldn't repeat your wife's dying words.",
+        "output": "contradiction",
+        "idx": 275
+    },
+    {
+        "input_1": "For such a governmentwide review, an entrance conference is generally held with applicable central agencies, such as the Office of Management and Budget (OMB) or the Office of Personnel Management.",
+        "input_2": "An entrance conference is held with central agencies.",
+        "output": "entailment",
+        "idx": 276
+    },
+    {
+        "input_1": "In 1654 Oliver Cromwell, Lord Protector of England, dispatched a British fleet to the Caribbean to break the stranglehold of the Spanish.",
+        "input_2": "Cromwell send them to the Caribbean.",
+        "output": "entailment",
+        "idx": 277
+    },
+    {
+        "input_1": "Conspiracy theorists  MasterCard is investing in a chip that can store electronic cash, your medical history, and keys to your home and office.",
+        "input_2": "Conspiracy theorists have a lot of evidence that Mastercard wants to control all your data.",
+        "output": "neutral",
+        "idx": 278
+    },
+    {
+        "input_1": "At the time of publication, this document, along with other publications pertaining to information security, was available on NIST's Computer Security Resource Clearinghouse internet page at //csrc.nist.gov/publications.html.",
+        "input_2": "The document as well as all security information was kept private.",
+        "output": "contradiction",
+        "idx": 279
+    },
+    {
+        "input_1": "Yet Mrs. Inglethorp ordered a fire! ",
+        "input_2": "Mrs. Inglethorp was cold and shivering.",
+        "output": "neutral",
+        "idx": 280
+    },
+    {
+        "input_1": "We'll be the first to admit we make mistakes, but most of those are bureaucratic.",
+        "input_2": "We never make mistakes.",
+        "output": "contradiction",
+        "idx": 281
+    },
+    {
+        "input_1": "Very few emperors were reluctant to submit to Fujiwara domination.",
+        "input_2": "Every emperor thought to be reluctant towards Fujiwara.",
+        "output": "contradiction",
+        "idx": 282
+    },
+    {
+        "input_1": "We briefly discussed the Nazi angle",
+        "input_2": "We looked for more evidence about the Nazi angle.",
+        "output": "neutral",
+        "idx": 283
+    },
+    {
+        "input_1": "it's neat when you think about how she wrote it and stuff otherwise the lyrics are kind of",
+        "input_2": "I think she wrote it when she was drunk one night. ",
+        "output": "neutral",
+        "idx": 284
+    },
+    {
+        "input_1": "The Drawing Room was partially destroyed by fire in 1941, and its furnishings are faithful reproductions; the huge (repaired) Ming punch bowl is striking.",
+        "input_2": "The 1941 fire spared the Drawing Room.",
+        "output": "contradiction",
+        "idx": 285
+    },
+    {
+        "input_1": "The most important directions are simply up and up leads eventually to the cathedral and fortress commanding the hilltop, and down inevitably leads to one of three gates through the wall to the new town.",
+        "input_2": "The cathedral will be spotted midway along the path to the fortress at the summit.",
+        "output": "neutral",
+        "idx": 286
+    },
+    {
+        "input_1": "GAO secures all information obtained during the course of its work.",
+        "input_2": "The work deals with large companies.",
+        "output": "neutral",
+        "idx": 287
+    },
+    {
+        "input_1": "Without the discount, nobody would buy the stock.",
+        "input_2": "Nobody would buy the stock if there wasn't a discount, except Maria.",
+        "output": "neutral",
+        "idx": 288
+    },
+    {
+        "input_1": "We'll be the first to admit we make mistakes, but most of those are bureaucratic.",
+        "input_2": "We make mostly bureaucratic mistakes; other types are rare.",
+        "output": "entailment",
+        "idx": 289
+    },
+    {
+        "input_1": "Disney CEO Eisner, who's actually underrated as a pop-culture maven (he was responsible for Happy Days and Welcome Back, Kotter ), insists that ABC's downturn is cyclical and that it will soon return to life.",
+        "input_2": "Disney's CEO thinks ABC's downturn is cyclical. ",
+        "output": "entailment",
+        "idx": 290
+    },
+    {
+        "input_1": "The main gate of the churchyard leads out to Greyfriars Place, and across the street you will find an excellent view of one of Scotland's newest museums.",
+        "input_2": "Near the church you can see Greyfriars Place and a new museum. ",
+        "output": "entailment",
+        "idx": 291
+    },
+    {
+        "input_1": "Many Lakeland hotels also quote a D, B and B (dinner, bed, and breakfast) rate, which includes the evening meal and is often quite cost-effective.",
+        "input_2": "Many Lakeland hotels also quote an affordable dinner, bed, and breakfast rate, but there is not a shortage of affordable dinner restaurants in the area if one chooses not to eat at the hotel.",
+        "output": "neutral",
+        "idx": 292
+    },
+    {
+        "input_1": "In a further role reversal, Gingrich may have positioned himself to fill it.",
+        "input_2": "Gingrich should not be in power.",
+        "output": "neutral",
+        "idx": 293
+    },
+    {
+        "input_1": "Jon drew it out and stabbed again in the man's throat.",
+        "input_2": "Jon wiped the blade after stabbing the man in the throat.",
+        "output": "neutral",
+        "idx": 294
+    },
+    {
+        "input_1": "i agree with you but did you see the map they drew up on uh on how they were gonna divide up the districts",
+        "input_2": "They drew a map on how they were gonna divide up the districts.",
+        "output": "entailment",
+        "idx": 295
+    },
+    {
+        "input_1": "Among the disadvantages are that the degree of innovation and product differentiation might continue to be limited.",
+        "input_2": "Limited innovation is not going to be an advantage. ",
+        "output": "entailment",
+        "idx": 296
+    },
+    {
+        "input_1": "um-hum  right do where are you at what state",
+        "input_2": "What state are you at?",
+        "output": "entailment",
+        "idx": 297
+    },
+    {
+        "input_1": "The year of 1820 was a pivotal one in the story of the King?\u00addom of Hawaii.",
+        "input_2": "Things have not been the same for Hawaii since 1820.",
+        "output": "neutral",
+        "idx": 298
+    },
+    {
+        "input_1": "His vigorous strides soon enabled him to gain upon them, and by the time he, in his turn, reached the corner the distance between them was sensibly lessened.",
+        "input_2": "He walked quickly after them, having gained considerably upon rounding the corner.",
+        "output": "entailment",
+        "idx": 299
+    },
+    {
+        "input_1": "Additional information is provided to help managers incorporate the standards into their daily operations.",
+        "input_2": "Managers should develop their own standards for operations without any assistance.",
+        "output": "contradiction",
+        "idx": 300
+    },
+    {
+        "input_1": "His off-the-cuff style seems amateurish next to Inglis' polished mini-essays.",
+        "input_2": "He didn't look like an amateur ",
+        "output": "contradiction",
+        "idx": 301
+    },
+    {
+        "input_1": "And far, far away- lying still on the tracks- was the back of the train.",
+        "input_2": "The train wasn't moving yet. ",
+        "output": "-",
+        "idx": 302
+    },
+    {
+        "input_1": "In the stock market, however, the damage can get much worse.",
+        "input_2": "The damage to the stock market can get much worse when prices increase. ",
+        "output": "neutral",
+        "idx": 303
+    },
+    {
+        "input_1": "British action wouldn't have mattered.",
+        "input_2": "British action would have made a big difference.",
+        "output": "contradiction",
+        "idx": 304
+    },
+    {
+        "input_1": "Designed by George Meikle Kemp, an unknown draftsman of humble birth, the monument took its inspiration from the design of MelroseAbbey.",
+        "input_2": "George meikle Kemp was inspired by Melrose abbey. ",
+        "output": "entailment",
+        "idx": 305
+    },
+    {
+        "input_1": "Apparently, Greuze wasn't worried about needing protection.",
+        "input_2": "Greuze had invincible armor so he didn't worry about needing protection.",
+        "output": "neutral",
+        "idx": 306
+    },
+    {
+        "input_1": " 8th circa b.c.Greeks colonize Sicily and other southern regions",
+        "input_2": "The Greeks colonized Sicily but never the other southern regions.",
+        "output": "contradiction",
+        "idx": 307
+    },
+    {
+        "input_1": "Possibly no other country has had such a turbulent history.",
+        "input_2": "The country's history is completely different than other countries' histories.",
+        "output": "neutral",
+        "idx": 308
+    },
+    {
+        "input_1": "Tommy Thompson of Wisconsin and Mayor Rudolph Giuliani of New York, the conservative vanguard on the issue, show no inclination to exploit research that says, in effect, Why care about day-care quality?",
+        "input_2": "Thompson and Giuliani don't want to care about day cares.",
+        "output": "neutral",
+        "idx": 309
+    },
+    {
+        "input_1": "so Eric what do you think um",
+        "input_2": "How do you feel about it, Eric?",
+        "output": "entailment",
+        "idx": 310
+    },
+    {
+        "input_1": "She was 96 just turning away when she heard a piercing whistle, and the faithful Albert came running from the building to join her.",
+        "input_2": "She was an old lady who was out for a walk when she heard a noise. ",
+        "output": "neutral",
+        "idx": 311
+    },
+    {
+        "input_1": "As a result of these procedures, the Department estimates an annual net savings of $545 million.",
+        "input_2": "An annual net savings of $545 million has been estimated by the Department.",
+        "output": "entailment",
+        "idx": 312
+    },
+    {
+        "input_1": "but uh i've always enjoyed uh the train and you know fooling with it and all",
+        "input_2": "I think trains are quite boring.",
+        "output": "contradiction",
+        "idx": 313
+    },
+    {
+        "input_1": "How long, Thaler and Siegel ask, will it take most investors to get wise to the fact that the equity premium is just too damned high?",
+        "input_2": "Thaler and Siegel look disdainfully upon investors. ",
+        "output": "neutral",
+        "idx": 314
+    },
+    {
+        "input_1": "Never know where they won't turn up next. ",
+        "input_2": "Who knows where they will turn up next.",
+        "output": "entailment",
+        "idx": 315
+    },
+    {
+        "input_1": "For an authentic feel of old Portugal, slip into the cool entrance hall of theimpressive Leal Senado ( Loyal Senate building), a fine example of colonial architecture.",
+        "input_2": "All that remains of  Leal Senado is old ruins.",
+        "output": "contradiction",
+        "idx": 316
+    },
+    {
+        "input_1": "For centuries, the Loire river was a vital highway between the Atlantic and the heart of France.",
+        "input_2": "The Loire connected central France to the Atlantic.",
+        "output": "entailment",
+        "idx": 317
+    },
+    {
+        "input_1": "oh of course",
+        "input_2": "Of course not",
+        "output": "contradiction",
+        "idx": 318
+    },
+    {
+        "input_1": "Other pundits beam their opinions at us as through a time warp, from the hazy days of past administrations.",
+        "input_2": "The experts give opinions from current administrations.",
+        "output": "contradiction",
+        "idx": 319
+    },
+    {
+        "input_1": "It describes six applications of case study methods, including the purposes and pitfalls of each, and explains similarities and differences among the six.",
+        "input_2": "There are just two applications for case study methods.",
+        "output": "contradiction",
+        "idx": 320
+    },
+    {
+        "input_1": "uh-huh well it's good that she does that i mean bring it to people's attention",
+        "input_2": "She is a good person because she brings it to people's attention.  ",
+        "output": "neutral",
+        "idx": 321
+    },
+    {
+        "input_1": "Despite all the hoopla over a pro-choice advocate's confession that he had lied about the circumstances under which the procedure is generally used, only five lawmakers switched their votes from no to yes.",
+        "input_2": "The lawmakers considered many other factors of the procedure to make their votes.",
+        "output": "neutral",
+        "idx": 322
+    },
+    {
+        "input_1": "uh-huh yeah yeah they're good",
+        "input_2": "Everyone thinks they're bad.",
+        "output": "contradiction",
+        "idx": 323
+    },
+    {
+        "input_1": "From ethnic food shops and vintage clothing stores to electronics and book shops, there are so many interesting shopping spots that it is hard to imagine their breadth and depth.",
+        "input_2": "There isn't a wide variety of shopping spots.",
+        "output": "contradiction",
+        "idx": 324
+    },
+    {
+        "input_1": "His mother died when he was young, and he was adopted by the Brodkeys.",
+        "input_2": "He changed his name to Brodkey when he was adopted.",
+        "output": "neutral",
+        "idx": 325
+    },
+    {
+        "input_1": "well i i'm doing computer science computer engineering",
+        "input_2": "I am currently majoring in Biology at school.",
+        "output": "contradiction",
+        "idx": 326
+    },
+    {
+        "input_1": "Asked about abortion the other day on CNN, Republican National Committee Chairman Jim Nicholson also invoked what is apparently the party-line  inclusive party.",
+        "input_2": "The Republican politicians and spokespeople rely on the party-line when it comes to abortion because their constituents insist on it.",
+        "output": "neutral",
+        "idx": 327
+    },
+    {
+        "input_1": "Part of the original design, they were destroyed by Emperor Aurangzeb, who refused images susceptible to idolatry.",
+        "input_2": "The images have been restored by contemporary historians.",
+        "output": "neutral",
+        "idx": 328
+    },
+    {
+        "input_1": "The state legislature provides significant bipartisan support for the legal services delivery system.",
+        "input_2": "State legislature provides no legal delivery system",
+        "output": "contradiction",
+        "idx": 329
+    },
+    {
+        "input_1": "Mortifyingly enough, it is all  the difficulty, the laziness, the pathetic formlessness in youth, the round peg in the square hole, the whatever do you want?",
+        "input_2": "Youth are known to be go-getters.",
+        "output": "contradiction",
+        "idx": 330
+    },
+    {
+        "input_1": "uh somewhat they're not my favorite team i am uh somewhat familiar with them",
+        "input_2": "They are the best team in the league, by they are not my favorite.",
+        "output": "neutral",
+        "idx": 331
+    },
+    {
+        "input_1": "I thought working on Liddy's campaign would be better than working on Bob's.",
+        "input_2": "Turns out, I was wrong and wished I had worked on Bob's campaign.",
+        "output": "neutral",
+        "idx": 332
+    },
+    {
+        "input_1": "and the like a guy does it and he has his own pigs",
+        "input_2": "He doesn't have any pigs so he borrows them.",
+        "output": "contradiction",
+        "idx": 333
+    },
+    {
+        "input_1": "An article explains that Al Gore enlisted for the Vietnam War out of fealty to his father and distaste for draft  Gore deplored the inequity of the rich not having to serve.",
+        "input_2": "Gore enlisted during Vietnam.",
+        "output": "entailment",
+        "idx": 334
+    },
+    {
+        "input_1": "him?\" she asked.",
+        "input_2": "Her?\" he asked with a shocked tone.",
+        "output": "contradiction",
+        "idx": 335
+    },
+    {
+        "input_1": "will never be doused (Brit Hume, Fox News Sunday ; Tony Blankley, Late Edition ; Robert Novak, Capital Gang ; Tucker Carlson, The McLaughlin Group ). The middle way is best expressed by Howard Kurtz (NBC's Meet the Press )--he scolds Brill for undisclosed campaign contributions and for overstretching his legal case against Kenneth Starr but applauds him for casting light on the media.",
+        "input_2": "They did not think anything was wrong with the contributions not being disclosed.",
+        "output": "contradiction",
+        "idx": 336
+    },
+    {
+        "input_1": "And these are tough times for reviewers in general.",
+        "input_2": "Reviewers, as a class, are struggling at the moment.",
+        "output": "entailment",
+        "idx": 337
+    },
+    {
+        "input_1": "Around the year 1400, fighting over the island of Singapore drove the Srivijaya prince Parameswara to seek refuge up the peninsula coast with his orang laut pirate friends in their small fishing village of Melaka.",
+        "input_2": "No one wanted Singapore.",
+        "output": "contradiction",
+        "idx": 338
+    },
+    {
+        "input_1": "yeah but uh do you have small kids",
+        "input_2": "Do you have any children? ",
+        "output": "neutral",
+        "idx": 339
+    },
+    {
+        "input_1": "oh really yeah i've i've never seen either one of them",
+        "input_2": "I have no idea what they look like.",
+        "output": "neutral",
+        "idx": 340
+    },
+    {
+        "input_1": "Auditors are strongly encouraged to comply with the guidance provided by GAGAS.",
+        "input_2": "Auditors should completely ignore any guidance offered by GAGAS.",
+        "output": "contradiction",
+        "idx": 341
+    },
+    {
+        "input_1": "You're crazed, Beresford.",
+        "input_2": "You are a sane genius, Beresford.",
+        "output": "contradiction",
+        "idx": 342
+    },
+    {
+        "input_1": "To control land and sea routes to the south, the Mauryas still needed to conquer the eastern kingdom of Kalinga (modern Orissa).",
+        "input_2": "The Mauryas had a large army capable of conquering Kalinga.",
+        "output": "neutral",
+        "idx": 343
+    },
+    {
+        "input_1": "What and who will they tax?",
+        "input_2": "From where will they make tax money?",
+        "output": "entailment",
+        "idx": 344
+    },
+    {
+        "input_1": "REPORT PREPARATION AND TEST REVIEW",
+        "input_2": "Reports can be prepared.",
+        "output": "entailment",
+        "idx": 345
+    },
+    {
+        "input_1": "well we bought this with credit too  well we found it with a clearance uh down in Memphis i guess and uh",
+        "input_2": "We bought items in Memphis using cash. ",
+        "output": "contradiction",
+        "idx": 346
+    },
+    {
+        "input_1": "Ceter of the national aerosece industry, with a vigorous local culture and bright and breezy street life, this university city has an infectious enthusiasm to it.",
+        "input_2": "Design of military aircraft is one of the town's biggest industries.",
+        "output": "neutral",
+        "idx": 347
+    },
+    {
+        "input_1": "Over most of the 1980s and 1990s, the U.S. was able to invest more than it saved by attracting financing from abroad.",
+        "input_2": "The US could save more than it invested in the 1980's and 90's.",
+        "output": "contradiction",
+        "idx": 348
+    },
+    {
+        "input_1": "i never managed to plan my departure right",
+        "input_2": "I'm going to plan my departure now.",
+        "output": "neutral",
+        "idx": 349
+    },
+    {
+        "input_1": "It's conceivable that some of these allegations are true, and there's no harm in checking them out, as long as the decedent's family agrees to participate.",
+        "input_2": "None  of the allegations are true.",
+        "output": "contradiction",
+        "idx": 350
+    },
+    {
+        "input_1": "with little back packs of their own and you know things like that",
+        "input_2": "Someone else carries a bag for them.",
+        "output": "contradiction",
+        "idx": 351
+    },
+    {
+        "input_1": "Once there, he or she must alight from the vehicle and proceed to the mailbox, then return to the vehicle, turn it around and proceed to the road.",
+        "input_2": "They should never get out of the vehicle.",
+        "output": "contradiction",
+        "idx": 352
+    },
+    {
+        "input_1": "You will find a number of Mary's personal effects on display.",
+        "input_2": "A number of Mary's personal effects can be found on display.",
+        "output": "entailment",
+        "idx": 353
+    },
+    {
+        "input_1": "to do it before you know before it gets hot and one time last year i remember we were planning on doing that and it was eighty degrees even then",
+        "input_2": "Last year we planned to do that during winter and it was nice and cold. ",
+        "output": "neutral",
+        "idx": 354
+    },
+    {
+        "input_1": "If she wasn't, how would they have known Jane Finn had got the papers?",
+        "input_2": "Who had told them that Jane Finn had acquired the papers?",
+        "output": "neutral",
+        "idx": 355
+    },
+    {
+        "input_1": "Randy's Anecdotal Wrap-Up",
+        "input_2": "Randy's Last Words",
+        "output": "neutral",
+        "idx": 356
+    },
+    {
+        "input_1": "Blue says Blumenthal claimed Clinton had told him that Lewinsky had made unwanted sexual advances.",
+        "input_2": "Clinton told Blumenthal that he was the one harassing Lewinsky. ",
+        "output": "-",
+        "idx": 357
+    },
+    {
+        "input_1": "STANDARD COSTING - A costing method that attaches costs to cost objects based on reasonable estimates or cost studies and by means of budgeted rates rather than according to actual costs incurred.",
+        "input_2": "Standard Costing is based on guesstimates of how many turtles were crushed on the highway in 1844.",
+        "output": "contradiction",
+        "idx": 358
+    },
+    {
+        "input_1": "More detailed implementation plans also will be necessary to address business system, processes, and resource issues.",
+        "input_2": "Less detailed plans will be necessary to address business systems ",
+        "output": "contradiction",
+        "idx": 359
+    },
+    {
+        "input_1": "As black as it is, Heathers has the same theme as the Ringwald/Cusack movies.",
+        "input_2": "Heathers was a wonderful dark comedy ",
+        "output": "neutral",
+        "idx": 360
+    },
+    {
+        "input_1": "Look, it's your skin, but you're going to be in trouble if you don't get busy.",
+        "input_2": "You should get to work soon so you don't get in trouble.",
+        "output": "entailment",
+        "idx": 361
+    },
+    {
+        "input_1": "Good  Oklahoma now has a Public Guardianship Program, albeit unfunded, that will supply lawyers to perform this rights-monitoring process",
+        "input_2": "Good Oklahoma's program needs $100,000 of funding that it hasn't received.",
+        "output": "neutral",
+        "idx": 362
+    },
+    {
+        "input_1": "For the beginner ' and for most others, too ' Beaune is the place to buy.",
+        "input_2": "Beaune is the best place to buy from for beginners.",
+        "output": "entailment",
+        "idx": 363
+    },
+    {
+        "input_1": "In short, most of the whale is incompressible.",
+        "input_2": "Whales cannot be compressed well.",
+        "output": "entailment",
+        "idx": 364
+    },
+    {
+        "input_1": "Up here, gazing out at strikingly lush mountains, you may find yourself higher than the clouds, which adds to the extraordinarily eerie atmosphere of the place.",
+        "input_2": "Down here, you can see the gold mines from the old explorers, you are way lower than the sea level, so be careful.",
+        "output": "contradiction",
+        "idx": 365
+    },
+    {
+        "input_1": "Perhaps tax reform doesn't appeal to the new spiritualized side of Bradley.",
+        "input_2": "Bradley is a pastor now.",
+        "output": "neutral",
+        "idx": 366
+    },
+    {
+        "input_1": "Yes, Elizabeth Taylor, Norman Mailer, Warren Beatty, David Rockefeller, and Mick Jagger will go to a nightclub, but only if they are reasonably certain that Diana Ross, William F. Buckley Jr., Salvador Dali, Betty Ford, Frank Sinatra, Mikhail Baryshnikov, and the king of Cyprus will show up too--and vice versa.",
+        "input_2": "A group of celebrities will be at the nightclub as long as another specific group is there. ",
+        "output": "entailment",
+        "idx": 367
+    },
+    {
+        "input_1": "There are slave irons, traditional island costumes, and an interesting French map of 1778 showing the theatre de la guerre (theater of war) between the Americans and the British.",
+        "input_2": "The French map of 1778 shows the theater of war between the British and Americans.",
+        "output": "entailment",
+        "idx": 368
+    },
+    {
+        "input_1": "The family. ",
+        "input_2": "The family of gorillas.",
+        "output": "neutral",
+        "idx": 369
+    },
+    {
+        "input_1": "Tax records show Waters earned around $65,000 in 2000.",
+        "input_2": "Tax records indicate Waters earned about $65K in 2000.",
+        "output": "entailment",
+        "idx": 370
+    },
+    {
+        "input_1": "As the budgets, functions, and points of service of many government programs devolve to state and local government, private entities and nonprofit organizations, and other third parties, it may become harder for GAO to obtain the records it needs to complete audits and evaluations.",
+        "input_2": "Audits and evaluations are harder because it is more difficult for GAO to get the records.",
+        "output": "entailment",
+        "idx": 371
+    },
+    {
+        "input_1": "A funny place for a piece of brown paper, I mused. ",
+        "input_2": "I was thinking about strangeness of a piece of brown paper being in that spot.",
+        "output": "entailment",
+        "idx": 372
+    },
+    {
+        "input_1": "Nowadays, a poverty lawyer working for one of New York's many agencies representing the indigent - including Legal Aid, the South Brooklyn Legal Services, the Lawyers Alliance for New York, InMotion, the Lawyers Committee for Human Rights, Volunteers of Legal Service, the Bronx Defenders and New York Lawyers for the Public Interest - might begin his or her career at $32,000 per annum, compared with the $125,000 average first-year associate salary at the city's larger firms.",
+        "input_2": "Larger firms often pay lawyers a larger salary.",
+        "output": "entailment",
+        "idx": 373
+    },
+    {
+        "input_1": "She has exchanged a hollow life for a heightened life, and has tried to comprehend all its turns, get its possibilities.",
+        "input_2": "She has chose to live a heightened life.",
+        "output": "entailment",
+        "idx": 374
+    },
+    {
+        "input_1": ", number of parks or acres of land) rather than in terms of historical cost.",
+        "input_2": "Land owned by parks does not have a value.",
+        "output": "contradiction",
+        "idx": 375
+    },
+    {
+        "input_1": "Missouri was asked to continue its planning efforts and file a supplemental planning report with LSC on or before October 1, 1999.",
+        "input_2": "Missouri was happy to continue it's planning efforts. ",
+        "output": "neutral",
+        "idx": 376
+    },
+    {
+        "input_1": "Cave 31 tries to emulate the style of the great Hindu temple on a much smaller scale, but the artists here were working on much harder rock and so abandoned their effort.",
+        "input_2": "Cave 31 ran into problems because it was made of harder rock and everyone was disappointed.",
+        "output": "neutral",
+        "idx": 377
+    },
+    {
+        "input_1": "i'd say they appraised it it's gone up you now maybe like five percent",
+        "input_2": "It went up five percent because of the work we did on it. ",
+        "output": "neutral",
+        "idx": 378
+    },
+    {
+        "input_1": "There is.",
+        "input_2": "There never was.",
+        "output": "contradiction",
+        "idx": 379
+    },
+    {
+        "input_1": "Many had to leave their birthplaces, fleeing to Lesvos, Chios, and Samos, the Greek-ruled islands just offshore.",
+        "input_2": "Everyone was able to remain in their homeland. ",
+        "output": "contradiction",
+        "idx": 380
+    },
+    {
+        "input_1": "Such experience better enables the CIOs to work with business managers to build a shared vision for meeting mission needs.",
+        "input_2": "They are able to have the same vision because of their previous involvement. ",
+        "output": "entailment",
+        "idx": 381
+    },
+    {
+        "input_1": "NIPA had already recognized mineral exploration as investment, and in 1996, NIPA reclassified government purchases of plant and equipment as investment.",
+        "input_2": "NIPA said mineral exploration is not an investment.",
+        "output": "contradiction",
+        "idx": 382
+    },
+    {
+        "input_1": "and maybe we'll run across each other again",
+        "input_2": "I don't think there's a chance of us ever meeting again.",
+        "output": "contradiction",
+        "idx": 383
+    },
+    {
+        "input_1": "The average MLS ticket costs a mere $13, one-third the price of an NHL or NBA ticket.",
+        "input_2": "The average cost was lower because the MLS is in a lower league than the NHL and NBA.",
+        "output": "neutral",
+        "idx": 384
+    },
+    {
+        "input_1": "Well, she's found.",
+        "input_2": "She has been discovered.  ",
+        "output": "entailment",
+        "idx": 385
+    },
+    {
+        "input_1": "well so okay you need to get married and have kids and then when they're big enough you can have them go do the yard  and you can do what you want to do",
+        "input_2": "The reason to have children is so that they can do yardwork.",
+        "output": "entailment",
+        "idx": 386
+    },
+    {
+        "input_1": "Keep your eyes open for Renaissance details, grand doorways, and views into lovely courtyards.",
+        "input_2": "The Renaissance features are very easy to notice.",
+        "output": "neutral",
+        "idx": 387
+    },
+    {
+        "input_1": "and the other thing is the cost it's almost prohibitive to bring it to a dealer",
+        "input_2": "It's cheap to bring it to a dealer.",
+        "output": "contradiction",
+        "idx": 388
+    },
+    {
+        "input_1": "Clearly, the press has done a lousy job with its focus on behavior such as infidelity or drug use that most people don't care about.",
+        "input_2": "The press is out of touch with citizens.",
+        "output": "neutral",
+        "idx": 389
+    },
+    {
+        "input_1": "Under the default method, eighty percent of the total amount of sulfur dioxide allowances available for allocation each year will be allocated to Acid Rain Program units with coal as their primary or secondary fuel or residual oil as their primary fuel, listed in the Administrator's Emissions Scorecard 2000, Appendix B (2000 Data for SO2, NOx, CO2, Heat Input, and Other Parameters), Table B1 (All 2000 Data for All Units).",
+        "input_2": "80% of the sulfur dioxide allowance for each year is in the Acid Rain Program, stemming from coal.",
+        "output": "entailment",
+        "idx": 390
+    },
+    {
+        "input_1": "but you're without a paycheck during that time and i don't at least that's my understanding is even you know the first time you go for counseling and it's six weeks before you're back to work",
+        "input_2": "You go to counciling?",
+        "output": "neutral",
+        "idx": 391
+    },
+    {
+        "input_1": "The event is the definition of a crowd pleaser, replete with appearances by the Rockettes, the Mormon Tabernacle Choir, and Santa Claus (the act isn't entirely without bite; there's also a very funny moment involving a heart attack).",
+        "input_2": "Expectations are low for the event on the back of Santa Claus's absence due to health concerns.",
+        "output": "contradiction",
+        "idx": 392
+    },
+    {
+        "input_1": "We will also need any able bodied men to help us spike the river.",
+        "input_2": "We will need disabled men to help us spike the river.",
+        "output": "contradiction",
+        "idx": 393
+    },
+    {
+        "input_1": "The church of Panagia Theoskepastos houses a fine 14th-century icon, and the Catholic Cathedral has a tenth-century Madonna and Child.",
+        "input_2": "Both churches are still active today and serve large congregations.",
+        "output": "neutral",
+        "idx": 394
+    },
+    {
+        "input_1": "In the market proper, spices and grain are piled up in multi-colored mountains; merchants chant as they measure out separate lots of five kilos three, three, three, four, four, four, and five, five, five. ",
+        "input_2": "The market sells mostly clothing and household goods, not food items.",
+        "output": "contradiction",
+        "idx": 395
+    },
+    {
+        "input_1": "oh sure sure right um-hum right",
+        "input_2": "Whatever you say",
+        "output": "neutral",
+        "idx": 396
+    },
+    {
+        "input_1": "Kom Ombo is an unusual temple in that it is dedicated to two gods.",
+        "input_2": "Standard in every way, Kom Ombo is a temple devoted to several deities. ",
+        "output": "contradiction",
+        "idx": 397
+    },
+    {
+        "input_1": "But those that are manufactured for sale in in Europe and so forth are quite the other way around",
+        "input_2": "Products are made with differently designed machines in Europe.",
+        "output": "neutral",
+        "idx": 398
+    },
+    {
+        "input_1": "That's why we tried to kill you.",
+        "input_2": "That's one of the reasons we wanted to kill you.",
+        "output": "neutral",
+        "idx": 399
+    },
+    {
+        "input_1": "Postal Service data to define the relationship between costs and cost drivers.",
+        "input_2": "Postal Service data is used to define the relationship between cost and inflation.",
+        "output": "-",
+        "idx": 400
+    },
+    {
+        "input_1": "yeah it's definitely a way out of the way where  where as",
+        "input_2": "Yes. There is definitely a way out.",
+        "output": "entailment",
+        "idx": 401
+    },
+    {
+        "input_1": "She seemed so different  \"",
+        "input_2": "She had changed a lot since the last time we'd seen her.",
+        "output": "neutral",
+        "idx": 402
+    },
+    {
+        "input_1": "Of course I had a watch kept on Mr. Inglethorp, hoping that sooner or later he would lead me to the hiding-place. ",
+        "input_2": "There is no way to tell where he is.",
+        "output": "neutral",
+        "idx": 403
+    },
+    {
+        "input_1": "right right they left a woman and a child or the cat the sheep yeah",
+        "input_2": "They let a woman and child remain, or it might have been the cat or sheep.",
+        "output": "entailment",
+        "idx": 404
+    },
+    {
+        "input_1": "He watched the river flow.",
+        "input_2": "The river levels were rising.",
+        "output": "neutral",
+        "idx": 405
+    },
+    {
+        "input_1": "yeah yeah i i went i went off to school wanting to either be a high school algebra teacher or high school French teacher because my two favorite people in the in high school were my algebra teacher and French teacher and uh and i was going to do that until the end of our sophomore year when we wanted uh we came time to sign up for majors and i had taken chemistry for the first time that year and surprised myself i did well in it",
+        "input_2": "You are required to sign up for a major freshman year. ",
+        "output": "contradiction",
+        "idx": 406
+    },
+    {
+        "input_1": "She leaned back in her chair.",
+        "input_2": "She was sitting on a red chair. ",
+        "output": "neutral",
+        "idx": 407
+    },
+    {
+        "input_1": "um-hum they keep you entertained they sure do we have a uh my wife's uh mother is uh oh about  seventy seven i guess she really gets a thrill when we go over to see her and bring the dog i think she's more happy to see the dog than she is us",
+        "input_2": "The dog cheers up my wife's mother. ",
+        "output": "entailment",
+        "idx": 408
+    },
+    {
+        "input_1": "they ought to take all them little misdemeanor people let them go let them go",
+        "input_2": "they should let go all non-violent offenders",
+        "output": "neutral",
+        "idx": 409
+    },
+    {
+        "input_1": "His voice was even and calm, not a hint of rage.",
+        "input_2": "He was a mess of nerves and rage.",
+        "output": "contradiction",
+        "idx": 410
+    },
+    {
+        "input_1": "Chapter 1 provides general background information on emission control technologies.",
+        "input_2": "Chapter 1 shows general info ",
+        "output": "entailment",
+        "idx": 411
+    },
+    {
+        "input_1": "i can't do any jumping up and down because it makes it hurt",
+        "input_2": "I am unable to jump since of the pain.",
+        "output": "entailment",
+        "idx": 412
+    },
+    {
+        "input_1": "Built in a.d. 715 to help measure the peak and trough of the Nile flood.",
+        "input_2": "It was built to bring water to the city.",
+        "output": "contradiction",
+        "idx": 413
+    },
+    {
+        "input_1": "and uh we went through a time period that we had three Danes",
+        "input_2": "For a while, we had three Danes.",
+        "output": "entailment",
+        "idx": 414
+    },
+    {
+        "input_1": "The Gaiety Theatre in South King Street is worth visiting for its ornate d??cor.",
+        "input_2": "The Gaiety theatre is a must visit just for its beautiful decor.",
+        "output": "entailment",
+        "idx": 415
+    },
+    {
+        "input_1": "George W. Bush and Bill Bradley are not talking about individual holders of wealth.",
+        "input_2": "George W. Bush and Bill Bradley are talking about collective holders of wealth",
+        "output": "-",
+        "idx": 416
+    },
+    {
+        "input_1": "The conversation he had overheard had stimulated his curiosity.",
+        "input_2": "he hadn't heard anything",
+        "output": "contradiction",
+        "idx": 417
+    },
+    {
+        "input_1": "Pearl Jam detractors still can't stand singer Eddie  They say he's unbearably self-important and limits the group's appeal by refusing to sell out and make videos.",
+        "input_2": "Everyone loves Eddie, because he is so humble.",
+        "output": "contradiction",
+        "idx": 418
+    },
+    {
+        "input_1": "The cover story details the disturbing behavior of the Littleton killers before last week's massacre.",
+        "input_2": "The story has childhood pictures of the killers.",
+        "output": "neutral",
+        "idx": 419
+    },
+    {
+        "input_1": "There may be a small savings at the factory showrooms in Manacor, where you'll have the biggest choice.",
+        "input_2": "The factory show rooms are cheaper.",
+        "output": "neutral",
+        "idx": 420
+    },
+    {
+        "input_1": "The Vice President and his representatives have asserted that GAO lacks the statutory authority to examine the activities of the NEPDG, recognizing only GAOas authority to audit its financial transactions.",
+        "input_2": "The Vice President has sacked a few representatives. ",
+        "output": "contradiction",
+        "idx": 421
+    },
+    {
+        "input_1": "The Women's Haven, which provides shelter and outreach to domestic-violence victims, already has a full-time attorney.",
+        "input_2": "The Haven is a useful resource in the community.",
+        "output": "neutral",
+        "idx": 422
+    },
+    {
+        "input_1": "The purpose of this paper is to analyze rural delivery costs and compare them with city delivery costs.",
+        "input_2": "They looked at the costs for rural delivery.",
+        "output": "entailment",
+        "idx": 423
+    },
+    {
+        "input_1": "After shuttering the DOE, Clinton could depict himself as a crusader against waste and bureaucracy who succeeded where even Reagan failed.",
+        "input_2": "Reagan created a persona as a crusader against waste more than Clinton could.",
+        "output": "contradiction",
+        "idx": 424
+    },
+    {
+        "input_1": "More to the point, even as the major airlines have been reaping large profits over the last four years, their productivity has not risen at all, suggesting that consolidation is not improving efficiency.",
+        "input_2": "Though large airlines are making a big profit, they arent any more productive. ",
+        "output": "entailment",
+        "idx": 425
+    },
+    {
+        "input_1": "yeah i do remember that and uh i remember as a kid my parents watching the Ed Sullivan Show that was really the big deal in our household was the Ed Sullivan Show yeah i guess i guess it was a Saturday night and i went to see the movie The Doors a couple of days ago and they had this scene",
+        "input_2": "I watched the Ed Sullivan Show when I was ten-years-old.",
+        "output": "neutral",
+        "idx": 426
+    },
+    {
+        "input_1": "uh my uh roommate took a voice over course",
+        "input_2": "The roommate was hoping to receive a certification in voice overs. ",
+        "output": "neutral",
+        "idx": 427
+    },
+    {
+        "input_1": "um-hum um-hum yeah well uh i can see you know it's it's it's it's kind of funny because we it seems like we loan money you know we money with strings attached and if the government changes and the country that we loan the money to um i can see why the might have a different attitude towards paying it back it's a lot us that  you know we don't really loan money to to countries we loan money to governments and it's the",
+        "input_2": "We don't loan a lot of money.",
+        "output": "neutral",
+        "idx": 428
+    },
+    {
+        "input_1": "and uh you know once you start up at the top and try to get those dollars on down to the hands that need them you know there's a lot of places the money stops and disappears along the way",
+        "input_2": "There needs to be a more transparent distribution of money.",
+        "output": "neutral",
+        "idx": 429
+    },
+    {
+        "input_1": "In about a quarter of an hour the bell rang, and Tuppence repaired to the hall to show the visitor out.",
+        "input_2": "After 15 minutes, nothing happened and Tuppence and the visitor decided that it was time to eat some lunch. ",
+        "output": "contradiction",
+        "idx": 430
+    },
+    {
+        "input_1": "And two- the personal pronoun problems were going to get serious.",
+        "input_2": "There were going to be problems with the personal pronoun.",
+        "output": "entailment",
+        "idx": 431
+    },
+    {
+        "input_1": "There are no shares of a stock that might someday come back, just piles of options as worthless as those shares of Cook's American Business Alliance.",
+        "input_2": " Cook's American Business Alliance caused shares of stock to come back.",
+        "output": "contradiction",
+        "idx": 432
+    },
+    {
+        "input_1": "Don't mean the police, but the people that are right in it. ",
+        "input_2": "The people were right. ",
+        "output": "neutral",
+        "idx": 433
+    },
+    {
+        "input_1": "The students' reaction was swift and contentious, as if their feelings had been hurt.",
+        "input_2": "The students had strong reactions.",
+        "output": "entailment",
+        "idx": 434
+    },
+    {
+        "input_1": "Against his own advice, Ca'daan dared to stare off the edge once as they neared the end.",
+        "input_2": "He stared off the edge at the beginning.",
+        "output": "contradiction",
+        "idx": 435
+    },
+    {
+        "input_1": "He was a pilot, not a platoon leader.",
+        "input_2": "He felt drastically under-qualified to assume command.",
+        "output": "neutral",
+        "idx": 436
+    },
+    {
+        "input_1": "From the corner of his eye he saw Jamus look over the broken mare.",
+        "input_2": "Jamus looked over the mare.",
+        "output": "entailment",
+        "idx": 437
+    },
+    {
+        "input_1": "If I had chosen to be an actor, I should have been the greatest actor living! ",
+        "input_2": "I did not choose to become an actor, as at the time I lacked the confidence to make that first step. ",
+        "output": "neutral",
+        "idx": 438
+    },
+    {
+        "input_1": "million in savings this year.",
+        "input_2": "We saved a ton this year.",
+        "output": "entailment",
+        "idx": 439
+    },
+    {
+        "input_1": "Sculpture and stone carving are perfectly modified to the harmonies of the design; the four columns at the corners are hollow to carry water off the roof, and the urns on roof are disguised chimneys.",
+        "input_2": "The chimneys on the roof and entirely perceivable and not at all disguised. ",
+        "output": "contradiction",
+        "idx": 440
+    },
+    {
+        "input_1": "and the NIT semifinals are on tonight",
+        "input_2": "The NIT semifinals take place tonight.",
+        "output": "entailment",
+        "idx": 441
+    },
+    {
+        "input_1": "5 The share of gross national saving used to replace depreciated capital has increased over the past 40 years.",
+        "input_2": "Depreciated capital is replaced using national saving funds.",
+        "output": "entailment",
+        "idx": 442
+    },
+    {
+        "input_1": "for a change i i got i get sick of winter just looking everything so dead i hate that",
+        "input_2": "Everything is dead in winter.",
+        "output": "entailment",
+        "idx": 443
+    },
+    {
+        "input_1": "4 million homes watch the evening news on CBS, ABC, and NBC.",
+        "input_2": "No one watches nbc.",
+        "output": "contradiction",
+        "idx": 444
+    },
+    {
+        "input_1": "Arafat is also ailing and has no clear successor.",
+        "input_2": "Arafat is also ailing and has no clear successor that is willing to wear his hats.",
+        "output": "neutral",
+        "idx": 445
+    },
+    {
+        "input_1": "The DO concentration must not fall below",
+        "input_2": "The DO concentration is irrelevant.",
+        "output": "contradiction",
+        "idx": 446
+    },
+    {
+        "input_1": "Through the opt-out approach, Texas attorneys contributed $1 million this year, doubling 2001 contributions.",
+        "input_2": "The opt-out approach has never increased how much Texas attorneys can contribute in the last twenty years.",
+        "output": "contradiction",
+        "idx": 447
+    },
+    {
+        "input_1": "She didn't listen.",
+        "input_2": "She listened intently. ",
+        "output": "contradiction",
+        "idx": 448
+    },
+    {
+        "input_1": "you know even even into major things just to keep our car longer because i don't think we get the money that we put into them out of them in two years or three years and of course i was never in a position where i could trade my car off every two years",
+        "input_2": "I have never been able to trade my car off every couple of years.",
+        "output": "entailment",
+        "idx": 449
+    },
+    {
+        "input_1": "The game of billiards is also hot.",
+        "input_2": "People like billiards.",
+        "output": "entailment",
+        "idx": 450
+    },
+    {
+        "input_1": "Regulation and the Nature of Postal Delivery Services, Ed.",
+        "input_2": "There is no regulation of the postal delivery service.",
+        "output": "contradiction",
+        "idx": 451
+    },
+    {
+        "input_1": "i think we have too thank you very much you too bye-bye",
+        "input_2": "I think we need to thank you as well.",
+        "output": "entailment",
+        "idx": 452
+    },
+    {
+        "input_1": "I still didn't trust the little buggers.",
+        "input_2": "I had no trouble putting all my faith into these little buggers.",
+        "output": "contradiction",
+        "idx": 453
+    },
+    {
+        "input_1": "After considering comments of the Postal Service and other participants, the Commission found the proposal problematical, and declined to pursue it.",
+        "input_2": "The Commission ultimately declined to pursue the proposal.",
+        "output": "entailment",
+        "idx": 454
+    },
+    {
+        "input_1": "U.S. civil legal services delivery system.",
+        "input_2": "The us does not have a civil delivery system ",
+        "output": "contradiction",
+        "idx": 455
+    },
+    {
+        "input_1": "ooh it's kind of tough to think of some of the others although i do watch some of some of those frivolous things uh like on Thursday nights at nine o'clock when i get home from aerobics i will watch uh Knots Landing",
+        "input_2": "I've never been to an aerobics class before.",
+        "output": "contradiction",
+        "idx": 456
+    },
+    {
+        "input_1": "Puri also has a beautiful beach, southwest of town, which is ideal for cooling off but those aren't sandcastles the Indians are making, they're miniature temples, for this is the Swarga Dwara (Heaven's Gateway), where the faithful wash away their sins.",
+        "input_2": "Puri is landlocked, so you'll have to travel fifty miles away to get to a beach.",
+        "output": "contradiction",
+        "idx": 457
+    },
+    {
+        "input_1": "Reports on attestation engagements should state that the engagement was made in accordance with generally accepted government auditing standards.",
+        "input_2": "Details regarding validation engagements ought to express that the engagement was made as per by and large acknowledged government evaluating guidelines.",
+        "output": "contradiction",
+        "idx": 458
+    },
+    {
+        "input_1": "'Have you Mr. Whittington's address in town? ",
+        "input_2": "I already have the address for Mr. Whittington, thank you. ",
+        "output": "contradiction",
+        "idx": 459
+    },
+    {
+        "input_1": "Two separate, exhaustive shots posted simultaneously?",
+        "input_2": "Both of the extensive, individual shots are being posted at the same time?",
+        "output": "entailment",
+        "idx": 460
+    },
+    {
+        "input_1": "Audit committees should not only oversee both internal and external auditors, but also be proactively involved in understanding issues related to the complexity of the business, and, when appropriate, challenge management through discussion of choices regarding complex accounting, financial reporting, and auditing issues.",
+        "input_2": "Audit committees are not concerned with the oversight into internal and external auditors.",
+        "output": "contradiction",
+        "idx": 461
+    },
+    {
+        "input_1": "Had we had more money we would have facilitated more conferences.",
+        "input_2": "The reason we did not have more conferences was not a money issue.",
+        "output": "contradiction",
+        "idx": 462
+    },
+    {
+        "input_1": "A fine Crusader arch leads down a dimly-lit broad stairway to the dark subterranean Church of the Assumption, a Greek Orthodox church.",
+        "input_2": "The bright and airy Church of the Assumption has plentiful windows to let in the sunlight.",
+        "output": "contradiction",
+        "idx": 463
+    },
+    {
+        "input_1": "Allow time in Thirasia to explore Santorini's smaller sibling islands.",
+        "input_2": "Santorini has smaller sibling islands that are worth exploring.",
+        "output": "entailment",
+        "idx": 464
+    },
+    {
+        "input_1": "Programs that do this typically have successful cost and schedule outcomes.",
+        "input_2": "All programs that so this are successful.",
+        "output": "-",
+        "idx": 465
+    },
+    {
+        "input_1": " He caught a grip on himself, fighting the fantasies of his mind, and took another breath of air.",
+        "input_2": "The air tasted like molten metal - the taste of blood.",
+        "output": "neutral",
+        "idx": 466
+    },
+    {
+        "input_1": "H-2A aliens, as the only category of eligible aliens who reside in the United States temporarily, are particularly affected by the issue before the Commission because of their necessarily short periods of time in the United States.",
+        "input_2": "H-2A aliens have short periods of time in the United States.",
+        "output": "entailment",
+        "idx": 467
+    },
+    {
+        "input_1": "it's so bad wanted to mow today i was off and i wanted to mow the yard but just walking across it it's still so mushy if i took a mower out there i'd tear the sod up so bad",
+        "input_2": "The best time to mow the lawn is when it's wet and mushy. ",
+        "output": "contradiction",
+        "idx": 468
+    },
+    {
+        "input_1": "The rise of the British Empire in India had begun.",
+        "input_2": "It started the rise of the British Empire in India in 1910.",
+        "output": "neutral",
+        "idx": 469
+    },
+    {
+        "input_1": " Two more weeks with my cute TV satellite dish have increased my appreciation of it.",
+        "input_2": "I've got two more weeks to decided if I wanna keep it or return it.",
+        "output": "neutral",
+        "idx": 470
+    },
+    {
+        "input_1": "Little is recorded about this group, but they were probably the ancestors of the Gododdin, whose feats are told in a seventh-century Old Welsh manuscript.",
+        "input_2": "Gododdin's deeds were never written down because it was to be passed down only orally. ",
+        "output": "contradiction",
+        "idx": 471
+    },
+    {
+        "input_1": "Of the four main buildings, all of them whitewashed and decorated with bright painted sculptures, the first is where the worshippers bring offerings of flowers and fruit, the second is for sacred dances, and the third for viewing the divine effigies, which are enshrined in the sanctum of the fourth and tallest edifice.",
+        "input_2": "The bright painted sculptures are of Buddha.",
+        "output": "neutral",
+        "idx": 472
+    },
+    {
+        "input_1": "Once they know their Social Security benefits promised under current law, workers can calculate how much they can expect from employer-sponsored pension plans and how much they need to save on their own for retirement.",
+        "input_2": "Workers cannot calculate how much they can expect from employer-sponsored pension plans.",
+        "output": "contradiction",
+        "idx": 473
+    },
+    {
+        "input_1": "A succession of discoveries has taught us about archeabacteria, very ancient and primitive single-cell organisms that live in the places you'd least expect anything to call home.",
+        "input_2": "Several discoveries have taught us about archaebacteria, a very ancient and primitive single-cell organism that lives in unexpected places. ",
+        "output": "entailment",
+        "idx": 474
+    },
+    {
+        "input_1": "If there was a bit of Fuller in Leonardo, there was also a bit of Liberace in this theatrical, high-living dandy who favored brocade doublets and bad boys with pretty faces.",
+        "input_2": "Leonardo played a very serious straight laced character.",
+        "output": "contradiction",
+        "idx": 475
+    },
+    {
+        "input_1": "What's needed, alongside an evacuation plan, is a realistic program to stabilize conditions for those left behind.",
+        "input_2": "Evacuation is always the first line of response. ",
+        "output": "neutral",
+        "idx": 476
+    },
+    {
+        "input_1": "If I had chosen to be an actor, I should have been the greatest actor living! ",
+        "input_2": "I did not choose to become an actor. ",
+        "output": "-",
+        "idx": 477
+    },
+    {
+        "input_1": "He fled in his car when cops arrived and led them on a chase that ended in the massive crash.",
+        "input_2": "He crashed his car because the tires burst.",
+        "output": "neutral",
+        "idx": 478
+    },
+    {
+        "input_1": "made it yeah made it all the way through four years of college playing ball but",
+        "input_2": "I played ball in college.",
+        "output": "entailment",
+        "idx": 479
+    },
+    {
+        "input_1": "In fact, it's wise to drive as little as possible inside Paris; the p??riph??rique ringroad runs around the city and it's worth staying on it until you're as close as possible to your destination.",
+        "input_2": "When in Paris one should try to avoid driving. ",
+        "output": "entailment",
+        "idx": 480
+    },
+    {
+        "input_1": "Many who fled have returned.",
+        "input_2": "Lots of then came back when they realized they had nowhere to run to.",
+        "output": "neutral",
+        "idx": 481
+    },
+    {
+        "input_1": "However, the other young lady was most kind. ",
+        "input_2": "I received a warm welcome from the other young lady who was present. ",
+        "output": "neutral",
+        "idx": 482
+    },
+    {
+        "input_1": "Outside the cathedral you will find a statue of John Knox with Bible in hand.",
+        "input_2": "John Knox has faded into obscurity with no memorials made for him.",
+        "output": "contradiction",
+        "idx": 483
+    },
+    {
+        "input_1": "The Praya, the promenade in front of the ferry pier, is a good place to observe the many junks and fishing boats in the harbor.",
+        "input_2": "The fishing boats make a big commotion in the harbor that can be heard from the Praya.",
+        "output": "neutral",
+        "idx": 484
+    },
+    {
+        "input_1": "yeah and they've got those bins that just stay there and they decorated them real cute you know with a bunch of big old flowers and stuff",
+        "input_2": "The bins just stay there and are decorated, I'm not sure if the decorations help.",
+        "output": "neutral",
+        "idx": 485
+    },
+    {
+        "input_1": "Such a knowledgebased process enables decision makers to be reasonably certain about critical facets of the product under development when they need this knowledge.",
+        "input_2": "They refused to help with the process at all.",
+        "output": "neutral",
+        "idx": 486
+    },
+    {
+        "input_1": "Here you'll see the delightful but slowly disappearing indigenous FWI costume madras turban, madras skirt over petticoat, silk peplum, white blouse, and gold earrings, bracelets, and collier-choux necklace.",
+        "input_2": "Here you can see FWI's traditional costume which includes a madras skirt, white blouse, and gold earrings.",
+        "output": "entailment",
+        "idx": 487
+    },
+    {
+        "input_1": "8 million in relief in the form of emergency housing.",
+        "input_2": "The 8 million dollars for emergency housing was still not enough to solve the problem.",
+        "output": "neutral",
+        "idx": 488
+    },
+    {
+        "input_1": "His proud reserve--a product of 40 years in the spotlight--is refreshing but does not bode well for his capacity to shepherd big ideas through Congress.",
+        "input_2": "He is way too loud.",
+        "output": "neutral",
+        "idx": 489
+    },
+    {
+        "input_1": "So, as he and Tipper walked out, my friend and I were right behind them, and I took the opportunity to say hello and reintroduce myself--as a journalist, I might add--and we chatted about the movie for a few minutes.",
+        "input_2": "I saw Tipper with him at the movie.",
+        "output": "entailment",
+        "idx": 490
+    },
+    {
+        "input_1": "To reach Old Cairo take the Nile River Bus from the jetty near the Ramses Hilton hotel; it will drop you at the terminus of Masr El-Qadeema; or take the Cairo metro line 1 to Mari Girgis Station.",
+        "input_2": "You can get to Old Cairo by taking the Nile River Bus. ",
+        "output": "entailment",
+        "idx": 491
+    },
+    {
+        "input_1": "There is very little to see here, or at the ruined Essene monastery of Qumran itself.",
+        "input_2": "There are plenty of interesting sights and experiences here.",
+        "output": "contradiction",
+        "idx": 492
+    },
+    {
+        "input_1": "And here, current history adds a major point.",
+        "input_2": "Current history doesn't add any points to it.",
+        "output": "contradiction",
+        "idx": 493
+    },
+    {
+        "input_1": "Chapter 1 provides general background information on emission control technologies.",
+        "input_2": "Chapter 1 shows nothing important ",
+        "output": "contradiction",
+        "idx": 494
+    },
+    {
+        "input_1": "God i'm envious",
+        "input_2": "Lord, I'm envious.",
+        "output": "entailment",
+        "idx": 495
+    },
+    {
+        "input_1": "A fresh access of pain seized the unfortunate old lady. ",
+        "input_2": "The lady lay calmly, with no signs of pain on her face.",
+        "output": "contradiction",
+        "idx": 496
+    },
+    {
+        "input_1": "He celebrated the fact by announcing that the capital would be moved from Calcutta to a whole new city to be built in Delhi.",
+        "input_2": "The capital moved from Calcutta to a new city. ",
+        "output": "entailment",
+        "idx": 497
+    },
+    {
+        "input_1": "I had an additional reason for that belief in the fact that all the cups found contained sugar, which Mademoiselle Cynthia never took in her coffee. ",
+        "input_2": "Mademoiselle Cynthia often took milk or cream in her coffee.",
+        "output": "neutral",
+        "idx": 498
+    },
+    {
+        "input_1": "They are all quotations from the Old Testament Book of Aunt Ruth.",
+        "input_2": "The Old Testament was read to the children in the church.",
+        "output": "neutral",
+        "idx": 499
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "input_1": "How do I develop the patience to read books?",
+        "input_2": "How can I develop patience and love towards reading?",
+        "output": "yes"
+    },
+    {
+        "input_1": "What are some things new employees should know going into their first day at Bear State Financial?",
+        "input_2": "What are some things new employees should know going into their first day at South State?",
+        "output": "no"
+    },
+    {
+        "input_1": "What is the biggest difference in British culture and American culture?",
+        "input_2": "Is there any culture difference between U. S. and U. K.?",
+        "output": "yes"
+    },
+    {
+        "input_1": "What are the best restaurants in Mumbai for vegetarian cuisines?",
+        "input_2": "What are some good restaurants in Mumbai?",
+        "output": "no"
+    },
+    {
+        "input_1": "Why do some people think that the Earth is flat when it is very clear that it is not?",
+        "input_2": "Why do people still think the the world is flat?",
+        "output": "yes"
+    },
+    {
+        "input_1": "Why did the Kingdom Monera go extinct?",
+        "input_2": "What organisms belong in the Kingdom Eubacteria?",
+        "output": "no"
+    },
+    {
+        "input_1": "What are some good side dish recipes for pork chops?",
+        "input_2": "What are the best side dishes for pork chops?",
+        "output": "yes"
+    },
+    {
+        "input_1": "What can one do to control his/her anger?",
+        "input_2": "What would be the best way to control anger?",
+        "output": "yes"
+    }
+]

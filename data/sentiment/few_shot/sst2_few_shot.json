@@ -1,0 +1,42 @@
+[
+    {
+        "idx": 3931,
+        "input": "So here it is : It 's about a family of sour immortals .",
+        "output": "negative"
+    },
+    {
+        "idx": 2114,
+        "input": "Creeps you out in high style , even if Nakata did it better .",
+        "output": "positive"
+    },
+    {
+        "idx": 6074,
+        "input": "There are deeply religious and spiritual people in this world who would argue that entering a church , synagogue or temple does n't mean you have to check your brain at the door .",
+        "output": "positive"
+    },
+    {
+        "idx": 3256,
+        "input": "Tries so hard to be quirky and funny that the strain is all too evident .",
+        "output": "negative"
+    },
+    {
+        "idx": 145,
+        "input": "Viveka Seldahl and Sven Wollter will touch you to the core in a film you will never forget -- that you should never forget .",
+        "output": "positive"
+    },
+    {
+        "idx": 277,
+        "input": "The party scenes deliver some tawdry kicks .",
+        "output": "negative"
+    },
+    {
+        "idx": 5392,
+        "input": "The large-frame IMAX camera lends itself beautifully to filming the teeming life on the reefs , making this gorgeous film a must for everyone from junior scientists to grown-up fish lovers .",
+        "output": "positive"
+    },
+    {
+        "idx": 5282,
+        "input": "Consider this review life-affirming .",
+        "output": "positive"
+    }
+]

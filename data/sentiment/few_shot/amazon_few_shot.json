@@ -1,0 +1,42 @@
+[
+    {
+        "idx": 3697,
+        "input": "I wasn\u2019t sure if I needed the built in light, but I can tell you that I use it all the time. I love that it\u2019s collapsible, easy to clean and leak proof.",
+        "output": "positive"
+    },
+    {
+        "idx": 2010,
+        "input": "Very easy to use. Loads both my single stack and double stack magazines. But this item keeps locking closed while trying to use it to load. Only have had it about 6 weeks.",
+        "output": "negative"
+    },
+    {
+        "idx": 3828,
+        "input": "Best addition to my kitchen utensil drawer! Awesome sharp scissors for herbs & also great for shredding spinach for meals for my 1.5 year old. Will purchase a pair for my mom & sister. 5 stars!",
+        "output": "positive"
+    },
+    {
+        "idx": 4805,
+        "input": "How simple is this product?!!! Is like a pair of socks. Slips over the window frame easily. Allows me to roll the window down fully and give the dog an impression of a barrier. This has helped me so much with air circulation for my dog should I leave him in the car. I recommend this product!",
+        "output": "positive"
+    },
+    {
+        "idx": 1695,
+        "input": "These worked out wonderfully for our event! I have to admit, I was skeptical at first, but they were soooo much better than I could have imagined! And a great price!",
+        "output": "positive"
+    },
+    {
+        "idx": 1363,
+        "input": "I don't know why I couldn't attach a picture in there by any tech reason. I just received this today. light, sample, and useful. it can save my toothbrush goes moldy.",
+        "output": "positive"
+    },
+    {
+        "idx": 156,
+        "input": "This is not your normal Lil mover diapers I had the same thing happen to my son as some of the other reviewers. Shortly after starting to use these my son broke out in a horrible rash we have used this diaper before from else where with no issue and even from amazon. Also if your not extremely careful in how you place the diaper the band will cut your child's leg/hip area. Very displeased in these would not recommend buying these. I'm thinking maybe some of these are not really Huggies thrown in with real ones because of the reviews and my own experience. It seems like maybe one in 20 or so is a knock off and if you get them it's horrible I don't plan to risk it again. Furthermore for my son to break out in such a way it worries me of what these diapers contain I hope they don't have some harmful chemical on them. My son does not have sensitive skin and has never broke out like this before",
+        "output": "negative"
+    },
+    {
+        "idx": 3317,
+        "input": "I used amazon to services to determine the correct bulb for my car which inaccurately recommended this bulb. it does not fit and the seller does not accept returns (even though it was ordered as prime). Beware when ordering that you due more diligence than me to identify the right bulb and don't rely on what amazon suggests.",
+        "output": "negative"
+    }
+]

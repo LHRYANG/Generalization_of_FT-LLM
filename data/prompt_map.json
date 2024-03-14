@@ -1,0 +1,16 @@
+[
+    {
+        "summary": "### Input:\n{input}\n### Summary:",
+        "question": "### Input:\n{input}\n### Answer:\n{answer}\n### Question:",
+        "sentiment": "### Input:\n{input}\n### Sentiment:",
+        "inference": "### Input_1:\n{input_1}\n### Input_2:\n{input_2}\n### Inference:",
+        "detection": "### Input_1:\n{input_1}\n### Input_2:\n{input_2}\n### Paraphrase Classification:"
+    },
+    {
+        "summary": "Please read the following text:{input}\nProvide a summary:",
+        "question": "Given the context:{input}\nAnd the answer:{answer}\nGenerate a suitable question:",
+        "sentiment": "Analyze the sentiment of the following text:{input}\nSentiment:",
+        "inference": "Consider the following texts: Text 1:{input_1}\nText 2:{input_2}\nThe relation is ",
+        "detection": "Let's compare the two sentences: Sentence_1:{input_1}\nSentence_2:{input_2}\nAre they paraphrasing?:"
+    }
+]

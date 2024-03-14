@@ -1,0 +1,42 @@
+[
+    {
+        "idx": 4322,
+        "input": "Avoid this place! I had some beef tacos and they have to be the WORST I've ever had in my life! I have never seen taco meat like this? It looked like they first boiled a steak and then chopped it with a claw hammer and seasoned it only with black pepper.\\nMy wife had the steak buritto and encountered the same lousy beef.\\n\\n I went to this place because I was nearby and a yelper had given it 5 stars?!? I can't even imagine how drunk this person must have been to give it 5 stars. \\n\\nDid I already say? Avoid this place!!",
+        "output": "negative"
+    },
+    {
+        "idx": 4772,
+        "input": "My only complaint is that they only have brunch on Sundays.",
+        "output": "positive"
+    },
+    {
+        "idx": 5370,
+        "input": "After reviewing several reviews we decided to go to dinner at Gallaghers Steakhouse and boy were we disappointed. It started with a distracted waiter who took forever to take our drinks and meal order.  A table that arrive after us actually had their order taken before ours. It was kind of surreal but with all the great reviews we thought it would be worth the wait. Well, it wasn't! Our sirloin steak was bland and rather fatty. The spinach was way too salty and disgusting. Highlights of the evening was the mashed potatoes but this does not save their rating. This was a pricey adventure and one that won't be repeated. I don't have a steakhouse recommendation for Las Vegas visitors but if you are ever in Chicago and want to taste an excellent aged steak, check out Joes Seafood, Prime Steak &Stone Crab...mmmmmmm!",
+        "output": "negative"
+    },
+    {
+        "idx": 3616,
+        "input": "Great food, friendly service, great atmosphere (I went during the holidays, and it was all decked out for Christmas).  My mom is a pancake fiend, and she loved them.  Will be coming back.",
+        "output": "positive"
+    },
+    {
+        "idx": 2441,
+        "input": "Amazing experience and food!  Service was so fast we were barely done with apps when food came.  Server was on top of everything. Great food. Great atmosphere",
+        "output": "positive"
+    },
+    {
+        "idx": 4228,
+        "input": "This review is purely for an ORDER FOR DELIVERY- via Grubhub.\\n\\nThe western lake beef soup was great. Fair portion for 9.99$\\n\\n\\nGreen beans w. Minced Pork - 10.99$ on grubhub, tasted TOTALLY HORRID. Portion was equal to that of a 6$ dish, will not be ordering for delivery again.\\n\\nBased on all the positive reviews, maybe I'll come in to eat... Portion must be bigger than a small round container for 11$\\n\\n\\nP.S. Grubhub being the excellent service they are, gave a 15$ credit for this order.\\nUnfortunately the restaurant was not kind enough to give a fair portion.",
+        "output": "negative"
+    },
+    {
+        "idx": 6043,
+        "input": "This review is for lunch.  I've been here for dinner twice and though food / service / ambiance is excellent - I'm not hip enough for it.  Recently, thanks to Yelp, I was looking for a sushi place, for lunch with the girl's and came upon Roka Akor.   I saw that they served lunch and that they had a special.  And special it is! Soup, salad and THREE hand rolls.  For such a high end place the price was hugely reasonable.  Everything was fresh and delicious.  Think I'm gonna have to go back tomorrow now.",
+        "output": "positive"
+    },
+    {
+        "idx": 518,
+        "input": "I took the family here for a two night stay cation. We had an excellent stay. The hotel is clean and smells great. The staff is courteous and accommodating. We stayed in a standard room with two beds and a Strip view. The rooms, including the bathroom, were spacious and clean.\\n\\nWe don't mind walking at all, so we actually enjoyed walking across the street to the Fashion Show Mall and down the street to Las Vegas Boulevard.\\n\\nWe stayed on the 31st floor and we did hear the train in the middle of the night for about 20 seconds. I don't think it was a big deal and probably wouldn't have even noticed it if I didn't read previous reviews.\\n\\nBe aware if you book the room through another website and put occupancy of \\\"\"4\\\"\", you will be given a room with a king and a pullout sofa. There is $25/night fee to have a room with two beds, which we needed. I don't mind paying it, but just disclose the fee (just like the resort fee) before I book so I'm not hit with the charge at the front desk.\\n\\nI would have no hesitation staying here again for the rate we got and would recommend the hotel for anyone looking for something a little different than other hotels directly on Las Vegas Boulevard.",
+        "output": "positive"
+    }
+]

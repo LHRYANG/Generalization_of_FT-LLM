@@ -1,0 +1,50 @@
+[
+    {
+        "idx": 5505,
+        "input": "Sydney is always respected by Kai.  They were able to make up Kai's mind.",
+        "answer": "thank Sydney sincerely",
+        "output": "What will happen to Kai?"
+    },
+    {
+        "idx": 229,
+        "input": "Lee was feeling emotional. Sam asked Lee what was wrong and Lee opened the floodgates.",
+        "answer": "have a trigger",
+        "output": "What does Lee need to do before this?"
+    },
+    {
+        "idx": 1665,
+        "input": "Sasha was a good cook and whatever she cooked she make the food better than others did.",
+        "answer": "jealous",
+        "output": "This made the others feel how?"
+    },
+    {
+        "idx": 1139,
+        "input": "Jesse wanted to leave the country so Jesse took a plane to france.",
+        "answer": "Get a new identity",
+        "output": "What will Jesse want to do next?"
+    },
+    {
+        "idx": 5433,
+        "input": "Kai took refuge in Jesse's hotel from the terrible storm that was going on that night.",
+        "answer": "hide from the storm",
+        "output": "Why did Kai do this?"
+    },
+    {
+        "idx": 2632,
+        "input": "Quinn often got offended by people's normal remarks.",
+        "answer": "o sensitive",
+        "output": "How would Quinn feel afterwards?"
+    },
+    {
+        "idx": 2074,
+        "input": "Sasha played catch with Addison's dad, because their dad never did anything with them.",
+        "answer": "go home",
+        "output": "What will Sasha want to do next?"
+    },
+    {
+        "idx": 6043,
+        "input": "Cameron finally hired a new worker and his business started making more money.",
+        "answer": "promote the worker",
+        "output": "What will Cameron want to do next?"
+    }
+]

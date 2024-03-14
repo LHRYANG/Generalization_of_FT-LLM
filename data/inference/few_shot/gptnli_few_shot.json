@@ -1,0 +1,42 @@
+[
+    {
+        "input_1": "Violet Anderson is pictured sitting on a ten-speed bike, looking at her arms.",
+        "input_2": "Violet Anderson is sitting on a mountain bike.",
+        "output": "contradiction"
+    },
+    {
+        "input_1": "A man working in a factory is putting bubbles into glass cups.",
+        "input_2": "The worker is making soda for a vending machine.",
+        "output": "neutral"
+    },
+    {
+        "input_1": "A woman operates a sewing machine to make drilling rigs used in construction. Her helper is also seen sewing. The products being made is a \"bandanna",
+        "input_2": "They will sew bandannas.",
+        "output": "entailment"
+    },
+    {
+        "input_1": "A Bentley car has tilted up on two wheels, as if somebody forgot to put on the stabilizers.",
+        "input_2": "It is false that a car is tilted up on two wheels.",
+        "output": "entailment"
+    },
+    {
+        "input_1": "A close-up of someone running a finger across a page with text.",
+        "input_2": "The person is standing still and is reading silently.",
+        "output": "contradiction"
+    },
+    {
+        "input_1": "Six high school students, wearing rectangular signs with the letter R on them, are singing \"\"O Lord\"\".",
+        "input_2": "People are singing a song in a choir.",
+        "output": "entailment"
+    },
+    {
+        "input_1": "While Tommy and his sister bring dishes outdoors and Hunter Washburne throws away scraps, a worker carries boxes to a truck. Washburne, who",
+        "input_2": "The workers are delivery workers.",
+        "output": "neutral"
+    },
+    {
+        "input_1": "A large wooden shack painted red is shown from the exterior.",
+        "input_2": "An older house painted blue is shown from the interior.",
+        "output": "contradiction"
+    }
+]

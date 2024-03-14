@@ -1,0 +1,42 @@
+[
+    {
+        "idx": 5058,
+        "input": "This product is so dry it can cut a Cat's mouth, cause bleeding and choking. The product I received from Petco was dry as a Bone. It could be compared to eating a Fish without debonning it first. You wouldn't feed your Family Fish Bones. My cats are my Family.  Maybe te product I received was no the usual quality, but it was dry, dry dry. Both the Salmon and Whiting were equally dry.",
+        "output": "negative"
+    },
+    {
+        "idx": 6031,
+        "input": "Anytime I have started to get even the slightest sore throat, I drink this and the next morning it's gone. I always bought it at World Market, but they said it has been discontinued. But, thank God for Amazon!",
+        "output": "positive"
+    },
+    {
+        "idx": 2917,
+        "input": "I recently started using Bob's Red Mill Baking Soda.  I'm very pleased with it's performance and I can be sure that it is not contaminated with aluminum.  Thanks, Bob!",
+        "output": "positive"
+    },
+    {
+        "idx": 5469,
+        "input": "My 2 dogs love this treat.  When my oldest (male) was younger, he would sit down, stand up, go down, roll over, etc. and do every trick in his repertoire before I even gave him a command whenever I pulled out a bag of the liver biscotti.  My female also loves this but she's a little less silly.  Also, this has never upset their stomachs nor caused allergic reactions.  I finally had to find a place that sold this in bulk (i.e., 5 lbs. bags) since I was going to the store ALL the time to buy more of these.  I also stuff their Kongs with a combo of these and their regular kibble and some pumpkin and freeze it. I highly recommend this treat.",
+        "output": "positive"
+    },
+    {
+        "idx": 6374,
+        "input": "While the flavor and quality of this chili is great, the 108-ounce can is mostly liquid. The number of servings is listed as 12, but the reality is that it will only serve about 5, unless you add more of your own ingredients as the first reviewer indicated. I won't be purchasing this again.",
+        "output": "negative"
+    },
+    {
+        "idx": 784,
+        "input": "I am very involved with dog rescue - in fact I am a founding board member of a large and active rescue group that adopts 500 or more dogs per year while keeping very high standards with the placement standards.  We (as a dog rescue) have used Canidae for years and recommended it to many adopters, but recently we (personally) have seen problems with our dogs', as well as dogs throughout the rescue, stools.  We have had many cases of serious diarrhea, and when talking to local Veterinarians we use, have found that many have seen recent issues with Canidae causing their client's dogs to have similar diarrhea as we have experienced.  I know Canidae has in the past changed their formula causing problems and it appears to have happened again.  It is a shame because we have had good success with the food, but we (both personally and as a dog rescue) will no longer use this product.",
+        "output": "negative"
+    },
+    {
+        "idx": 2886,
+        "input": "i have used the icicle a few times, and it sounds great! everything works how it's supposed to, and it is a very simple but efficient interface. the ONLY thing that i can see that's wrong with it, is it just feels light and cheap. granted its only around $40 so you can't expect too much from it. the plastic just feels rather cheap. but i plan on treating it very nicely and gently anyways so all in all i don't foresee a major problem on that front.",
+        "output": "positive"
+    },
+    {
+        "idx": 5814,
+        "input": "If you want the best wild rice, buy the regular kind. This \"quick cook\" type is not near the taste quality of the regular/ 40 minute cook time rice.,",
+        "output": "negative"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "input_1": "NASA's Saturn exploration spacecraft, Cassini , has discovered an atmosphere about the moon Enceladus . This is the first such discovery by Cassini, other than Titan , of the presence of an atmosphere around a Saturn moon.",
+        "input_2": "Titan is the fifteenth of Saturn's known satellites.",
+        "output": "neutral"
+    },
+    {
+        "input_1": "On Wednesday night people in the Bah\u00e7elievler district of Yenibosna in Istanbul, Turkey, claimed that they had seen a UFO flying in the sky, the Turkish newspaper Sabah reports. They said that the UFO was glowing with white lights and that it revolved around itself. Istanbul has had previous UFO incidents in the past, and in 2002, the Istanbul UFO Museum was opened to the public.",
+        "input_2": "A UFO might have been seen in Turkey.",
+        "output": "entailment"
+    },
+    {
+        "input_1": "The mystery of Alexander the Great's tomb still has not unraveled, and locating the burial of Alexander seems to have become an impossible mission for archaeologists.",
+        "input_2": "Alexander the Great's Tomb remains undiscovered.",
+        "output": "entailment"
+    },
+    {
+        "input_1": "The Counts of Holland and Geldern, between whose territories the lands of the Bishops of Utrecht lay, also sought to acquire influence over the filling of the episcopal see. This often led to disputes and consequently the Holy See frequently interfered in the election.",
+        "input_2": "The Counts of Holland supported the Holy See.",
+        "output": "neutral"
+    },
+    {
+        "input_1": "Prior to that, Andy Sipowicz began to date Assistant District Attorney Sylvia Costas. They got married in 1995 and had a son Theo in 1996.",
+        "input_2": "Sylvia Costas is the wife of Andy Sipowicz.",
+        "output": "entailment"
+    },
+    {
+        "input_1": "Qatar and Oman are members of the Gulf Cooperation Council, GCC, which also groups Saudi Arabia, Kuwait, Bahrain and the United Arab Emirates (UAE).",
+        "input_2": "The members of the Gulf Cooperation Council are: Saudi Arabia, Kuwait, United Arab Emirates, Qatar, Oman, Bahrain.",
+        "output": "entailment"
+    },
+    {
+        "input_1": "Today, Dmitry Medvedev was named the candidate for President of Russia by the ruling party United Russia, which holds majority in the newly-elected, State Duma, the lower parliament of Russia. Medvedev, who is the current deputy prime minister of the Russian government and the chairman in the board of directors of Gazprom, was also backed by three other parties and by the current president Vladimir Putin. This means the highly anticipated decision about the supposed successor has been announced.",
+        "input_2": "Vladimir Putin does not support Medvedev.",
+        "output": "neutral"
+    },
+    {
+        "input_1": "Mr Lopez Obrador, who lost July's presidential election by less than one percentage point, declared himself Mexico's \"legitimate\" president.",
+        "input_2": "Mr Lopez Obrador didn't loose the presidential election in July.",
+        "output": "neutral"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "idx": 3560,
+        "input": "Honestly, it's hard for me *not* to get at least a little excited about a Phill Glass-scored, Cronenberg-inspired sci-fi take on Fantastic 4\u2014 Jake New ",
+        "answer": "phill glass.",
+        "output": "who scored a sci-fi take on fantastic 4?"
+    },
+    {
+        "idx": 5201,
+        "input": "This is so depressing. David Becker let off the hook b/c his \"future\" was deemed more important than his victims' well-being. ",
+        "answer": "depressing",
+        "output": "how is izzy galvez feeling?"
+    },
+    {
+        "idx": 3014,
+        "input": "Chris Pratt is good but he doesn't have the laconic charisma of a Harrison Ford. For a new Indiana Jones you need Jensen Ackles.\u2014 Scott Stamper \u26a1\ufe0f ",
+        "answer": "laconic charisma",
+        "output": "what does chris pratt lack?"
+    },
+    {
+        "idx": 5953,
+        "input": "VIDEO: Lady Gaga performing \u2018Bad Romance\u2019 acoustic at ",
+        "answer": "lady gaga",
+        "output": "who is performing the song?"
+    }
+]

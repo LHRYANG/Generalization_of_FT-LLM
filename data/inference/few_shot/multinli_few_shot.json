@@ -1,0 +1,42 @@
+[
+    {
+        "input_1": "Spock did not cure American mothers and fathers of their impossible dream of being professional parents equipped with the developmentally correct answers.",
+        "input_2": "Spock was unable to cure the impossible dream of American parents.",
+        "output": "entailment"
+    },
+    {
+        "input_1": "kind of like for the same reasons as you i just the care that goes into them and you know if i you know decide to take off for a week or so",
+        "input_2": "Just like you , I'm invested in what goes into them even if you are not there for the next week or even the next year. ",
+        "output": "neutral"
+    },
+    {
+        "input_1": "uh the one we thought would be the most timid uh turned out to be the one that stuck with it and was the first to learn",
+        "input_2": "The one we thought was timid ended up being the last one to learn.",
+        "output": "contradiction"
+    },
+    {
+        "input_1": "She wears either revealing clothes or professional clothes (or perhaps both).",
+        "input_2": "She only wears short skirts.",
+        "output": "contradiction"
+    },
+    {
+        "input_1": "Savonarola burned in Florence",
+        "input_2": "Savonarola was burned in Florence.",
+        "output": "entailment"
+    },
+    {
+        "input_1": "Not quite as large is the Papal Crose commemorating Pope John Paul II's visit in 1979, when more than one million people gathered to celebrate mass.",
+        "input_2": "More than a million people gathered to celebrate mass when Pope John Paul II visited in 1979.",
+        "output": "entailment"
+    },
+    {
+        "input_1": "The agency also receives a percentage of money from the Interest On Lawyers' Trust Accounts.",
+        "input_2": "They wish that they received more.",
+        "output": "neutral"
+    },
+    {
+        "input_1": "The great thing is to keep calm.\" Julius groaned.",
+        "input_2": "Julius made a groaning sound.",
+        "output": "entailment"
+    }
+]

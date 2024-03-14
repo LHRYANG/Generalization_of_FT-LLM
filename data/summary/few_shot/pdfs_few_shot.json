@@ -1,0 +1,22 @@
+[
+    {
+        "idx": 889,
+        "input": "Bilattice-based triangle provides an elegant algebraic structure for reasoning with vague and uncertain information. But the truth and knowledge ordering of intervals in bilattice-based triangle can not handle repetitive belief revisions which is an essential characteristic of nonmonotonic reasoning. Moreover the ordering induced over the intervals by the bilattice-based triangle is not sometimes intuitive. In this work, we construct an alternative algebraic structure, namely preorder-based triangle and we formulate proper logical connectives for this. It is an enhancement of the bilattice-based triangle to handle belief revision in nonmonotonic reasoning.",
+        "output": "Preorder-Based Triangle: A Modified Version of Bilattice-Based Triangle for Belief Revision in Nonmonotonic Reasoning ."
+    },
+    {
+        "idx": 1562,
+        "input": "Planning for distributed agents with partial state information is considered from a decision\u00ad theoretic perspective. We describe generaliza\u00ad tions of both the MDP and POMDP models that allow for decentralized control. For even a small number of agents, the finite-horizon prob\u00ad lems corresponding to both of our models are complete for nondeterministic exponential time. These complexity results illustrate a fundamen\u00ad tal difference between centralized and decentral\u00ad ized control of Markov processes. In contrast to the MDP and POMDP problems, the problems we consider provably do not admit polynomial\u00ad time algorithms and most likely require doubly exponential time to solve in the worst case. We have thus provided mathematical evidence corre\u00ad sponding to the intuition that decentralized plan\u00ad ning problems cannot easily be reduced to cen\u00ad tralized problems and solved exactly using estab\u00ad lished techniques.",
+        "output": "The Complexity of Decentralized Control of Markov Decision Processes ."
+    },
+    {
+        "idx": 538,
+        "input": "Chinese characters have a complex and hierarchical graphical structure carrying both semantic and phonetic information. We use this structure to enhance the text model and obtain better results in standard NLP operations. First of all, to tackle the problem of graphical variation we define allographic classes of characters. Next, the relation of inclusion of a subcharacter in a characters, provides us with a directed graph of allographic classes. We provide this graph with two weights: semanticity (semantic relation between subcharacter and character) and phoneticity (phonetic relation) and calculate \u201cmost semantic subcharacter paths\u201d for each character. Finally, adding the information contained in these paths to unigrams we claim to increase the efficiency of text mining methods. We evaluate our method on a text classification task on two corpora (Chinese and Japanese) of a total of 18 million characters and get an improvement of 3% on an already high baseline of 89.6% precision, obtained by a linear SVM classifier. Other possible applications and perspectives of the system are discussed.",
+        "output": "New Perspectives in Sinographic Language Processing Through the Use of Character Structure ."
+    },
+    {
+        "idx": 1040,
+        "input": "Recent research shows that most Brazilian students have serious problems regarding their reading skills. The full development of this skill is key for the academic and professional future of every citizen. Tools for classifying the complexity of reading materials for children aim to improve the quality of the model of teaching reading and text comprehension. For English, Feng\u2019s work [11] is considered the state-of-art in grade level prediction and achieved 74% of accuracy in automatically classifying 4 levels of textual complexity for close school grades. There are no classifiers for nonfiction texts for close grades in Portuguese. In this article, we propose a scheme for manual annotation of texts in 5 grade levels, which will be used for customized reading to avoid the lack of interest by students who are more advanced in reading and the blocking of those that still need to make further progress. We obtained 52% of accuracy in classifying texts into 5 levels and 74% in 3 levels. The results prove to be promising when compared to the state-of-art work.",
+        "output": "Automatic Classification of the Complexity of Nonfiction Texts in Portuguese for Early School Years ."
+    }
+]

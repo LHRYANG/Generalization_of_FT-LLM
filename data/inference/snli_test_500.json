@@ -1,0 +1,3002 @@
+[
+    {
+        "input_1": "One woman walking across the street, another on sidewalk.",
+        "input_2": "Women are walking.",
+        "output": "entailment",
+        "idx": 0
+    },
+    {
+        "input_1": "A man wearing chuck taylor shoes and a tan shirt attempts to break free from a straitjacket in front of a crowd",
+        "input_2": "a man in a straight jacket",
+        "output": "entailment",
+        "idx": 1
+    },
+    {
+        "input_1": "A bundled boy sleds down the slope.",
+        "input_2": "A boy is surfing",
+        "output": "contradiction",
+        "idx": 2
+    },
+    {
+        "input_1": "Football player jumping to catch the ball with an empty stand behind him.",
+        "input_2": "The ball is being thrown the football player direction.",
+        "output": "entailment",
+        "idx": 3
+    },
+    {
+        "input_1": "Three middle-age women are on a stage, one singing and the other two cheerleading in blue uniforms.",
+        "input_2": "The older women are singing.",
+        "output": "neutral",
+        "idx": 4
+    },
+    {
+        "input_1": "A little boy with an orange shirt is playing outside with bubbles.",
+        "input_2": "A young child is blowing soapy water to form circles filled with air.",
+        "output": "neutral",
+        "idx": 5
+    },
+    {
+        "input_1": "A single runner, clothed in appropriate attire, jogging on a sidewalk next to a body of water, with buildings in the backdrop on the other side of the water.",
+        "input_2": "A jogger, dressed for jogging, jogs on a sidewalk near water.",
+        "output": "entailment",
+        "idx": 6
+    },
+    {
+        "input_1": "A toddler dressed only in a pamper is sitting on the floor playing with 4 \"car\" pieces to a train set.",
+        "input_2": "A child plays with a train set.",
+        "output": "entailment",
+        "idx": 7
+    },
+    {
+        "input_1": "A graying man with glasses is standing in back of a barber's chair in a seemingly empty barber shop.",
+        "input_2": "A man is sitting in a barber's chair inside an empty barber shop.",
+        "output": "contradiction",
+        "idx": 8
+    },
+    {
+        "input_1": "Two men in uniforms are in soccer field behind a line waiting to play.",
+        "input_2": "two men waiting to play soccer",
+        "output": "entailment",
+        "idx": 9
+    },
+    {
+        "input_1": "People are talking to a camera crew with video and microphone.",
+        "input_2": "People are talking to others.",
+        "output": "entailment",
+        "idx": 10
+    },
+    {
+        "input_1": "A small group of adults and children are in a room with large glass windows and using rolling pins.",
+        "input_2": "The group of people are rolling dough with their rolling pins for their pies.",
+        "output": "neutral",
+        "idx": 11
+    },
+    {
+        "input_1": "A man playing a banjo near a tree at an outdoor event.",
+        "input_2": "The man playing a banjo is trying to earn money.",
+        "output": "neutral",
+        "idx": 12
+    },
+    {
+        "input_1": "A black race car starts up in front of a crowd of people.",
+        "input_2": "A car is running.",
+        "output": "entailment",
+        "idx": 13
+    },
+    {
+        "input_1": "A woman is riding a blue bicycle in a park.",
+        "input_2": "A woman riding around the park on a sunny day",
+        "output": "neutral",
+        "idx": 14
+    },
+    {
+        "input_1": "Someone holding a bag of oranges walking outside.",
+        "input_2": "Someone is holding oranges and walking",
+        "output": "entailment",
+        "idx": 15
+    },
+    {
+        "input_1": "A police officer is standing with his arms crossed.",
+        "input_2": "A police officer is sitting in his police car, racing towards a criminal.",
+        "output": "contradiction",
+        "idx": 16
+    },
+    {
+        "input_1": "As a referee looks on, a Los Angeles baseball player is falling over the top of a rival player who is just sliding into base.",
+        "input_2": "The people are playing basketball.",
+        "output": "contradiction",
+        "idx": 17
+    },
+    {
+        "input_1": "Many people have painted faces at night.",
+        "input_2": "The people are swimming in the ocean at noon.",
+        "output": "contradiction",
+        "idx": 18
+    },
+    {
+        "input_1": "Woman driving in a red convertible with another girl in the passenger seat and a guy in a suit in the backseat, driving past a group of people.",
+        "input_2": "There are three people driving in a convertible past other people.",
+        "output": "entailment",
+        "idx": 19
+    },
+    {
+        "input_1": "A man in a restaurant having lunch.",
+        "input_2": "the man is eating.",
+        "output": "entailment",
+        "idx": 20
+    },
+    {
+        "input_1": "A man in a denim shirt and pants is smoking a cigarette while playing a cello for money.",
+        "input_2": "A man in denim shirt is smoking marbellos.",
+        "output": "neutral",
+        "idx": 21
+    },
+    {
+        "input_1": "A small girl wearing a pink jacket is riding on a carousel.",
+        "input_2": "The girl is moving at the speed of light.",
+        "output": "contradiction",
+        "idx": 22
+    },
+    {
+        "input_1": "People standing in line of a beer and curry line.",
+        "input_2": "People standing in line",
+        "output": "entailment",
+        "idx": 23
+    },
+    {
+        "input_1": "A woman is holding one young children with another standing next to her while a man is sitting by a small campfire.",
+        "input_2": "A woman is holding one young children with another standing happily next to her",
+        "output": "neutral",
+        "idx": 24
+    },
+    {
+        "input_1": "A group of women are trying to sell their vegetable harvest.",
+        "input_2": "A group of women are selling their wares",
+        "output": "entailment",
+        "idx": 25
+    },
+    {
+        "input_1": "One man watching another man operate heavy machinery doing road construction.",
+        "input_2": "A man watches another do construction work.",
+        "output": "entailment",
+        "idx": 26
+    },
+    {
+        "input_1": "Four boys are shown in a house playing and all wear t-shirts.",
+        "input_2": "The boys are playing together.",
+        "output": "entailment",
+        "idx": 27
+    },
+    {
+        "input_1": "One little toddler wearing blue pajamas and a little girl wearing red pajamas opening presents on christmas day.",
+        "input_2": "A grown man sits and weeps.",
+        "output": "contradiction",
+        "idx": 28
+    },
+    {
+        "input_1": "A view of the back of a woman having a beverage.",
+        "input_2": "woman has a drink",
+        "output": "entailment",
+        "idx": 29
+    },
+    {
+        "input_1": "A group of Asian men pose around a large table after enjoying a meal together.",
+        "input_2": "A group of Asian men are playing soccer.",
+        "output": "contradiction",
+        "idx": 30
+    },
+    {
+        "input_1": "A smiling costumed woman is holding an umbrella.",
+        "input_2": "A happy woman in a fairy costume holds an umbrella.",
+        "output": "neutral",
+        "idx": 31
+    },
+    {
+        "input_1": "An older man dressed in blue is sitting on the sidewalk surrounded by tools to polish shoes.",
+        "input_2": "He made pizzas for a living",
+        "output": "contradiction",
+        "idx": 32
+    },
+    {
+        "input_1": "A woman prepares ingredients for a bowl of soup.",
+        "input_2": "A woman is cutting carrots.",
+        "output": "neutral",
+        "idx": 33
+    },
+    {
+        "input_1": "A young boy is looking into a silver cellphone while resting his light brown-haired head on top of a resting blond dog's head.",
+        "input_2": "A person looking",
+        "output": "entailment",
+        "idx": 34
+    },
+    {
+        "input_1": "A colorful array of motorcyclists gathered outdoors, with Joshua trees in the background and a pair of motorcyclists on a cherry-red cycle in the foreground.",
+        "input_2": "People on vehicles outside.",
+        "output": "entailment",
+        "idx": 35
+    },
+    {
+        "input_1": "A West Virginia university women's basketball team, officials, and a small gathering of fans are in a West Virginia arena.",
+        "input_2": "women are playing a big 12 conference game",
+        "output": "neutral",
+        "idx": 36
+    },
+    {
+        "input_1": "A chef speaks into a microphone about a mixed salad contained in a bowl with a decorative lid.",
+        "input_2": "A chef speaks",
+        "output": "entailment",
+        "idx": 37
+    },
+    {
+        "input_1": "Three people loading or unloading their car.",
+        "input_2": "A person eating during lunch.",
+        "output": "contradiction",
+        "idx": 38
+    },
+    {
+        "input_1": "An elderly woman wearing a flower printed apron with a pink colored shirt is cooking inside her kitchen.",
+        "input_2": "A women is cooking for her family",
+        "output": "neutral",
+        "idx": 39
+    },
+    {
+        "input_1": "A girl wearing a red shirt and jeans is sitting in a rocking chair at a cluttered desk, while another girl wearing a black t-shirt and jogging pants is sitting on the floor writing on a piece of paper with other papers arranged around her.",
+        "input_2": "two girls in a room",
+        "output": "entailment",
+        "idx": 40
+    },
+    {
+        "input_1": "A group of people sitting in a grassy area under a pink and white blossoming tree.",
+        "input_2": "there is a group of people outdoors.",
+        "output": "entailment",
+        "idx": 41
+    },
+    {
+        "input_1": "Five men are standing in front of a red curtain.",
+        "input_2": "the men are gangsters",
+        "output": "neutral",
+        "idx": 42
+    },
+    {
+        "input_1": "A black dog carrying a hanging flower pot.",
+        "input_2": "A dog carrying a flower pot.",
+        "output": "entailment",
+        "idx": 43
+    },
+    {
+        "input_1": "A man and a woman hug on a street.",
+        "input_2": "A man and woman hug.",
+        "output": "entailment",
+        "idx": 44
+    },
+    {
+        "input_1": "People walking through dirt.",
+        "input_2": "They are in the desert.",
+        "output": "neutral",
+        "idx": 45
+    },
+    {
+        "input_1": "There is a baseball player in a yellow shirt running midfield.",
+        "input_2": "The baseball player is playing hockey.",
+        "output": "contradiction",
+        "idx": 46
+    },
+    {
+        "input_1": "A woman holding roses while she waits.",
+        "input_2": "this lady has roses while she is waiting for her husband",
+        "output": "neutral",
+        "idx": 47
+    },
+    {
+        "input_1": "A young child brushes his or her teeth while holding a remote.",
+        "input_2": "The young child is asleep.",
+        "output": "contradiction",
+        "idx": 48
+    },
+    {
+        "input_1": "A blond woman in a white cutoff shirt and jeans is walking.",
+        "input_2": "A blond woman walks in light clothing.",
+        "output": "entailment",
+        "idx": 49
+    },
+    {
+        "input_1": "A man sitting at a desk, repairing antique typewriters.",
+        "input_2": "a man jumps",
+        "output": "contradiction",
+        "idx": 50
+    },
+    {
+        "input_1": "Man in green vest directing traffic in snowy conditions, pedestrians standing on the sidelines.",
+        "input_2": "A man is directing traffic",
+        "output": "entailment",
+        "idx": 51
+    },
+    {
+        "input_1": "Military woman using a microscope.",
+        "input_2": "A female military scientist looking through a microscope.",
+        "output": "neutral",
+        "idx": 52
+    },
+    {
+        "input_1": "A young boy slides into home plate while playing little league baseball.",
+        "input_2": "Children at waterpark splashing on hot day.",
+        "output": "contradiction",
+        "idx": 53
+    },
+    {
+        "input_1": "A red and white race car rounds the curve on a racing track.",
+        "input_2": "Two cars are having a race.",
+        "output": "-",
+        "idx": 54
+    },
+    {
+        "input_1": "A team of men performing a life saving procedure.",
+        "input_2": "The team of men were attacked by a shark.",
+        "output": "neutral",
+        "idx": 55
+    },
+    {
+        "input_1": "A man with a tattoo is wearing sunglasses while holding a small boy.",
+        "input_2": "A man with a facial tattoo and Ray-Bans is holding a toddler.",
+        "output": "neutral",
+        "idx": 56
+    },
+    {
+        "input_1": "Two young girls have fun on a trampoline, one of which appears to be falling down onto her back while the other poses with a smile behind her.",
+        "input_2": "Two young girls have fun on a trampoline, one of which appears to be falling down onto her back while the other poses with a smile behind her.",
+        "output": "entailment",
+        "idx": 57
+    },
+    {
+        "input_1": "A long-beaked bird in mid-flight.",
+        "input_2": "A bird chasing an insect.",
+        "output": "neutral",
+        "idx": 58
+    },
+    {
+        "input_1": "A man with a Union Jack bag walks briskly past two windows with the words \"Mooch Art\" on them.",
+        "input_2": "He jumps to the moon",
+        "output": "contradiction",
+        "idx": 59
+    },
+    {
+        "input_1": "A woman in a black coat is riding her bike on a street as a man in shorts and a striped top looks at her as he passes her.",
+        "input_2": "A man is checking out a woman as she rides by on her red bike.",
+        "output": "entailment",
+        "idx": 60
+    },
+    {
+        "input_1": "A family holding hands in the snow are behind a man and his son, whom is wearing a blue jacket.",
+        "input_2": "A family enjoy the beach on a summer day.",
+        "output": "contradiction",
+        "idx": 61
+    },
+    {
+        "input_1": "A couple of travelers in a train station.",
+        "input_2": "Some travelers are at a train station.",
+        "output": "entailment",
+        "idx": 62
+    },
+    {
+        "input_1": "A snowboarder in green pants boards down a snowy mountain.",
+        "input_2": "A snowboard rides down the mountain.",
+        "output": "entailment",
+        "idx": 63
+    },
+    {
+        "input_1": "A woman sitting in a tan chair beside of a dog while smiling at the camera.",
+        "input_2": "The man is an actor at a photoshoot.",
+        "output": "contradiction",
+        "idx": 64
+    },
+    {
+        "input_1": "Number 13 kicks a soccer ball towards the goal during children's soccer game.",
+        "input_2": "A player passing the ball in a soccer game.",
+        "output": "contradiction",
+        "idx": 65
+    },
+    {
+        "input_1": "two people playing baseball one running and one throwing a ball.",
+        "input_2": "two people playing ball at sunset.",
+        "output": "neutral",
+        "idx": 66
+    },
+    {
+        "input_1": "A man with a bald head and wearing eyeglasses is carving a turkey.",
+        "input_2": "A man is slicing a cake.",
+        "output": "contradiction",
+        "idx": 67
+    },
+    {
+        "input_1": "A young man wearing a black shirt and black pants is standing in front of pictures that are black and white and some are colored.",
+        "input_2": "None of the pictures are in color.",
+        "output": "contradiction",
+        "idx": 68
+    },
+    {
+        "input_1": "A charity walk happening with balloons.",
+        "input_2": "People are walking with balloons.",
+        "output": "entailment",
+        "idx": 69
+    },
+    {
+        "input_1": "A man in glasses and a striped shirt walks down the street with one hand in his pocket.",
+        "input_2": "A man is walking on the sidewalk with one hand in his pocket",
+        "output": "-",
+        "idx": 70
+    },
+    {
+        "input_1": "A dog with big ears holds a ball in his mouth.",
+        "input_2": "The dog has small ears.",
+        "output": "contradiction",
+        "idx": 71
+    },
+    {
+        "input_1": "A man walking by a cement column next to the sea.",
+        "input_2": "A man is sitting near the sea.",
+        "output": "contradiction",
+        "idx": 72
+    },
+    {
+        "input_1": "Three boys are standing on the ledge outside of a building.",
+        "input_2": "There are 2 boys.",
+        "output": "contradiction",
+        "idx": 73
+    },
+    {
+        "input_1": "A puppet show consisting of humans standing on tall sticks.",
+        "input_2": "The puppets eat human.",
+        "output": "contradiction",
+        "idx": 74
+    },
+    {
+        "input_1": "A woman is sitting in a chair filling out some paperwork.",
+        "input_2": "A woman runs after a duck.",
+        "output": "contradiction",
+        "idx": 75
+    },
+    {
+        "input_1": "This man holds a teddy bear by the nostrils with one hand, and a microphone in the other.",
+        "input_2": "A man is juggling a teddy bear and a microphone in the air",
+        "output": "contradiction",
+        "idx": 76
+    },
+    {
+        "input_1": "A man wearing black clothing is standing at an empty table that has water glasses and papers strewn about.",
+        "input_2": "A man is standing around.",
+        "output": "entailment",
+        "idx": 77
+    },
+    {
+        "input_1": "A cowboy clown wearing a shirt with Tax on it, red suspenders, and a white cowboy hat talks into a wireless microphone.",
+        "input_2": "A clown is talking into a microphone.",
+        "output": "entailment",
+        "idx": 78
+    },
+    {
+        "input_1": "A person wearing a robe and a pointed hat is holding a basket of bananas.",
+        "input_2": "A person is wearing a flat hat.",
+        "output": "contradiction",
+        "idx": 79
+    },
+    {
+        "input_1": "A middle-aged man works under the engine of a train on rail tracks.",
+        "input_2": "A man is doing work on a black Amtrack train.",
+        "output": "neutral",
+        "idx": 80
+    },
+    {
+        "input_1": "A man about to smash something with a very large sledgehammer.",
+        "input_2": "the sledgehammer is small",
+        "output": "contradiction",
+        "idx": 81
+    },
+    {
+        "input_1": "Thick clouds masked the sky for the Braun sponsored event as the crowd looked up at the raised platform while a small group of bike stunt riders watched one rider land on his feet while his bike was still in the air.",
+        "input_2": "They are hoping that they get a chance to perform, because it looks like it might rain.",
+        "output": "neutral",
+        "idx": 82
+    },
+    {
+        "input_1": "A girl in black is sitting on the ledge of a balcony, and she is speaking with a group of chefs.",
+        "input_2": "A group of professionals are speaking with a girl on a balcony.",
+        "output": "entailment",
+        "idx": 83
+    },
+    {
+        "input_1": "A man with a hooded sweatshirt bows his head in a cathedral.",
+        "input_2": "A man in a hoodie bows.",
+        "output": "entailment",
+        "idx": 84
+    },
+    {
+        "input_1": "A woman and a naked child wade into the ocean.",
+        "input_2": "A woman and child wade into the low tide ocean water looking for star fish.",
+        "output": "neutral",
+        "idx": 85
+    },
+    {
+        "input_1": "A woman in a blue sweatshirt is shearing the wool off of a lamb.",
+        "input_2": "A woman is wearing a sweatshirt",
+        "output": "entailment",
+        "idx": 86
+    },
+    {
+        "input_1": "A brown dog carries a long stick on the green grass.",
+        "input_2": "A dog returns a stick to its owner.",
+        "output": "neutral",
+        "idx": 87
+    },
+    {
+        "input_1": "Some young boys ride bikes in the street.",
+        "input_2": "There are girls and boys",
+        "output": "contradiction",
+        "idx": 88
+    },
+    {
+        "input_1": "Men in dark clothes and women in dark, decorative skirts are looking at books while another man is standing in front of them holding a circular object.",
+        "input_2": "the people are running through fire",
+        "output": "contradiction",
+        "idx": 89
+    },
+    {
+        "input_1": "A woman standing on one hand in an empty pool.",
+        "input_2": "The woman treads water after diving into the lake from a wooden dock.",
+        "output": "contradiction",
+        "idx": 90
+    },
+    {
+        "input_1": "An elderly man is looking through his glasses while working with hot metal.",
+        "input_2": "man making a sword",
+        "output": "neutral",
+        "idx": 91
+    },
+    {
+        "input_1": "A woman is using Frisbees to play with a dog in front of a stadium crowd and a group of baseball players.",
+        "input_2": "A woman is playing with a dog.",
+        "output": "entailment",
+        "idx": 92
+    },
+    {
+        "input_1": "Two black dogs running",
+        "input_2": "The two black dogs are running beside each other.",
+        "output": "neutral",
+        "idx": 93
+    },
+    {
+        "input_1": "a lone surfboarder on a white surfboard flying through the air over a wave",
+        "input_2": "A lone surfboarder on a a white surfboard is riding the waves.",
+        "output": "entailment",
+        "idx": 94
+    },
+    {
+        "input_1": "A group of people are sitting under umbrellas on the beach.",
+        "input_2": "A man is talking to a dog on thebeach",
+        "output": "contradiction",
+        "idx": 95
+    },
+    {
+        "input_1": "Three people and a white dog are sitting in the sand on a beach.",
+        "input_2": "People sitting on the beach.",
+        "output": "entailment",
+        "idx": 96
+    },
+    {
+        "input_1": "A cowboy struggling to maintain control on a horse at a rodeo.",
+        "input_2": "cheese is made from water",
+        "output": "contradiction",
+        "idx": 97
+    },
+    {
+        "input_1": "Group yoga class exercising.",
+        "input_2": "The yoga group are eating chips and fries.",
+        "output": "contradiction",
+        "idx": 98
+    },
+    {
+        "input_1": "A street filled with people walking and riding bikes.",
+        "input_2": "A street filled with people.",
+        "output": "entailment",
+        "idx": 99
+    },
+    {
+        "input_1": "Beautiful red car among many at a car show full of excited car enthusiasts held on a tree lined street.",
+        "input_2": "The car enthusiasts were looking at motorcycles.",
+        "output": "contradiction",
+        "idx": 100
+    },
+    {
+        "input_1": "A group of men work on some streetcar rails.",
+        "input_2": "The group of men are asleep at the parade.",
+        "output": "contradiction",
+        "idx": 101
+    },
+    {
+        "input_1": "This young man is wearing blue jeans and a cowboy hat, and is walking away from a calf that is currently roped within an arena.",
+        "input_2": "Nobody has jeans",
+        "output": "contradiction",
+        "idx": 102
+    },
+    {
+        "input_1": "Theses people is taking a picture of a pink pig lying on the ground.",
+        "input_2": "A group spotted a pig nearby.",
+        "output": "-",
+        "idx": 103
+    },
+    {
+        "input_1": "Beautiful red car among many at a car show full of excited car enthusiasts held on a tree lined street.",
+        "input_2": "The car enthusiasts were all men.",
+        "output": "neutral",
+        "idx": 104
+    },
+    {
+        "input_1": "A marching band of kids while at a rodeo.",
+        "input_2": "There is a group of kids.",
+        "output": "entailment",
+        "idx": 105
+    },
+    {
+        "input_1": "A black and brown dog attempts to catch a red ball in its mouth.",
+        "input_2": "An animal is playing with a ball.",
+        "output": "entailment",
+        "idx": 106
+    },
+    {
+        "input_1": "A young boy and girl playing baseball in a grassy field.",
+        "input_2": "kids play t-ball",
+        "output": "contradiction",
+        "idx": 107
+    },
+    {
+        "input_1": "A woman in a purple dress talks on her cellphone and a man reads a book as a two-story bus passes by outside their window.",
+        "input_2": "a woman calls her kids",
+        "output": "neutral",
+        "idx": 108
+    },
+    {
+        "input_1": "A hot-air balloon getting filled.",
+        "input_2": "A hot-air balloon is being operated on.",
+        "output": "entailment",
+        "idx": 109
+    },
+    {
+        "input_1": "A woman carrying a shopping bag in front of Fisher's Popcorn.",
+        "input_2": "a woman is sitting in a cafe",
+        "output": "contradiction",
+        "idx": 110
+    },
+    {
+        "input_1": "A man in a red Vegas shirt sits a table playing with his camera.",
+        "input_2": "The man is standing and taking pictures.",
+        "output": "contradiction",
+        "idx": 111
+    },
+    {
+        "input_1": "A tattooed boxer is punching his opponent in a boxing arena.",
+        "input_2": "A boxer without tattooes is getting beat up outdoors.",
+        "output": "contradiction",
+        "idx": 112
+    },
+    {
+        "input_1": "Two men, one wearing a red shirt and another wearing a blue shirt, are inspecting a small tree while others are at work in the background.",
+        "input_2": "Two men wearing the same color shirt stand alone indoors.",
+        "output": "contradiction",
+        "idx": 113
+    },
+    {
+        "input_1": "Four people stand next to some bikes while one of them points.",
+        "input_2": "Two people are sitting on the ground.",
+        "output": "contradiction",
+        "idx": 114
+    },
+    {
+        "input_1": "A tan bird stands on a ledge about to eat something.",
+        "input_2": "A bird is about to eat some food.",
+        "output": "entailment",
+        "idx": 115
+    },
+    {
+        "input_1": "A man in a blue polo raises his wineglass to toast.",
+        "input_2": "A man toasts his sons marriage.",
+        "output": "neutral",
+        "idx": 116
+    },
+    {
+        "input_1": "Performers wearing bright robes, one with a long necklace and some masks.",
+        "input_2": "The people are perfomers",
+        "output": "entailment",
+        "idx": 117
+    },
+    {
+        "input_1": "A man sits on the grass trying to get a hole of a fish.",
+        "input_2": "Man tries fishing at a local fishing hole, unsucessfully.",
+        "output": "neutral",
+        "idx": 118
+    },
+    {
+        "input_1": "A man sits beside parked cars on a city street.",
+        "input_2": "A man is standing in line.",
+        "output": "contradiction",
+        "idx": 119
+    },
+    {
+        "input_1": "A little girl in a pink jacket is walking.",
+        "input_2": "The girl is walking to her parents.",
+        "output": "neutral",
+        "idx": 120
+    },
+    {
+        "input_1": "A woman wearing a white baseball cap purple coat holding a poster.",
+        "input_2": "A woman with a hat holding a poster.",
+        "output": "entailment",
+        "idx": 121
+    },
+    {
+        "input_1": "A brown dog with a purple Frisbee in its mouth.",
+        "input_2": "The dog is catching a Frisbee.",
+        "output": "neutral",
+        "idx": 122
+    },
+    {
+        "input_1": "A young man wearing a bandanna is lifting weights with a barbell.",
+        "input_2": "The man is exercising.",
+        "output": "entailment",
+        "idx": 123
+    },
+    {
+        "input_1": "older men talking and standing around.",
+        "input_2": "The older men are talking about their wives.",
+        "output": "neutral",
+        "idx": 124
+    },
+    {
+        "input_1": "A baby in a bathrobe waits for his shower.",
+        "input_2": "A baby is dressed in a bathrobe waiting for a shower.",
+        "output": "entailment",
+        "idx": 125
+    },
+    {
+        "input_1": "A customer places his order at Quiznos while another customer looks on.",
+        "input_2": "Someone orders food at Quiznos.",
+        "output": "entailment",
+        "idx": 126
+    },
+    {
+        "input_1": "A tattooed boxer is punching his opponent in a boxing arena.",
+        "input_2": "A boxer is competing in a fight.",
+        "output": "entailment",
+        "idx": 127
+    },
+    {
+        "input_1": "A soccer game with multiple males playing.",
+        "input_2": "Some men are playing a sport.",
+        "output": "entailment",
+        "idx": 128
+    },
+    {
+        "input_1": "A person is kneeling between two horses",
+        "input_2": "A kneeling cowboy and two of the wild horses he just caught drink from a pool of water.",
+        "output": "neutral",
+        "idx": 129
+    },
+    {
+        "input_1": "One boy is driving a play tractor while the other boy jumps off the back of the play tractor.",
+        "input_2": "The boy gets hurt jumping.",
+        "output": "neutral",
+        "idx": 130
+    },
+    {
+        "input_1": "A group of young people with instruments are on stage.",
+        "input_2": "People are performing as a band for a crowd.",
+        "output": "neutral",
+        "idx": 131
+    },
+    {
+        "input_1": "A young boy slides into home plate while playing little league baseball.",
+        "input_2": "Boy playing baseball.",
+        "output": "entailment",
+        "idx": 132
+    },
+    {
+        "input_1": "A man rows a small dingy laden with green plants on a river.",
+        "input_2": "A man rows a small dingy.",
+        "output": "entailment",
+        "idx": 133
+    },
+    {
+        "input_1": "A girls sports team putting their hands in a circle to do a bonding cheer.",
+        "input_2": "Male cheerleaders talking",
+        "output": "contradiction",
+        "idx": 134
+    },
+    {
+        "input_1": "A man in a white hat and a woman in a light blue jacket have stopped on a busy street to look at something.",
+        "input_2": "A couple stops to look for directions on the busy street.",
+        "output": "neutral",
+        "idx": 135
+    },
+    {
+        "input_1": "The pitcher wearing black heaves the ball toward the catcher.",
+        "input_2": "People are playing a game.",
+        "output": "entailment",
+        "idx": 136
+    },
+    {
+        "input_1": "Four people, One male in a blue shirt and slacks with three females, one in pink, one in blue, and the other with a white shirt and blue blouse, in line to enter a yellow school bus, while a female in pink hold paper is on the phone.",
+        "input_2": "Four people, One male in a blue shirt and slacks with three females, one in pink, one in blue, and the other with a blue shirt and blue blouse, in line to enter a yellow school bus, while a female in pink hold paper is on the phone.",
+        "output": "contradiction",
+        "idx": 137
+    },
+    {
+        "input_1": "There is one person lying in a large, green field.",
+        "input_2": "There is someone running through a forest.",
+        "output": "contradiction",
+        "idx": 138
+    },
+    {
+        "input_1": "Two men, two children, and a woman all sitting down near a stand filled with purses.",
+        "input_2": "People are sitting near a stand filled with candy.",
+        "output": "contradiction",
+        "idx": 139
+    },
+    {
+        "input_1": "A man and a female doing some type of martial arts.",
+        "input_2": "A man and a female doing some swing dancing.",
+        "output": "contradiction",
+        "idx": 140
+    },
+    {
+        "input_1": "Two women wearing white bathrobes relax on a couch with their feet kicked up on a coffee table.",
+        "input_2": "two women jump for joy",
+        "output": "contradiction",
+        "idx": 141
+    },
+    {
+        "input_1": "A group of black children, huddled around a white soldier, they are all clapping.",
+        "input_2": "The children celebrate with the soldier who had just rescued them.",
+        "output": "neutral",
+        "idx": 142
+    },
+    {
+        "input_1": "A boy plays in the surf.",
+        "input_2": "A boy is playing on the beach.",
+        "output": "entailment",
+        "idx": 143
+    },
+    {
+        "input_1": "A trainer runs next to his dog as it jumps through multiple hoops.",
+        "input_2": "A trainer has his dog show off his new tricks for the rest of the class.",
+        "output": "neutral",
+        "idx": 144
+    },
+    {
+        "input_1": "A woman is holding a dog on a leash in front of a small pier.",
+        "input_2": "The little dog is restrained by the woman holding the leash",
+        "output": "neutral",
+        "idx": 145
+    },
+    {
+        "input_1": "People dancing and being watched by a man wearing a shirt that says security.",
+        "input_2": "He is ready to approach the dancing people.",
+        "output": "neutral",
+        "idx": 146
+    },
+    {
+        "input_1": "Three young women pose for the camera at a parade.",
+        "input_2": "A trio of women get their picture taken.",
+        "output": "entailment",
+        "idx": 147
+    },
+    {
+        "input_1": "A blond woman in a white cutoff shirt and jeans is walking.",
+        "input_2": "A man walks to a park.",
+        "output": "contradiction",
+        "idx": 148
+    },
+    {
+        "input_1": "Riot police are standing in the background while a young man with a red scarf covering his face is walking.",
+        "input_2": "a dog sleeps on a pillow",
+        "output": "contradiction",
+        "idx": 149
+    },
+    {
+        "input_1": "A small child sits in the water, holding on to a bit of wood while smiling for a picture.",
+        "input_2": "A young child frowns at the camera.",
+        "output": "contradiction",
+        "idx": 150
+    },
+    {
+        "input_1": "A man drags a young boy in swim trunks into the surf at what appears to be a beach in a tropical location.",
+        "input_2": "A man and boy are in a body of water.",
+        "output": "entailment",
+        "idx": 151
+    },
+    {
+        "input_1": "Two families on a picnic with green grass.",
+        "input_2": "People are having a picnic.",
+        "output": "entailment",
+        "idx": 152
+    },
+    {
+        "input_1": "A crowd of people are standing against a railing.",
+        "input_2": "The people are all standing next to the railing.",
+        "output": "entailment",
+        "idx": 153
+    },
+    {
+        "input_1": "A young man trying to buy a car from his dealer after his old car was towed away by police.",
+        "input_2": "A man trying to buy a new car from someone.",
+        "output": "neutral",
+        "idx": 154
+    },
+    {
+        "input_1": "A little boy sitting on the ground looking up at some men dressed up like an alien creature or machine.",
+        "input_2": "The little boy is sitting down.",
+        "output": "entailment",
+        "idx": 155
+    },
+    {
+        "input_1": "A man is standing in the corner of a baseball field, dressed in a white dress suit, having a cameraman pointing a camera towards him.",
+        "input_2": "A man is standing in the corner of a field while a camera is pointed at him.",
+        "output": "entailment",
+        "idx": 156
+    },
+    {
+        "input_1": "A man with a dark shirt and light shorts is standing next to a person wearing a light shirt on a sidewalk.",
+        "input_2": "a couple pose together",
+        "output": "neutral",
+        "idx": 157
+    },
+    {
+        "input_1": "Two asian men in a wood shop.",
+        "input_2": "There are two asian men in that wood shop.",
+        "output": "entailment",
+        "idx": 158
+    },
+    {
+        "input_1": "A woman using a large camera while standing in the street.",
+        "input_2": "A woman is outdoors.",
+        "output": "entailment",
+        "idx": 159
+    },
+    {
+        "input_1": "A group of people sit before a campfire.",
+        "input_2": "The elephant sits on a dog",
+        "output": "contradiction",
+        "idx": 160
+    },
+    {
+        "input_1": "Two men on a basketball court one in white and red the other in blue, the player in white is throwing the ball in while teammates look on.",
+        "input_2": "The men are playing in a basketball tournament.",
+        "output": "neutral",
+        "idx": 161
+    },
+    {
+        "input_1": "Young girl with dark hair facing camera and holding a paper bag while wearing an orange shirt and multicolored butterfly wings.",
+        "input_2": "A young girl faces the camera.",
+        "output": "entailment",
+        "idx": 162
+    },
+    {
+        "input_1": "Two woman talk in the middle of a parking lot, near two cars, as random people wander nearby.",
+        "input_2": "Sisters talk to each other in the middle of the lot",
+        "output": "neutral",
+        "idx": 163
+    },
+    {
+        "input_1": "A girl is working on some sort of lab experiment while another girl watches with a bored expression.",
+        "input_2": "A girl is trying to reconstruct her dead puppy while her cousin watches.",
+        "output": "neutral",
+        "idx": 164
+    },
+    {
+        "input_1": "A young boy and young girl both wearing shorts stand face on the street while an adult's arm can be seen nearby.",
+        "input_2": "People wearing shorts",
+        "output": "entailment",
+        "idx": 165
+    },
+    {
+        "input_1": "A gentleman overlooking a neighborhood situation.",
+        "input_2": "A man looks at something in a neighborhood.",
+        "output": "entailment",
+        "idx": 166
+    },
+    {
+        "input_1": "A sunny street with a red building, parked cars, and a man walking down the road.",
+        "input_2": "The sun is reflecting off the windows of the red building.",
+        "output": "neutral",
+        "idx": 167
+    },
+    {
+        "input_1": "Man standing on a tricycle riding in front of a crowd.",
+        "input_2": "A man is performing tricks on a bike.",
+        "output": "neutral",
+        "idx": 168
+    },
+    {
+        "input_1": "A girl standing by a decorated structural beam poses for a picture.",
+        "input_2": "A man tries on a new tie.",
+        "output": "contradiction",
+        "idx": 169
+    },
+    {
+        "input_1": "A woman wearing a vertical striped top, sitting on a bench beside a telephone booth in a train station.",
+        "input_2": "A woman gets on a train.",
+        "output": "contradiction",
+        "idx": 170
+    },
+    {
+        "input_1": "A child is reaching up to the counter using a step stool.",
+        "input_2": "The child is trying to reach some candy.",
+        "output": "neutral",
+        "idx": 171
+    },
+    {
+        "input_1": "A person wearing orange pants in playing in the mud.",
+        "input_2": "A young girl is standing next the sandbox.",
+        "output": "contradiction",
+        "idx": 172
+    },
+    {
+        "input_1": "Scene from a life show with man singing in the center, there are two women one on each side of him.",
+        "input_2": "There is a play going on.",
+        "output": "neutral",
+        "idx": 173
+    },
+    {
+        "input_1": "On stage, the innards of a piano are shown next to a man at a desk who is working on electronics, while a long-haired man is looking at a screen which shows \"53:11\".",
+        "input_2": "The men are shopping at the market.",
+        "output": "contradiction",
+        "idx": 174
+    },
+    {
+        "input_1": "A man in a black, white, and red uniform is holding yellow ski poles and racing or preparing to race.",
+        "input_2": "A man is revving his dirt bike, ready for his race.",
+        "output": "contradiction",
+        "idx": 175
+    },
+    {
+        "input_1": "A man wearing a tan hat and shirt, an orange safety vest, and dark glasses gestures towards a nearby car.",
+        "input_2": "The car honks its horn.",
+        "output": "neutral",
+        "idx": 176
+    },
+    {
+        "input_1": "A woman dressed in a blue long-sleeved shirt and wearing a hairnet.",
+        "input_2": "The woman has something on her head.",
+        "output": "neutral",
+        "idx": 177
+    },
+    {
+        "input_1": "Two Seattle firefighters standing in front of their truck.",
+        "input_2": "the firefighters are women",
+        "output": "neutral",
+        "idx": 178
+    },
+    {
+        "input_1": "The baseball player wearing the \"Irish\" uniform prepares to throw the ball to his teammate as the umpire watches closely.",
+        "input_2": "Two people are playing catch with a football while a priest watches.",
+        "output": "contradiction",
+        "idx": 179
+    },
+    {
+        "input_1": "A young boy in a field of flowers carrying a ball",
+        "input_2": "dog in pool",
+        "output": "contradiction",
+        "idx": 180
+    },
+    {
+        "input_1": "A young female toddler wearing a yellow dress is seated in a swing.",
+        "input_2": "A toddler is going down a slide.",
+        "output": "contradiction",
+        "idx": 181
+    },
+    {
+        "input_1": "A young puppy suckles from his mother.",
+        "input_2": "The puppy's eyes are still closed.",
+        "output": "neutral",
+        "idx": 182
+    },
+    {
+        "input_1": "Two dogs play",
+        "input_2": "Two cats are playing.",
+        "output": "contradiction",
+        "idx": 183
+    },
+    {
+        "input_1": "A guy on a roof working on terracotta roof tiles.",
+        "input_2": "A guy on a roof working on terracotta roof tiles of his home.",
+        "output": "neutral",
+        "idx": 184
+    },
+    {
+        "input_1": "Two fencers dressed in the sport's traditional white suit and protective mask, practice their dueling.",
+        "input_2": "a pair of fencers practice together",
+        "output": "entailment",
+        "idx": 185
+    },
+    {
+        "input_1": "I think this lady is waiting for a cab.",
+        "input_2": "The lady is taking a nap.",
+        "output": "contradiction",
+        "idx": 186
+    },
+    {
+        "input_1": "Two men in shorts walking in front of a trashcan.",
+        "input_2": "Two girls are jumping rope.",
+        "output": "contradiction",
+        "idx": 187
+    },
+    {
+        "input_1": "Two kids standing beside a snowman.",
+        "input_2": "Two children pose for a picture with the snowman they built.",
+        "output": "neutral",
+        "idx": 188
+    },
+    {
+        "input_1": "A man wearing a black T-shirt and a tan jacket wrapped around his waist pulls a wheeled gray and black bag as he walks next to a building that has large glass windows.",
+        "input_2": "An elderly man walking next to a skyscraper.",
+        "output": "neutral",
+        "idx": 189
+    },
+    {
+        "input_1": "Four construction workers, wearing neon vests, stand at a construction site along with some equipment.",
+        "input_2": "The construction workers are at work.",
+        "output": "entailment",
+        "idx": 190
+    },
+    {
+        "input_1": "A cyclist rides down a rocky mountain.",
+        "input_2": "He is riding a bike.",
+        "output": "entailment",
+        "idx": 191
+    },
+    {
+        "input_1": "Six workers are working on the train tracks.",
+        "input_2": "Six workers are completing repair on a train track.",
+        "output": "neutral",
+        "idx": 192
+    },
+    {
+        "input_1": "A group of youths, one wearing a t-shirt labeled \"L.A. City Lounge South\", are working on a craft project that involves the use of flour.",
+        "input_2": " A group of youths are baking some delicious brownies.",
+        "output": "neutral",
+        "idx": 193
+    },
+    {
+        "input_1": "Young barefoot girl begins to lose balance.",
+        "input_2": "The young girl with bare feet is losing her balance.",
+        "output": "entailment",
+        "idx": 194
+    },
+    {
+        "input_1": "Asian workers assembling a wood project.",
+        "input_2": "Asian workers are building a shed.",
+        "output": "neutral",
+        "idx": 195
+    },
+    {
+        "input_1": "A man in a green Celtics hat and a woman wearing a black sweater display identical tattoos on their right wrists.",
+        "input_2": "A man and woman display identical tattoos",
+        "output": "entailment",
+        "idx": 196
+    },
+    {
+        "input_1": "A female dancer works on striking a pose.",
+        "input_2": "The woman is in the bathroom.",
+        "output": "contradiction",
+        "idx": 197
+    },
+    {
+        "input_1": "A man in a black jacket and blue jeans is holding a white coffee cup.",
+        "input_2": "A man is holding a cup.",
+        "output": "entailment",
+        "idx": 198
+    },
+    {
+        "input_1": "Young woman celebrates getting a strike during a bowling game.",
+        "input_2": "The young women helped them win the game.",
+        "output": "neutral",
+        "idx": 199
+    },
+    {
+        "input_1": "A man without a shirt walking towards a gas station.",
+        "input_2": "A shirtless man is holding a gas container walking to a gas station.",
+        "output": "neutral",
+        "idx": 200
+    },
+    {
+        "input_1": "brown dogs are running down a trail",
+        "input_2": "Brown dogs are outside.",
+        "output": "entailment",
+        "idx": 201
+    },
+    {
+        "input_1": "Two women are looking at bread in packages on a table.",
+        "input_2": "A pair of females are looking at food.",
+        "output": "-",
+        "idx": 202
+    },
+    {
+        "input_1": "A man in an apron sits at a table in front of a restaurant, while another man crosses the street with a purple gift bag and rolling luggage.",
+        "input_2": "The waiter takes a break after cleaning up the cafe, and the last customer leaves.",
+        "output": "neutral",
+        "idx": 203
+    },
+    {
+        "input_1": "A man snowboards.",
+        "input_2": "A boy is snowboarding down a large hill.",
+        "output": "neutral",
+        "idx": 204
+    },
+    {
+        "input_1": "A group of power workers at the site of a car crash.",
+        "input_2": "The power workers are trying to restore power.",
+        "output": "neutral",
+        "idx": 205
+    },
+    {
+        "input_1": "A red jeep hangs from the edge of a rocky cliff as a girl looks on.",
+        "input_2": "The girl is inside her room.",
+        "output": "contradiction",
+        "idx": 206
+    },
+    {
+        "input_1": "These two dogs are outside, with one on the ground and one jumping in the air to get a ball.",
+        "input_2": "Two big, shaggy dogs are outside.",
+        "output": "neutral",
+        "idx": 207
+    },
+    {
+        "input_1": "A brown dog is laying on his side on a beige carpet, with a green object in the foreground.",
+        "input_2": "The dog is dead.",
+        "output": "contradiction",
+        "idx": 208
+    },
+    {
+        "input_1": "A crowd of people are sitting in seats in a sports ground bleachers.",
+        "input_2": "The crowd of people standing and cheering.",
+        "output": "contradiction",
+        "idx": 209
+    },
+    {
+        "input_1": "The Rockettes perform on the street in front of Radio City Music Hall, as well as next to a cop car.",
+        "input_2": "The car is a food truck.",
+        "output": "contradiction",
+        "idx": 210
+    },
+    {
+        "input_1": "An asian man wearing a blue shirt is kicking up water.",
+        "input_2": "The man is kicking up dirt.",
+        "output": "contradiction",
+        "idx": 211
+    },
+    {
+        "input_1": "A young child is being held by another child looking straight at us.",
+        "input_2": "The child is looking at us.",
+        "output": "entailment",
+        "idx": 212
+    },
+    {
+        "input_1": "A child is jumping off a platform into a pool.",
+        "input_2": "The child is running",
+        "output": "contradiction",
+        "idx": 213
+    },
+    {
+        "input_1": "a child is on the ground crying.",
+        "input_2": "A child sleeping soundly inside its crib.",
+        "output": "contradiction",
+        "idx": 214
+    },
+    {
+        "input_1": "A group of men are playing basketball as the sun sets.",
+        "input_2": "There are two men with a basketball.",
+        "output": "neutral",
+        "idx": 215
+    },
+    {
+        "input_1": "A woman sitting outside weaving a long piece of red, white, and blue cloth.",
+        "input_2": "She is weaving an american flag",
+        "output": "neutral",
+        "idx": 216
+    },
+    {
+        "input_1": "Three adult bystanders and one child looking up toward the sky while standing on the sidewalk.",
+        "input_2": "Four people are looking at the sky.",
+        "output": "entailment",
+        "idx": 217
+    },
+    {
+        "input_1": "A racing motorcycle rider has fallen off his bike and is sliding on the ground while another rider is driving behind.",
+        "input_2": "The rider is swimming in the middle of the ocean.",
+        "output": "contradiction",
+        "idx": 218
+    },
+    {
+        "input_1": "A couple sit on a park bench with purple balloons tied to it.",
+        "input_2": "people at the park.",
+        "output": "entailment",
+        "idx": 219
+    },
+    {
+        "input_1": "A young girl is swimming in a pool.",
+        "input_2": "The girl is drying off outside of the pool.",
+        "output": "contradiction",
+        "idx": 220
+    },
+    {
+        "input_1": "A team of men performing a life saving procedure.",
+        "input_2": "The team consists of men.",
+        "output": "entailment",
+        "idx": 221
+    },
+    {
+        "input_1": "A man doing maintenance on the railroad tracks",
+        "input_2": "There is a man working on the railroad tracks.",
+        "output": "entailment",
+        "idx": 222
+    },
+    {
+        "input_1": "A young man rolling up the sleeves on his sweater.",
+        "input_2": "The boy is about to hold something.",
+        "output": "neutral",
+        "idx": 223
+    },
+    {
+        "input_1": "Three men stand on the beach, fully clothed.",
+        "input_2": "Three men by the ocean.",
+        "output": "neutral",
+        "idx": 224
+    },
+    {
+        "input_1": "Buddhist priest blessing his worshipers.",
+        "input_2": "a priest has tattoos",
+        "output": "neutral",
+        "idx": 225
+    },
+    {
+        "input_1": "A woman in a tan top and jeans is sitting on a bench wearing headphones.",
+        "input_2": "A woman at the beach is eating ice cream.",
+        "output": "contradiction",
+        "idx": 226
+    },
+    {
+        "input_1": "The woman in the blue skirt is sleeping on a cardboard box under a picture of Mary and baby Jesus.",
+        "input_2": "A homeless woman sleeps under the protective gaze of the Blessed Mother.",
+        "output": "entailment",
+        "idx": 227
+    },
+    {
+        "input_1": "Two young women are crossing a street just after a yellow school bus has passed by.",
+        "input_2": "Two women riding in the school bus.",
+        "output": "contradiction",
+        "idx": 228
+    },
+    {
+        "input_1": "A little brown-haired girl up in a tree.",
+        "input_2": "The boy jumped from the tree.",
+        "output": "contradiction",
+        "idx": 229
+    },
+    {
+        "input_1": "A dog runs along the shore of a pond with two elegant geese swimming.",
+        "input_2": "A dog runs along a pond attempting to catch to elegant geese swimming.",
+        "output": "neutral",
+        "idx": 230
+    },
+    {
+        "input_1": "A young girl with long brown hair is brushing her teeth.",
+        "input_2": "A girl has short blonde hair.",
+        "output": "contradiction",
+        "idx": 231
+    },
+    {
+        "input_1": "A man in all black clothes does a breakdancing move.",
+        "input_2": "The man is dancing on the street.",
+        "output": "neutral",
+        "idx": 232
+    },
+    {
+        "input_1": "A young man wearing black jumps off a height while people clap.",
+        "input_2": "The man is wearing yellow.",
+        "output": "contradiction",
+        "idx": 233
+    },
+    {
+        "input_1": "Three young girls in uniforms stand in front of a whiteboard looking at one another with one girl holding her arm out to another girl while another girl sits in her uniform in front of classroom posters and maps.",
+        "input_2": "Girls in line for the bathroom.",
+        "output": "contradiction",
+        "idx": 234
+    },
+    {
+        "input_1": "A man wearing a white jacket and pink hat is speaking into a microphone while raising one arm above his head.",
+        "input_2": "The man is sitting down.",
+        "output": "contradiction",
+        "idx": 235
+    },
+    {
+        "input_1": "Two boys in a field kicking a soccer ball.",
+        "input_2": "Some boys are practicing for a soccer game.",
+        "output": "neutral",
+        "idx": 236
+    },
+    {
+        "input_1": "A woman smiling while on a bicycle.",
+        "input_2": "A woman is smiling.",
+        "output": "entailment",
+        "idx": 237
+    },
+    {
+        "input_1": "A small ice cream stand with two people standing near it.",
+        "input_2": "Two people selling ice cream from a car.",
+        "output": "contradiction",
+        "idx": 238
+    },
+    {
+        "input_1": "Kids are on a amusement ride.",
+        "input_2": "Kids ride an amusement ride.",
+        "output": "entailment",
+        "idx": 239
+    },
+    {
+        "input_1": "A lone man standing a rock shore looking downward at a inland body of water with a blue ocean or other large body of water behind him extending into the horizon of a blue sky.",
+        "input_2": "You can observe some water in the frame.",
+        "output": "entailment",
+        "idx": 240
+    },
+    {
+        "input_1": "A construction worker is standing on a crane placing a large arm on top of a stature in progress.",
+        "input_2": "A person standing",
+        "output": "entailment",
+        "idx": 241
+    },
+    {
+        "input_1": "A man jumping sideways in the ocean.",
+        "input_2": "A man sits in a hotel lobby.",
+        "output": "contradiction",
+        "idx": 242
+    },
+    {
+        "input_1": "A white-haired conductor is standing in front of an orchestra which is also standing, instruments in hand.",
+        "input_2": "The conductor and orchestra are not sitting.",
+        "output": "entailment",
+        "idx": 243
+    },
+    {
+        "input_1": "A policeman is directing a crowd of people walking.",
+        "input_2": "A policeman is herding pedestrians.",
+        "output": "entailment",
+        "idx": 244
+    },
+    {
+        "input_1": "Two woman talk in the middle of a parking lot, near two cars, as random people wander nearby.",
+        "input_2": "Two men talk in the middle of the lot",
+        "output": "contradiction",
+        "idx": 245
+    },
+    {
+        "input_1": "Two people standing in front of a waterfall scenery.",
+        "input_2": "Two people are in front of some scenery.",
+        "output": "entailment",
+        "idx": 246
+    },
+    {
+        "input_1": "A cowboy clown wearing a shirt with Tax on it, red suspenders, and a white cowboy hat talks into a wireless microphone.",
+        "input_2": "A cowboy clown in a bowler hat is talking into a wireless microphone.",
+        "output": "contradiction",
+        "idx": 247
+    },
+    {
+        "input_1": "A dog licks his nose.",
+        "input_2": "A cat is licking his fur.",
+        "output": "contradiction",
+        "idx": 248
+    },
+    {
+        "input_1": "Two kids begin to make a snowman on a sunny winter day.",
+        "input_2": "Two brothers making a snowman.",
+        "output": "neutral",
+        "idx": 249
+    },
+    {
+        "input_1": "An older woman sits at a table in a tank top and skirt.",
+        "input_2": "A woman is waiting for her drink",
+        "output": "neutral",
+        "idx": 250
+    },
+    {
+        "input_1": "Girl in pink bathing suit with right arm in air behind a seagull on the beach near the water.",
+        "input_2": "A female is at the ocean.",
+        "output": "-",
+        "idx": 251
+    },
+    {
+        "input_1": "Two guys are wearing uniforms who are running in the grass.",
+        "input_2": "Two guys wearing tutus are playing basketball.",
+        "output": "contradiction",
+        "idx": 252
+    },
+    {
+        "input_1": "Two doctors perform surgery on patient.",
+        "input_2": "Two doctors are performing surgery on a man.",
+        "output": "neutral",
+        "idx": 253
+    },
+    {
+        "input_1": "A man in black is crossing the road.",
+        "input_2": "He is walking on his hands.",
+        "output": "contradiction",
+        "idx": 254
+    },
+    {
+        "input_1": "A group of people in white sports outfits are gathered together while one of them performs a dance.",
+        "input_2": "The group of people has a person doing a dance performance.",
+        "output": "entailment",
+        "idx": 255
+    },
+    {
+        "input_1": "Two dogs run together across a grassy lawn.",
+        "input_2": "The dogs are outside.",
+        "output": "entailment",
+        "idx": 256
+    },
+    {
+        "input_1": "People working together to plant flowers.",
+        "input_2": "People are planting flowers.",
+        "output": "entailment",
+        "idx": 257
+    },
+    {
+        "input_1": "A woman is tugging on a white sheet and laughing",
+        "input_2": "The person is amused.",
+        "output": "entailment",
+        "idx": 258
+    },
+    {
+        "input_1": "A man wearing black pants and jacket is on a blue scooter next to a crowd of people and a green tent.",
+        "input_2": "A man is riding his scooter next to a crowd people.",
+        "output": "entailment",
+        "idx": 259
+    },
+    {
+        "input_1": "A girl with brown hair and a brown shirt is building a gingerbread house.",
+        "input_2": "The girl has blonde hair.",
+        "output": "contradiction",
+        "idx": 260
+    },
+    {
+        "input_1": "Five adults are sitting on stone steps.",
+        "input_2": "There are five grownups sitting on stone steps.",
+        "output": "entailment",
+        "idx": 261
+    },
+    {
+        "input_1": "Two men sleeping on a park bench, slumped over each other.",
+        "input_2": "Two men are sleeping.",
+        "output": "entailment",
+        "idx": 262
+    },
+    {
+        "input_1": "A person dressed in all black throwing a ball down a bowling alley.",
+        "input_2": "A person is bowling in a tournament.",
+        "output": "neutral",
+        "idx": 263
+    },
+    {
+        "input_1": "A young boy and his dog play at the edge of a public beach.",
+        "input_2": "the pig eats cows",
+        "output": "contradiction",
+        "idx": 264
+    },
+    {
+        "input_1": "A baby crying about getting their diaper changed.",
+        "input_2": "the baby is tired",
+        "output": "neutral",
+        "idx": 265
+    },
+    {
+        "input_1": "Two construction workers sitting around a hole with a third construction worker in it.",
+        "input_2": "Men are building a skyscraper.",
+        "output": "contradiction",
+        "idx": 266
+    },
+    {
+        "input_1": "Two young boys in swimming trunks are in the water looking at each other.",
+        "input_2": "The girls look at the pant suit",
+        "output": "contradiction",
+        "idx": 267
+    },
+    {
+        "input_1": "A man and a woman wearing costume glasses (with attached eyebrows, nose, and moustache) and holding cigars.",
+        "input_2": "The people are blowing smoke out of their mouths.",
+        "output": "neutral",
+        "idx": 268
+    },
+    {
+        "input_1": "People working together to build a shed.",
+        "input_2": "people are building",
+        "output": "entailment",
+        "idx": 269
+    },
+    {
+        "input_1": "One man is shirtless while the other two men work on construction",
+        "input_2": "Three men are outdoors.",
+        "output": "neutral",
+        "idx": 270
+    },
+    {
+        "input_1": "A man in a staff shirt break-dancing.",
+        "input_2": "A man is moving around.",
+        "output": "entailment",
+        "idx": 271
+    },
+    {
+        "input_1": "Two men boxing a ring while one boxer is hitting the other.",
+        "input_2": "They are in a boxing match.",
+        "output": "entailment",
+        "idx": 272
+    },
+    {
+        "input_1": "Three Little boys hold hands and jump into a pool together.",
+        "input_2": "The little boys are jumping.",
+        "output": "entailment",
+        "idx": 273
+    },
+    {
+        "input_1": "A teenage is on a surfboard.",
+        "input_2": "a teanager stile a surfboard",
+        "output": "entailment",
+        "idx": 274
+    },
+    {
+        "input_1": "A young woman and a young man are talking with a group of other people around.",
+        "input_2": "A group of people talking to each other.",
+        "output": "entailment",
+        "idx": 275
+    },
+    {
+        "input_1": "A float depicting religious imagery.",
+        "input_2": "A float in a parade.",
+        "output": "neutral",
+        "idx": 276
+    },
+    {
+        "input_1": "A bride adjust her husbands flower on his coat as she holds her own bouquet of flowers.",
+        "input_2": "The bride and groom are posing for a cute photograph.",
+        "output": "neutral",
+        "idx": 277
+    },
+    {
+        "input_1": "A man in a straw hat and another man in a striped shirt who are both drinking from cups and making funny faces.",
+        "input_2": "The men do not have anything to drink.",
+        "output": "contradiction",
+        "idx": 278
+    },
+    {
+        "input_1": "A man on a bicycle stops for a rest with his leashed dogs.",
+        "input_2": "The man has three dogs with him.",
+        "output": "neutral",
+        "idx": 279
+    },
+    {
+        "input_1": "A woman with a crescent tattoo on her shoulder is painting an image of a face onto a wall.",
+        "input_2": "A woman tattoos someone.",
+        "output": "contradiction",
+        "idx": 280
+    },
+    {
+        "input_1": "A man and a woman are walking in the middle of a street.",
+        "input_2": "People are running down the street.",
+        "output": "contradiction",
+        "idx": 281
+    },
+    {
+        "input_1": "4 people are lying down stacked on top of one another on a white sheet placed on the ground.",
+        "input_2": "4 people are together with a white sheet.",
+        "output": "entailment",
+        "idx": 282
+    },
+    {
+        "input_1": "Man laying on a platform outside on some rocks.",
+        "input_2": "Man lays on something.",
+        "output": "entailment",
+        "idx": 283
+    },
+    {
+        "input_1": "A young boy in a green shirt and blue pants is playing with a blue toy train on a wooden track.",
+        "input_2": "A young boy is driving a pedal car on the sidewalk.",
+        "output": "contradiction",
+        "idx": 284
+    },
+    {
+        "input_1": "A woman wearing a yellow and white outfit is exiting the vehicle while using city transportation.",
+        "input_2": "A woman dressed in white pants and a yellow blouse exits the large city bus.",
+        "output": "neutral",
+        "idx": 285
+    },
+    {
+        "input_1": "The little dog walking on the grass has a red bow in its hair.",
+        "input_2": "The dog is wearing a dress.",
+        "output": "contradiction",
+        "idx": 286
+    },
+    {
+        "input_1": "A man snowboards.",
+        "input_2": "A man is drinking coffee at the cafe.",
+        "output": "contradiction",
+        "idx": 287
+    },
+    {
+        "input_1": "A woman walking, smiling and holding a shopping bag.",
+        "input_2": "The women came back from a shopping mall.",
+        "output": "neutral",
+        "idx": 288
+    },
+    {
+        "input_1": "Three women and one man are sitting on a ledge facing away towards a large window.",
+        "input_2": "Some people are sitting on a ledge.",
+        "output": "entailment",
+        "idx": 289
+    },
+    {
+        "input_1": "Three people wearing black chatting on a street corner.",
+        "input_2": "Five guys are eating burgers on a street corner.",
+        "output": "contradiction",
+        "idx": 290
+    },
+    {
+        "input_1": "An Asian man stands behind a makeshift storefront with a handmade yellow poster advertising watch repair.",
+        "input_2": "There is a person and a sign.",
+        "output": "entailment",
+        "idx": 291
+    },
+    {
+        "input_1": "Woman dressed in red holding two fans, one red and one black.",
+        "input_2": "There is a woman dressed in red that is warm and fanning herself",
+        "output": "neutral",
+        "idx": 292
+    },
+    {
+        "input_1": "A brown dog carries a long stick on the green grass.",
+        "input_2": "A dog carries a stick across the grass.",
+        "output": "entailment",
+        "idx": 293
+    },
+    {
+        "input_1": "A group of people look over ledge.",
+        "input_2": "The group of people are near the edge of the ledge.",
+        "output": "entailment",
+        "idx": 294
+    },
+    {
+        "input_1": "A group of females are sitting down on a bench.",
+        "input_2": "There are at least 2 females.",
+        "output": "entailment",
+        "idx": 295
+    },
+    {
+        "input_1": "A girl in a pink tank top and her boyfriend sitting on stone steps.",
+        "input_2": "Some people are sitting on stone steps talking.",
+        "output": "neutral",
+        "idx": 296
+    },
+    {
+        "input_1": "Two young boys in swimming trunks are in the water looking at each other.",
+        "input_2": "The brothers look at each other",
+        "output": "neutral",
+        "idx": 297
+    },
+    {
+        "input_1": "A girl wearing a teal shirt smiles while holding a piece of paper, with the other side held by someone standing off-camera.",
+        "input_2": "A girl holds a kitten.",
+        "output": "contradiction",
+        "idx": 298
+    },
+    {
+        "input_1": "A man is sitting beside a bunch of material while sewing.",
+        "input_2": "A man is sitting on a couch while sewing.",
+        "output": "neutral",
+        "idx": 299
+    },
+    {
+        "input_1": "A man wearing black pants and jacket is on a blue scooter next to a crowd of people and a green tent.",
+        "input_2": "The crowd is cheering for the man.",
+        "output": "neutral",
+        "idx": 300
+    },
+    {
+        "input_1": "A woman in a headscarf and a boy wearing blue look to the right while sitting against a wall.",
+        "input_2": "They are outside on a beautiful day",
+        "output": "neutral",
+        "idx": 301
+    },
+    {
+        "input_1": "The little blond-haired child is walking up the slope.",
+        "input_2": "A child is walking.",
+        "output": "entailment",
+        "idx": 302
+    },
+    {
+        "input_1": "A man holds a sign outside a hotel that reads \"Ok Ok Ok, I need money for beer, pot and a hooker.\"",
+        "input_2": "The man is appealing to morality.",
+        "output": "contradiction",
+        "idx": 303
+    },
+    {
+        "input_1": "A skier slaloms by a red flag.",
+        "input_2": "A skier took a great risk.",
+        "output": "neutral",
+        "idx": 304
+    },
+    {
+        "input_1": "A man is performing an aerial skateboard trick on a ramp with several other people behind him.",
+        "input_2": "A man is ordering a coffee from a barista at a cafe.",
+        "output": "contradiction",
+        "idx": 305
+    },
+    {
+        "input_1": "A man drags a young boy in swim trunks into the surf at what appears to be a beach in a tropical location.",
+        "input_2": "A man is baking a loaf of bread.",
+        "output": "contradiction",
+        "idx": 306
+    },
+    {
+        "input_1": "man grilling fish on barbecue",
+        "input_2": "The man is sailing a boat.",
+        "output": "contradiction",
+        "idx": 307
+    },
+    {
+        "input_1": "a cat sits alone in dry grass.",
+        "input_2": "A solitary cat.",
+        "output": "entailment",
+        "idx": 308
+    },
+    {
+        "input_1": "A man drags a young boy in swim trunks into the surf at what appears to be a beach in a tropical location.",
+        "input_2": "A man is teaching a boy how to swim.",
+        "output": "neutral",
+        "idx": 309
+    },
+    {
+        "input_1": "A forest scene graces a curving wall as someone sits to the rear of the picture where there is a break in the design.",
+        "input_2": "A person is studying graffiti on a building.",
+        "output": "contradiction",
+        "idx": 310
+    },
+    {
+        "input_1": "A man in a pink shirt is stealing an old couples bike, the possibility he is a loan shark collecting his dues are high.",
+        "input_2": "A couple is having there bike stolen.",
+        "output": "entailment",
+        "idx": 311
+    },
+    {
+        "input_1": "A female researcher videotaping a specimen.",
+        "input_2": "A women is poking a specimen with a stick.",
+        "output": "neutral",
+        "idx": 312
+    },
+    {
+        "input_1": "Four children playing at a preschool, one looking out the window, one is running, and the other two are playing with wooden blocks.",
+        "input_2": "The children at outside.",
+        "output": "contradiction",
+        "idx": 313
+    },
+    {
+        "input_1": "A boy with a concerned look it holding up two newspapers featuring a headline about murder.",
+        "input_2": "A boy is holding paper.",
+        "output": "entailment",
+        "idx": 314
+    },
+    {
+        "input_1": "A girl in a pink sundress rides a bike next to a white picket fence.",
+        "input_2": "A girl rides a bike.",
+        "output": "entailment",
+        "idx": 315
+    },
+    {
+        "input_1": "a lone motorcyclist jumping through the air in front of a large crowd.",
+        "input_2": "The person is riding a horse.",
+        "output": "contradiction",
+        "idx": 316
+    },
+    {
+        "input_1": "A young woman wearing a black shirt and black shorts jumps in the air at the beach.",
+        "input_2": "A women in black at the beach.",
+        "output": "entailment",
+        "idx": 317
+    },
+    {
+        "input_1": "Two women in costume, one dressed as a mermaid, the other as a fairy, are handing out brochures.",
+        "input_2": "It is Halloween.",
+        "output": "neutral",
+        "idx": 318
+    },
+    {
+        "input_1": "Friends running a race hand in hand.",
+        "input_2": "People punching each other",
+        "output": "contradiction",
+        "idx": 319
+    },
+    {
+        "input_1": "A girl all in black and white, and carrying an umbrella, walks down the street, as others watch.",
+        "input_2": "A girl out in the middle of a public area.",
+        "output": "entailment",
+        "idx": 320
+    },
+    {
+        "input_1": "A young woman with red hear and wearing a bikini top is standing with her hands together above her head, while three other people stand directly behind her with their arms in different positions, making the woman in front look as if she has many arms.",
+        "input_2": "Some people are holding hands and walking away.",
+        "output": "contradiction",
+        "idx": 321
+    },
+    {
+        "input_1": "Skier wearing red walking up a snowy hillside.",
+        "input_2": "Skier walking up the hill to the water slide.",
+        "output": "contradiction",
+        "idx": 322
+    },
+    {
+        "input_1": "A man in red and black about to strike a tennis ball.",
+        "input_2": "A man is playing golf.",
+        "output": "contradiction",
+        "idx": 323
+    },
+    {
+        "input_1": "Three people in coats stand in front of a blue building.",
+        "input_2": "People are sitting down outside.",
+        "output": "contradiction",
+        "idx": 324
+    },
+    {
+        "input_1": "A young boy wearing a red coat eats a chocolate bar.",
+        "input_2": "The boy has no clothes on.",
+        "output": "contradiction",
+        "idx": 325
+    },
+    {
+        "input_1": "Skateboarder jumps off a 5 ft cliff, performing a stunt.",
+        "input_2": "A skateboarder is doing a dangerous stunt.",
+        "output": "entailment",
+        "idx": 326
+    },
+    {
+        "input_1": "Grading and pricing fish in an open air fish market.",
+        "input_2": "A child stares at a fish tank as guppies and goldfish swim by.",
+        "output": "contradiction",
+        "idx": 327
+    },
+    {
+        "input_1": "A man prepares to enter the red building.",
+        "input_2": "The man prepared to enter the building.",
+        "output": "entailment",
+        "idx": 328
+    },
+    {
+        "input_1": "Male volleyball players in red attempt to score on the other team, lighter red.",
+        "input_2": "Women are rollerblading.",
+        "output": "contradiction",
+        "idx": 329
+    },
+    {
+        "input_1": "man wearing a harmonica playing the guitar and singing",
+        "input_2": "A great man making music.",
+        "output": "neutral",
+        "idx": 330
+    },
+    {
+        "input_1": "His back facing us, a young man photographs a lovely mountain lake scene under a hazy sky.",
+        "input_2": "A young woman photgraphs the ocean .",
+        "output": "contradiction",
+        "idx": 331
+    },
+    {
+        "input_1": "Two kickboxers compete in front of a live audience.",
+        "input_2": "there is a auditorium where audience are watching live kickboxing",
+        "output": "neutral",
+        "idx": 332
+    },
+    {
+        "input_1": "A woman wearing a red dress and head covering is standing outside of a building.",
+        "input_2": "A woman is in an airport.",
+        "output": "contradiction",
+        "idx": 333
+    },
+    {
+        "input_1": "A race cars muffler catches on fire.",
+        "input_2": "There is a fire",
+        "output": "entailment",
+        "idx": 334
+    },
+    {
+        "input_1": "A man with a blue shirt and red scarf on his head holds a piece of fruit in front of a wood container full of fruit while a boy bicycles behind him.",
+        "input_2": "A boy skateboards behind a man holding fruit.",
+        "output": "contradiction",
+        "idx": 335
+    },
+    {
+        "input_1": "Two guys and a woman standing and talking in a playground.",
+        "input_2": "A couple of guys in the playground are talking with the woman about kids.",
+        "output": "neutral",
+        "idx": 336
+    },
+    {
+        "input_1": "A couple sitting in white lawn chairs are smiling at the camera.",
+        "input_2": "Two people are posing for a photograph.",
+        "output": "entailment",
+        "idx": 337
+    },
+    {
+        "input_1": "A man with a black shirt, shorts and a black messenger bag, is listening to a man, sitting with black pants and a white t-shirt, playing the guitar.",
+        "input_2": "One man serenades the other man.",
+        "output": "neutral",
+        "idx": 338
+    },
+    {
+        "input_1": "A dog begins to climb a brick staircase near plants.",
+        "input_2": "A dog is going up the stairs.",
+        "output": "entailment",
+        "idx": 339
+    },
+    {
+        "input_1": "A female figure skater in costume is executing a routine.",
+        "input_2": "A skater is on the ice.",
+        "output": "entailment",
+        "idx": 340
+    },
+    {
+        "input_1": "A woman is holding a baby by a window.",
+        "input_2": "There is a baby in the picture.",
+        "output": "entailment",
+        "idx": 341
+    },
+    {
+        "input_1": "A young woman tennis player dressed in black carries many tennis balls on her racket.",
+        "input_2": "A young woman tennis player have many tennis balls.",
+        "output": "entailment",
+        "idx": 342
+    },
+    {
+        "input_1": "Man on bike, with bike clothing and helmet on, having trouble maneuvering through sand from beach.",
+        "input_2": "The man is riding in a bike race.",
+        "output": "neutral",
+        "idx": 343
+    },
+    {
+        "input_1": "An Asian girl writes down something on a notepad in her lap.",
+        "input_2": "The Asian girl is dancing.",
+        "output": "contradiction",
+        "idx": 344
+    },
+    {
+        "input_1": "Seven men wearing bright orange reflective vests are looking inside the door of a red train.",
+        "input_2": "A group of men wearing business suits are ready to board the train.",
+        "output": "contradiction",
+        "idx": 345
+    },
+    {
+        "input_1": "A woman smiling as she hold two white dishes of food up, there is also a table full of food on the table.",
+        "input_2": "This woman becomes violently nauseous at the sight of food.",
+        "output": "contradiction",
+        "idx": 346
+    },
+    {
+        "input_1": "Many women shoppers walking on suburban street.",
+        "input_2": "women are outdoors",
+        "output": "entailment",
+        "idx": 347
+    },
+    {
+        "input_1": "A couple is a standing together the woman is adjusting a flower on the man's lapel and they are dressed in wedding apparel.",
+        "input_2": "People are going to a wedding.",
+        "output": "entailment",
+        "idx": 348
+    },
+    {
+        "input_1": "The baseball player is running after the ball.",
+        "input_2": "The player is going home.",
+        "output": "contradiction",
+        "idx": 349
+    },
+    {
+        "input_1": "Two men wrestle on the floor in front of an group of young men.",
+        "input_2": "Two men walk to their favorite casino.",
+        "output": "contradiction",
+        "idx": 350
+    },
+    {
+        "input_1": "A woman dressed as Snow White walks with other girls in costume down a street.",
+        "input_2": "A girl is taking a spelling test.",
+        "output": "contradiction",
+        "idx": 351
+    },
+    {
+        "input_1": "A man standing in a stairwell with a green strip on the wall.",
+        "input_2": "A man is running down the sidewalk.",
+        "output": "contradiction",
+        "idx": 352
+    },
+    {
+        "input_1": "Men playing football.",
+        "input_2": "Some men are playing a game.",
+        "output": "entailment",
+        "idx": 353
+    },
+    {
+        "input_1": "A woman in a bathroom, sitting on the sink, is doing her makeup.",
+        "input_2": "A woman puts on makeup.",
+        "output": "entailment",
+        "idx": 354
+    },
+    {
+        "input_1": "A man and child working on a puzzle.",
+        "input_2": "A dad is helping his daughter with a puzzle.",
+        "output": "neutral",
+        "idx": 355
+    },
+    {
+        "input_1": "Small boy wearing blue shorts sitting on bed.",
+        "input_2": "A boy is wearing shorts.",
+        "output": "entailment",
+        "idx": 356
+    },
+    {
+        "input_1": "A man wearing a water pack and shorts on an outdoor trail.",
+        "input_2": "A man is going on a hike.",
+        "output": "neutral",
+        "idx": 357
+    },
+    {
+        "input_1": "Bald man in white and black shorts, punching man with black hair, and red, orange and blue shorts.",
+        "input_2": "A man punches another man.",
+        "output": "entailment",
+        "idx": 358
+    },
+    {
+        "input_1": "A woman in a blue coat walks in front of a sign with green men walking under the two words:berlin and kathmandu",
+        "input_2": "A woman is wearing a blue coat.",
+        "output": "entailment",
+        "idx": 359
+    },
+    {
+        "input_1": "Three women are sitting on a wharf and kicking their feet in the water.",
+        "input_2": "The sisters eat ice cream as they dip their feet in the ocean.",
+        "output": "neutral",
+        "idx": 360
+    },
+    {
+        "input_1": "A group of men riding bicycles in a line.",
+        "input_2": "This people don't know how to ride a bike.",
+        "output": "contradiction",
+        "idx": 361
+    },
+    {
+        "input_1": "A man with a mustache is playing ice hockey with snow in the background.",
+        "input_2": "People are swimming in the lake.",
+        "output": "contradiction",
+        "idx": 362
+    },
+    {
+        "input_1": "A white-haired man reclines in a seat pad on a boat's deck, reading a book.",
+        "input_2": "a man reclines in a seat on a boat, reading.",
+        "output": "entailment",
+        "idx": 363
+    },
+    {
+        "input_1": "The group is working with microscopes and wearing clean white scrubs, hairnets and face masks.",
+        "input_2": "The group of delinquents are spray painting the side of a building.",
+        "output": "contradiction",
+        "idx": 364
+    },
+    {
+        "input_1": "A motor-cross rider in red splashes through mud and rain with his motorcycle.",
+        "input_2": "A motor-cross rider watch TV on his motorcycle.",
+        "output": "contradiction",
+        "idx": 365
+    },
+    {
+        "input_1": "The side of a building next to a church is painted with a brightly colored Coca-Cola sign.",
+        "input_2": "There is a Coca-Cola sign on a church next to a building.",
+        "output": "contradiction",
+        "idx": 366
+    },
+    {
+        "input_1": "A young man with a plain shirt looking down, with a band and dancing people behind him.",
+        "input_2": "A young man sleeping in a hammock.",
+        "output": "contradiction",
+        "idx": 367
+    },
+    {
+        "input_1": "A single file line of children walk in front of a building.",
+        "input_2": "Children in the open.",
+        "output": "neutral",
+        "idx": 368
+    },
+    {
+        "input_1": "a skateboarder is performing stunt on a graffiti covered skateboard ramp.",
+        "input_2": "A skateboarder likes to skateboard on ramps.",
+        "output": "neutral",
+        "idx": 369
+    },
+    {
+        "input_1": "A woman in a red and white jacket riding a bicycle.",
+        "input_2": "a woman rides a bike",
+        "output": "entailment",
+        "idx": 370
+    },
+    {
+        "input_1": "Two men on a basketball court one in white and red the other in blue, the player in white is throwing the ball in while teammates look on.",
+        "input_2": "The men are playing basketball.",
+        "output": "entailment",
+        "idx": 371
+    },
+    {
+        "input_1": "A butterfly has lit on the head of this sleeping toddler.",
+        "input_2": "A butterfly is trying to kill a sleeping toddler.",
+        "output": "contradiction",
+        "idx": 372
+    },
+    {
+        "input_1": "Two men are addressing a group of onlookers behind a row of houses.",
+        "input_2": "The men are giving an important speech.",
+        "output": "neutral",
+        "idx": 373
+    },
+    {
+        "input_1": "a person cooking on a fire while a small child watches.",
+        "input_2": "A person sews while a small child runs.",
+        "output": "contradiction",
+        "idx": 374
+    },
+    {
+        "input_1": "a large group of people standing behind a podium on the stairs of a congress building.",
+        "input_2": "Many people stand outside a building.",
+        "output": "entailment",
+        "idx": 375
+    },
+    {
+        "input_1": "A young boy showing off a orange and white striped costume with a orange and white joker hat.",
+        "input_2": "The boy is under the age of 18.",
+        "output": "neutral",
+        "idx": 376
+    },
+    {
+        "input_1": "A taxi SUV drives past an urban construction site, as a man walks down the street in the other direction.",
+        "input_2": "An SUV and a man are going in opposite directions.",
+        "output": "entailment",
+        "idx": 377
+    },
+    {
+        "input_1": "Here is a picture of a woman and her husband in their car smiling and waving.",
+        "input_2": "Here ia picture of that dog.",
+        "output": "contradiction",
+        "idx": 378
+    },
+    {
+        "input_1": "Two men are addressing a group of onlookers behind a row of houses.",
+        "input_2": "The men are selling something to onlookers.",
+        "output": "neutral",
+        "idx": 379
+    },
+    {
+        "input_1": "Women are standing outside",
+        "input_2": "There are muliple women outdoors.",
+        "output": "entailment",
+        "idx": 380
+    },
+    {
+        "input_1": "A man operates a piece of earth-moving equipment near a waterway.",
+        "input_2": "The man is eating lunch",
+        "output": "contradiction",
+        "idx": 381
+    },
+    {
+        "input_1": "a man in pants dancing in a park.",
+        "input_2": "A man is in a taxi.",
+        "output": "contradiction",
+        "idx": 382
+    },
+    {
+        "input_1": "These children are romping around on the leaf covered ground.",
+        "input_2": "Children are playing in the snow.",
+        "output": "contradiction",
+        "idx": 383
+    },
+    {
+        "input_1": "A teenage boy is standing in front of a game machine in an arcade hall ready to put a token into a coin slot.",
+        "input_2": "A teenage boy is standing in front of a television and is about to play on a xbox.",
+        "output": "contradiction",
+        "idx": 384
+    },
+    {
+        "input_1": "An older man indulging in a bottle of amber liquid.",
+        "input_2": "An old man is drinking some amber liquid from a bottle.",
+        "output": "entailment",
+        "idx": 385
+    },
+    {
+        "input_1": "A man is standing on the sidewalk, playing a guitar and singing, with a container of tips by him.",
+        "input_2": "A man is performing outside.",
+        "output": "entailment",
+        "idx": 386
+    },
+    {
+        "input_1": "A man and a woman stare at the skyline.",
+        "input_2": "The man and woman are staring into each others' eyes.",
+        "output": "contradiction",
+        "idx": 387
+    },
+    {
+        "input_1": "A man in a green safety jacket and pants stands, facing away, near bags of trash while people stand on the curb across the street.",
+        "input_2": "A tall person in a jacket",
+        "output": "neutral",
+        "idx": 388
+    },
+    {
+        "input_1": "A lady wearing a red and white polka dot swim cap is swimming in a pool.",
+        "input_2": "Woman swims in a pool.",
+        "output": "entailment",
+        "idx": 389
+    },
+    {
+        "input_1": "A boy with a basketballs glowers at the camera.",
+        "input_2": "The boy scowls",
+        "output": "entailment",
+        "idx": 390
+    },
+    {
+        "input_1": "Two men practicing a form of martial arts in a wooden-floored studio.",
+        "input_2": "Two men practicing martial arts",
+        "output": "entailment",
+        "idx": 391
+    },
+    {
+        "input_1": "A crowd gathers along the handrail of a boardwalk to watch young men leap into the air on the beach sand.",
+        "input_2": "Ten young men perform an interpretive dance at the beach.",
+        "output": "neutral",
+        "idx": 392
+    },
+    {
+        "input_1": "People standing around a busy outdoor market.",
+        "input_2": "The man is walking his dog on the sidewalk.",
+        "output": "contradiction",
+        "idx": 393
+    },
+    {
+        "input_1": "A young man wearing a bandanna is lifting weights with a barbell.",
+        "input_2": "The man is wearing a dress.",
+        "output": "contradiction",
+        "idx": 394
+    },
+    {
+        "input_1": "A girl in a purple sweater and a shoulder bag is looking to the side with a lot of people behind her.",
+        "input_2": "a girl thinks about her day",
+        "output": "neutral",
+        "idx": 395
+    },
+    {
+        "input_1": "A band of people playing brass instruments is performing outside.",
+        "input_2": "A barbershop singing group is performing at a gymnasium.",
+        "output": "contradiction",
+        "idx": 396
+    },
+    {
+        "input_1": "A man in a black jacket plays a black electric guitar and sings.",
+        "input_2": "A man is playing the drums.",
+        "output": "contradiction",
+        "idx": 397
+    },
+    {
+        "input_1": "A woman is looking into a mirror, brushing her hair.",
+        "input_2": "she is getting ready for a night out.",
+        "output": "neutral",
+        "idx": 398
+    },
+    {
+        "input_1": "An elder bearded man having a rest in a dilapidated building.",
+        "input_2": "The old man is dozing in the ancient ruin.",
+        "output": "contradiction",
+        "idx": 399
+    },
+    {
+        "input_1": "Two young girls looking at Barbie dolls.",
+        "input_2": "Two girls are watching dolls.",
+        "output": "entailment",
+        "idx": 400
+    },
+    {
+        "input_1": "A young man and young woman wearing backpacks are placing or removing an item from an old white tree snag, with other people standing or sitting in the background.",
+        "input_2": "a man and woman with backpacks",
+        "output": "entailment",
+        "idx": 401
+    },
+    {
+        "input_1": "A skateboarder in the air straddling his upside-down skateboard.",
+        "input_2": "A skateboarder is straddling his upside down skateboard and in the air.",
+        "output": "entailment",
+        "idx": 402
+    },
+    {
+        "input_1": "A middle-aged male wearing a baseball cap, a shirt inscribed orange county traders and white towel tucked under his belt and preparing a meal in hibachi style.",
+        "input_2": "The man is cooking.",
+        "output": "entailment",
+        "idx": 403
+    },
+    {
+        "input_1": "Three people are kayaking in dark waters.",
+        "input_2": "Three people are in a boat.",
+        "output": "entailment",
+        "idx": 404
+    },
+    {
+        "input_1": "A woman is standing in a very large produce section of a grocery store.",
+        "input_2": "There is a person in a store.",
+        "output": "entailment",
+        "idx": 405
+    },
+    {
+        "input_1": "A man and a woman are walking next to a flower display case and an escalator.",
+        "input_2": "Two people are walking.",
+        "output": "entailment",
+        "idx": 406
+    },
+    {
+        "input_1": "This football team wears red shirts and red helmets.",
+        "input_2": "They are playing football.",
+        "output": "entailment",
+        "idx": 407
+    },
+    {
+        "input_1": "Two elderly men and one elderly woman standing on a sidewalk staring to their left.",
+        "input_2": "Three people await the bus.",
+        "output": "neutral",
+        "idx": 408
+    },
+    {
+        "input_1": "Two kids on a boat, one with a paddle, and the other on the edge wearing a life vest.",
+        "input_2": "Two kids are boating in the Indian Ocean.",
+        "output": "neutral",
+        "idx": 409
+    },
+    {
+        "input_1": "Beautiful young dancer performing dressed in white and silver performs an acrobatic, ballet, hula-hoop, dance routine while 4 female observers look on.",
+        "input_2": "The young dancers are performing in front of an empty crowd.",
+        "output": "contradiction",
+        "idx": 410
+    },
+    {
+        "input_1": "A couch sits broken while a man sits a table behind them.",
+        "input_2": "A man is sad he broke the couch",
+        "output": "neutral",
+        "idx": 411
+    },
+    {
+        "input_1": "Seagulls are flying above the crashing waves.",
+        "input_2": "There are flying animals in this picture.",
+        "output": "entailment",
+        "idx": 412
+    },
+    {
+        "input_1": "Three different women having fun with a toy in the living-room.",
+        "input_2": "Three women playing with a toy in a home.",
+        "output": "entailment",
+        "idx": 413
+    },
+    {
+        "input_1": "Two men walking their canoe through the woods.",
+        "input_2": "a couple of men walk their canoe",
+        "output": "entailment",
+        "idx": 414
+    },
+    {
+        "input_1": "Two guys are examining the front brakes on a bike, while one guy with a wrench is working on them.",
+        "input_2": "A tall person with a wrench",
+        "output": "neutral",
+        "idx": 415
+    },
+    {
+        "input_1": "A man carries his belongings on a wheeled carrier in front of a back drop of graffiti.",
+        "input_2": "The graffiti is very colorful.",
+        "output": "neutral",
+        "idx": 416
+    },
+    {
+        "input_1": "A woman with red-hair and wearing a black tank top and short jeans shorts appears to be yelling.",
+        "input_2": "A woman with red-hair screams.",
+        "output": "entailment",
+        "idx": 417
+    },
+    {
+        "input_1": "A woman with an umbrella listens on a mobile phone on the street in front of a graffiti-tagged wall.",
+        "input_2": "A women sits at home and talks on the phone.",
+        "output": "contradiction",
+        "idx": 418
+    },
+    {
+        "input_1": "A brown dog opens his mouth to catch a piece of food.",
+        "input_2": "A dog is playing",
+        "output": "-",
+        "idx": 419
+    },
+    {
+        "input_1": "three people posing for the picture with big smiles and blood on the faces of two people",
+        "input_2": "Seven people posing for a photo dressed as baseball players.",
+        "output": "contradiction",
+        "idx": 420
+    },
+    {
+        "input_1": "One boy sitting off to the side all alone.",
+        "input_2": "A boy is playing baseball with his friends.",
+        "output": "contradiction",
+        "idx": 421
+    },
+    {
+        "input_1": "An athlete executes a judo throw while a judge watches.",
+        "input_2": "The athlete is performing a karate toss.",
+        "output": "contradiction",
+        "idx": 422
+    },
+    {
+        "input_1": "On the sidewalk, near the store's entrance, a local entertains all, by playing the accordion.",
+        "input_2": "A local is playing an accordion.",
+        "output": "entailment",
+        "idx": 423
+    },
+    {
+        "input_1": "Two women stand on a beach and perform stretches or yoga together, facing towards the water and away from the camera.",
+        "input_2": "One lady is teaching another lady how to do a downward dog pose.",
+        "output": "neutral",
+        "idx": 424
+    },
+    {
+        "input_1": "Two brown dogs with green harnesses play tug-of-war.",
+        "input_2": "There are dogs playing together",
+        "output": "entailment",
+        "idx": 425
+    },
+    {
+        "input_1": "A white dog, a brown dog, and a black dog frolicking in a grassy field.",
+        "input_2": "Several dogs are playing outdoors.",
+        "output": "entailment",
+        "idx": 426
+    },
+    {
+        "input_1": "Two men standing near a metal structure in front of a brick wall.",
+        "input_2": "Adult males stand in front of a brick wall near something made of metal.",
+        "output": "entailment",
+        "idx": 427
+    },
+    {
+        "input_1": "A man in sunglasses and shorts carrying a stick is walking.",
+        "input_2": "A man with a visual impairment is walking.",
+        "output": "neutral",
+        "idx": 428
+    },
+    {
+        "input_1": "A man in a blue plaid shirt and blue jeans, wearing a black helmet, pauses to drink water next to a large blue steel corrugated tube.",
+        "input_2": "The man is drinking liquid.",
+        "output": "entailment",
+        "idx": 429
+    },
+    {
+        "input_1": "A group of people wearing light blue shirts and dark blue pants moving around all together.",
+        "input_2": "A group of people in similar clothing are aware of each other.",
+        "output": "entailment",
+        "idx": 430
+    },
+    {
+        "input_1": "A young man sits at a workbench amidst a number of work tools including wire cutters working on what appears to be a large ornate necklace.",
+        "input_2": "The man is old.",
+        "output": "contradiction",
+        "idx": 431
+    },
+    {
+        "input_1": "A man in a white t-shirt and blue shorts is rock climbing up a sheer face",
+        "input_2": "A man is climbing Mt Everest.",
+        "output": "neutral",
+        "idx": 432
+    },
+    {
+        "input_1": "A man in a white hat and a woman in a light blue jacket have stopped on a busy street to look at something.",
+        "input_2": "The man and woman are outside.",
+        "output": "entailment",
+        "idx": 433
+    },
+    {
+        "input_1": "A man in a hat is working with golden colored flowers.",
+        "input_2": "Someone is getting flowers for a gift.",
+        "output": "neutral",
+        "idx": 434
+    },
+    {
+        "input_1": "A group of people are posing as though flung back by the shock wave of someone punching the ground.",
+        "input_2": "It is a fantasy simulation.",
+        "output": "neutral",
+        "idx": 435
+    },
+    {
+        "input_1": "An elderly woman wearing sunglasses stands and looks at something.",
+        "input_2": "Elderly woman peers at an object.",
+        "output": "entailment",
+        "idx": 436
+    },
+    {
+        "input_1": "a girl in a pumpkin dress sitting at a table.",
+        "input_2": "There is a girl in a pumpkin dress sitting at a table.",
+        "output": "entailment",
+        "idx": 437
+    },
+    {
+        "input_1": "There are a bunch of soccer players standing around the soccer field in the middle of a game.",
+        "input_2": "The soccer players are not running at the moment.",
+        "output": "entailment",
+        "idx": 438
+    },
+    {
+        "input_1": "A swimmer is getting out of a pool where people are swimming laps and is having her picture taken as a crowd looks on from the edge of the pool.",
+        "input_2": "A swimmer is drying off",
+        "output": "neutral",
+        "idx": 439
+    },
+    {
+        "input_1": "A man with a black suit and a woman in a white dress holding red flowers and her marriage certificate got married.",
+        "input_2": "A man is sleeping in bed with his wife cooking upstairs.",
+        "output": "contradiction",
+        "idx": 440
+    },
+    {
+        "input_1": "Two dogs, one lying down, play in a yard.",
+        "input_2": "They are going to run away together.",
+        "output": "contradiction",
+        "idx": 441
+    },
+    {
+        "input_1": "A person in a blue shirt and tan shorts getting ready to roll a bowling ball down the alley.",
+        "input_2": "The person is enjoying an evening bowling.",
+        "output": "neutral",
+        "idx": 442
+    },
+    {
+        "input_1": "A bald man in a white t-shirt is standing at a bar next to a white leashed dog.",
+        "input_2": "the man is naked at work",
+        "output": "contradiction",
+        "idx": 443
+    },
+    {
+        "input_1": "A man cutting metal with a tool.",
+        "input_2": "A man is cutting metal.",
+        "output": "entailment",
+        "idx": 444
+    },
+    {
+        "input_1": "Two orthodox Jews, one male, one female, are shown in traditional dress in a sidewalk scene.",
+        "input_2": "Two jews are shown in a sidewalk scene.",
+        "output": "entailment",
+        "idx": 445
+    },
+    {
+        "input_1": "Two indian men are dancing in suits with an indian woman in a colorful dress behind them by a brick wall.",
+        "input_2": "The two indian men dancing in suits are friends.",
+        "output": "neutral",
+        "idx": 446
+    },
+    {
+        "input_1": "A woman on a racing horse.",
+        "input_2": "The woman is at the Kentucky Derby.",
+        "output": "neutral",
+        "idx": 447
+    },
+    {
+        "input_1": "Red objects fall on men standing behind a red wall.",
+        "input_2": "The objects are balls.",
+        "output": "neutral",
+        "idx": 448
+    },
+    {
+        "input_1": "A man punting a football as fans from the opposing team watch in the background",
+        "input_2": "A man catches a football",
+        "output": "contradiction",
+        "idx": 449
+    },
+    {
+        "input_1": "An old man looks at an unknown contraption from MakerBot Industries.",
+        "input_2": "A gadget is being examined.",
+        "output": "entailment",
+        "idx": 450
+    },
+    {
+        "input_1": "Male and female performers stand on stage holding microphones up to their lips and raising their hands in the sky.",
+        "input_2": "Male and female performers stand on stage.",
+        "output": "entailment",
+        "idx": 451
+    },
+    {
+        "input_1": "Two people standing in front of a waterfall scenery.",
+        "input_2": "Two people are standing in front of an train.",
+        "output": "contradiction",
+        "idx": 452
+    },
+    {
+        "input_1": "Two women looking at the camera and a man looking away.",
+        "input_2": "A group of people hugging.",
+        "output": "neutral",
+        "idx": 453
+    },
+    {
+        "input_1": "A person performs a snowboarding trick on a rail as a man crouches down to get a better view.",
+        "input_2": "The man tries to learn how the person performs the snowboarding trick.",
+        "output": "neutral",
+        "idx": 454
+    },
+    {
+        "input_1": "A skateboarder does a trick at a skate park.",
+        "input_2": "A skateboarder is performing a trick.",
+        "output": "entailment",
+        "idx": 455
+    },
+    {
+        "input_1": "A woman with dark hair wearing a dark shirt, jeans, and glasses is talking into a microphone.",
+        "input_2": "A woman in a pink bathing suit dives into the pool.",
+        "output": "contradiction",
+        "idx": 456
+    },
+    {
+        "input_1": "A woman carrying a shopping bag in front of Fisher's Popcorn.",
+        "input_2": "a woman is on her way to work",
+        "output": "neutral",
+        "idx": 457
+    },
+    {
+        "input_1": "A woman wearing a red tank top is preparing food while a man and a woman sit on the other side of the kitchen counter watching her.",
+        "input_2": "A woman prepares food while two people sit on the other side",
+        "output": "entailment",
+        "idx": 458
+    },
+    {
+        "input_1": "An older woman wearing blue and a rag on her head holding a young child.",
+        "input_2": "The older woman is carrying a heavy boulder.",
+        "output": "contradiction",
+        "idx": 459
+    },
+    {
+        "input_1": "Several people prepare their stalls that consist of fish, vegetables and fruits for the public eye.",
+        "input_2": "a bunch of people wait in stalls",
+        "output": "neutral",
+        "idx": 460
+    },
+    {
+        "input_1": "A man and woman in a dark room with lights behind them holding drinks while a bright green light shines in their faces.",
+        "input_2": "Two men are in a light room",
+        "output": "contradiction",
+        "idx": 461
+    },
+    {
+        "input_1": "A skateboarder is performing a trick in the air.",
+        "input_2": "The skateboarder has experience riding a skateboard",
+        "output": "entailment",
+        "idx": 462
+    },
+    {
+        "input_1": "Skateboarder jumps a gap while being photographed",
+        "input_2": "a skateboarder does tricks while being photographed",
+        "output": "entailment",
+        "idx": 463
+    },
+    {
+        "input_1": "There is a teen boy and a younger boy with the same shirts on in a room full of people.",
+        "input_2": "People are on a class trip.",
+        "output": "neutral",
+        "idx": 464
+    },
+    {
+        "input_1": "A group of people are taking a fun train ride.",
+        "input_2": "People are on a bus.",
+        "output": "contradiction",
+        "idx": 465
+    },
+    {
+        "input_1": "A woman in a blue jacket is drinking tea from a cup.",
+        "input_2": "A woman is eating a donut.",
+        "output": "contradiction",
+        "idx": 466
+    },
+    {
+        "input_1": "Two children standing in the grass being sprayed by a hose.",
+        "input_2": "Children are playing tag in the grass",
+        "output": "contradiction",
+        "idx": 467
+    },
+    {
+        "input_1": "A man is cooking pies in the oven.",
+        "input_2": "The oven has pies in it.",
+        "output": "entailment",
+        "idx": 468
+    },
+    {
+        "input_1": "A child does a handstand in a pool.",
+        "input_2": "A child is playing in a pool.",
+        "output": "entailment",
+        "idx": 469
+    },
+    {
+        "input_1": "A young girl wearing a blue, flowered, spaghetti strap dress is eating marshmallows on a stick while sitting in a bucket of water.",
+        "input_2": "a silly girl plays near a water bucket",
+        "output": "neutral",
+        "idx": 470
+    },
+    {
+        "input_1": "This man is trying to make his wife laugh by blowing bubbles in the bathtub.",
+        "input_2": "There is a man outside, hanging up laundry.",
+        "output": "contradiction",
+        "idx": 471
+    },
+    {
+        "input_1": "A football player in a blue \"Rams\" jersey runs with a football on a field, as another player in a white jersey falls in an attempt to tackle him.",
+        "input_2": "The football players are walking slowly",
+        "output": "contradiction",
+        "idx": 472
+    },
+    {
+        "input_1": "A man is holding a pile of newspapers in a lobby, and a woman next to him has taken one of the newspapers and is smiling.",
+        "input_2": "He is selling the newspapers in a hotel lobby.",
+        "output": "neutral",
+        "idx": 473
+    },
+    {
+        "input_1": "Three hikers are hiking in a mountain filled with trees and snow.",
+        "input_2": "PEOPL;E WERE ON GRASS",
+        "output": "-",
+        "idx": 474
+    },
+    {
+        "input_1": "A person in a red hat with a huge backpack going hiking.",
+        "input_2": "The person might be going on an adventure.",
+        "output": "neutral",
+        "idx": 475
+    },
+    {
+        "input_1": "A girl in black is sitting on the ledge of a balcony, and she is speaking with a group of chefs.",
+        "input_2": "A girl in black jumping from the ledge of a balcony, ignoring the group of chefs yelling out to her.",
+        "output": "contradiction",
+        "idx": 476
+    },
+    {
+        "input_1": "Man in gray zippered jacket and red shirt pets a brown dog and holds a young girl in pink shirt, while a woman next to him holds an infant boy and a gray dog.",
+        "input_2": "A man holds a small child while petting his dog with his girlfriend is holding her son and her dog.",
+        "output": "entailment",
+        "idx": 477
+    },
+    {
+        "input_1": "A man in a park holding a ball.",
+        "input_2": "A man is outdoors.",
+        "output": "entailment",
+        "idx": 478
+    },
+    {
+        "input_1": "A girl in a purple sweatshirt bends over backwards.",
+        "input_2": "A girl bends over backwards to do her gymnastics routine.",
+        "output": "neutral",
+        "idx": 479
+    },
+    {
+        "input_1": "Groups of people are sitting on a curb and the others are walking, a young woman is pretending to be a stone statue of an angel and a woman has a little boy on her shoulders.",
+        "input_2": "groups of people are standing around chatting",
+        "output": "contradiction",
+        "idx": 480
+    },
+    {
+        "input_1": "A tan bird stands on a ledge about to eat something.",
+        "input_2": "A black bird stands on a ledge about to eat something.",
+        "output": "contradiction",
+        "idx": 481
+    },
+    {
+        "input_1": "The little girl in the sand is handing a ball to one of the two black dogs.",
+        "input_2": "a girl is handing a ball to her pet dog",
+        "output": "neutral",
+        "idx": 482
+    },
+    {
+        "input_1": "Black dog with white puppies laying on the floor.",
+        "input_2": "A black dog surrounded by puppies.",
+        "output": "entailment",
+        "idx": 483
+    },
+    {
+        "input_1": "A man in a green shirt and black hat is smoothing concrete.",
+        "input_2": "He is a construction worker for the city.",
+        "output": "neutral",
+        "idx": 484
+    },
+    {
+        "input_1": "Two boys in a field kicking a soccer ball.",
+        "input_2": "Two girls are throwing a baseball.",
+        "output": "contradiction",
+        "idx": 485
+    },
+    {
+        "input_1": "A man wearing all white is using an orange chainsaw to cut down a thick tree next to his house.",
+        "input_2": "A man is using an ax to chop wood outside of his home.",
+        "output": "contradiction",
+        "idx": 486
+    },
+    {
+        "input_1": "Man in a military outfit handing something in a plastic bag to a group of children outside near a brown building.",
+        "input_2": "A man in civilian clothes hands a bag to a group of children.",
+        "output": "contradiction",
+        "idx": 487
+    },
+    {
+        "input_1": "A white-haired man in a white shirt looks at information in an orange-red binder.",
+        "input_2": "A man is a secret agent orange peeler.",
+        "output": "contradiction",
+        "idx": 488
+    },
+    {
+        "input_1": "man smiling outside in blue shirt.",
+        "input_2": "The man with the shirt is smiling.",
+        "output": "entailment",
+        "idx": 489
+    },
+    {
+        "input_1": "Two men are on a cherry picker proceeding to perform work at a construction site.",
+        "input_2": "Two men driving in a truck down an empty highway.",
+        "output": "contradiction",
+        "idx": 490
+    },
+    {
+        "input_1": "An man wearing headphones observes an older man performing his guitar on a public street bench.",
+        "input_2": "The two men are near a public street bench outside",
+        "output": "entailment",
+        "idx": 491
+    },
+    {
+        "input_1": "A man curls up in an orange blanket on the street.",
+        "input_2": "A man is folding his blanket inside.",
+        "output": "contradiction",
+        "idx": 492
+    },
+    {
+        "input_1": "A man and woman are talking in a party atmosphere with a crowd and purple and blue lights behind them.",
+        "input_2": "A man flirts with a girl at a party and hopes to take her home.",
+        "output": "neutral",
+        "idx": 493
+    },
+    {
+        "input_1": "A man is performing tricks with his superbike.",
+        "input_2": "A bike is in the garage.",
+        "output": "contradiction",
+        "idx": 494
+    },
+    {
+        "input_1": "A lone man sitting in a large decorated area.",
+        "input_2": "A woman is fixing her makeup.",
+        "output": "contradiction",
+        "idx": 495
+    },
+    {
+        "input_1": "A person is climbing a cliff wall that overlooks water.",
+        "input_2": "A man is climbing.",
+        "output": "neutral",
+        "idx": 496
+    },
+    {
+        "input_1": "Cyclist participating in an organized event cross a large suspension bridge and two women riders have stopped to pose for a picture.",
+        "input_2": "some cyclists cross a bridge",
+        "output": "entailment",
+        "idx": 497
+    },
+    {
+        "input_1": "Two dogs playing on snow covered ground",
+        "input_2": "Dogs are playing on snow.",
+        "output": "entailment",
+        "idx": 498
+    },
+    {
+        "input_1": "There are three ladies dress in blue stand cheering.",
+        "input_2": "The women are making pizza.",
+        "output": "contradiction",
+        "idx": 499
+    }
+]

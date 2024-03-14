@@ -1,0 +1,3002 @@
+[
+    {
+        "idx": 0,
+        "input": "At the scene of yet another young man's death. This happens too often in our city. It's a crisis that we should all be concerned about. ",
+        "answer": "all of us",
+        "output": "who should be concerned?"
+    },
+    {
+        "idx": 1,
+        "input": "Kuzma is gonna look nice in that Spurs jersey in a couple years \u2014 Isaac \u2603\ufe0f ",
+        "answer": "kuzma",
+        "output": "who is looking nice in the jersey?"
+    },
+    {
+        "idx": 2,
+        "input": "Just tried watching Saturday Night Live - unwatchable! Totally biased, not funny and the Baldwin impersonation just can't get any worse. Sad\u2014 Donald J. Trump ",
+        "answer": "baldwin",
+        "output": "who impersonated donald trump on saturday night live?"
+    },
+    {
+        "idx": 3,
+        "input": "Just had lunch where Eusebio used to come all the time. Adega da Tia Matilde. This places has so many stories... Duarte Mendon\u00e7a ",
+        "answer": "adega de tia matilde",
+        "output": "what is the name of the location?"
+    },
+    {
+        "idx": 4,
+        "input": "Water polo? How they get the horses in the water?! I kid I kid! Olympic humor!! Lmao having so much fun!!\u2014 Leslie Jones ",
+        "answer": "leslie jones",
+        "output": "who is having so much fun?"
+    },
+    {
+        "idx": 5,
+        "input": "Tonight, black protester & I both ignore barricade & walk in street. 4 cops pounce on him; I'm told to get in the pen. ",
+        "answer": "four",
+        "output": "how many police pounce on the black protestor"
+    },
+    {
+        "idx": 6,
+        "input": "Thank you for all the support! I've been through this before and I'll get through it again. I'll be back better than before. ",
+        "answer": "thank you",
+        "output": "what is the dj's response to the support?"
+    },
+    {
+        "idx": 7,
+        "input": "I am pleased to inform you that I have just granted a full Pardon to 85 year old American patriot Sheriff Joe Arpaio. He kept Arizona safe!\u2014 Donald J. Trump ",
+        "answer": "sheriff joe arpaio",
+        "output": "who did donald j. trump pardoned?"
+    },
+    {
+        "idx": 8,
+        "input": "This ",
+        "answer": "#snoefail",
+        "output": "what doesn't bode well for civilain cooperation?"
+    },
+    {
+        "idx": 9,
+        "input": "While studio likes they also like other actors like Bradley Cooper and Chris Hemsworth aka the usual suspects.\u2014 Justin Kroll ",
+        "answer": "bradley cooper and chris helmsworth",
+        "output": "who are the usual suspects?"
+    },
+    {
+        "idx": 10,
+        "input": "I settled the Trump University lawsuit for a small fraction of the potential award because as President I have to focus on our country.\u2014 Donald J. Trump ",
+        "answer": "our country",
+        "output": "who did trump say he needs to focus on?"
+    },
+    {
+        "idx": 11,
+        "input": "i swear on my dogs, i wanted the issue to come out and just be. no press. no sensational headlines. no leaks. oh, well...\u2014 BRIAN MICHAEL BENDIS ",
+        "answer": "the issue to come out and just be",
+        "output": "what did he want to happen?"
+    },
+    {
+        "idx": 12,
+        "input": "We don't put up with harassment in schools, at work, or at home, so why should we on the street? Shoshana Roberts ",
+        "answer": "on the street",
+        "output": "where should we no put up with harassment?"
+    },
+    {
+        "idx": 13,
+        "input": "I recognize that this is not my first lapse in judgment, and I am extremely disappointed with myself.\u2014 Michael Phelps ",
+        "answer": "he feels let down",
+        "output": "how does michael phelps feel about himself?"
+    },
+    {
+        "idx": 14,
+        "input": "\"What we have is a pattern of contacts w the Russian...secret and then conceleaed...could be perjury\" @SenBlumenthal OutFrontCNN ",
+        "answer": "perjury",
+        "output": "what could secret and concelead be?"
+    },
+    {
+        "idx": 15,
+        "input": "Big news... Barbra has joined @instagram! See her first post here: Barbra Streisand ",
+        "answer": "barbra",
+        "output": "who announced that she joined instagram?"
+    },
+    {
+        "idx": 16,
+        "input": "I grew up thinking I was Russian only to find recently that I've been Ukrainian all along. Never too late to change.\u2014 David Duchovny ",
+        "answer": "david duchovny",
+        "output": "who grew up thinking they were russian"
+    },
+    {
+        "idx": 17,
+        "input": "Shoutout to @rihanna for finally showing the makeup industry what inclusive means \ud83d\ude4c\ud83c\udffb\ud83d\ude4c\ud83c\udffc\ud83d\ude4c\ud83c\udffd\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udfff ",
+        "answer": "rihanna",
+        "output": "who is being praised?"
+    },
+    {
+        "idx": 18,
+        "input": "Corrected Link: Unarmed Missouri teen killed by officer after 'physical confrontation' NBC News ",
+        "answer": "physical confrontation",
+        "output": "what kind of confrontation resulted in the death?"
+    },
+    {
+        "idx": 19,
+        "input": "Choo chooooooo all aboard the Ryan Lochte trainwreck. \ud83d\ude82 ",
+        "answer": "i dont know who you are",
+        "output": "tell me if you think this was a good idea"
+    },
+    {
+        "idx": 20,
+        "input": "I just watched 2 @delta employees refuse to allow a nursing mother to bring her breast pump onboard because it was an additional carry-on.\u2014 Peggy Flanagan ",
+        "answer": "a breast pump",
+        "output": "what did the delta employees not allow a woman to bring onboard?"
+    },
+    {
+        "idx": 21,
+        "input": "Rather than do a full series, SyFy should do a TV movie or miniseries version of ",
+        "answer": "tv movie or miniseries version of #krypton first",
+        "output": "what should syfy do rather than full series?"
+    },
+    {
+        "idx": 22,
+        "input": "Wild rushing streams, clean enough to drink, melted glaciers pouring across the green summer landscapes. ",
+        "answer": "andrew evans",
+        "output": "who is tweeting about glaciers melting and creating drinking water?"
+    },
+    {
+        "idx": 23,
+        "input": "When you need to save every shot to make it to the weekend \u2026 ",
+        "answer": "make it to the weekend",
+        "output": "what do you need to save every shot to do?"
+    },
+    {
+        "idx": 24,
+        "input": "Thanks for all the consoling words.I'm taking my 'punishment' like a man. ",
+        "answer": "like a man",
+        "output": "how did piers say he would take his punishment?"
+    },
+    {
+        "idx": 25,
+        "input": "I'm pretty sure the singing frogs spit on us \ud83d\udc38 ",
+        "answer": "singing frogs",
+        "output": "who did carly say spit on them?"
+    },
+    {
+        "idx": 26,
+        "input": "Kurt Helin @basketballtalkReport: 76ers interested in Jrue Holiday in free agency , 5:01:08 PM ",
+        "answer": "free agency",
+        "output": "what kind of agency is mentioned?"
+    },
+    {
+        "idx": 27,
+        "input": "time to take a stand. the envelope pl... i'm going against the odds. Romney wins w/ around 300. @cnnopinion. the silent majority roars.\u2014 Alex Castellanos ",
+        "answer": "that romney will win 300.",
+        "output": "what is alex castellanos predicting?"
+    },
+    {
+        "idx": 28,
+        "input": "Blacked out in ",
+        "answer": "cnn's occupy central coverage",
+        "output": "what is said to be shown on the left tv screen?"
+    },
+    {
+        "idx": 29,
+        "input": "Any doctor returning from treating Ebola patients overseas might oughtta wanna be quarantined out of caution, no? Bill Green ",
+        "answer": "ebola.",
+        "output": "what is something doctors are treating around the world?"
+    },
+    {
+        "idx": 30,
+        "input": "Only the brilliant @Lin_Manuel could pull off \"Tim Kaine in the membrane\" ",
+        "answer": "a twitter user",
+        "output": "who is lin manuel?"
+    },
+    {
+        "idx": 31,
+        "input": "\"And you know better nigga I know you do. But you gotta do better, boy, you owe it to Blue.\" Jay-Z dragging Jay Z. Trudy ",
+        "answer": "himself",
+        "output": "who is jay-z talking to?"
+    },
+    {
+        "idx": 32,
+        "input": "All the people calling for Chris Evans and Jeremy Renner to apologize to Black Widow. You do know she's not real right? Right?\u2014 kim ",
+        "answer": "black widow",
+        "output": "chris evans and jeremy renner are being asked to appologize to who?"
+    },
+    {
+        "idx": 33,
+        "input": "OK seriously though, are you challenging me to drive an @Uber? Benny ",
+        "answer": "uber",
+        "output": "what company is @bennyjohnson being sarcastic about driving for?"
+    },
+    {
+        "idx": 34,
+        "input": "You don't have to search hard to figure out why ",
+        "answer": "glasses that are vr",
+        "output": "what is google glass?"
+    },
+    {
+        "idx": 35,
+        "input": "Congrats to all winners, including @beck. Much respect. That selfie was taken before Album of the Year was announced.\u2014 John Legend ",
+        "answer": "before album of the year was announced",
+        "output": "when was the selfie taken"
+    },
+    {
+        "idx": 36,
+        "input": "WATCH: \"JEB EXCLAMATION POINT!\"Jeb Bush, now driving around Selina Meyer. ",
+        "answer": "the emmys.",
+        "output": "what event did this take place?"
+    },
+    {
+        "idx": 37,
+        "input": "Nothing says \"I'm a crime fighter who won't kill people\" like a tank covered in more gatling guns than an Expendables movie. ",
+        "answer": "gatling guns",
+        "output": "what was the tank covered with ?"
+    },
+    {
+        "idx": 38,
+        "input": "RIP Leonard Nimoy. So many of us at NASA were inspired by Star Trek. Boldly go... c NASA ",
+        "answer": "leonard nimoy.",
+        "output": "who is being mourned by nasa?"
+    },
+    {
+        "idx": 39,
+        "input": "We have a MASSIVE trade deficit with Germany, plus they pay FAR LESS than they should on NATO & military. Very bad for U.S. This will change\u2014 Donald J. Trump ",
+        "answer": "very",
+        "output": "how bad is the deficit for u.s.?"
+    },
+    {
+        "idx": 40,
+        "input": "Kurt Helin @basketballtalkWatch Raptors PG Kyle Lowry throw a full-court alley oop to Pascal Siakam , 11:47:04 PM ",
+        "answer": "pascal siakam",
+        "output": "who did kyle lowry throw a full-court alley oop to?"
+    },
+    {
+        "idx": 41,
+        "input": "Watching the first pitch while getting a met tattoo\u2014 Josh Davis ",
+        "answer": "the first",
+        "output": "which pitch did he mention?"
+    },
+    {
+        "idx": 42,
+        "input": "So with all of the Obama tough talk on Russia and the Ukraine, they have already taken Crimea and continue to push. That's what I said!\u2014 Donald J. Trump ",
+        "answer": "obama",
+        "output": "who is talking tough about russia and ukraine?"
+    },
+    {
+        "idx": 43,
+        "input": "Union federations appalled by gunning down of journalist Oles Buzyna in Kiev - C @EFJEurope @IFJGlobal ",
+        "answer": "journalist",
+        "output": "what was the occupation of oles buzyna?"
+    },
+    {
+        "idx": 44,
+        "input": "Incredible!! @Blaney puts the No. 21 team back on top! NASCAR ",
+        "answer": "blaney",
+        "output": "who is the man that put the team back on top?"
+    },
+    {
+        "idx": 45,
+        "input": "Excited to take ",
+        "answer": "the kid's choice awards",
+        "output": "where is mariah carey taking her kids?"
+    },
+    {
+        "idx": 46,
+        "input": "The potato sack race is about to start. @BigIdahoPotato is getting some practice runs in. Head to their tent to race! Potato Stock ",
+        "answer": "potato sack race",
+        "output": "what is about to start"
+    },
+    {
+        "idx": 47,
+        "input": "Try new @jacknicklaus ",
+        "answer": "ice cream.",
+        "output": "what is the product?"
+    },
+    {
+        "idx": 48,
+        "input": "Didn't realize Kaine called Trump un payaso ",
+        "answer": "his college days.",
+        "output": "when did it remind adrian carrasquillo of?"
+    },
+    {
+        "idx": 49,
+        "input": "Jimmy & @KevinHart4real visit a haunted house! ",
+        "answer": "fallontonight",
+        "output": "who tweeted themselves while hash tagging themselves at the same time?"
+    },
+    {
+        "idx": 50,
+        "input": "Any information you have could aid investigators in this case.\u2014 Orlando Police ",
+        "answer": "information",
+        "output": "what was being requested to help with a case?"
+    },
+    {
+        "idx": 51,
+        "input": "Girl Joy!! Avri Roel Downey, 7lbs, 20 in., 3:22 a.m. 11-4-14... Pretty like mama, and dimples like my uncle Jim!\u2014 Robert Downey Jr ",
+        "answer": "7 pounds.",
+        "output": "how much does avri roel downey weigh?"
+    },
+    {
+        "idx": 52,
+        "input": ".@SAGawards thank you for honoring the cast of @OITNB & myself w/your nomination. It's a dream, everyday, working w/this group. ",
+        "answer": "oitnb and uzo aduba",
+        "output": "who did the sagawards nominate?"
+    },
+    {
+        "idx": 53,
+        "input": "Cassini showed us the beauty of Saturn. It revealed the best in us. Now it's up to us to keep exploring. CassiniSaturn ",
+        "answer": "saturn",
+        "output": "what did cassini show us the beauty of?"
+    },
+    {
+        "idx": 54,
+        "input": "Immigrants from countries across the globe - including and especially those from Haiti and all parts of Africa - have helped build this country. They should be welcomed and celebrated, not demeaned and insulted.\u2014 Kamala Harris ",
+        "answer": "africa",
+        "output": "what continent is mentioned?"
+    },
+    {
+        "idx": 55,
+        "input": "Photo of the day: Cars line up for fuel after ",
+        "answer": "after #yemen airstrikes",
+        "output": "when are the cars lining up for fuel?"
+    },
+    {
+        "idx": 56,
+        "input": "Ertharin Cousin of @WFP - we know that when women are at the table it makes a real difference ",
+        "answer": "women fast forward group",
+        "output": "who is ey government cousins to?"
+    },
+    {
+        "idx": 57,
+        "input": "Sick about the tragic loss of ",
+        "answer": "paul walker",
+        "output": "who is being mourned?"
+    },
+    {
+        "idx": 58,
+        "input": "S/o to all of you for helping us have a \"home\" ",
+        "answer": "he loves them.",
+        "output": "how does jamal crawford feel about his fans?"
+    },
+    {
+        "idx": 59,
+        "input": "In meeting, Bob Myers told Durant: Without you, we can another title or two. Without us, you might win too. Together? We'll win a bunch.\u2014 Adrian Wojnarowski ",
+        "answer": "bob myers and durant",
+        "output": "who was in the meeting?"
+    },
+    {
+        "idx": 60,
+        "input": "Ghostbusters 3 with an all female cast & @paulfeig directing sounds great! Kick it up another notch and add these 2 AndrewEricPlotkin ",
+        "answer": "ghostbusters",
+        "output": "what franchise is this third movie part of?"
+    },
+    {
+        "idx": 61,
+        "input": "",
+        "answer": "school district officials",
+        "output": "who decides the content of lunches?"
+    },
+    {
+        "idx": 62,
+        "input": "Extreme 19th hole at the Legends course in South Africa. Longest par 3 in the world. Don't ask what I made on it \ud83d\ude14! \u2014 Larry Fitzgerald ",
+        "answer": "legends course",
+        "output": "what course was he playing on?"
+    },
+    {
+        "idx": 63,
+        "input": "This is Moose, who is waiting to join Prince George & Princess Charlotte at a kids' party in Victoria BC. Woof woof. Valentine Low ",
+        "answer": "a kids party",
+        "output": "where are princess george & princess charlotte"
+    },
+    {
+        "idx": 64,
+        "input": "if Beyonc\u00e9 and Jay z split life will not be worth living anymore \u2014 millie ",
+        "answer": "beyonce and jay z",
+        "output": "what couple splitting up would make life not worth living anymore?"
+    },
+    {
+        "idx": 65,
+        "input": "I'm @brazuca, match ball of the 2014 FIFA ",
+        "answer": "2014",
+        "output": "what year did brazuca tweet from the world cup?"
+    },
+    {
+        "idx": 66,
+        "input": "This is like the 4 billionth most controversial thing said on your own talk show back when you had a career in 1991. Clay Travis ",
+        "answer": "1991",
+        "output": "when was montel williams alleged to have a career?"
+    },
+    {
+        "idx": 67,
+        "input": "This red carpet correspondent speaking with Pharrell just said he was nominated for \"Hidden Fences\" look at his face \ud83d\ude2d DK Uzoukwu ",
+        "answer": "the strokes",
+        "output": "which group is this tweet about"
+    },
+    {
+        "idx": 68,
+        "input": "ELIZABETH BANKS: Steven Spielberg never made a movie with a female leadAUDIENCE MEMBER: He made \"The Color Purple\"ELIZABETH BANKS: Eric Haywood ",
+        "answer": "steven spielberg",
+        "output": "who did elizabeth banks say never made a movie with a female lead?"
+    },
+    {
+        "idx": 69,
+        "input": "Sanders path? Build mo with big western wins, shock Clinton elsewhere, give super delegates jitters - @JohnKingCNN Zach Wolf ",
+        "answer": "super delegates",
+        "output": "who could be jittery?"
+    },
+    {
+        "idx": 70,
+        "input": "Mark your calendars! Newly Discovered Dr. Seuss Book Set for July Release BookBub ",
+        "answer": "dr. seuss book set",
+        "output": "what item has been newly discovered?"
+    },
+    {
+        "idx": 71,
+        "input": "Wow! I won Sportswoman of the Year at the ",
+        "answer": "christine ohuruogu",
+        "output": "who won the sportswoman of the year award?"
+    },
+    {
+        "idx": 72,
+        "input": "\u30d6\u30e9\u30c3\u30b7\u30f3\u30b0\u3057\u306a\u304c\u3089\u30db\u30f3\u30c8\u51ac\u306e\u72f8\u3063\u3066\u307e\u3093\u307e\u308b\u306b\u898b\u3048\u308b\u306a\u30fc\u3068\u601d\u3044\u64ae\u5f71\u3057\u305f\u306f\u305a\u306a\u306e\u306b\u3001\u4f55\u6545\u304b\u3054\u306b\u3087\u3054\u306b\u3087\u4e2d\u306b\u3044\u304d\u306a\u308a\u5e03\u56e3\u3092\u5f15\u3063\u307a\u304c\u3055\u308c\u305f\u3088\u3046\u306a\u59ff\u306b\u5199\u3063\u3066\u3044\u3066\u3044\u308b\u30bf\u30cc\u30ad\u3067\u3057\u305f\u3002 \u3053\u3068\u308a ",
+        "answer": "tokyo",
+        "output": "what place is it that they refer to?"
+    },
+    {
+        "idx": 73,
+        "input": "Despite what you hear in the press, healthcare is coming along great. We are talking to many groups and it will end in a beautiful picture!\u2014 Donald J. Trump ",
+        "answer": "in a beautiful picture",
+        "output": "how does trump think healthcare will end?"
+    },
+    {
+        "idx": 74,
+        "input": "We stand in absolute solidarity with the people of the United Kingdom. The White House ",
+        "answer": "the people of the uk",
+        "output": "who does the white house stand with?"
+    },
+    {
+        "idx": 75,
+        "input": "",
+        "answer": "pumped breast milk",
+        "output": "what was taken from alyssa milano at heathrow airport?"
+    },
+    {
+        "idx": 76,
+        "input": "It gives me blank space vibes! I can't wait!Taylor is back\ud83d\ude00\ud83d\ude00\u2014 perrieele\u2764\u2764 ",
+        "answer": "taylor swift",
+        "output": "who is nicole excited to see back?"
+    },
+    {
+        "idx": 77,
+        "input": "1920-women finally ask nicely like ladies & are granted the right to vote. ",
+        "answer": "ask nicely",
+        "output": "why are women granted the right to vote?"
+    },
+    {
+        "idx": 78,
+        "input": "Our thoughts are with the people of Belgium today. The terror will not stop the music. ",
+        "answer": "terror",
+        "output": "what will not stop the music?"
+    },
+    {
+        "idx": 79,
+        "input": "@joshlevscnn Sometimes I wish we could dissolve our govt and start all over like other countries.",
+        "answer": "dissolve our government and start over.",
+        "output": "what does robert wish to do?"
+    },
+    {
+        "idx": 80,
+        "input": "song writers, tv or film writers, poets write from experience. People might just need a place to express. I believe\u2014 Khlo\u00e9 ",
+        "answer": "from experience",
+        "output": "where do writers, whether of songs, tv, film, or poetry, write from?"
+    },
+    {
+        "idx": 81,
+        "input": "The flight attendant is confronting her abt several complaints made about her and says if she has another incident she's calling authorities \u2014 Ryan Case ",
+        "answer": "several",
+        "output": "how many complaints were made about the flight attendant?"
+    },
+    {
+        "idx": 82,
+        "input": "We're going on, what 5 hours after the Titans fired Mike Munchak, and still member of the coaching staff have been told nothing \u2014 Jason La Canfora ",
+        "answer": "five",
+        "output": "how many hours had passed, in which the other members of staff were not given any more information on the firing of mike munchak?"
+    },
+    {
+        "idx": 83,
+        "input": "",
+        "answer": "#thevoice",
+        "output": "who is standing in unity for those affected?"
+    },
+    {
+        "idx": 84,
+        "input": "Today\u2019s agenda: 1. It\u2019s national call-in day for Dreamers. ",
+        "answer": "she wants him to be impeached.",
+        "output": "what does alyssa milano say about trump?"
+    },
+    {
+        "idx": 85,
+        "input": "SADDEN my FRIEND IN CHRIST gone 2day. Vanity, Denise Matthews. MISS YOU DEARLY. U ARE IN HIS ARMS NOW, NO Pain SheilaEdrummer ",
+        "answer": "in his arms",
+        "output": "where is sheilaedrummers friend"
+    },
+    {
+        "idx": 86,
+        "input": "InsideHoops.com NBA @InsideHoopsKarl-Anthony Towns put up 37 points, 12 rebounds and 5 assists yesterday. NBA basketball roundup: , 5:35:01 PM ",
+        "answer": "timberwolves",
+        "output": "what team is he on?"
+    },
+    {
+        "idx": 87,
+        "input": "The fact that anyone can so easily access guns is so scary & after all of the devastating loss the Senate should have not failed us!!!\u2014 Kim Kardashian West ",
+        "answer": "easily accessible guns",
+        "output": "what is so scary according to kim?"
+    },
+    {
+        "idx": 88,
+        "input": "Melania must've liked Michelle Obama's 2008 Convention speech, since she plagiarized it.",
+        "answer": "she must have",
+        "output": "did melania like michelle obama's 2008 convention speech?"
+    },
+    {
+        "idx": 89,
+        "input": "Bad performance by Crooked Hillary Clinton! Reading poorly from the telepromter! She doesn't even look presidential!\u2014 Donald J. Trump ",
+        "answer": "teleprompter",
+        "output": "what was hilary clinton reading from?"
+    },
+    {
+        "idx": 90,
+        "input": "Sam Amick @sam_amickMore from the Draymond v. NBA front: his agent, B.J. Armstrong, isn't happy with the league's stance or its style , 7:14:02 AM ",
+        "answer": "because of the league's stance and style",
+        "output": "why isn't b.j. armstrong happy?"
+    },
+    {
+        "idx": 91,
+        "input": "",
+        "answer": "april fools",
+        "output": "what holiday do they refer to?"
+    },
+    {
+        "idx": 92,
+        "input": "So sorry to hear about this. It was lovely working with Kenny. Kenny Baker, Star Wars R2-D2 actor, dies aged 81 Ewan McGregor ",
+        "answer": "r2-d2",
+        "output": "what character did kenny baker play?"
+    },
+    {
+        "idx": 93,
+        "input": "Hillary Clinton declined to comment on Trump's recent Bill Clinton attacks when I asked her today on the ropeline. Dan Merica ",
+        "answer": "hillary was on the ropeline.",
+        "output": "where was hillary when asked about trump's attacks?"
+    },
+    {
+        "idx": 94,
+        "input": "Always funny. Always helpful. Always honest. I will miss you Jerry Lewis. The world has lost a true innovator & icon. Dane Cook ",
+        "answer": "dane cook",
+        "output": "who will miss jerry lewis?"
+    },
+    {
+        "idx": 95,
+        "input": "If a conservative Republican made the mistake that Mrs. Obama just made by calling Braley by the wrong name, it would be the biggest story!\u2014 Donald J. Trump ",
+        "answer": "braley",
+        "output": "who did mrs. obama call by the wrong name?"
+    },
+    {
+        "idx": 96,
+        "input": ".@redskinz77 My brand new legs flew to the ISS this past spring, hoping to get them attached real soon!\u2014 Robonaut ",
+        "answer": "past spring",
+        "output": "where did they fly to the iss?"
+    },
+    {
+        "idx": 97,
+        "input": "Top 5 funniest thing I've ever seen \u2014 The Weepnd ",
+        "answer": "five.",
+        "output": "how many things were the funniest?"
+    },
+    {
+        "idx": 98,
+        "input": "Americans want leaders from outside of Washington, D.C. with big, bold ideas which is what we're doing at @OurRevival. - SKW\u2014 Scott Walker ",
+        "answer": "outside washington d.c",
+        "output": "where do americans want to find their leaders?"
+    },
+    {
+        "idx": 99,
+        "input": "Our grief isn't enough. We can and must put politics aside, stand up to the NRA, and work together to try to stop this from happening again.\u2014 Hillary Clinton ",
+        "answer": "the nra.",
+        "output": "who do we need to stand up to?"
+    },
+    {
+        "idx": 100,
+        "input": "Mitch, get back to work and put Repeal & Replace, Tax Reform & Cuts and a great Infrastructure Bill on my desk for signing. You can do it!\u2014 Donald J. Trump ",
+        "answer": "tax reform and cuts",
+        "output": "is this a lot of political talk?"
+    },
+    {
+        "idx": 101,
+        "input": "We have the chance to write this moment in history together. Let's empower people like Bruce all over the world by being loving & not mean.\ud83d\udc97\u2014 Lady Gaga ",
+        "answer": "the chance to write",
+        "output": "what do we have now?"
+    },
+    {
+        "idx": 102,
+        "input": "Met this guy the other day in Paris. Now 15 and suing the Obama Administration over climate change. ",
+        "answer": "15 years old",
+        "output": "at what age is he suing the obama administration?"
+    },
+    {
+        "idx": 103,
+        "input": "I recently lit Shabbat candles with Rabbi Bentley at Temple Sinai... but I am not Jewish.\u2014 Jada Pinkett Smith ",
+        "answer": "rabbi bentley",
+        "output": "with whom did jada light candles?"
+    },
+    {
+        "idx": 104,
+        "input": "Information is food for the brain; insufficient access is unhealthy for anyone and it materially impacts human rights issues on all levels.\u2014 Alan P. Gross ",
+        "answer": "human rights issues",
+        "output": "what does lack of information impact?"
+    },
+    {
+        "idx": 105,
+        "input": "Mwhahahaha! I think the flashes are getting to my head \ud83d\ude0b\u2014 Cara Delevingne ",
+        "answer": "the flashes",
+        "output": "what is getting to her head?"
+    },
+    {
+        "idx": 106,
+        "input": "Are you guys kidding me right now? London City Airport?...sorry but your 'cause' is now getting overshadowed by these stupid stunts ",
+        "answer": "stupid stunts",
+        "output": "what was overshadowing london city airport's cause?"
+    },
+    {
+        "idx": 107,
+        "input": "",
+        "answer": "francis",
+        "output": "who is the pope?"
+    },
+    {
+        "idx": 108,
+        "input": "I resolve to not let the mean things people say about my hair bother me. ",
+        "answer": "his hair",
+        "output": "what do people say mean things about?"
+    },
+    {
+        "idx": 109,
+        "input": ".@JohnLegend got Stevie Wonder to perform with him. Because of course. Full episode: ",
+        "answer": "performed with him on lip sync battle.",
+        "output": "what did stevie wonder do with john legend?"
+    },
+    {
+        "idx": 110,
+        "input": "In today's news you can't believe hasn't happened yet, @LouboutinWorld makes nude shoes in a range of skin tones chelsea brasted ",
+        "answer": "various skin tones.",
+        "output": "what color are the new shoes?"
+    },
+    {
+        "idx": 111,
+        "input": "Honestly, it's hard for me *not* to get at least a little excited about a Phill Glass-scored, Cronenberg-inspired sci-fi take on Fantastic 4\u2014 Jake New ",
+        "answer": "cronenberg",
+        "output": "who inspired a sci-fi take on fantastic 4?"
+    },
+    {
+        "idx": 112,
+        "input": "The progress we made today in ",
+        "answer": "the syrian people",
+        "output": "who will america's actions in munich benefit?"
+    },
+    {
+        "idx": 113,
+        "input": "I love Michael Jackson & may he rest in peace. God bless his family. I'm not a fan of the hologram. Where are our morals in all of this? \u2014 Jeanette Jenkins ",
+        "answer": "the hologram",
+        "output": "what is jeanette jenkins not a fan of"
+    },
+    {
+        "idx": 114,
+        "input": "Many many thanks to all of the people who have called for my reinstatement. I'm very touched. We shall all learn next week what will happen.\u2014 Jeremy Clarkson ",
+        "answer": "we shall all learn next week.",
+        "output": "when all can learn about reinstatement?"
+    },
+    {
+        "idx": 115,
+        "input": "Actually called Miss Cleo on 3-way with my bestie a few times..i was just smart enuff to not dial it on my phone n get in trouble \ud83d\udc4c\u2014 Apollonia ",
+        "answer": "dial it on her phone",
+        "output": "what was she smart enough not to do?"
+    },
+    {
+        "idx": 116,
+        "input": "Thank you @lenadunham for writing this. Love @lennyletter ",
+        "answer": "@lennyletter #freekesha",
+        "output": "who does jessica love?"
+    },
+    {
+        "idx": 117,
+        "input": "Syria's Bashar Assad's use of chemical weapons against the men, women and children of his country makes him a war criminal.\u2014 Bernie Sanders ",
+        "answer": "syria",
+        "output": "to what country does bashar assad belong?"
+    },
+    {
+        "idx": 118,
+        "input": "Is it the same Kaine that took hundreds of thousands of dollars in gifts while Governor of Virginia and didn't get indicted while Bob M did?\u2014 Donald J. Trump ",
+        "answer": "gifts",
+        "output": "kaine took hundreds of thousands of dollars in what?"
+    },
+    {
+        "idx": 119,
+        "input": "\"Oh I'm free, free, free now... I'm free from your spell\" - ",
+        "answer": "he died",
+        "output": "how has bb king broken free?"
+    },
+    {
+        "idx": 120,
+        "input": "",
+        "answer": "hope",
+        "output": "what caused her to believe?"
+    },
+    {
+        "idx": 121,
+        "input": "But if you're on the roof of your home defending it from invaders who've come 7K miles, you are not a sniper, u are brave, u are a neighbor.\u2014 Michael Moore ",
+        "answer": "they came from 7k miles away",
+        "output": "how far did the invaders come from?"
+    },
+    {
+        "idx": 122,
+        "input": "Detroiter walks 21 miles in work commute Detroit Free Press ",
+        "answer": "21 miles.",
+        "output": "how many miles does the detroiter walk to get to work?"
+    },
+    {
+        "idx": 123,
+        "input": "Oh God. Vegas. WTF is happening. Can't keep up with all the pain this country is facing. Sending love to Vegas.\u2014 bob saget ",
+        "answer": "pain",
+        "output": "what is the country facing?"
+    },
+    {
+        "idx": 124,
+        "input": "Pope Francis in Bolivia just used the strongest language I can remember a pope using about the rights of the poor and of social justice.\u2014 James Martin, SJ ",
+        "answer": "bolivia",
+        "output": "where was pope francis?"
+    },
+    {
+        "idx": 125,
+        "input": ".@tomasberdych keeps SF qualification hopes alive at ",
+        "answer": "cilic",
+        "output": "who did thomas berdych beat?"
+    },
+    {
+        "idx": 126,
+        "input": "What do you think of Gabby Giffords & Mark Kelly's new efforts to counter the gun lobby? Weigh in for a story. Josh Levs ",
+        "answer": "new efforts to counter the gun lobby.",
+        "output": "what story is there?"
+    },
+    {
+        "idx": 127,
+        "input": "this picture of Kendall Jenner at the Marc Jacobs fashion show got me like Mallory Daniel ",
+        "answer": "she has  her  husband with her",
+        "output": "does kendall have any family  with  her tonight ?"
+    },
+    {
+        "idx": 128,
+        "input": "So they caught Fake News CNN cold, but what about NBC, CBS & ABC? What about the failing @nytimes & @washingtonpost? They are all Fake News!\u2014 Donald J. Trump ",
+        "answer": "nytimes and the washington post",
+        "output": "what is fake news?"
+    },
+    {
+        "idx": 129,
+        "input": "Not only did Henrik Sedin give his stick to a young ",
+        "answer": "a stick",
+        "output": "what did henrik sedin give a young canucks fan?"
+    },
+    {
+        "idx": 130,
+        "input": "I just need Starbucks to bring back the pumpkin spice latte RIGHT NOW\ud83d\ude0d\ud83d\ude2d\u2014 Kristen Reed ",
+        "answer": "pumpkin spice latte",
+        "output": "what starbucks product is being asked to be revived?"
+    },
+    {
+        "idx": 131,
+        "input": "",
+        "answer": "rabaul",
+        "output": "what district is affected by tavurvur?"
+    },
+    {
+        "idx": 132,
+        "input": "\"What we have is a pattern of contacts w the Russian...secret and then conceleaed...could be perjury\" @SenBlumenthal OutFrontCNN ",
+        "answer": "russian",
+        "output": "pattern of contacts with who?"
+    },
+    {
+        "idx": 133,
+        "input": "Frances McDormand is giving the side-eye to the world right now. ",
+        "answer": "frances mcdormand",
+        "output": "who did the censor bleep?"
+    },
+    {
+        "idx": 134,
+        "input": "",
+        "answer": "some of them do.",
+        "output": "do the police realize many people are asking god to ensure they are doing the right thing while working?"
+    },
+    {
+        "idx": 135,
+        "input": "In response to media reports from earlier today:I never saw any abuse, nor had reason to suspect any abuse, during my time at Penn State.\u2014 Greg Schiano ",
+        "answer": "greg schiano.",
+        "output": "who was reported as having knowledge of abuse while at penn state?"
+    },
+    {
+        "idx": 136,
+        "input": "Mulder, it's me. Are you ready? MT @MichaelAusiello XF Revival Official @DavidDuchovny & @GillianA Back for 6 New Eps Gillian Anderson ",
+        "answer": "6",
+        "output": "how many new episodes are they back for?"
+    },
+    {
+        "idx": 137,
+        "input": "Man, the Daft Punk guys look nothing like I thought they would. tommy tomlinson ",
+        "answer": "guys",
+        "output": "are guys or girls mentioned in this tweet?"
+    },
+    {
+        "idx": 138,
+        "input": "Is it a safety video or swim suit video? - worst video yet @flyairnz glad my daughter isn't flying with me tomorrow\u2014 Keran McKenzie ",
+        "answer": "@flyairnz",
+        "output": "who was named in the tweet after the poster said it is the worst video yet?"
+    },
+    {
+        "idx": 139,
+        "input": "BREAKING: Trump says the 'alt-left' bears some responsibility for violence in Charlottesville, 'nobody wants to say that.' \u2014 The Associated Press ",
+        "answer": "alt-left",
+        "output": "who is trump accusing of causing violence in charlottesville?"
+    },
+    {
+        "idx": 140,
+        "input": "Not that being shocked he won would have been a sin. Every article I've read about it said it was surprising. He's still a great artist.\u2014 John Legend ",
+        "answer": "they all say the win was unexpected.",
+        "output": "what is common about the journals that john legend has read?"
+    },
+    {
+        "idx": 141,
+        "input": "Hey James Franco, nice ",
+        "answer": "$100/day",
+        "output": "what was the daily rate for full nudity?"
+    },
+    {
+        "idx": 142,
+        "input": "Gross negligence by the Democratic National Committee allowed hacking to take place.The Republican National Committee had strong defense!\u2014 Donald J. Trump ",
+        "answer": "gross",
+        "output": "what kind of negligence is discussed?"
+    },
+    {
+        "idx": 143,
+        "input": "Wright State University withdraws from hosting presidential debate \u2014 TIME.com ",
+        "answer": "hosting the presidential debate",
+        "output": "wright state university has decided to back out of what event?"
+    },
+    {
+        "idx": 144,
+        "input": "Environmental Racism + Indifference = Lead in the Water & Blood...The Poisoning of Flint's Water 0 ",
+        "answer": "january",
+        "output": "what month was this tweet posted?"
+    },
+    {
+        "idx": 145,
+        "input": "I've been blessed to spend my life serving something more important than myself, of being a bit player in the story of America ",
+        "answer": "chairman of the senate armed services committee",
+        "output": "what is john mccain's current role?"
+    },
+    {
+        "idx": 146,
+        "input": "Congressman Henry Cuellar's statement; he represents Sutherland Springs: Abby Livingston ",
+        "answer": "henry cuellars",
+        "output": "who represents sutherland springs?"
+    },
+    {
+        "idx": 147,
+        "input": "If only Adele said Salaam instead of Hello... ",
+        "answer": "hello",
+        "output": "which song are we talking about?"
+    },
+    {
+        "idx": 148,
+        "input": "An earlier version of our post on Taylor & Nicki used an insensitive juxtaposition of photos. It was a hasty choice\u2014we sincerely apologize.\u2014 Entertainment Weekly ",
+        "answer": "photos tayor and nicki",
+        "output": "an earlier version of what was released?"
+    },
+    {
+        "idx": 149,
+        "input": "Thank you @serenawilliams you know @vika7 and me won't be having any fun. Lol! Thank you for 8 unforgettable years, what a ride it was....\u2014 sascha Bajin ",
+        "answer": "@serenawilliams",
+        "output": "who is being thanked?"
+    },
+    {
+        "idx": 150,
+        "input": "Cinnamon Bun @Oreo Cookies! NEED these Now! ",
+        "answer": "fashionweeknyc",
+        "output": "who says they need the cinnamon bun oreos?"
+    },
+    {
+        "idx": 151,
+        "input": "Front page: Outrage as filmmakers turn Sir Winston Churchill's birthplace into Nazi palace The Sun ",
+        "answer": "outrage",
+        "output": "what does everyone think of that?"
+    },
+    {
+        "idx": 152,
+        "input": "Race race race. It's all you talk about. You Divided the country and still you tweet charlatan BS. Congrats.\u2014 Political HEDGE \ud83c\uddfa\ud83c\uddf8 ",
+        "answer": "@barackobama",
+        "output": "who did p.hedge call a charlatan?"
+    },
+    {
+        "idx": 153,
+        "input": "YES!! Top signing!! RT @Arsenal: It's official! Alexis Sanchez has agreed to join @Arsenal! Aaron Ramsey ",
+        "answer": "alexis sanchez",
+        "output": "who was a top signing member for arsenal?"
+    },
+    {
+        "idx": 154,
+        "input": "Dwyane Wade left cross-country flight with LeBron James to Miami still unsure of which way James is leaning, sources tell Yahoo Sports.\u2014 Adrian Wojnarowski ",
+        "answer": "miami",
+        "output": "where did  lebron james and wade go?"
+    },
+    {
+        "idx": 155,
+        "input": "Perfect Christmas time. Lights, a good cup of coffee and the ultimate present ",
+        "answer": "the ultimate present",
+        "output": "what is metioned after a good cup of coffee?"
+    },
+    {
+        "idx": 156,
+        "input": "Seen Furious 7 Friday & I cried like a baby through the whole movie. RIP Paul Walker. \u2764\u2014 Paige McKayla. \u262f\u263e ",
+        "answer": "friday",
+        "output": "on what day did paige see the movie, furious 7?"
+    },
+    {
+        "idx": 157,
+        "input": "It doesn't matter who wins, Victor Dubuisson is my new hero!! ",
+        "answer": "victor dubuisson.",
+        "output": "who is javier ballesteros's new hero?"
+    },
+    {
+        "idx": 158,
+        "input": "I'm @brazuca, match ball of the 2014 FIFA ",
+        "answer": "brazuca",
+        "output": "what's the name of the ball?"
+    },
+    {
+        "idx": 159,
+        "input": "",
+        "answer": "under fingernails",
+        "output": "where is the skin evidence?"
+    },
+    {
+        "idx": 160,
+        "input": "How I feel after watching the past 10 minutes of ",
+        "answer": "the backelorette finale",
+        "output": "what is robyn watching?"
+    },
+    {
+        "idx": 161,
+        "input": "Why don't we have live cameras on planes, so when we detect something wrong, we can help the innocent and take over and help ",
+        "answer": "cameras",
+        "output": "how could you detect something wrong on a plane?"
+    },
+    {
+        "idx": 162,
+        "input": "100% still freaking out about last night's bachelor finale. Can we please talk about Jojo being... Daniella Monet ",
+        "answer": "bachelor",
+        "output": "what did daniella monet watch last night?"
+    },
+    {
+        "idx": 163,
+        "input": "Jim Weber @JimMWeberAs much as I love Leach, ripping SEC offenses after putting 12 points up on Minnesota in the bowl game prolly isn't the best time to speak.1/19/2017, 7:42:07 PM ",
+        "answer": "minnesota bowl game",
+        "output": "which game is jim weber commenting about?"
+    },
+    {
+        "idx": 164,
+        "input": "One never knows when the Master of the Mystic Arts will stop by! Thanks, @jhuniverse! ",
+        "answer": "one",
+        "output": "who never knows when the master of the mystic arts will stop by?"
+    },
+    {
+        "idx": 165,
+        "input": "One of those few times where it's no hyperbole: We truly won't see his like again Jonathan Martin ",
+        "answer": "they won't see like his again.",
+        "output": "what they won't truly see again?"
+    },
+    {
+        "idx": 166,
+        "input": "Hey, ",
+        "answer": "a group hug",
+        "output": "what is the writer asking for?"
+    },
+    {
+        "idx": 167,
+        "input": "Hey @united landed in Dublin yesterday morning from Newark and still no golf clubs... Sort of need them this week... Can someone help!?\u2014 Rory Mcilroy ",
+        "answer": "united",
+        "output": "what airline did rory mcllroy fly from newark to dublin?"
+    },
+    {
+        "idx": 168,
+        "input": "Cruz did not renounce his Canadian citizenship as a US Senator- only when he started to run for ",
+        "answer": "cruz",
+        "output": "who could be canadian prime minister?"
+    },
+    {
+        "idx": 169,
+        "input": "So @vdubali and I tried the NBA 2k15 FACE SCAN and here are the results. Me Left her Right Sp00nerism ",
+        "answer": "sp00n and vdubali",
+        "output": "who tried the face scan?"
+    },
+    {
+        "idx": 170,
+        "input": "Claire, have you seen my ... nevermind, found my raping hat\u2014 Trill Withers ",
+        "answer": "trill withers",
+        "output": "who calls bill cosby 'cos'?"
+    },
+    {
+        "idx": 171,
+        "input": "We all have 280 characters? Well, as Shakespeare wrote, \u201cBrevity is the soul of wit. The soul of wit is what brevity is. Brevity? Soul of wit? They're the same thing. Like if you had brevity in one hand and the soul of wit in the other, you\u2019d be hard pressed to tell them apart.\u201d\u2014 Stephen Colbert ",
+        "answer": "brevity and wit",
+        "output": "what two things does shakespeare believe are the same?"
+    },
+    {
+        "idx": 172,
+        "input": "Can't believe I'm about to go to my 1st premiere as an actress! I couldn't be more honored to be a part of this talented magical cast \u2764\ufe0f\u2014 Lady Gaga ",
+        "answer": "honored",
+        "output": "how does she feel?"
+    },
+    {
+        "idx": 173,
+        "input": "Bernie Ecclestone's Christmas card. I'm guessing Martin Whitmarsh won't give this pride of place on his mantelpiece. Grand Prix Diary ",
+        "answer": "a christmas card.",
+        "output": "what does bernie ecclestone give?"
+    },
+    {
+        "idx": 174,
+        "input": "I don't care if people are pissed The truth is that wage inequality adversely effects women. Patricia Arquette ",
+        "answer": "the truth",
+        "output": "what might people be pissed about?"
+    },
+    {
+        "idx": 175,
+        "input": "",
+        "answer": "russia",
+        "output": "what country's relations concern putin?"
+    },
+    {
+        "idx": 176,
+        "input": "Funeral for 4 boys, cousins ages ranging from 9 to 11, killed in Israeli strike on ",
+        "answer": "cousins",
+        "output": "how were the boys related?"
+    },
+    {
+        "idx": 177,
+        "input": "Reporters of ",
+        "answer": "reporters of iran talks vienna.",
+        "output": "who is traveling to austria?"
+    },
+    {
+        "idx": 178,
+        "input": "lewishamilton Congratulations babe for winning the ",
+        "answer": "nicole scherzinger",
+        "output": "who is very proud of lewis hamilton?"
+    },
+    {
+        "idx": 179,
+        "input": "@scooterbraun I beg you please cancel Justin's UK stop. It's for his and many others safety. Please! I'm begging.\u2014 Mrs.Bieber ",
+        "answer": "for safety reasons.",
+        "output": "why does the author want justin's show ended?"
+    },
+    {
+        "idx": 180,
+        "input": "Baltimore residents line up to protect Police. ",
+        "answer": "police",
+        "output": "who were the residents lined up to protect?"
+    },
+    {
+        "idx": 181,
+        "input": "People. Reince actually said HRC needed to smile more. This is real. Jennifer Palmieri ",
+        "answer": "smile",
+        "output": "what do the people think hrc needs to do more"
+    },
+    {
+        "idx": 182,
+        "input": "They said that my player would look like me. Damn are they saying something Andrew Morano III ",
+        "answer": "himself",
+        "output": "who is andrew morano's player supposed to look like?"
+    },
+    {
+        "idx": 183,
+        "input": "We have learned today that Bosco Ntaganda entered Rwanda and surrendered to US Embassy in Kigali\u2014 Louise Mushikiwabo ",
+        "answer": "rwanda",
+        "output": "where did bosco ntaganda enter?"
+    },
+    {
+        "idx": 184,
+        "input": "A7: promoting to attract investors/customers is a good idea. But be careful not to get distracted by media attention! ",
+        "answer": "promoting",
+        "output": "what is a7 doing to attract investors/customers?"
+    },
+    {
+        "idx": 185,
+        "input": "Odin Lloyd sis Shaquilla Thibou on stand testifying seeing her brother & texts she got from him. ",
+        "answer": "by a friends house",
+        "output": "what was her brother doing"
+    },
+    {
+        "idx": 186,
+        "input": "We made Oprah's ",
+        "answer": "december",
+        "output": "which issue of @0_magazine will they be in?"
+    },
+    {
+        "idx": 187,
+        "input": "You can commemorate this historic moment by printing this out and adding it to @RepJohnLewis' graphic novel \"March\" The Late Show ",
+        "answer": "rep john lewis\u2019 graphic novel \u201cmarch\"",
+        "output": "what can we add this to?"
+    },
+    {
+        "idx": 188,
+        "input": "League source says Cavs' cap-clearing trade today is not LeBron-or-bust. Cavs have space and attractive situation even if LeBron says no.\u2014 Ken Berger ",
+        "answer": "league source",
+        "output": "who says cav's trade is not lebron-or-bust?"
+    },
+    {
+        "idx": 189,
+        "input": "Rally homework for @WalesRallyGB.Trying to feel slightly prepared even though im so out of my comfort zone!! Amy Williams MBE ",
+        "answer": "slightly prepared",
+        "output": "how is the author trying to feel?"
+    },
+    {
+        "idx": 190,
+        "input": "When you get out of the shower today, get a sense of humor. Love ya! \u2014 Naya Rivera Dorsey ",
+        "answer": "when they get out of the shower today.",
+        "output": "when should someone get a sense of humor?"
+    },
+    {
+        "idx": 191,
+        "input": "Arrests are being made following declaration of unlawful assembly at Emancipation Park in Charlottesville. ",
+        "answer": "unlawful assembly",
+        "output": "what declaration has been made by police in emancipation park in charlottesville?"
+    },
+    {
+        "idx": 192,
+        "input": "Many fans revoked their subscription or returned the issue. Playboy ",
+        "answer": "first black playmate and first trans playmate",
+        "output": "what two events causes bad reactions with playboy subscribers?"
+    },
+    {
+        "idx": 193,
+        "input": "Try new @jacknicklaus ",
+        "answer": "the honda classic",
+        "output": "where can you try it?"
+    },
+    {
+        "idx": 194,
+        "input": "",
+        "answer": "33",
+        "output": "how many goals did aston villa score in 2014?"
+    },
+    {
+        "idx": 195,
+        "input": "We just heard from Corey Menafee outside ",
+        "answer": "nhv",
+        "output": "what court was corey menafee outside of?"
+    },
+    {
+        "idx": 196,
+        "input": "PM: Great to hear Pauline Cafferkey has been discharged from hospital. Thank you to everyone @RoyalFreeNHS for the world class care\u2014 UK Prime Minister ",
+        "answer": "royal free nhs",
+        "output": "who is being thanked for world class care?"
+    },
+    {
+        "idx": 197,
+        "input": "Keyshia has had the prettiest wedding dress out of ALLLLLLLLL CELEBRITIES, HANDS DOWNNN . She came through baby . ",
+        "answer": "keyshia",
+        "output": "who does cass think have the prettiest wedding of all celebrities?"
+    },
+    {
+        "idx": 198,
+        "input": "This is the way to get back from and reflect on a good race. Alistair Brownlee ",
+        "answer": "a race.",
+        "output": "what event just took place?"
+    },
+    {
+        "idx": 199,
+        "input": "I met with the Senate Judiciary Committee today. I am thankful for their professionalism and courtesy. Donald Trump Jr. ",
+        "answer": "senate judiciary committee",
+        "output": "who did he meet with today"
+    },
+    {
+        "idx": 200,
+        "input": "I DID NOT MAKE THE WEED COMENT. I DO NOT CONDONE RACISM SO AS A RSULT OF THIS IM SEREIOULSY QUESTIONONIG STAYING ON THE SHOW!\u2014 Kelly Osbourne ",
+        "answer": "racism",
+        "output": "the author says they do not support what?"
+    },
+    {
+        "idx": 201,
+        "input": "Rain to snow in 24 hours! It is going to be a quick change across portions of the south Wednesday. ",
+        "answer": "rain to snow.",
+        "output": "what is happening in 24 hours?"
+    },
+    {
+        "idx": 202,
+        "input": "Our @AVAETC",
+        "answer": "10 p.m. pacific standard time",
+        "output": "when is the new barbie doll going to be available?"
+    },
+    {
+        "idx": 203,
+        "input": "El Hijo del perro Aguayo Respect to fallen brother in arms! I and the WWE universe pray for your peace an comfort to your family!\u2014 TheMarkHenry ",
+        "answer": "a brother in arms",
+        "output": "who recently passed away?"
+    },
+    {
+        "idx": 204,
+        "input": "",
+        "answer": "20 floating nuclear power stations",
+        "output": "what does china intend to build in order to meet energy needs?"
+    },
+    {
+        "idx": 205,
+        "input": "This is what ",
+        "answer": "delhi",
+        "output": "what city is the poster referring to?"
+    },
+    {
+        "idx": 206,
+        "input": "Jonathan Demme had one of the most varied filmographies of a major filmmaker ever. He followed his own path. Sean Fennessey ",
+        "answer": "he followed his own path.",
+        "output": "who's path did jonathan demme follow?"
+    },
+    {
+        "idx": 207,
+        "input": "Satnam Singh, Center from India, gets selected ",
+        "answer": "dallas mavericks",
+        "output": "what team selected satnam singh?"
+    },
+    {
+        "idx": 208,
+        "input": "I am actually more excited than them! \u2014 Judd Apatow ",
+        "answer": "judd apatow",
+        "output": "who is more exited, judd apatow or them?"
+    },
+    {
+        "idx": 209,
+        "input": "We are recreating Chris Pratt's raptor control from ",
+        "answer": "southern white rhinos",
+        "output": "what kind of rhinos are mentioned?"
+    },
+    {
+        "idx": 210,
+        "input": "Doesn't Cosmo look like a real dog?! See him on the way into the ",
+        "answer": "the guardiansofthegalaxy ride.",
+        "output": "what ride can be found at californiaadventure?"
+    },
+    {
+        "idx": 211,
+        "input": "Stewart Mandel @slmandelToo many bowls. , 9:59:24 PM ",
+        "answer": "all different kinds",
+        "output": "what kind of bowls were there?"
+    },
+    {
+        "idx": 212,
+        "input": "5 years in 5 seconds. Darren Booth ",
+        "answer": "years and seconds",
+        "output": "which measurements of time are mentioned?"
+    },
+    {
+        "idx": 213,
+        "input": "I do not like looking at ",
+        "answer": "chihiraaico",
+        "output": "who creeps her out?"
+    },
+    {
+        "idx": 214,
+        "input": "225mm rain fell in Sydney over the last 2 days. That's the wettest 2-day period since 7-8 August 1998 ",
+        "answer": "225mm",
+        "output": "how much rain fell in sydney over the last 2 days?"
+    },
+    {
+        "idx": 215,
+        "input": "",
+        "answer": "fingerprints",
+        "output": "what was not found on the gun?"
+    },
+    {
+        "idx": 216,
+        "input": "Finally our first look at Ben Affleck as Batman , the BatMobile is looking good as well. ",
+        "answer": "ben affleck",
+        "output": "who is playing batman in the 2014 film release?"
+    },
+    {
+        "idx": 217,
+        "input": "I'm having a rough time with this Brad Pitt and Angelina Jolie divorce news. Please respect my privacy on this matter.\u2014 chaps ",
+        "answer": "brad pitt and angelina jolie",
+        "output": "who is getting divorced?"
+    },
+    {
+        "idx": 218,
+        "input": ".@rupertmurdoch Rups can we get a step by step guide? How can my 60 year old parents in NC help destroy terrorist groups? Plz advise.\u2014 Aziz Ansari ",
+        "answer": "nc",
+        "output": "what state do the parents of the tweeter live in?"
+    },
+    {
+        "idx": 219,
+        "input": "So angry, ",
+        "answer": "#thisendsnow",
+        "output": "what is antonis motivated to make sure of?"
+    },
+    {
+        "idx": 220,
+        "input": "Democrats refusal to give even one vote for massive Tax Cuts is why we need Republican Roy Moore to win in Alabama. We need his vote on stopping crime, illegal immigration, Border Wall, Military, Pro Life, V.A., Judges 2nd Amendment and more. No to Jones, a Pelosi/Schumer Puppet!\u2014 Donald J. Trump ",
+        "answer": "roy moore",
+        "output": "who needs to win alabama?"
+    },
+    {
+        "idx": 221,
+        "input": "I sang Goodnight Robin, thanks for all the laughs....\u2014 Eric Idle ",
+        "answer": "goodnight robin",
+        "output": "what did eric idle sing?"
+    },
+    {
+        "idx": 222,
+        "input": "Lets go @Rockies!! My first tattoo, complete with Denver skyline, Rockies mountain and baseball stitching. ",
+        "answer": "baseball",
+        "output": "what sport do the rockies play?"
+    },
+    {
+        "idx": 223,
+        "input": "She always told me to LOVE my adopted parents. She never threw shade like others in my family, she was happy that I had a better life \u2014 Tyrann Mathieu ",
+        "answer": "shade",
+        "output": "what did people in tyrann's family throw?"
+    },
+    {
+        "idx": 224,
+        "input": "",
+        "answer": "kallis did",
+        "output": "who made their debut v england in 1995 at kingsmead?"
+    },
+    {
+        "idx": 225,
+        "input": "Working on a new superhero film called Look At Me Man. Gonna be tight, yo. \ud83d\udc4d\ud83d\ude08\ud83d\ude0e\ud83d\udcaa\u2014 Shane West ",
+        "answer": "tight",
+        "output": "what did shane west say the film is gonna be?"
+    },
+    {
+        "idx": 226,
+        "input": "Mark my words, Domino will steal the next Deadpool movie. She is a very beautiful woman. Zazie Beetz will rock this role.\u2014 Richard Brinker III ",
+        "answer": "deadpool",
+        "output": "what movie is domino going to be in?"
+    },
+    {
+        "idx": 227,
+        "input": "Wait it's legit National Snake Day?!?!?They have holidays for everybody, I mean everything these days! \ud83d\udc0d\ud83d\udc0d\ud83d\udc0d\ud83d\udc0d\ud83d\udc0d\ud83d\udc0d\ud83d\udc0d\ud83d\udc0d\ud83d\udc0d\ud83d\udc0d\ud83d\udc0d\ud83d\udc0d\ud83d\udc0d\ud83d\udc0d\ud83d\udc0d\ud83d\udc0d\ud83d\udc0d\ud83d\udc0d\ud83d\udc0d\ud83d\udc0d\ud83d\udc0d\ud83d\udc0d\ud83d\udc0d\ud83d\udc0d\ud83d\udc0d\ud83d\udc0d\ud83d\udc0d\ud83d\udc0d\ud83d\udc0d\ud83d\udc0d\ud83d\udc0d\ud83d\udc0d\ud83d\udc0d\ud83d\udc0d\ud83d\udc0d\ud83d\udc0d\ud83d\udc0d\u2014 Kim Kardashian West ",
+        "answer": "snake day",
+        "output": "what day is it?"
+    },
+    {
+        "idx": 228,
+        "input": "Why I walked out of yet another moment of silence on the House floor for a gun massacre. We cannot remain silent. Ted Lieu ",
+        "answer": "white house",
+        "output": "where did the moment of silence take place?"
+    },
+    {
+        "idx": 229,
+        "input": "",
+        "answer": "#bringbackourchildhood",
+        "output": "what hashtag is unicef using to bring awareness to the violence in nigeria?"
+    },
+    {
+        "idx": 230,
+        "input": "The moment Iceland\u2019s prime minister walked out of an interview because of a tax haven question ",
+        "answer": "tax haven",
+        "output": "what type of question made the prime minister walk out?"
+    },
+    {
+        "idx": 231,
+        "input": "Can't believe Benedict Cumberbatch is engaged. *tries calling him again*\u2014 Tiernan Douieb ",
+        "answer": "got engaged",
+        "output": "what did benedict cumberbatch do?"
+    },
+    {
+        "idx": 232,
+        "input": "France and Russia FMs spoke by telephone this morning. @JeanMarcAyrault reaffirmed France's will to continue dialogue with Russia.\u2014 France Diplomacy ",
+        "answer": "franc and russia fms",
+        "output": "who spoke by telephone this morning?"
+    },
+    {
+        "idx": 233,
+        "input": "This>>> Senator Rand Paul ",
+        "answer": "pictures",
+        "output": "what does rand paul tweet sometimes?"
+    },
+    {
+        "idx": 234,
+        "input": "Hillary when Mary reached out and held her hand. Saint Pest ",
+        "answer": "mary",
+        "output": "who reached out to hillary's hand?"
+    },
+    {
+        "idx": 235,
+        "input": "I honestly would kiss the ground @KimKardashian walks on after today ",
+        "answer": "kim kardashian",
+        "output": "who walks on the ground you would kiss?"
+    },
+    {
+        "idx": 236,
+        "input": "Billy Horschel didn't miss too many targets on Thursday at East Lake. @playofffinale PGA TOUR ",
+        "answer": "thursday",
+        "output": "what day did he not miss many shots?"
+    },
+    {
+        "idx": 237,
+        "input": "Hey everybody, thanks for your concern. We're all safe & doing well in the Russian segment. Follow @Nasa for updates on @Space_Station today\u2014 Sam Cristoforetti ",
+        "answer": "nasa",
+        "output": "who is providing space station updates?"
+    },
+    {
+        "idx": 238,
+        "input": "Flying high with the team after my 4th Major victory!!! NYC here we come!! Thanks for all the support and well wishes Rory Mcilroy ",
+        "answer": "four",
+        "output": "how many victories has he had?"
+    },
+    {
+        "idx": 239,
+        "input": "JDC is working with at-risk children throughout ",
+        "answer": "jdc",
+        "output": "who is working with these children in israel?"
+    },
+    {
+        "idx": 240,
+        "input": "This ",
+        "answer": "give a gift to help needy refugee children.",
+        "output": "what is the tweet urging people to do on mother's day?"
+    },
+    {
+        "idx": 241,
+        "input": "Model undone by the heat at Yeezy. Vanessa Friedman ",
+        "answer": "a model",
+        "output": "who is undone by the heat at yeezy?"
+    },
+    {
+        "idx": 242,
+        "input": "\"Juliet. Such a nasty woman. She made Romeo kill himself. And believe me he could have done better. Look at her.\" ",
+        "answer": "juliet",
+        "output": "who made romeo kill himself?"
+    },
+    {
+        "idx": 243,
+        "input": ".@SAGawards thank you for honoring the cast of @OITNB & myself w/your nomination. It's a dream, everyday, working w/this group. ",
+        "answer": "team orange",
+        "output": "what team is uzo aruba on?"
+    },
+    {
+        "idx": 244,
+        "input": "Met with the ambassadors from the Jordan Armed Forces last night and got them all Bronco shirts to watch their first NFL game. ",
+        "answer": "bronco shirts.",
+        "output": "what did garland give his new friends?"
+    },
+    {
+        "idx": 245,
+        "input": "We ",
+        "answer": "marching royal dukes",
+        "output": "who performed for the pope?"
+    },
+    {
+        "idx": 246,
+        "input": "we're all human and we all have great amounts of pressure on us. when someone's hurting, be there. we could all use a little more compassion\u2014 Ariana Grande ",
+        "answer": "be compassionate to them.",
+        "output": "what does ariana grande think about people who are hurting?"
+    },
+    {
+        "idx": 247,
+        "input": "3-team trade involving Cavs, Celtics & Nets could allow Cavs to open about $24M in cap space. LeBron max is $20.7M\u2014 Brian Windhorst ",
+        "answer": "$20.7m",
+        "output": "what lebron's cap space  the max amount of cap space"
+    },
+    {
+        "idx": 248,
+        "input": "He can delete it all he wants. The internet is forever. Long live ",
+        "answer": "forever",
+        "output": "what did ramie say that the internet is?"
+    },
+    {
+        "idx": 249,
+        "input": "All these girls on miss america make me so jealous of their body \u2014 Yllzaaa ",
+        "answer": "girls.",
+        "output": "who are competing to be miss america?"
+    },
+    {
+        "idx": 250,
+        "input": "Sincerely, Tim Kaine is 1 of the most honorable men in politics. I admire & am inspired by him, give them your vote. Cory Booker ",
+        "answer": "tim kaine.",
+        "output": "who is the most respected politician?"
+    },
+    {
+        "idx": 251,
+        "input": "Disappointed, but really appreciate the incredible support this week.\u2014 Tiger Woods ",
+        "answer": "incredible support this week",
+        "output": "what is the author of the tweet appreciative for?"
+    },
+    {
+        "idx": 252,
+        "input": "",
+        "answer": "purple",
+        "output": "what color do you need to \"go\" today?"
+    },
+    {
+        "idx": 253,
+        "input": "Man, loading this beast is half the battle. Heading out. Hoping to meet a farmer downstream. ",
+        "answer": "in loading the beast",
+        "output": "what is half the battle"
+    },
+    {
+        "idx": 254,
+        "input": "Based on the fraud committed by Senator Ted Cruz during the Iowa Caucus, either a new election should take place or Cruz results nullified.\u2014 Donald J. Trump ",
+        "answer": "senator",
+        "output": "what seat did ted cruz hold during the iowa caucus?"
+    },
+    {
+        "idx": 255,
+        "input": "A very sad day for the world of cricket. So sorry for Phillip Hughes and his family . Spare a thought for Sean Abbott.\u2014 Ian Botham ",
+        "answer": "the world of cricket",
+        "output": "what venue is saddened?"
+    },
+    {
+        "idx": 256,
+        "input": "@codyboteler We do not feel that we can place that trust in the MSM re. previous cases of sources being outed to the FBI by media personnel.\u2014 AltUSNatParkService ",
+        "answer": "the msm",
+        "output": "who do they not trust?"
+    },
+    {
+        "idx": 257,
+        "input": "Via @TheMMQB, Bruce Arians says parents who won't let their kids play football \"are fools\" u \u2026. Oh really? \u2014 Greg A. Bedard ",
+        "answer": "parents",
+        "output": "who does bruce arians believe are fools for not letting children play football?"
+    },
+    {
+        "idx": 258,
+        "input": "BOOM!@KaPliskova's secret weapon is her ",
+        "answer": "@kapliskova",
+        "output": "who has the secret weapon?"
+    },
+    {
+        "idx": 259,
+        "input": "In tears now,can't even put words together,she's a strong woman and she's gonna beat this \u2764\ufe0f ",
+        "answer": "mama swift",
+        "output": "who is being prayed for?"
+    },
+    {
+        "idx": 260,
+        "input": "Nothing made me prouder than to wear the red, white and blue. Thank you for sending your thoughts and kind words. Abby Wambach ",
+        "answer": "it makes me feel proud.",
+        "output": "how the color red, white and blue make you feel?"
+    },
+    {
+        "idx": 261,
+        "input": "Many people say @Twitter is censoring links to ",
+        "answer": "twitter",
+        "output": "who are censoring the links?"
+    },
+    {
+        "idx": 262,
+        "input": "\"if they can learn to hate, they can be taught to love, for it comes more naturally to the humanheart than its opposite\" Madiba ",
+        "answer": "to love.",
+        "output": "what is more natural for the human heart than hate?"
+    },
+    {
+        "idx": 263,
+        "input": "Thought this was a pic of Santa on vacation but it's actually David Letterman 1 John Breech ",
+        "answer": "his round, rosy cheeks and big white beard",
+        "output": "which aspects of david letterman brings to mind santa?"
+    },
+    {
+        "idx": 264,
+        "input": "Oh Robin...Our hearts are broken. Rest in peace darling. We loved you.\u2014 Goldie Hawn ",
+        "answer": "robin passed away",
+        "output": "why is goldie hawn sad?"
+    },
+    {
+        "idx": 265,
+        "input": "I'll show @NoahGragson how 2 do it right! 500k RT n the next hr, I'll eat this ",
+        "answer": "eat a bowl of horseradish",
+        "output": "if he gets 500k retweets in one hour what will he do?"
+    },
+    {
+        "idx": 266,
+        "input": "We need more men like Drake who will call out trash who objectify, harass and grope women.\u2014 Luke Waltham ",
+        "answer": "drake",
+        "output": "who do we need more men like?"
+    },
+    {
+        "idx": 267,
+        "input": "Want better food at school? THEN INCREASE EDU FUNDING. Stop blaming people who at least tried to make it healthy ",
+        "answer": "increase funding",
+        "output": "how do you get better foods in schools?"
+    },
+    {
+        "idx": 268,
+        "input": "Best bar banner ever? Likely. Check it out, @BroBible. ",
+        "answer": "bar banner",
+        "output": "what is the best object being refered to?"
+    },
+    {
+        "idx": 269,
+        "input": "Introducing: Bouncy Aisles, in-store from Friday. Those pesky products on high shelves better watch out... Tesco ",
+        "answer": "reaching high shelves.",
+        "output": "what does bouncy aisles help with?"
+    },
+    {
+        "idx": 270,
+        "input": "I've destroyed the competition in the Celebrity All star game by winning a record setting 4 MVP's\u2026I've proven that I'm the best!! \u2014 Kevin Hart ",
+        "answer": "celebrity all-star game",
+        "output": "what game did kevin hart destroy the competition?"
+    },
+    {
+        "idx": 271,
+        "input": "We continue to get words of support & love from this wonderful community. Thank you, Austin. ",
+        "answer": "austin",
+        "output": "who is thanking austin police dept"
+    },
+    {
+        "idx": 272,
+        "input": "Sal Paolantonio on ESPN: \"As one source close to the ",
+        "answer": "robert kraft",
+        "output": "who reminded roger goodell who he worked for?"
+    },
+    {
+        "idx": 273,
+        "input": "Jackie Evancho's album sales have skyrocketed after announcing her Inauguration performance.Some people just don't understand the \"Movement\"\u2014 Donald J. Trump ",
+        "answer": "jackie evancho",
+        "output": "who's album sales are increasing?"
+    },
+    {
+        "idx": 274,
+        "input": "i see a snake? im guessing her album is self-titled san ",
+        "answer": "a snake.",
+        "output": "what does she says that she sees?"
+    },
+    {
+        "idx": 275,
+        "input": "Why don't we have live cameras on planes, so when we detect something wrong, we can help the innocent and take over and help ",
+        "answer": "the innocent",
+        "output": "who would be helped with cameras on planes?"
+    },
+    {
+        "idx": 276,
+        "input": "From the @CDCgov, ",
+        "answer": "it needs close contact with an infected person.",
+        "output": "how can ebola be passed on to another person?"
+    },
+    {
+        "idx": 277,
+        "input": "Watch as @FifthHarmony accepts \u201cFavorite Group\u201d for their second year in a row! ",
+        "answer": "\"favorite group\"",
+        "output": "what is fifth harmony accepting?"
+    },
+    {
+        "idx": 278,
+        "input": "I hope I don't need this! We're about to fly into 60mph tropical storm winds off Fla on a USAF Hurricane Hunter! Thom Patterson ",
+        "answer": "a motion sickness bag",
+        "output": "what is the name of the bag?"
+    },
+    {
+        "idx": 279,
+        "input": "The ",
+        "answer": "public trust",
+        "output": "what does the nypd want to rebuild?"
+    },
+    {
+        "idx": 280,
+        "input": "Here I am on the HOC terrace, yet the BBC is reporting that I am blocking JC office door! Diane Abbott MP ",
+        "answer": "bbc",
+        "output": "who is the company that is reporting this?"
+    },
+    {
+        "idx": 281,
+        "input": "You'd think the USA ski slopestyle team was the Curling team the way they just \"swep\" the podium\u2014 sage kotsenburg ",
+        "answer": "the curling team",
+        "output": "what should the usa ski slopestyle team be called?"
+    },
+    {
+        "idx": 282,
+        "input": "",
+        "answer": "rock n' roll",
+        "output": "what can this country use?"
+    },
+    {
+        "idx": 283,
+        "input": "",
+        "answer": "the best actor",
+        "output": "what kind of actor should be picked?"
+    },
+    {
+        "idx": 284,
+        "input": "Heartbroken. My sincerest condolences go out to The Warrior's family. Seeing how much he loved his daughters and his wife this weekend...\u2014 Daniel Bryan ",
+        "answer": "his wife and daughters",
+        "output": "who did the man love?"
+    },
+    {
+        "idx": 285,
+        "input": "TONITE is a win for Hip Hop! Salute to LL Cool J on this incredible feat! You have laid the foundation for so many others hip hop artists to receive this distinguished Kennedy Center Honor! Great performances w Latifah, Lyte, DMC & Busta Rhymes. God's blessings on ur endeavors, L MC Debbie D ",
+        "answer": "lifetime achievement in pure awesomeness",
+        "output": "lifetime achievement in entertainment"
+    },
+    {
+        "idx": 286,
+        "input": "I have been hitting Obama and Crooked Hillary hard on not using the term Radical Islamic Terror. Hillary just broke-said she would now use!\u2014 Donald J. Trump ",
+        "answer": "for using the term radical islamic terror",
+        "output": "why did trump hit obama and hillary hard?"
+    },
+    {
+        "idx": 287,
+        "input": "People here are cutting back on groceries to make ends meet. Less water means less farm work. ",
+        "answer": "less farm work",
+        "output": "what does less water mean?"
+    },
+    {
+        "idx": 288,
+        "input": "LVMPD Homicide detectives have arrested the suspect in the February 12th road rage shooting incident. LVMPD ",
+        "answer": "a road rage shooting incident",
+        "output": "what kind of incident happened on february 12th, 2015?"
+    },
+    {
+        "idx": 289,
+        "input": "I condemn attack this morning on @UN in ",
+        "answer": "attack on un",
+        "output": "what does he condemn?"
+    },
+    {
+        "idx": 290,
+        "input": "Beane says, \"This is a sad day for the entire A's organization. Those of us who knew Bob as a teammate and a friend will miss him greatly.\"\u2014 Jane Lee ",
+        "answer": "bob.",
+        "output": "who will be missed by the a's organization?"
+    },
+    {
+        "idx": 291,
+        "input": "After all of these years of suffering thru ObamaCare, Republican Senators must come through as they have promised!\u2014 Donald J. Trump ",
+        "answer": "republican senators",
+        "output": "who must come through?"
+    },
+    {
+        "idx": 292,
+        "input": "Buddy of mine is a diehard Sabres fan. Just checked to see how he's doing. \"I'm hurting dude.\" \u2014 John Molinaro ",
+        "answer": "they are not good at their sport",
+        "output": "are the sabres a good team?"
+    },
+    {
+        "idx": 293,
+        "input": "I had a great time today with @realDonaldTrump and believe we are getting closer to an agreement on health care!\u2014 Senator Rand Paul ",
+        "answer": "health care",
+        "output": "what are paul and trump getting close on agreeing on?"
+    },
+    {
+        "idx": 294,
+        "input": "Just Googled that ",
+        "answer": "unretouched photos.",
+        "output": "did the tweeter google retouched or unretouched photos?"
+    },
+    {
+        "idx": 295,
+        "input": "Very Cool RT \"@ABRVTour: The ",
+        "answer": "#belmont",
+        "output": "where is the trophy at?"
+    },
+    {
+        "idx": 296,
+        "input": "@Allyslikeastar \u2026eight years later, I don't feel like a book about humanizing the other benefited from dehumanizing language. \u2014 John Green ",
+        "answer": "8",
+        "output": "how many years later is john green talking about?"
+    },
+    {
+        "idx": 297,
+        "input": ".@realDonaldTrump, are you sure you are getting enough sleep? ",
+        "answer": "at least 6 hours",
+        "output": "how much sleep should donald trump be getting each night?"
+    },
+    {
+        "idx": 298,
+        "input": "Great @OfficialPanini haul yesterday! Shopkeep even chucked in a loose 20 he had! ",
+        "answer": "$10",
+        "output": "how much did that cost?"
+    },
+    {
+        "idx": 299,
+        "input": "Messi is indisputably the greatest player ever to don a pair of football boots. Don't even attempt to argue the point.\u2014 Gary Lineker ",
+        "answer": "messi",
+        "output": "who dud the tweeter claim is the greatest player ever?"
+    },
+    {
+        "idx": 300,
+        "input": "between the visible and invisible lies a glistening rectangular pane\u2014 Shia LaBeouf ",
+        "answer": "rectangular pane",
+        "output": "what is between the visible and invisible?"
+    },
+    {
+        "idx": 301,
+        "input": "Why isn't the House Intelligence Committee looking into the Bill & Hillary deal that allowed big Uranium to go to Russia, Russian speech....\u2014 Donald J. Trump ",
+        "answer": "russia",
+        "output": "where did the uranium go?"
+    },
+    {
+        "idx": 302,
+        "input": "Job 23 complete! T-shirt making today was an awesome gig. Also, they're hiring at @annarbortees! @snagajob Heath Padgett ",
+        "answer": "annarbortees.",
+        "output": "who is referred to as hiring?"
+    },
+    {
+        "idx": 303,
+        "input": "Ivory Coast confirm: Ibrahim Toure, brother of Kolo and Yaya, died Thursday at age 28. Bleacher Report UK ",
+        "answer": "ivory coast",
+        "output": "who confirmed ibrahim toure's death?"
+    },
+    {
+        "idx": 304,
+        "input": "Same day ",
+        "answer": "fake news",
+        "output": "what did russia call the un reports of aleppo women and children being executed?"
+    },
+    {
+        "idx": 305,
+        "input": "Thank you to everyone for their kind words. My father is doing well and we are all looking forward to spending Christmas together in Arizona. If you're feeling charitable this Christmas @HeadfortheCure or @NBTStweets to help find a cure for brain cancer is what I recommend. \u2764\ufe0f\u2014 Meghan McCain ",
+        "answer": "he is doing well.",
+        "output": "how is meghan mccain's father doing?"
+    },
+    {
+        "idx": 306,
+        "input": ".@eliselabottcnn gives us an inside look aboard @Netanyahu's plane as he heads to DC for his speech to Congress The Situation Room ",
+        "answer": "netanyahu",
+        "output": "whose plane was elise labott giving an inside look at?"
+    },
+    {
+        "idx": 307,
+        "input": "VIDEO: Tornado Damage in Sand Springs Tulsa's Channel 8 ",
+        "answer": "a tornado caused damage and death.",
+        "output": "what is happening in sandy springs ok?"
+    },
+    {
+        "idx": 308,
+        "input": "I think @Madonna had to show us those badass shoes \ud83d\ude0d\ud83d\udc60 during carpool karaoke\u2014cuz we already know she's flexible!!!!\u2014 RealityTC\u00ae \ud83d\udd96\ud83c\udffc ",
+        "answer": "carpool karaoke",
+        "output": "what was madonna doing while wearing the shoes?"
+    },
+    {
+        "idx": 309,
+        "input": "Heaven got some Eagles today. ",
+        "answer": "jane died from cancer",
+        "output": "what did she die from?"
+    },
+    {
+        "idx": 310,
+        "input": "The Democrats are most angry that so many Obama Democrats voted for me. With all of the jobs I am bringing back to our Nation, that number..\u2014 Donald J. Trump ",
+        "answer": "that obama democrats voted for him",
+        "output": "why does donald trump think the democrats are angry?"
+    },
+    {
+        "idx": 311,
+        "input": "\"Aleppo is now a synonym for hell.\" - Ban Ki-moon ",
+        "answer": "aleppo",
+        "output": "what is a synonym for hell?"
+    },
+    {
+        "idx": 312,
+        "input": "I desperately want a reporter to ask Sean Spicer what he has in his teeth Alexandra Gallant ",
+        "answer": "in his teeth",
+        "output": "where does he have something?"
+    },
+    {
+        "idx": 313,
+        "input": "I'm very sad to hear about David Cassidy. There were times in the mid-1970s when he would come over to my house and we even started writing a song together. He was a very talented and nice person. Love & Mercy to David and his family.\u2014 Brian Wilson ",
+        "answer": "david cassidy",
+        "output": "who has passed away?"
+    },
+    {
+        "idx": 314,
+        "input": "Rep. Elijah Cummings: President Trump should be focused on investigating voter suppression instead of voter fraud CNN Politics ",
+        "answer": "elijah cummings",
+        "output": "who thinks trump should be focused on investigating voter suppression?"
+    },
+    {
+        "idx": 315,
+        "input": "Imagine the shock at FIFA HQ when, 2 years after the vote, someone spotted that Qatar's a tad warm in summer.\u2014 Gary Lineker ",
+        "answer": "fifa headquarters",
+        "output": "who was shocked to learn that qatar is warm in the summer?"
+    },
+    {
+        "idx": 316,
+        "input": "We Go Hard or We Go Home!! WANGFEST! \ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf5f\ud83c\udf5f\ud83c\udf5f\ud83c\udf7e\ud83c\udf7e\ud83c\udf7e\ud83d\udcaf\ud83d\ude02\ud83d\ude02 Madonna ",
+        "answer": "hard",
+        "output": "how do they go?"
+    },
+    {
+        "idx": 317,
+        "input": "Alright Ladies , today i am inspired the women in tech in Africa came together despite tool fails to share and collaborate ",
+        "answer": "come together to share and collaborate",
+        "output": "what did the women in tech in africa do?"
+    },
+    {
+        "idx": 318,
+        "input": "We should collectively be fighting for a more open world, not one that promotes hatred and a lack of acceptance.\u2014 Cooper Hefner ",
+        "answer": "hatred",
+        "output": "what does the world currently promote?"
+    },
+    {
+        "idx": 319,
+        "input": "Today I met Vo Ban Tam, a former VC enemy who farms shrimp and crab on the same ",
+        "answer": "the mekong river",
+        "output": "where is his farm located on?"
+    },
+    {
+        "idx": 320,
+        "input": "I'm fine with kids playing on a Vietnam war memorial. We have a WWI version in a park & I let mine. Those complaining need to get a life.\u2014 Newfangled Dad ",
+        "answer": "hes fine with it",
+        "output": "what is newfangleddad's opinion on letting kids play on memorials?"
+    },
+    {
+        "idx": 321,
+        "input": "Teamed w/ @Apple to make the biggest, coolest, sexiest, funnest ",
+        "answer": "make a movie",
+        "output": "what did the rock and apple do together?"
+    },
+    {
+        "idx": 322,
+        "input": "Rally homework for @WalesRallyGB.Trying to feel slightly prepared even though im so out of my comfort zone!! Amy Williams MBE ",
+        "answer": "amy williams",
+        "output": "who is trying to feel slightly prepared?"
+    },
+    {
+        "idx": 323,
+        "input": "Worth saying again: it is DRY dry out here. Lots of fields like this. Plowing the dust. ",
+        "answer": "california",
+        "output": "what state is john stutter talking about?"
+    },
+    {
+        "idx": 324,
+        "input": "I had just finished locking my bike up at Elgin & Sparks when I heard four shots - one, two then one, two. ",
+        "answer": "elgin & sparks",
+        "output": "where did the tweeter  say that he locked up his bike?"
+    },
+    {
+        "idx": 325,
+        "input": "I am very disappointed in China. Our foolish past leaders have allowed them to make hundreds of billions of dollars a year in trade, yet...\u2014 Donald J. Trump ",
+        "answer": "hundreds of billions of dollars",
+        "output": "how much in trades per year has china been allowed by past presidents?"
+    },
+    {
+        "idx": 326,
+        "input": "Sad this new Indiana law can happen in America today. We shouldn't discriminate against ppl bc of who they love ",
+        "answer": "mike pence",
+        "output": "who is signing the bill?"
+    },
+    {
+        "idx": 327,
+        "input": "Big thank you to everyone for the support and heart felt messages wishing me a speedy recovery. Was a scary moment but am feeling good \u2014 daniel winnik ",
+        "answer": "support for a speedy recovery",
+        "output": "what did everyone give daniel"
+    },
+    {
+        "idx": 328,
+        "input": "@bartoli_marion @hfleconte only if you get fit- in shape- and healthy. And commit yourself to getting back to the top. Sounds easy enough!!\u2014 Jimmy Connors ",
+        "answer": "bartolli marion",
+        "output": "who is jimmy connors tweeting?"
+    },
+    {
+        "idx": 329,
+        "input": "Oh, I get it. This is like...trying to recreate the panic of the Cubs vs. Indians game?!?!?\u2014 Taran Killam ",
+        "answer": "a panic.",
+        "output": "what happened at the cubs vs. indians game?"
+    },
+    {
+        "idx": 330,
+        "input": "After I moved with my wife to Los Angeles from New York City in 2001 shortly after 9/11, I told people that I was in one of the World Trade\u2014 Stephen Rannazzisi ",
+        "answer": "after he moved to los angeles.",
+        "output": "when did stephen tel people that he was in one of the world trade?"
+    },
+    {
+        "idx": 331,
+        "input": "Proud to celebrate a historic victory for marriage equality\u2014& the courage & determination of LGBT Americans who made it possible. -H\u2014 Hillary Clinton ",
+        "answer": "the lgbt community",
+        "output": "who does hillary clinton support?"
+    },
+    {
+        "idx": 332,
+        "input": "Pharrell vs Smokey the Bear. who did it better ? \u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800 ",
+        "answer": "pharrell",
+        "output": "who is being compared to smokey bear?"
+    },
+    {
+        "idx": 333,
+        "input": "That's how much you were loved Hugo! ",
+        "answer": "funeral tribute to a sports star",
+        "output": "what is going on?"
+    },
+    {
+        "idx": 334,
+        "input": "Too beautiful to be gone so soon. Touching montage to @paulwalker at the end of ",
+        "answer": "montage",
+        "output": "touching what at the end?"
+    },
+    {
+        "idx": 335,
+        "input": "To support @scrippsresearch's work in finding a cure for ",
+        "answer": "ebola",
+        "output": "what is @scrippsresearch's work is finding a cure for?"
+    },
+    {
+        "idx": 336,
+        "input": "OCI release on Rory McIlroy's decision to withdraw from consideration for Rio 2016 Olympics: Team Ireland ",
+        "answer": "his participation in 2016 olympics.",
+        "output": "what did rory mcilroy cancel?"
+    },
+    {
+        "idx": 337,
+        "input": "The Roger Stone report on @CNN is false - Fake News. Have not spoken to Roger in a long time - had nothing to do with my decision.\u2014 Donald J. Trump ",
+        "answer": "donald j trump",
+        "output": "who is calling roger stone report fake news?"
+    },
+    {
+        "idx": 338,
+        "input": "So very sad to hear the awful news about Anton Yelchin. Such a fine actor with his whole career ahead of him. He will be remembered always.\u2014 Mark Hamill ",
+        "answer": "anton yelchin",
+        "output": "who was the sad news about?"
+    },
+    {
+        "idx": 339,
+        "input": "Do I think Evans and Renner meant ill? No. Do I think they did something sexist because they weren't thinking and were wrong to do so? Yes.\u2014 ElfGrove ",
+        "answer": "elf grove",
+        "output": "who wrote the tweet?"
+    },
+    {
+        "idx": 340,
+        "input": "The llama chase reminds me of story when I worked in Columbus. Wayward llama was killed by hit and run driver. We called it the llamacide.\u2014 Steve Brusk ",
+        "answer": "columbus",
+        "output": "where did they work?"
+    },
+    {
+        "idx": 341,
+        "input": "Great day of work. Looking forward to @CNN's @BenWyattCNN's interview on me and my fight @Palms. Stay Tuned! Ashley Theophane ",
+        "answer": "palms hotel",
+        "output": "where is the fight?"
+    },
+    {
+        "idx": 342,
+        "input": "Thinking we're only one signature away from ending the war in Iraq. Learn more at Barack Obama ",
+        "answer": "iraq",
+        "output": "where are we close to ending the war in?"
+    },
+    {
+        "idx": 343,
+        "input": "Rat On Mars In NASA Photo at Rover, Lizard Or Rodent, May 2013. UFO Sighting News. ",
+        "answer": "a rat",
+        "output": "what type of animal has been spotted on mars?"
+    },
+    {
+        "idx": 344,
+        "input": "Palm beach zoo official: tiger trainer has died after mauling. Victim loved animals Cory Pippin ",
+        "answer": "mauled by a tiger",
+        "output": "what happened to the tiger trainer?"
+    },
+    {
+        "idx": 345,
+        "input": "The Trump administration's war on the LGBT community has begun. Be prepared to take our fight to the streets. Are you with us, LGBT allies?\u2014 George Takei ",
+        "answer": "trumps war on the lgbt community",
+        "output": "what war has begun?"
+    },
+    {
+        "idx": 346,
+        "input": "I really only liked Lilly because not everyone could afford it. Like. I don't want to wear it if my maid can too. ",
+        "answer": "lilly",
+        "output": "what did catie like because of the price?"
+    },
+    {
+        "idx": 347,
+        "input": "Keep getting asked for a remix. U know @drake is my brother for life...should we do this? Part 1 today ;)\u2014 Justin Bieber ",
+        "answer": "a remix",
+        "output": "what does he keep getting asked for?"
+    },
+    {
+        "idx": 348,
+        "input": "Here's Wade and grandkids. ",
+        "answer": "their grandfather wade",
+        "output": "who are the kids going with?"
+    },
+    {
+        "idx": 349,
+        "input": "Made a new Instagram,gonna post lots of beautiful photos of naked women I think.Tasteful, non aggressive, whomever wants to see can, if not\u2014 Scout LaRue Willis ",
+        "answer": "scout larue willis",
+        "output": "who made a new instagram"
+    },
+    {
+        "idx": 350,
+        "input": "Tshirt hanging outside Lippo Centre in Admiralty ",
+        "answer": "outside lippo centre in admiralty",
+        "output": "where is the t-shirt hanging?"
+    },
+    {
+        "idx": 351,
+        "input": "I'm surprised Betsy DeVos hasn't publicly supported this snow storm yet as it's shutting down all local public schools.\u2014 Gideon Glick ",
+        "answer": "the snow",
+        "output": "what is shutting down the public schools?"
+    },
+    {
+        "idx": 352,
+        "input": "Steve Montador epitomized what a \"true pro\" is... He will be missed by all ",
+        "answer": "steve montador",
+        "output": "who epitomized what a \"true pro\" is?"
+    },
+    {
+        "idx": 353,
+        "input": "So sad Robin Williams died :",
+        "answer": "robin williams",
+        "output": "fran drescher is sad because who died?"
+    },
+    {
+        "idx": 354,
+        "input": "Karen & I send our sympathies to the victims of the ",
+        "answer": "karen and rick",
+        "output": "who sends their sympathies to the victims?"
+    },
+    {
+        "idx": 355,
+        "input": "Sheriff David Clarke: \"I would like to make something very clear \u2014 blue lives matter\" CNN Politics ",
+        "answer": "blue lives matter",
+        "output": "what does sheriff david clarke want to make sure?"
+    },
+    {
+        "idx": 356,
+        "input": "Just when you thought... Julia Louis-Dreyfus ",
+        "answer": "universal health care",
+        "output": "what type of healthcare is this user advocating in the last sentence?"
+    },
+    {
+        "idx": 357,
+        "input": "I like this guy's spunk. \"You won't make it to the Bay..you'd better be one f'ing good paddler\" I have my doubts too! John D. Sutter ",
+        "answer": "f'ing good paddler",
+        "output": "what would you have to be to make it to the bay"
+    },
+    {
+        "idx": 358,
+        "input": "One of the uncomfortable things I learned on my trip down the ",
+        "answer": "irrigation issues of the endangered river",
+        "output": "what disaster happened in the 1980s?"
+    },
+    {
+        "idx": 359,
+        "input": "",
+        "answer": "bringing a son into the world",
+        "output": "what does this couple worry about?"
+    },
+    {
+        "idx": 360,
+        "input": "Maine judge eases nurse's quarantine. We'll have more at 7pE on @CNN. Judge also ordered her to do the following: U \u2014 OutFrontCNN ",
+        "answer": "maine",
+        "output": "where is the judge from that eased the nurse's quarantine?"
+    },
+    {
+        "idx": 361,
+        "input": "If I saw him in the street, I would run him over so I could tend to his wounds @lebophoo Marjmakh ",
+        "answer": "it's the hair and the eyes",
+        "output": "what makes him hot?"
+    },
+    {
+        "idx": 362,
+        "input": "....Because of the Democrats not being interested in life and safety, DACA has now taken a big step backwards. The Dems will threaten \"shutdown,\" but what they are really doing is shutting down our military, at a time we need it most. Get smart, MAKE AMERICA GREAT AGAIN!\u2014 Donald J. Trump ",
+        "answer": "the democrats",
+        "output": "what group is not interested in life and safety?"
+    },
+    {
+        "idx": 363,
+        "input": "It's weird how the Trump robot at the Hall of Presidents is Trump from an HBO movie five years from now where he's played by Jon Voight Jason Bailey ",
+        "answer": "jon voight",
+        "output": "what celebrity does the hall of presidents trump robot look like?"
+    },
+    {
+        "idx": 364,
+        "input": "Any way you look at it, suicide is wrong because it does not end suffering, it ends hope. Before anybody starts... ZEFFeREEN ",
+        "answer": "because it \"ends hope\".",
+        "output": "why is zerrereen against suicide?"
+    },
+    {
+        "idx": 365,
+        "input": ">@cnn @cnnhealth because we are an obese nation, full of addicts to drugs and alcohol who only crave more. ",
+        "answer": "addicts to drugs and alcohol",
+        "output": "what is the nation full of?"
+    },
+    {
+        "idx": 366,
+        "input": "Afghan skiers showing up in record numbers for the Bamiyan Ski Challenge which is the brainchild of Christoph Z\u00fcrcher Saad Mohseni ",
+        "answer": "christoph z\u00fcrcher",
+        "output": "whose idea was the bamiyan ski challenge?"
+    },
+    {
+        "idx": 367,
+        "input": "WHY IS AMERICAN HORROR STORY TRYING TO KILL ME Spencer Althouse ",
+        "answer": "killing me",
+        "output": "what is american horror story doing"
+    },
+    {
+        "idx": 368,
+        "input": "If you Photoshop Australia so it's just off the coast of Portugal, letting them into Eurovision kind of makes sense The Media Blog ",
+        "answer": "eurovision",
+        "output": "what event did the suggested photo edit make sensible for australia to be allowed into?"
+    },
+    {
+        "idx": 369,
+        "input": "@cnni I hope the families of the victims get the truth and finally closure ",
+        "answer": "karen's 100",
+        "output": "who is the poster of this tweet?"
+    },
+    {
+        "idx": 370,
+        "input": "RealGM @RealGMFuture Traded Picks ",
+        "answer": "future traded picks",
+        "output": "where can you find selections for nba teams?"
+    },
+    {
+        "idx": 371,
+        "input": "Just when you think you can chill out in the apocalypse, they eat Bob's leg. ",
+        "answer": "#bobbq",
+        "output": "what is the second hashtag captain mayhem used in his tweet?"
+    },
+    {
+        "idx": 372,
+        "input": "@jdsutter @CNN theres more important things to worry about ",
+        "answer": "poverty war and homelessness",
+        "output": "what things are more important?"
+    },
+    {
+        "idx": 373,
+        "input": "Thoughts & prayers with the family of our dear brother Maurice White. Your contributions to music will be kept in our hearts & souls 4ever.\u2014 Quincy Jones ",
+        "answer": "his contributions to music",
+        "output": "what will be kept in their hearts and soul 4ever?"
+    },
+    {
+        "idx": 374,
+        "input": "Nigeria has successfully contained ",
+        "answer": "ebola",
+        "output": "what virus was successfully contained?"
+    },
+    {
+        "idx": 375,
+        "input": "With just one exchange, Ben Edelman manages to drag himself, @Harvard, and his entire profession through the mud. Dan Lovejoy ",
+        "answer": "harvard",
+        "output": "what school did the tweeter say had been dragged through the mud by edelman?"
+    },
+    {
+        "idx": 376,
+        "input": "CS ",
+        "answer": "evacuated passangers",
+        "output": "who did they have lunch with?"
+    },
+    {
+        "idx": 377,
+        "input": "Senator Bob Corker \"begged\" me to endorse him for re-election in Tennessee. I said \"NO\" and he dropped out ",
+        "answer": "tennessee",
+        "output": "what state was bob corker running for re-election?"
+    },
+    {
+        "idx": 378,
+        "input": "I certainly hope the Democrats do not force Nancy P out. That would be very bad for the Republican Party - and please let Cryin' Chuck stay!\u2014 Donald J. Trump ",
+        "answer": "nancy p",
+        "output": "who does he wish the democrats would not push out"
+    },
+    {
+        "idx": 379,
+        "input": "I will 100000000000% take you up on this. Ariana Grande ",
+        "answer": "100000000000%",
+        "output": "what percentage will ariana grande take someone up on?"
+    },
+    {
+        "idx": 380,
+        "input": "We know y'all are \"pickin & grinnin\" in Heaven tonight. RIP Little Jimmy Dickens. \u2014 Alan Jackson ",
+        "answer": "pickin' and grinnin'",
+        "output": "what is little jimmy dickens doing there?"
+    },
+    {
+        "idx": 381,
+        "input": "@ESPNNFL @USAA I've never heard a trumpet sound so beautiful.\u2014 Razor Michael ",
+        "answer": "trumpet",
+        "output": "what has razor never heard sound so beautiful?"
+    },
+    {
+        "idx": 382,
+        "input": "WH Legal Counsel might want to prepare for a call from Bruce Braley, gotta avoid a \"litigious situation\" over mispronouncing name ",
+        "answer": "a litigious situation",
+        "output": "what kind of situation should be avoided?"
+    },
+    {
+        "idx": 383,
+        "input": "RIP MY BROTHER DUSTY RHODES. GOD BLESS YOU AND YOUR FAMILY FOREVER ",
+        "answer": "forever",
+        "output": "how long should god bless dusty and his family?"
+    },
+    {
+        "idx": 384,
+        "input": ".@HeathrowAirport Why can you test my toiletries to make sure they are safe but you have to throw away my breast milk?\u2014 Alyssa Milano ",
+        "answer": "heathrow airport",
+        "output": "who is testing your toiletries"
+    },
+    {
+        "idx": 385,
+        "input": "Congratulations. It was a fantastic and spirited performance from our boys. Well done! We are very proud of them. ",
+        "answer": "very proud of them",
+        "output": "how do we feel about the boys?"
+    },
+    {
+        "idx": 386,
+        "input": "RIP MY BROTHER DUSTY RHODES. GOD BLESS YOU AND YOUR FAMILY FOREVER ",
+        "answer": "brother",
+        "output": "how is dusty related to the iron sheik?"
+    },
+    {
+        "idx": 387,
+        "input": "The ",
+        "answer": "ahead of its launch on tuesday",
+        "output": "when did the bus arrive?"
+    },
+    {
+        "idx": 388,
+        "input": "@NatRothschild1 Indonesia is an amazing investment haven make no mistake...Its only bad when a minority try to take control by dirty trick\u2014 Aga Bakrie ",
+        "answer": "indonesia",
+        "output": "what country is an amazing investment?"
+    },
+    {
+        "idx": 389,
+        "input": "VINE: The lads went sub zero in the cryotherapy chamber to aid their recovery on Thursday ",
+        "answer": "the lads",
+        "output": "who went in the cryotherapy chamber?"
+    },
+    {
+        "idx": 390,
+        "input": "Mr Cohen, I would not be surprised is Hillary is somehow behind this. Clinton's play dirty tricks when desperate. californiagirl*10 ",
+        "answer": "hillary clinton",
+        "output": "who is this tweet about?"
+    },
+    {
+        "idx": 391,
+        "input": "Earlier we told you about 2 arrests that we made. There have been no additional arrests. The protesters remain peaceful. ",
+        "answer": "two arrests",
+        "output": "how many arrests were made?"
+    },
+    {
+        "idx": 392,
+        "input": "Bruce Feldman @BruceFeldmanCFBI could see Myron Rolle or Jeremy Bloom. Both have done some amazing things already in their short times away from\u2026 , 2:03:22 AM ",
+        "answer": "myron rolle or jeremy bloom.",
+        "output": "who could bruce feldman see?"
+    },
+    {
+        "idx": 393,
+        "input": "Man chill y'all damn \ud83d\ude2d\ud83d\ude2d some random nigga ",
+        "answer": "chill",
+        "output": "what does @youngtravo what you to do?"
+    },
+    {
+        "idx": 394,
+        "input": "@CNN Aren't they afraid virus can mutate & become airborne? ",
+        "answer": "it can evolve",
+        "output": "what can the virus do?"
+    },
+    {
+        "idx": 395,
+        "input": "USSS K-9 Hurricane - black Belgian Malinois, brown eyes, age 6, enjoys playing with his Kong toy, ready to work U.S. Secret Service ",
+        "answer": "kong toy",
+        "output": "what toy does malinois like?"
+    },
+    {
+        "idx": 396,
+        "input": "\"@GoodOlang: @ToshyKin Does it again. When is 'The Nairobians' coming out?\" Soon brav.. soon... stay tuned\u2014 Tosh Gitonga ",
+        "answer": "the nairobians",
+        "output": "what should we stay tuned for?"
+    },
+    {
+        "idx": 397,
+        "input": "Still sad that Jay had to leave but @jimmyfallon is an awesome replacement! What a cool class act! Way to go Jimmy... ",
+        "answer": "jimmy fallon",
+        "output": "what cool class act replaced jay?"
+    },
+    {
+        "idx": 398,
+        "input": ".@RUPERTMURDOCH PLEASE TELL ME WHAT HAVE YOU DONE TO STOP ANY AND ALL CRIMES COMMITTED BY PEOPLE OF YOUR RELIGION???!!!\u2014 Aziz Ansari ",
+        "answer": "his religion",
+        "output": "what connection does murdoch have to the people who committed crimes?"
+    },
+    {
+        "idx": 399,
+        "input": ".@POTUS stopping by the show tonight!! @Madonna performs!! Go set your DVR, it's a great one!! ",
+        "answer": "madonna",
+        "output": "who is performing at potus?"
+    },
+    {
+        "idx": 400,
+        "input": "If Russia, or some other entity, was hacking, why did the White House wait so long to act? Why did they only complain after Hillary lost?\u2014 Donald J. Trump ",
+        "answer": "russian hacking",
+        "output": "what is donald trump complaining about?"
+    },
+    {
+        "idx": 401,
+        "input": "Agreement reached with Atletico Madrid for the transfer of Filipe Luis: ",
+        "answer": "filipe luis",
+        "output": "who is being transferred?"
+    },
+    {
+        "idx": 402,
+        "input": "Mainly married so I cud stop using the word fianc\u00e9\u2014 Chelsea Peretti ",
+        "answer": "married",
+        "output": "what is the tweeter's marital status?"
+    },
+    {
+        "idx": 403,
+        "input": "So, was ",
+        "answer": "#mariahcarey",
+        "output": "who's rockefeller performance was sean p. farley talking about?"
+    },
+    {
+        "idx": 404,
+        "input": "Mary Berry's diet never fails to surprise us... ",
+        "answer": "marry's berry diet",
+        "output": "what surprises british bake off?"
+    },
+    {
+        "idx": 405,
+        "input": "How many Oscar-winning actors take time to drive students home safely? Only @McConaughey. The reactions: priceless. \u2014 Paul Begala ",
+        "answer": "to their homes",
+        "output": "where is the actor driving the students?"
+    },
+    {
+        "idx": 406,
+        "input": "Woah! Hold the phone. Catching wind the Preds are interested. Hang tight\u2026 \u2014 Paul Bissonnette ",
+        "answer": "paul bissonnette",
+        "output": "who wants to hold the phone?"
+    },
+    {
+        "idx": 407,
+        "input": "PM: \"I'm delighted by the news that the Duke & Duchess of Cambridge are expecting a baby. They will make wonderful parents.\" ",
+        "answer": "the duke and duchess of cambridge",
+        "output": "who is expecting a baby?"
+    },
+    {
+        "idx": 408,
+        "input": "I resolve to spend less time voting in the Senate so @Marcorubio & @tedcruz don't look bad bc they don't show up for work. JK. Do your jobs.\u2014 Dr. Rand Paul ",
+        "answer": "very little because he is just kidding.",
+        "output": "how serious is senator paul's resolve?"
+    },
+    {
+        "idx": 409,
+        "input": "Muhammad Fazel @MoFizzle10MSG got no chill, straight up chanting \"Derek Fisher\" when Matt Barnes is taking the ball out \ud83d\ude02....smh12/5/2016, 3:29:47 AM ",
+        "answer": "derek fisher's name",
+        "output": "what was being chanted?"
+    },
+    {
+        "idx": 410,
+        "input": "So, my son, a 3rd year chem major at Yale was just accosted - at GUN POINT - by a Yale policeman bc he \"fit the description\" of a suspect...\u2014 Charles M. Blow ",
+        "answer": "accosted at gun point",
+        "output": "what happened to him?"
+    },
+    {
+        "idx": 411,
+        "input": "well done on a wonderful career in test cricket @msdhoni. Always enjoyed playing together. Next target 2015 WC my friend!!\u2014 sachin tendulkar ",
+        "answer": "2015 wc",
+        "output": "what is the next goal for the cricketer?"
+    },
+    {
+        "idx": 412,
+        "input": "So Ed Sheeran is releasing new music and my year is already made.\u2014 \u2716\ufe0f Anika \u2716\ufe0f ",
+        "answer": "ed sheeran i",
+        "output": "who is releasing new music ?"
+    },
+    {
+        "idx": 413,
+        "input": "Don't have the stomach to be lectured by ",
+        "answer": "she didn't have the stomach for it.",
+        "output": "why didn't kathy want to listen?"
+    },
+    {
+        "idx": 414,
+        "input": "This is an attack on our people. An attack on Orlando. An attack on Florida. An attack on America. An attack on all of us.\u2014 Rick Scott ",
+        "answer": "this is an attack",
+        "output": "does this person feel like he's being threatened?"
+    },
+    {
+        "idx": 415,
+        "input": "People fleeing intensified fighting in ",
+        "answer": "idp camps along the main highway.",
+        "output": "where are they headed?"
+    },
+    {
+        "idx": 416,
+        "input": "offensive costume.Excluded from photos, told to change yet teacher dressed as a serial killer and others with guns? nicola scholes ",
+        "answer": "serial killer",
+        "output": "what did the teacher dress up as?"
+    },
+    {
+        "idx": 417,
+        "input": "I certainly hope the Democrats do not force Nancy P out. That would be very bad for the Republican Party - and please let Cryin' Chuck stay!\u2014 Donald J. Trump ",
+        "answer": "the republican party",
+        "output": "who would it be bad for"
+    },
+    {
+        "idx": 418,
+        "input": "Government is simply a word for the things we decide to do together. Like choke men to death over rules governing the sale of cigarettes.\u2014 Charles C. W. Cooke ",
+        "answer": "government",
+        "output": "what is the word for things we do together?"
+    },
+    {
+        "idx": 419,
+        "input": "Hui King To, who's been at protests since the start, says he feels \"a little bit confused\" about where they're headed Jethro Mullen ",
+        "answer": "confused",
+        "output": "how does hui feel"
+    },
+    {
+        "idx": 420,
+        "input": "6.5 million people die each year from diseases related to ",
+        "answer": "6.5 million",
+        "output": "how many people die from air pollution per year?"
+    },
+    {
+        "idx": 421,
+        "input": "",
+        "answer": "iran",
+        "output": "what country is the deal with?"
+    },
+    {
+        "idx": 422,
+        "input": "Trans and not Caitlyn Jenner? 36% of trans women lost a job because of their gender identity: The Task Force ",
+        "answer": "36%",
+        "output": "gender identity accounts for what percentage of lost jobs, for trans women?"
+    },
+    {
+        "idx": 423,
+        "input": "It is so nice that the shackles have been taken off me and I can now fight for America the way I want to.\u2014 Donald J. Trump ",
+        "answer": "donald trump",
+        "output": "who is looking to fight for america?"
+    },
+    {
+        "idx": 424,
+        "input": "StayOut of every1 else's lives cept your own.You steady busy making a persons life ur tvshow when urs is in shambles. ",
+        "answer": "steady",
+        "output": "how busy is nickdgordon?"
+    },
+    {
+        "idx": 425,
+        "input": "Mudslide knocks house in Gilbert off foundation; woman taken to hospital ",
+        "answer": "taken to hospital",
+        "output": "what happened to the woman?"
+    },
+    {
+        "idx": 426,
+        "input": "It's been a cold, hard week out on the Solent but the guys got a lot of good work done; @americascup ",
+        "answer": "good",
+        "output": "what type of work did the guys get done?"
+    },
+    {
+        "idx": 427,
+        "input": "Brown hit on Couture 0D \u2014 Stephanie ",
+        "answer": "couture",
+        "output": "who is brown accused of hitting?"
+    },
+    {
+        "idx": 428,
+        "input": "Baltimore residents line up to protect Police. ",
+        "answer": "baltimore",
+        "output": "where were the residents from who stood in the line?"
+    },
+    {
+        "idx": 429,
+        "input": "Lucic: \"I\u2019ve been in the league for seven years and I think I\u2019ve only done that three times. I don\u2019t know why I did it.\u201d\u2014 Ansar Khan ",
+        "answer": "seven years",
+        "output": "how many years has lucic been in the league?"
+    },
+    {
+        "idx": 430,
+        "input": "@candacecbure The Full House sequel ",
+        "answer": "full house",
+        "output": "what is fuller house a sequel of?"
+    },
+    {
+        "idx": 431,
+        "input": "Unretouched photos of Beyonc\u00e9 from a L'Oreal shoot have leaked. World goes mad. U Cosmopolitan UK ",
+        "answer": "beyonce",
+        "output": "who is in the unretouched photos?"
+    },
+    {
+        "idx": 432,
+        "input": "Maybe if you can't relate to 'Cat Person' it's because you are not a woman who has ever been on a date with a man.\u2014 Meghan Murphy ",
+        "answer": "relate to a \"cat person\"",
+        "output": "what can you relate to if you're a woman who has dated a man?"
+    },
+    {
+        "idx": 433,
+        "input": "I just spoke to Daniel. You know when you\u2019re on the phone trying to disguise the sound of an ugly cry? I failed at that.\u2014 Jordan Peele ",
+        "answer": "an ugly cry",
+        "output": "what did jordan peele fail to disguise the sound of?"
+    },
+    {
+        "idx": 434,
+        "input": "Thanks for the inspiration @asmith83 & @sllambe - I'll take it from here... ",
+        "answer": "@asmith83 and @sllambe",
+        "output": "who inspired hillary clinton"
+    },
+    {
+        "idx": 435,
+        "input": "I have studied Dianetics, and appreciate the merits of Study Tech... but I am not a Scientologist.\u2014 Jada Pinkett Smith ",
+        "answer": "jada pinkett smith",
+        "output": "who has studied dianetics and study tech?"
+    },
+    {
+        "idx": 436,
+        "input": "Dear @SonyPictures - please make ",
+        "answer": "sony pictures",
+        "output": "who should make the interview movie in dvd?"
+    },
+    {
+        "idx": 437,
+        "input": "The fact that Harry Reid called up Murthy right away on Monday proves this vote was going to happen with or without Cruz's amnesty vote\u2014 Amanda Carpenter ",
+        "answer": "harry reid.",
+        "output": "who called murthy on monday?"
+    },
+    {
+        "idx": 438,
+        "input": "\"@writer_dad: Why Brazil is so entertaining to watch ",
+        "answer": "their lineup",
+        "output": "what makes team brazil fun to watch?"
+    },
+    {
+        "idx": 439,
+        "input": "Well I guess it is time to say goodbye to all my friends, family, support team. I will be making my final impact very soon.\u2014 MESSENGER ",
+        "answer": "very soon",
+        "output": "when will the tweeter make final impact?"
+    },
+    {
+        "idx": 440,
+        "input": "Really, @FlyAirNZ ? I am very disappointed. Suggest a read of @NZSexism & look at what you are aligning with Sarah ",
+        "answer": "@flyairnz",
+        "output": "who is sarah very disappointed with?"
+    },
+    {
+        "idx": 441,
+        "input": "This is the Halftime Show that every kid who ever had to play the tree in the school play dreams of performing in ",
+        "answer": "halftime show",
+        "output": "what is the event being referenced?"
+    },
+    {
+        "idx": 442,
+        "input": "Just watched the first episode of How to get Away with Murder and oh my god I'm already obsessed! This show is gonna be addicting!\u2014 Carissa Davenport ",
+        "answer": "how to get away with murder",
+        "output": "what show is carissa davenport obsessing over?"
+    },
+    {
+        "idx": 443,
+        "input": "The President made clear he would continue pushing the wall, just not as part of this agreement. Matt House ",
+        "answer": "the wall",
+        "output": "what would the president continue to push?"
+    },
+    {
+        "idx": 444,
+        "input": "BREAKING: A look at how quickly the fire burning at the Avalon complex in ",
+        "answer": "edgewater, nj",
+        "output": "what city experienced the out of control fire?"
+    },
+    {
+        "idx": 445,
+        "input": "*Dolores holds gun to head*\"This place must not be good for you!\"- WIlliam, being ever the observant ",
+        "answer": "william",
+        "output": "who observes dolores hold a gun to her head in westworld?"
+    },
+    {
+        "idx": 446,
+        "input": "I'm proud to stand with Gov. @mike_pence for religious liberty, and I urge Americans to do the same Ted Cruz ",
+        "answer": "gov. mike_pence",
+        "output": "who is ted cruz standing with?"
+    },
+    {
+        "idx": 447,
+        "input": "I find it ironic that you detest Nazis and hate but use a 45 symbol nearly shaped like the swastika. How very tolerant of you.\u2014 Covfefe Deplorable ",
+        "answer": "a swastika",
+        "output": "what is the symbol shaped like?"
+    },
+    {
+        "idx": 448,
+        "input": "Thanks @CollegeBoard & @khanacademy for extensive & free prep. My guy felt ready & familiar w/ ",
+        "answer": "may 10",
+        "output": "what date do scores come out?"
+    },
+    {
+        "idx": 449,
+        "input": "I can't force my iPhone to repeat Trump's bizarre typo. He must have overridden the spell check. Insisting as always on his mistakes. John Aravosis ",
+        "answer": "trumps bizarre typo",
+        "output": "what can't he get his iphone to repeat?"
+    },
+    {
+        "idx": 450,
+        "input": "\u201cTimes up. It\u2019s time to stand by women and what they are saying.\u201d",
+        "answer": "times up button",
+        "output": "what button is daniel kaluuya wearing?"
+    },
+    {
+        "idx": 451,
+        "input": "Everyone acting like Jennifer Aniston is celebrating now but have they SEEN Justin Theroux? She's been doing just fine guys. Erin ",
+        "answer": "jennifer aniston",
+        "output": "what actress is mentioned in the tweet?"
+    },
+    {
+        "idx": 452,
+        "input": "200 people at ",
+        "answer": "two-hundred people",
+        "output": "how many people were at the mayor's office?"
+    },
+    {
+        "idx": 453,
+        "input": "Activists in support of BLMUK ",
+        "answer": "london city airport",
+        "output": "what did the activists shutdown?"
+    },
+    {
+        "idx": 454,
+        "input": "Some grabbed their mothers' skirts, others wore their girlfriends'. ",
+        "answer": "morthers or girlfriends",
+        "output": "whose skirts did they wear?"
+    },
+    {
+        "idx": 455,
+        "input": "I have not heard any of the pundits or commentators discussing the fact that I spent FAR LESS MONEY on the win than Hillary on the loss!\u2014 Donald J. Trump ",
+        "answer": "hillary clinton",
+        "output": "who did he defeat with far less money than his opponent?"
+    },
+    {
+        "idx": 456,
+        "input": "Another great day yesterday. Thank you to everyone that made it possible \ud83d\ude1a Daniel Ricciardo ",
+        "answer": "everyone",
+        "output": "who did daniel ricciardo thank?"
+    },
+    {
+        "idx": 457,
+        "input": "Personally, I have a wonderful experience of working with Japan as CM. I am sure we will take India-Japan ties to newer heights.\u2014 Narendra Modi ",
+        "answer": "he has a great working relationship with japan.",
+        "output": "how does this person feel on working with japan?"
+    },
+    {
+        "idx": 458,
+        "input": ">@cnn @cnnhealth because we are an obese nation, full of addicts to drugs and alcohol who only crave more. ",
+        "answer": "obese",
+        "output": "what kind of nation are we?"
+    },
+    {
+        "idx": 459,
+        "input": "For those misrepresenting my ",
+        "answer": "it was misrepresenting",
+        "output": "what concerns @hyla about the interview."
+    },
+    {
+        "idx": 460,
+        "input": "Historic Charleston churches to ring bells in unity Sunday for shooting victims via @postandcourier\u2014 Mike Mooneyham ",
+        "answer": "shooting victims",
+        "output": "what do the churches ring their bells for?"
+    },
+    {
+        "idx": 461,
+        "input": "I went to bed in shock and I woke up in shock...how am I supposed to work today? I need bereavement leave! @WalkingDead_AMC ",
+        "answer": "shock",
+        "output": "in what state of mind was christopher cross in, upon waking up?"
+    },
+    {
+        "idx": 462,
+        "input": "Working all the angles. Took this ",
+        "answer": "hydrated minerals",
+        "output": "what did the curiosity rover find?"
+    },
+    {
+        "idx": 463,
+        "input": "He's a ",
+        "answer": "cia",
+        "output": "what did james woolsey once run?"
+    },
+    {
+        "idx": 464,
+        "input": "Tonight, Sweden has comfortably demonstrated that it has a better grasp of comedy than 99% of Hollywood writers. ",
+        "answer": "sweden",
+        "output": "what country demonstrated a better grasp of comedy?"
+    },
+    {
+        "idx": 465,
+        "input": "As such, we are handing control of this account over to several activists & journalists who believe they can continue in the same spirit.\u2014 AltUSNatParkService ",
+        "answer": "activists and journalists.",
+        "output": "who is not alt world letting their twitter account be handled by?"
+    },
+    {
+        "idx": 466,
+        "input": "U got it big dawg !!! Lol I see u, Ima send u a video of me tomorrow throwin a ball the whole football field \ud83d\ude02\ud83d\ude02 \u2014 Odell Beckham Jr ",
+        "answer": "the length of the whole football field",
+        "output": "how far did odell beckham, jr. throw the ball in the video?"
+    },
+    {
+        "idx": 467,
+        "input": "How was your weekend? In between race runs, I had a little adventure:) And btw, what a cool weekend!! Mikaela... Julia Mancuso ",
+        "answer": "during cool weekend",
+        "output": "when was her adventure held?"
+    },
+    {
+        "idx": 468,
+        "input": "All that to say, you're not alone. You're in my prayers and, if you're the praying kind, please keep me in yours. \ud83d\udc9c\u2014 Shannon Purser ",
+        "answer": "your prayers",
+        "output": "what does she want to be kept in?"
+    },
+    {
+        "idx": 469,
+        "input": "You can never go 5min of a soccer game without this happening \ud83d\ude02\ud83d\ude02\ud83d\ude02\"@EpicSportVines: Minion Soccer | Richard Torres ",
+        "answer": "5 minutes",
+        "output": "how long can you go to the game?"
+    },
+    {
+        "idx": 470,
+        "input": "Not that being shocked he won would have been a sin. Every article I've read about it said it was surprising. He's still a great artist.\u2014 John Legend ",
+        "answer": "966",
+        "output": "how many people liked this tweet?"
+    },
+    {
+        "idx": 471,
+        "input": "I wanted to clarify my comments on \"thugs.\" When you speak out of frustration and anger, one can say things in a way that you don't mean.\u2014 Mayor Rawlings-Blake ",
+        "answer": "clarify my comments",
+        "output": "is someone explaining themself in a way?"
+    },
+    {
+        "idx": 472,
+        "input": "Wow, Ted Cruz got booed off the stage, didn't honor the pledge! I saw his speech two hours early but let him speak anyway. No big deal!\u2014 Donald J. Trump ",
+        "answer": "donald trump",
+        "output": "who let ted cruz speak?"
+    },
+    {
+        "idx": 473,
+        "input": "Frances Bean Cobain speaks publicly for the first time about life after Kurt's death: DD Rolling Stone ",
+        "answer": "kurt.",
+        "output": "what is the name of the person who died?"
+    },
+    {
+        "idx": 474,
+        "input": "We introduce the girls to mentors who are females in STEM and these mentors teach the girls to code ",
+        "answer": "stem",
+        "output": "what are these girls and their mentors involved in?"
+    },
+    {
+        "idx": 475,
+        "input": "Missiles flying. Rubio's happy. McCain ecstatic. Hillary's on board. A complete policy change in 48 hrs.\u2014 Laura Ingraham ",
+        "answer": "hillary",
+        "output": "who is on board?"
+    },
+    {
+        "idx": 476,
+        "input": ".@realDonaldTrump refuses to apologize to @ColumbaBush, @JebBush's wife ",
+        "answer": "columba bush",
+        "output": "who did donald trump decline to say sorry to?"
+    },
+    {
+        "idx": 477,
+        "input": "RT @malkoff: Streets of Scituate MA are underwater mixed with debris & chunks of slushy icebergs. ",
+        "answer": "in 2015 there was heavy flooding in scituate.",
+        "output": "has scituate, massachusetts ever experienced severe weather?"
+    },
+    {
+        "idx": 478,
+        "input": "\"Yes i have 4 years of Juilliard and i was shark number 2 in a little production called the Super bowl\" Desus Nice ",
+        "answer": "the super bowl",
+        "output": "what major sporting event was the shark a part of?"
+    },
+    {
+        "idx": 479,
+        "input": "\"@laurasgoldman: .@realDonaldTrump why is it necessary to comment on .@ariannahuff looks? Because she is a dog who wrongfully comments on me \u2014 Donald J. Trump ",
+        "answer": "to retaliate.",
+        "output": "why does trump think it's fine to tease?"
+    },
+    {
+        "idx": 480,
+        "input": "Just got home from the ",
+        "answer": "home.",
+        "output": "where did the author return to?"
+    },
+    {
+        "idx": 481,
+        "input": "This is the shiny object strategy. No reason for Trump to appear with Kanye. But he wants the visual to eat up space on TV. Judd Legum ",
+        "answer": "trump",
+        "output": "who wants the visual to eat up space on tv?"
+    },
+    {
+        "idx": 482,
+        "input": "I just want to let everyone know that yes, Dylan was hurt, but that he's going to be okay. Not life threatening in any way.\u2014 James Dashner ",
+        "answer": "dylan",
+        "output": "who was it that was hurt?"
+    },
+    {
+        "idx": 483,
+        "input": "Dwyane Wade left cross-country flight with LeBron James to Miami still unsure of which way James is leaning, sources tell Yahoo Sports.\u2014 Adrian Wojnarowski ",
+        "answer": "it is still uncertain, even for dwayne wade.",
+        "output": "what decision will lebron james make about his future team?"
+    },
+    {
+        "idx": 484,
+        "input": "Calls for Pence, Trump's number one enabler, to replace the nominee may be a feel good exit for GOP leaders, but it isn't actually feasible.\u2014 Evan McMullin ",
+        "answer": "pence.",
+        "output": "who do gop leaders want to replace the nominee with?"
+    },
+    {
+        "idx": 485,
+        "input": "Q: If Trump watched tonight's ",
+        "answer": "jk rowling",
+        "output": "who does the tweet hope donald trump would see if he watched the tony awards?"
+    },
+    {
+        "idx": 486,
+        "input": "Found solutions. Ready to start drafting immediately.\u2014 Javad Zarif ",
+        "answer": "drafting",
+        "output": "what are they ready to start doing immediately?"
+    },
+    {
+        "idx": 487,
+        "input": "Just googled \u201cnet neutrality\u201d...yeah, we gotta keep that.\u2014 DRAM ",
+        "answer": "22.6 likes",
+        "output": "we gotta keep that"
+    },
+    {
+        "idx": 488,
+        "input": "I am leaving for Washington on a fateful, even historic mission. I am the emissary of all Israelis, even those who disagree with me.\u2014 \u05d1\u05e0\u05d9\u05de\u05d9\u05df \u05e0\u05ea\u05e0\u05d9\u05d4\u05d5 ",
+        "answer": "washington",
+        "output": "where is benjamin going to?"
+    },
+    {
+        "idx": 489,
+        "input": "Yay! Everyone is so wonderful and supportive of my shade! This might be a problem down the line. Thank you! ",
+        "answer": "down the line",
+        "output": "when might it be a problem?"
+    },
+    {
+        "idx": 490,
+        "input": "\"If anyone needs me, I'm going to be blowing cigarette smoke into a martini for the rest of the afternoon,\" Anna Wintour says, walking out.\u2014 Richard Lawson ",
+        "answer": "rest of the afternoon",
+        "output": "how long did anna wintour say she would be blowing smoke into a martinit?"
+    },
+    {
+        "idx": 491,
+        "input": "Just bought another 574,002 shares of $TWTR ",
+        "answer": "1 million",
+        "output": "how many shares has he bought so far in 2017?"
+    },
+    {
+        "idx": 492,
+        "input": "Ken Rosenthal @Ken_RosenthalSource: Hurdles remain in Phillips talks between ",
+        "answer": "left hand",
+        "output": "what did bp injure last season"
+    },
+    {
+        "idx": 493,
+        "input": "This is exhausting. I think we need a rain delay.\u2014 Jim Gaffigan ",
+        "answer": "rain delay",
+        "output": "he thinks that they need a what?"
+    },
+    {
+        "idx": 494,
+        "input": "Poll data shows that @marcorubio does by far the best in holding onto his Senate seat in Florida. Important to keep the MAJORITY. Run Marco!\u2014 Donald J. Trump ",
+        "answer": "florida.",
+        "output": "marco rubio is a senator in which u.s state?"
+    },
+    {
+        "idx": 495,
+        "input": "Emma Sulkowicz carrying her mattress across the stage at ",
+        "answer": "emma",
+        "output": "who carried a matress"
+    },
+    {
+        "idx": 496,
+        "input": "Bravo Cindy Crawford. \"Beauty is truth, truth beauty, that is all Ye need to know on earth, and all Ye need to know. Jamie Lee Curtis ",
+        "answer": "he was talking to cindy crawford",
+        "output": "who was jamie lee cheering for speaking the truth"
+    },
+    {
+        "idx": 497,
+        "input": "\"Look I'm not a guy who's into labels, Rachel. You knew that getting in.\" -guy ",
+        "answer": "kyle ayers",
+        "output": "who's not a guy who's into labels?"
+    },
+    {
+        "idx": 498,
+        "input": "I love the fact that ",
+        "answer": "she love that philae was found",
+        "output": "what does the dark lady of sith love?"
+    },
+    {
+        "idx": 499,
+        "input": "Don't even know what to say. To be in Vegas while this is happening, brings a pain to my heart. My team and I are safe Thank God! Prayers up\u2014 Trey Songz ",
+        "answer": "las vegas",
+        "output": "what city does trey songz say he was located in during this post?"
+    }
+]

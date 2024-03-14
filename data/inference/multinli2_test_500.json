@@ -1,0 +1,3002 @@
+[
+    {
+        "input_1": "Between 9:34 and 9:38, the Cleveland controller observed United 93 climbing to 40,700 feet and immediately moved several aircraft out its way.",
+        "input_2": "The people on the plane were shocked that the plane climbed so high.",
+        "output": "neutral",
+        "idx": 0
+    },
+    {
+        "input_1": "Well, let's see, there's I guess one of the favorite author's of mine is Isaac Asimov who wrote some of the best science and science fiction that was ever written.",
+        "input_2": "One of my favorite books is I, Robot. ",
+        "output": "neutral",
+        "idx": 1
+    },
+    {
+        "input_1": "She will first analyze the historical data by separating the causes of past changes in demand into the following  (1) trend, (2) seasonality, (3) cyclicality, and (4) random fluctuation.",
+        "input_2": "Of the 4, random fluctuation is the most problematic for analysts.",
+        "output": "neutral",
+        "idx": 2
+    },
+    {
+        "input_1": "He said to me, You have to go, he said to me.",
+        "input_2": "He didn't say anything to me about having to go.",
+        "output": "contradiction",
+        "idx": 3
+    },
+    {
+        "input_1": " Look, the sun is sleepy, going to bed,  said 2 1/2-year-old David while watching the sun disappear below the horizon at the end of a day at the beach.",
+        "input_2": "This is an example of how children view the world that they live in.",
+        "output": "neutral",
+        "idx": 4
+    },
+    {
+        "input_1": "What to make of the fact that one may be henpecked but not cockpecked?",
+        "input_2": "What to make of the fat that one may be gouged with spears but not slapped with turtles?",
+        "output": "contradiction",
+        "idx": 5
+    },
+    {
+        "input_1": "Of course you only had a thousand students through all those six grades.",
+        "input_2": "Each class size varied.",
+        "output": "neutral",
+        "idx": 6
+    },
+    {
+        "input_1": "Yiddish never apologizes for what it is'the earthy, wise soul of an expressive people learning that life is but a mingled yarn, good and ill together.",
+        "input_2": "Yiddish is the soul of a people living out the good and bad of life.",
+        "output": "entailment",
+        "idx": 7
+    },
+    {
+        "input_1": "But not all fantasy qualifies as wish fulfillment.",
+        "input_2": "Not all fantasy is for wish fulfillment among small children.",
+        "output": "neutral",
+        "idx": 8
+    },
+    {
+        "input_1": "My dad still doesn't believe me.",
+        "input_2": "My dad will believe every word I say.",
+        "output": "contradiction",
+        "idx": 9
+    },
+    {
+        "input_1": "And how, OK can you tell me any flood stories about growing up in Penn?",
+        "input_2": "Can you describe any flood stories about living in Penn? ",
+        "output": "entailment",
+        "idx": 10
+    },
+    {
+        "input_1": "But we know that at 10:31, General Larry Arnold instructed his staff to broadcast the following over a NORAD instant messaging  10:31 Vice president has cleared to us to intercept tracks of interest and shoot them down if they do not respond per [General Arnold].",
+        "input_2": "General Larry Arnold told his staff to broadcast over a NORAD messaging service at 10:31 that the Vice president had said to hold off on shooting down any hijacked planes until the President could be reached.",
+        "output": "contradiction",
+        "idx": 11
+    },
+    {
+        "input_1": "American 77 traveled undetected for 36 minutes on a course heading due east for Washington, D.C.",
+        "input_2": "American 77 traveled on a course heading east to Washington, D.C",
+        "output": "entailment",
+        "idx": 12
+    },
+    {
+        "input_1": "If you have any questions, please feel free to stop by and see me.",
+        "input_2": "Please come by to see me if you want to ask about anything. ",
+        "output": "entailment",
+        "idx": 13
+    },
+    {
+        "input_1": "Paula Van Gelder's  Poetic Licenses  [XIV, 4] reminded me of the license plate a friend reported recently.",
+        "input_2": "A friend reported a license plate that I thought of when I read Paula Van Gelder's Poetic Licenses.",
+        "output": "entailment",
+        "idx": 14
+    },
+    {
+        "input_1": "These are challenging times for public institutions of higher education, with legislative appropriations unable to fund schools to the level they have in the past.",
+        "input_2": "No one cares about public education anymore so schools aren't being funded like they used to.",
+        "output": "neutral",
+        "idx": 15
+    },
+    {
+        "input_1": "Because, well, no, Ines was putting up an argument that-, when he told her, No, he said, e, Luis Alonso, I may be going to die, he said, because so much blood loss, he said. ",
+        "input_2": "Nobody had ever survived that type of blood loss before.",
+        "output": "neutral",
+        "idx": 16
+    },
+    {
+        "input_1": "But I'm also trying to teach them that they have to earn what they get, and to be part of making sure their lives are better.",
+        "input_2": "I try to teach them to earn what they get and to be active in making their lives better.",
+        "output": "entailment",
+        "idx": 17
+    },
+    {
+        "input_1": "It is specifically a dictionary of Scots, or Lallans, which some scholars consider merely a dialect of English and others a distinct language rooted in Old English.",
+        "input_2": "Scots is s beautiful sounding distinct dialect. ",
+        "output": "neutral",
+        "idx": 18
+    },
+    {
+        "input_1": "To many, it is significant that the privilege of naming, granted to Adam, was denied to Eve.",
+        "input_2": "Unlike Adam, Eve was denied the privilege of naming.",
+        "output": "entailment",
+        "idx": 19
+    },
+    {
+        "input_1": "When my students and I approached the heart of the course'talking the English language'nothing seemed to work for me until I closed all the books and compelled two or three students at a time to put themselves in commonplace situations in which they had to speak English.",
+        "input_2": "I would ask students to open their books and read silently for the duration of the class.",
+        "output": "contradiction",
+        "idx": 20
+    },
+    {
+        "input_1": "Let us start with the three groups of clues encountered in the classical crossword  synonyms, superordinates, and definitions.",
+        "input_2": "We will end with much easier tasks.  ",
+        "output": "neutral",
+        "idx": 21
+    },
+    {
+        "input_1": "You can stop.",
+        "input_2": "You don't have to go on.",
+        "output": "entailment",
+        "idx": 22
+    },
+    {
+        "input_1": "Thank you for your continued financial support, and for remaining alert for neighbors who need a helping hand.",
+        "input_2": "Thank you for keeping an eye out for neighbor's who need a helping hand and for your continued support.",
+        "output": "entailment",
+        "idx": 23
+    },
+    {
+        "input_1": "They didn't answer.",
+        "input_2": "They responded.",
+        "output": "contradiction",
+        "idx": 24
+    },
+    {
+        "input_1": "Uh, so yeah, I took up a lot of her life and she read a lot of children's stories to me as a result of that, but I don't believe she read a lot for her own amusement.",
+        "input_2": "I took up a lot of her time and she read a lot of children's stories.",
+        "output": "entailment",
+        "idx": 25
+    },
+    {
+        "input_1": "No state dollars are available for this project.",
+        "input_2": "The state has lots of extra money to give. ",
+        "output": "contradiction",
+        "idx": 26
+    },
+    {
+        "input_1": "But Bin Ladin and his comrades had their own sources of support and training, and they received little or no assistance from the United States.",
+        "input_2": "The United States was the main supporter of Bin Ladin.",
+        "output": "contradiction",
+        "idx": 27
+    },
+    {
+        "input_1": "Um, what kind of things did you remember reading when you started to read?",
+        "input_2": "Do you have any recollection of what sort of stuff were your initial reading materials?",
+        "output": "entailment",
+        "idx": 28
+    },
+    {
+        "input_1": "But uh, come mealtime boy this little apartment with central air conditioning running, the smoke hung about four and a half five feet down from the ceiling.",
+        "input_2": "This apartment was filled with smoke due to the central air conditioning.",
+        "output": "neutral",
+        "idx": 29
+    },
+    {
+        "input_1": "Given the volatile nature of demand in many industries, an assumption of stability is suspect, meaning that forecasts based on historical sales data may be less accurate than the historical data suggest.",
+        "input_2": "Demand is easy to follow, assuming stability is recommended.",
+        "output": "contradiction",
+        "idx": 30
+    },
+    {
+        "input_1": "He slipped the knife out of the sheath and was ready, and unembarrassed by hampering bedclothes, for the weather was hot and we hadn't any.",
+        "input_2": "He slipped the knife out of the sheath to show he was ready.",
+        "output": "neutral",
+        "idx": 31
+    },
+    {
+        "input_1": "As the above sampling of concerns reveals, today's parents are not just worried about major transitions and traumas, such as the impact of marital breakup or community violence.",
+        "input_2": "Parent's these day's aren't concerned about major transitions.",
+        "output": "contradiction",
+        "idx": 32
+    },
+    {
+        "input_1": "As a member , your voice will be added to those of others across the state, with the message that we can and must create caring communities that support families and shelter children.",
+        "input_2": "We can create caring communities that support families and shelter children--that message will be added to those of others across the state, as a member's voice.",
+        "output": "entailment",
+        "idx": 33
+    },
+    {
+        "input_1": "Here's how it  Simply detach the Care Card from the top of this letter and keep it handy.",
+        "input_2": "Simply remove the Care Card from the letter and keep it with you.",
+        "output": "entailment",
+        "idx": 34
+    },
+    {
+        "input_1": "NORAD would receive tracking information for the hijacked aircraft either from joint use radar or from the relevant FAA air traffic control facility.",
+        "input_2": "NORAD gets tracking information for planes from joint use radar or the FAA but now we know there are gaps in the information.",
+        "output": "neutral",
+        "idx": 35
+    },
+    {
+        "input_1": "There were various whimsical variants.",
+        "input_2": "There were many whimsical variants.",
+        "output": "entailment",
+        "idx": 36
+    },
+    {
+        "input_1": "Pages later (Chapter XXXVII), it is acknowledged that  He, too, felt that this was their last free intercourse. ",
+        "input_2": "Further chapters give no information about what he felt.",
+        "output": "contradiction",
+        "idx": 37
+    },
+    {
+        "input_1": "Vivacious, stimulating parental behavior, including frequent questioning, instructing, and pointing out objects, is beneficial for reserved, inactive infants; it helps them become interested in and engaged with novel toys.",
+        "input_2": "Children that are stimulated by parents are more likely to be afraid of novel toys.",
+        "output": "contradiction",
+        "idx": 38
+    },
+    {
+        "input_1": "But like, so I was always raised like a tomboy and everything like that and my dad treated me like a guy all the time.",
+        "input_2": "I still am a tomboy in my adult years.",
+        "output": "neutral",
+        "idx": 39
+    },
+    {
+        "input_1": "At least two callers from the flight reported that the hijackers knew that passengers were making calls but did not seem to care.",
+        "input_2": "The hijackers did not care about others making calls. ",
+        "output": "entailment",
+        "idx": 40
+    },
+    {
+        "input_1": "And he said, Ma'am, he said, what did the guerrillas that were there eating do with themselves?",
+        "input_2": "He didn't ask the girl anything. ",
+        "output": "contradiction",
+        "idx": 41
+    },
+    {
+        "input_1": "Cancel, and tear to pieces, that great bond Which keeps me pale!",
+        "input_2": "I don't want to be pale anymore because it makes me look sickly.",
+        "output": "neutral",
+        "idx": 42
+    },
+    {
+        "input_1": "She wondered what would happen if she could take one child from the city and place that youngster where she was now -- in the midst of this beauty and serenity.",
+        "input_2": "The place she's in is incredibly beautiful and peaceful.",
+        "output": "entailment",
+        "idx": 43
+    },
+    {
+        "input_1": "Rukeyser's Sphinx was not very affable, either.)",
+        "input_2": "Rukeyser's original intention was to portray the Sphinx as a secondary antagonist.",
+        "output": "neutral",
+        "idx": 44
+    },
+    {
+        "input_1": "The centering operation is important because the diameter of a knit tube varies slightly along its length, and it is necessary to reference cutting from the midline of the tube.",
+        "input_2": "The centering operation is pointless.",
+        "output": "contradiction",
+        "idx": 45
+    },
+    {
+        "input_1": "Maggy, frightened by the booming sounds, whimpers to Deb,  Scary, Mommy.",
+        "input_2": "Maggy was afraid of the storm and said she was scared to her mom.",
+        "output": "neutral",
+        "idx": 46
+    },
+    {
+        "input_1": "// Even in the in, I mean NJ winters are really cold but--",
+        "input_2": "They aren't that bad, not if you've lived there all your life.",
+        "output": "neutral",
+        "idx": 47
+    },
+    {
+        "input_1": "By combining our assets, we can make a difference.",
+        "input_2": "Even if we pool resources, it won't make a difference.",
+        "output": "contradiction",
+        "idx": 48
+    },
+    {
+        "input_1": "Yeah, it did because I know people from Charlotte now that went to like, not to slam Providence because I like a lot of those people, but they like have like so many like stereotypes of people because they don't know anybody.",
+        "input_2": "I did it because I know people from Charlotte now that went to there.",
+        "output": "neutral",
+        "idx": 49
+    },
+    {
+        "input_1": "Once again, the development of Web sites to undertake some of these connections represents an important first step in this direction.",
+        "input_2": "A web site helps establish identity. ",
+        "output": "neutral",
+        "idx": 50
+    },
+    {
+        "input_1": "At 9:03, United 175 crashed into the South Tower.",
+        "input_2": "Nothing crashed into the South Tower.",
+        "output": "contradiction",
+        "idx": 51
+    },
+    {
+        "input_1": "My prize example was uttered by the incomparable Cher, during a morning-show interview.",
+        "input_2": "Cher announced my prize.",
+        "output": "entailment",
+        "idx": 52
+    },
+    {
+        "input_1": "Do you read Dr. Seuss?",
+        "input_2": "Do you read Dr. Seuss?",
+        "output": "entailment",
+        "idx": 53
+    },
+    {
+        "input_1": "There is another option called, SUGGEST, which, if invoked, lists up to seven or eight words that you might have had in mind when you wrote the one that offended the machine, and this brings me to the point of this article.",
+        "input_2": "The SUGGEST option is completely broken, as it won't offer any word suggestions.",
+        "output": "contradiction",
+        "idx": 54
+    },
+    {
+        "input_1": "Benson's action picture in Lucia in London (Chapter 8):  Georgie stepped on a beautiful pansy. ",
+        "input_2": "The fact that he crushed a beautiful flower broke Georgie's heart in Chapter 8 of Lucia in London.",
+        "output": "neutral",
+        "idx": 55
+    },
+    {
+        "input_1": "( ) When cancer comes up I'm just pretty, pretty interested in it, to find out what they went through and I can relate to it.",
+        "input_2": "I have had cancer myself and therefore can relate to it.",
+        "output": "neutral",
+        "idx": 56
+    },
+    {
+        "input_1": "This was the first of several occasions on 9/11 when flight attendants took action outside the scope of their training, which emphasized that in a hijacking, they were to communicate with the cockpit crew.",
+        "input_2": "The flight attendants took action based on the values of their training, and tried their best to communicate with the cockpit. ",
+        "output": "-",
+        "idx": 57
+    },
+    {
+        "input_1": "Furthermore, the repression and isolation of women in many Muslim countries have not only seriously limited individual opportunity but also crippled overall economic productivity.",
+        "input_2": "Women can positively contribute to Muslim economies.  ",
+        "output": "neutral",
+        "idx": 58
+    },
+    {
+        "input_1": "The reasons are technical, arising from the way the software processed radar information, as well as from poor primary radar coverage where American 77 was flying.",
+        "input_2": "There are technical reasons behind the confusion surrounding American 77's location",
+        "output": "entailment",
+        "idx": 59
+    },
+    {
+        "input_1": "However, the simultaneous loss of radio and transponder signal would be a rare and alarming occurrence, and would normally indicate a catastrophic system failure or an aircraft crash.",
+        "input_2": "All planes that lose signal while losing radio connection are due to damage to the plane.",
+        "output": "contradiction",
+        "idx": 60
+    },
+    {
+        "input_1": "Among the factors that are expected to have a substantial impact on employment in the textiles and apparel industries, perhaps the most influential will be the trade policy agreed to in the GATT.",
+        "input_2": "The textile industry is projected to grow after the new policy.",
+        "output": "neutral",
+        "idx": 61
+    },
+    {
+        "input_1": "So in some ways it was very similar to the space exploration that you were so interested in?",
+        "input_2": "So you found it interesting too?",
+        "output": "neutral",
+        "idx": 62
+    },
+    {
+        "input_1": "Periodically, the Islamic world has seen surges of what, for want of a better term, is often labeled fundamentalism.",
+        "input_2": "Fundamentalism periodically surfaces in Islamic countries.",
+        "output": "entailment",
+        "idx": 63
+    },
+    {
+        "input_1": "Like one, two, three, four.",
+        "input_2": "Count from one to four.",
+        "output": "entailment",
+        "idx": 64
+    },
+    {
+        "input_1": "Some, like French, Spanish, Italian, and Portuguese, had more in common with one another than they did with, say, German, English, Swedish, Danish, and Dutch, which, in turn, bore only a remote resemblance to Russian and Polish, on the one hand, and the two extant varieties of, say, Gaelic, on the other.",
+        "input_2": "Romance languages bear similarities to one another, but they differ from English and German.",
+        "output": "entailment",
+        "idx": 65
+    },
+    {
+        "input_1": "Retail Replenishment Performance",
+        "input_2": "All retail stores need to restock.",
+        "output": "neutral",
+        "idx": 66
+    },
+    {
+        "input_1": "Umm, I guess I'll leave it at that.",
+        "input_2": "No, I won't leave it at that.",
+        "output": "contradiction",
+        "idx": 67
+    },
+    {
+        "input_1": "And he said, Don't play, the soldier said, don't play, he said, innocent, he said, in that house, I, our house is huge, and I stayed locked up, because just me and my son lived, my baby son, tiny, and me, and well, that's all.",
+        "input_2": "I was living trapped in my house, me and my son, alone.",
+        "output": "neutral",
+        "idx": 68
+    },
+    {
+        "input_1": "But you held it didn't you?",
+        "input_2": "Instead of holding it, you threw it away, did you not?",
+        "output": "contradiction",
+        "idx": 69
+    },
+    {
+        "input_1": "Amsterdam was settled by the Dutch, Geneva by the Swiss, etc., till one passes by a town apparently settled by the British'Sodus.",
+        "input_2": "A town said to be settled by the British'Sodus does not exist.",
+        "output": "contradiction",
+        "idx": 70
+    },
+    {
+        "input_1": "J. C. Penney built an internal data communications network well in advance of its use with suppliers.",
+        "input_2": "J.C. Penney isn't the only company to have had an internal data communications network before its use with suppliers. ",
+        "output": "neutral",
+        "idx": 71
+    },
+    {
+        "input_1": "This simple fact of sewing makes it very difficult to automate the process.",
+        "input_2": "The plain idea of sewing renders it hard to automate the process.",
+        "output": "entailment",
+        "idx": 72
+    },
+    {
+        "input_1": "Do you like riding your bike a lot?",
+        "input_2": "Do you like to cycle a lot?",
+        "output": "entailment",
+        "idx": 73
+    },
+    {
+        "input_1": "The entire thing!",
+        "input_2": "Only a piece",
+        "output": "contradiction",
+        "idx": 74
+    },
+    {
+        "input_1": "Adjective, being before especially in time or arrangement",
+        "input_2": "A word form at a specific point.",
+        "output": "entailment",
+        "idx": 75
+    },
+    {
+        "input_1": "Counting definitions is a start.",
+        "input_2": "Counting definitions is a good beginning to learning about the dictionary.",
+        "output": "neutral",
+        "idx": 76
+    },
+    {
+        "input_1": "For the short term, its impact will be on a relatively small niche market.",
+        "input_2": "The impact will be on just a small market.",
+        "output": "entailment",
+        "idx": 77
+    },
+    {
+        "input_1": "All of this is possible because we are a statewide member network.",
+        "input_2": "Unfortunately, we cannot do this because we operate in one town only.",
+        "output": "contradiction",
+        "idx": 78
+    },
+    {
+        "input_1": "Second, a clue may name a class of objects which includes the answer, like bird for COCK.",
+        "input_2": "A clue may be a type of object.",
+        "output": "entailment",
+        "idx": 79
+    },
+    {
+        "input_1": "While this was being discussed by executives at FAA headquarters, the Command Center ordered one at 9:25.",
+        "input_2": "The Command Center never ordered one, citing differences in vision.",
+        "output": "contradiction",
+        "idx": 80
+    },
+    {
+        "input_1": "FAA headquarters began to follow the hijack protocol but did not contact the NMCC to request a fighter escort.",
+        "input_2": "As soon as it began to follow the hijacking protocol, the FFA headquarters contacted the NMCC.",
+        "output": "contradiction",
+        "idx": 81
+    },
+    {
+        "input_1": " No, he is a hijack.",
+        "input_2": "It is a hijacking.",
+        "output": "neutral",
+        "idx": 82
+    },
+    {
+        "input_1": "Bin Ladin apparently kept his options open, maintaining contacts with Gulbuddin Hekmatyar, who, though an Islamic extremist, was also one of the Taliban's most militant opponents.",
+        "input_2": "Bin Ladin refused to work with anyone else.",
+        "output": "contradiction",
+        "idx": 83
+    },
+    {
+        "input_1": "Finally, turning to her toilet, she rested her face in her hands, and gave a sort of groan. ",
+        "input_2": "She groaned as she rested her face amongst her hands.",
+        "output": "entailment",
+        "idx": 84
+    },
+    {
+        "input_1": "6 million grant from Lilly Endowment Inc.",
+        "input_2": "We won a 6 millioin grant from Lilly Endowment Inc.",
+        "output": "neutral",
+        "idx": 85
+    },
+    {
+        "input_1": "General Arnold later recalled instructing Marr to go ahead and scramble them, and we'll get authorities later.",
+        "input_2": "General Arnold instructed Marr to go ahead and scramble them even though he didn't have pre-authorization.",
+        "output": "entailment",
+        "idx": 86
+    },
+    {
+        "input_1": "Corporate participation involves an annual unrestricted gift of $2,500 or more for Chancellors Circle or of $1,000 or more for Chancellors Associates.",
+        "input_2": "Corporate participation involves a minimum of $1,000 in donations.",
+        "output": "-",
+        "idx": 87
+    },
+    {
+        "input_1": "W lists the  date of the earliest recorded use in English ...of the sense which the date precedes. ",
+        "input_2": "The date of the earliest recorded use in English is listed by W. ",
+        "output": "entailment",
+        "idx": 88
+    },
+    {
+        "input_1": "In some plants, the carts may contain up to a day's worth of work.",
+        "input_2": "It's possible for a cart to contain as much as a full day of work.",
+        "output": "entailment",
+        "idx": 89
+    },
+    {
+        "input_1": "The Campaign is directed at law firms and businesses having 10 or more alumni.",
+        "input_2": "The campaign is directed to businesses with at least 10 alumni. ",
+        "output": "entailment",
+        "idx": 90
+    },
+    {
+        "input_1": "It is quite possible Jarrah knew of the success of the assault on the World Trade Center.",
+        "input_2": "Jarrah was involved in the planning of the assault on the World Trade Center.  ",
+        "output": "neutral",
+        "idx": 91
+    },
+    {
+        "input_1": "A century later, retailing success is often attributed to combining effective marketing with an understanding of consumer tastes.",
+        "input_2": "Retailing success is achieved by ignoring your customers and keeping marketing to a minimum. ",
+        "output": "contradiction",
+        "idx": 92
+    },
+    {
+        "input_1": "Engineers designed operations to take similar lengths of time to achieve line balancing.",
+        "input_2": "According to engineers, operations work best when they all took less than an hour to finish.",
+        "output": "neutral",
+        "idx": 93
+    },
+    {
+        "input_1": "And who could blame him?",
+        "input_2": "Why not throw the blame on him?",
+        "output": "contradiction",
+        "idx": 94
+    },
+    {
+        "input_1": "The crate.",
+        "input_2": "The bowl.",
+        "output": "contradiction",
+        "idx": 95
+    },
+    {
+        "input_1": "It's hard to explain exactly how camp can change a child's heart.",
+        "input_2": "It's hard to fully explain how camp can have a significant effect on a child.",
+        "output": "entailment",
+        "idx": 96
+    },
+    {
+        "input_1": "A moment later, the clear, high-pitched sound of the whistle could be heard over the Rabbi's final shofar blast.",
+        "input_2": "The whistle didn't make any sound.",
+        "output": "contradiction",
+        "idx": 97
+    },
+    {
+        "input_1": "And how was growing up in Charlotte?",
+        "input_2": "What was growing up in Charlotte like?",
+        "output": "entailment",
+        "idx": 98
+    },
+    {
+        "input_1": "This is New York Center.",
+        "input_2": "That is not New York Center.",
+        "output": "contradiction",
+        "idx": 99
+    },
+    {
+        "input_1": "He also made use of the already-established Third World Relief Agency (TWRA) headquartered in Vienna, whose branch office locations included Zagreb and Budapest.",
+        "input_2": "The Third World Relief Agency had no branch offices.  ",
+        "output": "contradiction",
+        "idx": 100
+    },
+    {
+        "input_1": "The cockpit voice recorder captured the sounds of the passenger assault muffled by the intervening cockpit door.",
+        "input_2": "The cockpit voice recorder had no problems that day.",
+        "output": "neutral",
+        "idx": 101
+    },
+    {
+        "input_1": "As is true at other campuses, almost all of our operating funds are restricted.",
+        "input_2": "All campuses can use their operating funds freely.",
+        "output": "contradiction",
+        "idx": 102
+    },
+    {
+        "input_1": "Mass customization, however, has the potential to make  tailor fit  at least somewhat less expensive, as new systems combine features of the efficient factory system with attention to at least a few critical customer measurements.",
+        "input_2": "Mass customization is akin to Satan worship, and should never be used as a system in any factory.",
+        "output": "contradiction",
+        "idx": 103
+    },
+    {
+        "input_1": "He searched along the plane's projected flight path and the airspace to the southwest where it had started to turn.",
+        "input_2": "He looked along the projected flight plan.",
+        "output": "entailment",
+        "idx": 104
+    },
+    {
+        "input_1": "58 provides the cost for one boy or girl to participate in scouting activities for a year.",
+        "input_2": "A donation of 58 dollars provides scouting activities for one boy or girl.",
+        "output": "entailment",
+        "idx": 105
+    },
+    {
+        "input_1": "The centering operation is important because the diameter of a knit tube varies slightly along its length, and it is necessary to reference cutting from the midline of the tube.",
+        "input_2": "The centering operation is crucial to make sure the fabric is cut straight.",
+        "output": "neutral",
+        "idx": 106
+    },
+    {
+        "input_1": "During his entire time in Sudan, he had maintained guesthouses and training camps in Pakistan and Afghanistan.",
+        "input_2": "He had kept up with guesthouses and training camps in Pakistan and Afghanistan during his time in Sudan.",
+        "output": "entailment",
+        "idx": 107
+    },
+    {
+        "input_1": "It has the original meaning, a `sprite or hobgoblin that plays tricks, especially at night in people's houses; a poltergeist.",
+        "input_2": "The word first meant a ghost that visited people's homes at night.",
+        "output": "-",
+        "idx": 108
+    },
+    {
+        "input_1": "We believe such statements do not reflect an adequate appreciation of the FAA's responsibility for the safety and security of civil aviation.",
+        "input_2": "The statements ignore the FAA's relevant studies and research.",
+        "output": "neutral",
+        "idx": 109
+    },
+    {
+        "input_1": "Under its, it's , Bryson gives, among others the following examples from the Washington Post ,  Its the worst its been in the last five years,   Its come full circle,  then goes on to say   It's , which was intended in each of the examples above, is the contraction of it is.",
+        "input_2": "Bryson gives examples that are in the Post.",
+        "output": "entailment",
+        "idx": 110
+    },
+    {
+        "input_1": "To change the size of the item to be cut, the die must be removed and a new one installed.",
+        "input_2": "The item to be cut is a pair of blue jeans.",
+        "output": "neutral",
+        "idx": 111
+    },
+    {
+        "input_1": "A valuable seven-week course called COPES [Community Orientation for Expatriate Spouses] introduces the non-employed spouse to day-to-day life and opportunities in central Indiana.",
+        "input_2": "COPES is a seven week course that informs the non-employed spouses to various opportunities.",
+        "output": "entailment",
+        "idx": 112
+    },
+    {
+        "input_1": "But uh, come mealtime boy this little apartment with central air conditioning running, the smoke hung about four and a half five feet down from the ceiling.",
+        "input_2": "The smoke filled the small apartment very quickly.",
+        "output": "neutral",
+        "idx": 113
+    },
+    {
+        "input_1": "He had an appetite and aptitude for business.",
+        "input_2": "He used to think business looked really boring, but when he took a class in it at university (in order to spend more time with the guy he had a crush on), he found out that in actual fact it really engaged his mind, and he decided to pursue business as a career.",
+        "output": "neutral",
+        "idx": 114
+    },
+    {
+        "input_1": "It is as if you looked up, say, infer/imply in a usage manual and the author's treatment, in place of an explanation and sound advice, were an unpleasant diatribe against anyone so dense and rude as to have had to look up the entry to begin with.",
+        "input_2": "It's as though the author stripped all of the personality out of the entries, and left only dry facts.",
+        "output": "contradiction",
+        "idx": 115
+    },
+    {
+        "input_1": "It is difficult for the nonspecialist reader (like me) to assess the validity of his arguments, which are based on his contention that the language (and its congeners) were carried along by the spread of nomad pastoralism.",
+        "input_2": "The way of life and lack of a national identity helped spread and intertwine neighboring languages.",
+        "output": "-",
+        "idx": 116
+    },
+    {
+        "input_1": "We invite you to sponsor a bench.",
+        "input_2": "We would be most grateful if you would sponsor a bench.",
+        "output": "entailment",
+        "idx": 117
+    },
+    {
+        "input_1": "First, preschoolers easily misunderstand televised material.",
+        "input_2": "Televised material is easy for preschoolers to misunderstand.",
+        "output": "entailment",
+        "idx": 118
+    },
+    {
+        "input_1": "The Vice President was mistaken in his belief that shootdown authorization had been passed to the pilots flying at NORAD's direction.",
+        "input_2": "The Vice President thought that NORAD pilots had received the shootdown authorization.",
+        "output": "entailment",
+        "idx": 119
+    },
+    {
+        "input_1": "We learned all of those and the fairy tales, the classics, she read all of those to us.",
+        "input_2": "She read us a fairy tale every night.",
+        "output": "neutral",
+        "idx": 120
+    },
+    {
+        "input_1": "Many of the popular accounts of quick response, rapid replenishment, and supply-chain management assume that all parties'consumers, retailers, and suppliers'win as a result of these policies.",
+        "input_2": "Rapid replenishment means that consumers always have a wide range of choice available.",
+        "output": "neutral",
+        "idx": 121
+    },
+    {
+        "input_1": "Did you ever see the ghost?",
+        "input_2": "Did you hear about the ghost there?",
+        "output": "neutral",
+        "idx": 122
+    },
+    {
+        "input_1": "That is to say, beside Indo-European and Indo-Hittite, there must have existed an Indo-Slurvian.",
+        "input_2": "There must have existed an Indo-Slurvian.",
+        "output": "entailment",
+        "idx": 123
+    },
+    {
+        "input_1": "To answer this question, Vygotsky pointed out, we must identify the distinctive features of make-believe play'those that make it unique among young children's experiences.",
+        "input_2": "Vygotsky pointed out that there was no need to identify the specific features of make-believe.",
+        "output": "contradiction",
+        "idx": 124
+    },
+    {
+        "input_1": "Please make camp possible for all deserving Indianapolis children and send in a tax deductible contribution today in the enclosed envelope.",
+        "input_2": "Please make camp possible for more children by ignoring this request.",
+        "output": "contradiction",
+        "idx": 125
+    },
+    {
+        "input_1": "Pound services ensure that lost pets have a clean and safe place to stay and be cared for until their owners can be located.",
+        "input_2": "Pounds are filthy and dangerous places to keep animals.",
+        "output": "contradiction",
+        "idx": 126
+    },
+    {
+        "input_1": "The firm was stocking out of the low demand items, which, as described above, suffered from relatively high demand variation.",
+        "input_2": "Stores need to stay away from items with high demand variations if they hope to make a profit.",
+        "output": "neutral",
+        "idx": 127
+    },
+    {
+        "input_1": "As it has been an exciting year for all of us, MCCOY, Inc. cannot do its part without the support of organizations like yours.",
+        "input_2": "MCCOY, Inc. would like to thank you all for your help.",
+        "output": "neutral",
+        "idx": 128
+    },
+    {
+        "input_1": "We're told that one aircraft is down but we do not have a pilot report that did it.",
+        "input_2": "We're told that all of the aircraft are down and which pilots took action.",
+        "output": "contradiction",
+        "idx": 129
+    },
+    {
+        "input_1": ".. I chucked him out the door and he's not been back innerwards. ",
+        "input_2": "He is never coming back in.",
+        "output": "neutral",
+        "idx": 130
+    },
+    {
+        "input_1": " Why are horse and cow lying down? Kevin asked.",
+        "input_2": "Kevin was asking why the horse and the cow are lying down while the dog is standing.",
+        "output": "neutral",
+        "idx": 131
+    },
+    {
+        "input_1": "Is it like a gun?",
+        "input_2": "Is it a gun?",
+        "output": "-",
+        "idx": 132
+    },
+    {
+        "input_1": "So, it's like she, uh, and the education wasn't the same back in those days.",
+        "input_2": "The education was the exact same as it was in the past.",
+        "output": "contradiction",
+        "idx": 133
+    },
+    {
+        "input_1": "Or they try to get another person to do something'to hand them an object or help them perform a task'by reaching, pointing, and making sounds at the same time.",
+        "input_2": "They will try a variety of tactics, including reaching, pointing, and making sounds, in order to convince another person to do something for them.",
+        "output": "entailment",
+        "idx": 134
+    },
+    {
+        "input_1": "Junior may have wrecked the car and daughter may have attained the age for orthodontia.",
+        "input_2": "The kids are in dire straights with the family. ",
+        "output": "neutral",
+        "idx": 135
+    },
+    {
+        "input_1": "Corporate participation involves an annual unrestricted gift of $2,500 or more for Chancellor's Circle or of $1,000 or more for Chancellors Associates.",
+        "input_2": "There is only one annual giving option for corporate participation. ",
+        "output": "contradiction",
+        "idx": 136
+    },
+    {
+        "input_1": "Yeah I had to take it, as children?",
+        "input_2": "I have never taken it as a child. ",
+        "output": "contradiction",
+        "idx": 137
+    },
+    {
+        "input_1": "We broke new ground by using information technology to manage our business together, instead of just to audit it.",
+        "input_2": "We started something new by using information technology to not only audit, but to manage our business.",
+        "output": "entailment",
+        "idx": 138
+    },
+    {
+        "input_1": "These trainers were later heard boasting that their assistance led to the October 1993 shootdown of two U.S.",
+        "input_2": "At a later point, these trainers were heard bragging that their help led to the shoot-down and complete destruction of two U.S. helicopters.",
+        "output": "neutral",
+        "idx": 139
+    },
+    {
+        "input_1": "Work hard study balance your time, you know.",
+        "input_2": "You need to have a good schedule to use your time effectively.",
+        "output": "neutral",
+        "idx": 140
+    },
+    {
+        "input_1": "An ambulance?",
+        "input_2": "A fire truck.",
+        "output": "contradiction",
+        "idx": 141
+    },
+    {
+        "input_1": "Recently, the world watched as the newest space shuttle made its maiden voyage.",
+        "input_2": "They were all anxious to see what they would discover in space.",
+        "output": "neutral",
+        "idx": 142
+    },
+    {
+        "input_1": "I really don't.",
+        "input_2": "I do not want to.",
+        "output": "neutral",
+        "idx": 143
+    },
+    {
+        "input_1": "Wisdom on the scone -pronunciation issue was shown by Sir Ernest Gowers in his 1965 revision of H.W.",
+        "input_2": "Scone-pronunciation was further muddled by Sir Ernest Gowers badly research contribution on the subject.",
+        "output": "contradiction",
+        "idx": 144
+    },
+    {
+        "input_1": "We have a bomb on board.",
+        "input_2": "There is a bomb on the plane that will go off in ten minutes.",
+        "output": "neutral",
+        "idx": 145
+    },
+    {
+        "input_1": "Anybody who asks  Why a brass monkey? ",
+        "input_2": "Why a brass monkey, they ask? ",
+        "output": "entailment",
+        "idx": 146
+    },
+    {
+        "input_1": "Your past support of the Challenger program has been critical to its success these last four years.",
+        "input_2": "Your past support has been important for the success of the Challenger program",
+        "output": "entailment",
+        "idx": 147
+    },
+    {
+        "input_1": "All of the above techniques rest, in one way or another, on the meanings of words.",
+        "input_2": "The mentioned methods rely on the definition of words. ",
+        "output": "entailment",
+        "idx": 148
+    },
+    {
+        "input_1": "Yet a few years ago, it almost closed its doors due to a lack of applicants.",
+        "input_2": "The number of applicants has grown recently.",
+        "output": "neutral",
+        "idx": 149
+    },
+    {
+        "input_1": " Do you think that's what she wants? ",
+        "input_2": "You and I are questioning whether it is what she wants or not.",
+        "output": "entailment",
+        "idx": 150
+    },
+    {
+        "input_1": "The decreasing lead time of the quick-line plant makes it competitive at a lower inventory carrying cost.",
+        "input_2": "Decreasing lead times make quick-line plants competitive in terms of inventory. ",
+        "output": "entailment",
+        "idx": 151
+    },
+    {
+        "input_1": "It is safe to say that lean retailers have also come out ahead, given their rapid growth in relation to, and at the expense of, traditional retailers in many different retail channels.",
+        "input_2": "Lean retailers have grown at a very slow, but consistent pace.",
+        "output": "contradiction",
+        "idx": 152
+    },
+    {
+        "input_1": "Indeed, Washington wore a dark brown suit, entirely made in America, for his first inaugural on April 30, 1789.",
+        "input_2": "Washington's first inaugural was in December of 1789.",
+        "output": "contradiction",
+        "idx": 153
+    },
+    {
+        "input_1": "Any dollar amount you wish to contribute is fine.",
+        "input_2": "You do not need to commit to a certain amount of money.",
+        "output": "entailment",
+        "idx": 154
+    },
+    {
+        "input_1": "Initially, his successors could be drawn from the Prophet's contemporaries, but with time, this was no longer possible.",
+        "input_2": "The contemporaries were known to be great men.",
+        "output": "neutral",
+        "idx": 155
+    },
+    {
+        "input_1": "Controllers would notify their supervisors, who in turn would inform management all the way up to FAA headquarters in Washington.",
+        "input_2": "The FAA managers then relayed the information to the white house.",
+        "output": "neutral",
+        "idx": 156
+    },
+    {
+        "input_1": "My memory is rickety, but I am sure my first recording was labeled MUSKRAT RAMBLE, and I think, though I am less sure, that it was played by the late  Muggsy  Spanier, who was, to my mind, one of the greatest of jazz trumpeters.",
+        "input_2": "I remember clearly, my first recording was Muscrat Ramble. ",
+        "output": "contradiction",
+        "idx": 157
+    },
+    {
+        "input_1": "It is spoken even in  A beautiful girl awakens in bed to find a vampire at her side.",
+        "input_2": "A boy is awakened by a werewolf outside.",
+        "output": "contradiction",
+        "idx": 158
+    },
+    {
+        "input_1": "When the vacuum pump comes on, five pounds of force per square foot push down on the fabric.",
+        "input_2": "When the pump starts up, the force is on the fabric to prepare it to be sewn.",
+        "output": "neutral",
+        "idx": 159
+    },
+    {
+        "input_1": "The only thing I know about Gilbert is that I find him listed as co-author of Muskrat Ramble .",
+        "input_2": "The only knowledge I have about Gilbert is his co-authorship of Muskrat Ramble.",
+        "output": "entailment",
+        "idx": 160
+    },
+    {
+        "input_1": "As a donor to the School of Dentistry, you are making a significant investment in dental education in Indiana.",
+        "input_2": "Your donation doesn't help at all and the future of the dental school is ruined. ",
+        "output": "contradiction",
+        "idx": 161
+    },
+    {
+        "input_1": "They say we're going up in the mountains to find some snow.",
+        "input_2": "The family vacation will be up in the mountains this year to find some snow.",
+        "output": "neutral",
+        "idx": 162
+    },
+    {
+        "input_1": "He said, But, to take the livestock, I can't, I can't do it alone, at least, four, he said, because, it's difficult with the animals.",
+        "input_2": "The animals were too much for just one person to handle.",
+        "output": "entailment",
+        "idx": 163
+    },
+    {
+        "input_1": "I hope this correspondence finds you and your family doing well.",
+        "input_2": "Last I wrote the family was in a bit of a downward spiral. ",
+        "output": "neutral",
+        "idx": 164
+    },
+    {
+        "input_1": "Science fiction.",
+        "input_2": "Sci-fi.",
+        "output": "entailment",
+        "idx": 165
+    },
+    {
+        "input_1": "He quotes an Andalusian artist, Manuel Torres, as having exclaimed of composer Manuel de Falla's Nocturno del Generalife ,  Todo lo que tiene sonidos negros tiene duende  (`All that has black sounds has duende ').",
+        "input_2": "Manuel Torres is an Andalusian artist.",
+        "output": "entailment",
+        "idx": 166
+    },
+    {
+        "input_1": "Since 1984, Indy Reads (formerly the Greater Indianapolis Literacy League) has provided tutoring to adults in Marion County reading at the very lowest level of literacy.",
+        "input_2": "They are able to accommodate tutoring for those with very low levels of literacy. ",
+        "output": "entailment",
+        "idx": 167
+    },
+    {
+        "input_1": "The doctor got, did some tests and uh, done some tests.",
+        "input_2": "The doctor did some tests.",
+        "output": "entailment",
+        "idx": 168
+    },
+    {
+        "input_1": "Did he ever tell you any other stories?",
+        "input_2": "Did he let you watch tv?",
+        "output": "contradiction",
+        "idx": 169
+    },
+    {
+        "input_1": "I guess I had a friend staying overnight.",
+        "input_2": "My friend had gone home before nighttime. ",
+        "output": "contradiction",
+        "idx": 170
+    },
+    {
+        "input_1": "Essentially, random fluctuation in demand cannot be explained by trends, seasonality, cyclicality, or other factors like advertising and new product introduction.",
+        "input_2": "Trends can't always explain random variations in demand.",
+        "output": "entailment",
+        "idx": 171
+    },
+    {
+        "input_1": "Your gift will also count toward the largest campaign for private contributions in the University's history.",
+        "input_2": "Sadly, your gift will not count toward campaign for private contributions.",
+        "output": "contradiction",
+        "idx": 172
+    },
+    {
+        "input_1": "We are returning to the airport.",
+        "input_2": "This was announced over the PA system.",
+        "output": "neutral",
+        "idx": 173
+    },
+    {
+        "input_1": "Please join with us to see that happy endings do continue.",
+        "input_2": "We can't continue happy endings.",
+        "output": "contradiction",
+        "idx": 174
+    },
+    {
+        "input_1": "When a literate Chinese had to write about this new kingdom a problem arose as there was no charactter for the Viet.",
+        "input_2": "This illiterate Chinese was forced to write about this old kingdom and no problems arose.",
+        "output": "contradiction",
+        "idx": 175
+    },
+    {
+        "input_1": "Throughout this book'and especially in Chapter 5, which addresses the development of children with physical and mental disabilities'we will see many more examples of these synergistic eects.",
+        "input_2": "The development of children with disabilities is addressed in chapter 5. ",
+        "output": "entailment",
+        "idx": 176
+    },
+    {
+        "input_1": "American 77 was then 5 miles west-southwest of the Pentagon and began a 330-degree turn.",
+        "input_2": "American 77 started to turn 330 degrees.",
+        "output": "entailment",
+        "idx": 177
+    },
+    {
+        "input_1": "Because a reduction in the I/S ratio means that changes in sales will be matched by a smaller change in inventories, a lower ratio also implies lower inventory volatility.",
+        "input_2": "A lower I/S ratio results in lower inventory volatility and changes in sales will result in smaller changes in inventories.",
+        "output": "entailment",
+        "idx": 178
+    },
+    {
+        "input_1": "Notwithstanding the valuable role he plays in inspiring nonlinguists to think about language and in informing them about myriad facets of the subject, I find it hard slogging (or, as he would probably write,  sloguing ).",
+        "input_2": "He likes to inspire nonlinguists so that more people take up linguistics.",
+        "output": "neutral",
+        "idx": 179
+    },
+    {
+        "input_1": "The  lowing herd  ( Onomatoplazia ) wound slowly in the first verse of  Elegy in a Country Churchyard,  by Thomas Gray, not Oliver Goldsmith.",
+        "input_2": "The first verse of Elegy in a Country Churchyard, in which bovids moo mournfully, is not the work of Oliver Goldsmith as is commonly claimed, by the work of Thomas Gray.",
+        "output": "neutral",
+        "idx": 180
+    },
+    {
+        "input_1": "Our work on apparel supplier adjustments to lean retailing suggests that an economy characterized by an increasing level of modern manufacturing and retailing practices should experience lower levels of inventories relative to sales.",
+        "input_2": "There are lower levels of inventory, relative to sales in an economy characterized by modern manufacturing. ",
+        "output": "entailment",
+        "idx": 181
+    },
+    {
+        "input_1": "After completing the process of developing a demand forecast for each SKU, a retailer must determine how much of each item to stock on the shelves of its stores.",
+        "input_2": "Retailers have to decide how much of items they're going to stock on shelves.",
+        "output": "entailment",
+        "idx": 182
+    },
+    {
+        "input_1": "The lines further from the trend line indicate the range with a likelihood of 90 percent.",
+        "input_2": "The lines closer to the trend line show the range with a 10 percent chance.",
+        "output": "neutral",
+        "idx": 183
+    },
+    {
+        "input_1": "We'll welcome their call and do our best to help them through the difficult time, so they can get on with their lives.",
+        "input_2": "We will do our best to assist them through hardships.",
+        "output": "entailment",
+        "idx": 184
+    },
+    {
+        "input_1": "The reason, Robinson and Godbey suggest, is that our pace of life is faster.",
+        "input_2": " Robinson and Godbey say our pace is slow.",
+        "output": "contradiction",
+        "idx": 185
+    },
+    {
+        "input_1": "In The Bride of Lammermoor (Chapter V), we are informed that the heroine  placed certain restrictions on their intercourse,  a limitation that might have been more usefully set in that same author's Rob Roy (Chapter VII) where we are told of the chance that the narrator and Miss Vernon might be  thrown into very close and frequent intercourse. ",
+        "input_2": "They had restrictions about how they may have sex",
+        "output": "entailment",
+        "idx": 186
+    },
+    {
+        "input_1": "As you know, SEND is a neighborhood-based organization investing in Greater Fountain Square's housing, youth, and economic future.",
+        "input_2": "SEND invests in the Greater Fountain Square area to improve life for the low-income residents.",
+        "output": "neutral",
+        "idx": 187
+    },
+    {
+        "input_1": "Radar reconstructions performed after 9/11 reveal that FAA radar equipment tracked the flight from the moment its transponder was turned off at 8:56.",
+        "input_2": "The flight was tracked by the radar before the tragedy.",
+        "output": "entailment",
+        "idx": 188
+    },
+    {
+        "input_1": "Your gift to Goodwill will help us do even more this year because your gift will be used to directly support our work.",
+        "input_2": "Your gift to Goodwill is not appreciated because it hinders our ability to support work.",
+        "output": "contradiction",
+        "idx": 189
+    },
+    {
+        "input_1": "Um, is the United States your, uh, birth country?",
+        "input_2": "You were born on a plane right?",
+        "output": "contradiction",
+        "idx": 190
+    },
+    {
+        "input_1": "I hope you'll think of Wanda and other mothers' prayers and dreams this Mother's Day.",
+        "input_2": "I would like to think that the dreams and hopes of Wanda and women like her will be on your minds this Mother's Day.",
+        "output": "entailment",
+        "idx": 191
+    },
+    {
+        "input_1": "It does appear now, however, in dictionaries and the English-language media.",
+        "input_2": "Dictionaries and English language media often correlate.",
+        "output": "neutral",
+        "idx": 192
+    },
+    {
+        "input_1": "Once again, the development of Web sites to undertake some of these connections represents an important first step in this direction.",
+        "input_2": "The development of a website is an important first step.",
+        "output": "entailment",
+        "idx": 193
+    },
+    {
+        "input_1": "Mr. Joseph Hymes'  Do Mistake'Learn Better  [XV,1] brought to mind the time a Japanese acquaintance told me of a friend of hers who decided to tackle the original English version of three books she had enjoyed while in Japan.",
+        "input_2": "The books were first printed in Japanese.",
+        "output": "contradiction",
+        "idx": 194
+    },
+    {
+        "input_1": "She knew I was going to do it, but Dad was pretty irate.",
+        "input_2": "Dad knew and was fine with it.",
+        "output": "contradiction",
+        "idx": 195
+    },
+    {
+        "input_1": "Men of your caliber are hard to find.",
+        "input_2": "There are few men of your caliber.",
+        "output": "entailment",
+        "idx": 196
+    },
+    {
+        "input_1": "It had resumed its flight to Minnesota and saw the smoke from the crash of United 93, less than two minutes after the plane went down.",
+        "input_2": "The flight to Minnesota avoided the hijacking.",
+        "output": "neutral",
+        "idx": 197
+    },
+    {
+        "input_1": "As you begin that process this year, I would like to ask you to consider helping young people in Marion County toward more positive youth development by becoming a supporter of the Marion County Commission on Youth, Inc.",
+        "input_2": "I hope you will think about the youth of Marion County and give support for the Marion County Commission on Youth, Inc.",
+        "output": "entailment",
+        "idx": 198
+    },
+    {
+        "input_1": "Worst of all, Wanda had to deal with this worsening problem as she was trying to succeed at her new job.",
+        "input_2": "If Wanda didn't have to work, she would finally be able to solve this problem.",
+        "output": "neutral",
+        "idx": 199
+    },
+    {
+        "input_1": "Luis Alonso, Luis Alonso, says to him, Luis Alonso's friend.",
+        "input_2": "They have known Luis for many years.",
+        "output": "neutral",
+        "idx": 200
+    },
+    {
+        "input_1": "First, preschoolers easily misunderstand televised material.",
+        "input_2": "Televised material is meant for an older audience.",
+        "output": "neutral",
+        "idx": 201
+    },
+    {
+        "input_1": "Unfortunately, most American employers do not provide this option, and many parents'especially, single parents'cannot aord it.",
+        "input_2": "Every parent is entitled care afforded by this option.",
+        "output": "contradiction",
+        "idx": 202
+    },
+    {
+        "input_1": "That war, like others, produced disgruntled veterans and those more adventurous or more restless after military service.",
+        "input_2": "That war produced more adventurous and restless disgruntled veterans after military service.",
+        "output": "entailment",
+        "idx": 203
+    },
+    {
+        "input_1": "once in a blue moon , listed under moon in L ) may be listed elsewhere (under blue moon in W).",
+        "input_2": "\"Once in a blue moon\" may not be listed anywhere other than the original place.",
+        "output": "contradiction",
+        "idx": 204
+    },
+    {
+        "input_1": "They were, um, they were best-seller type fiction from the um, 40's and 50's and 60's and on, just, they were members of a book club and they got a lot of books that way.",
+        "input_2": "The monthly book club sent a lot of books.",
+        "output": "entailment",
+        "idx": 205
+    },
+    {
+        "input_1": "The remainder of Chapter 1 is mainly a catalogue of misinterpretations, aberrations, and plain errors regarding the use of man as a generic.",
+        "input_2": "Chapter 1 is the only chapter in the entire book.",
+        "output": "contradiction",
+        "idx": 206
+    },
+    {
+        "input_1": "A number of developments, many linked to issues we have discussed, indicate both the potential and limitations of electronic retailing.",
+        "input_2": "Electronic retailing is still relatively new in terms of development.",
+        "output": "neutral",
+        "idx": 207
+    },
+    {
+        "input_1": "Let me emphasize  by further extending,  in the quote above.",
+        "input_2": "The quote above will show the emphasis.",
+        "output": "entailment",
+        "idx": 208
+    },
+    {
+        "input_1": "To help accomplish these goals we need your support.",
+        "input_2": "We'll need the support of at least 500 people to help accomplish these goals.",
+        "output": "neutral",
+        "idx": 209
+    },
+    {
+        "input_1": "Take a few moments to list five or six competencies of a child you know well.",
+        "input_2": "If you can list more than five, great! If not, no need to worry.",
+        "output": "neutral",
+        "idx": 210
+    },
+    {
+        "input_1": "Join the Friends of Herron and get the inside scoop on the local art scene.",
+        "input_2": "If you join the Friends of Herron you'll get the latest news on the local art scene.",
+        "output": "entailment",
+        "idx": 211
+    },
+    {
+        "input_1": "In some plants, the carts may contain up to a day's worth of work.",
+        "input_2": "It's rarely the case that a cart will contain a full day of work.",
+        "output": "contradiction",
+        "idx": 212
+    },
+    {
+        "input_1": "Indeed, efforts to use public concern, and at times outrage, to tackle the sweatshop problem go back to the early part of this century.",
+        "input_2": "Efforts to curb sweat shops seem to be unsuccessful.",
+        "output": "neutral",
+        "idx": 213
+    },
+    {
+        "input_1": "These include impacts on its revenues (prices and sales), cost structures, and profitability.",
+        "input_2": "Cost structures will not be covered.",
+        "output": "contradiction",
+        "idx": 214
+    },
+    {
+        "input_1": "Unfortunately, the presentation of his linguistic argument, where the author is clearly treading on more speculative ground than in those parts dealing with outright archaeology, where he is on more familiar territory, is disorganized and repetitious.",
+        "input_2": "The text is concise and very clear.",
+        "output": "contradiction",
+        "idx": 215
+    },
+    {
+        "input_1": "Please support our 1996 United Way campaign.",
+        "input_2": "We are asking that you help the United Way in 1996 by generously giving to our campaign.",
+        "output": "entailment",
+        "idx": 216
+    },
+    {
+        "input_1": "Islamist revival movements gained followers across the Muslim world, but failed to secure political power except in Iran and Sudan.",
+        "input_2": "The majority of Muslims want the Islam revival to happen.",
+        "output": "neutral",
+        "idx": 217
+    },
+    {
+        "input_1": "$1 invested in preschool education for a disadvantaged child saves $4.75 in later special education, welfare payments, crime, and other costs.",
+        "input_2": "$4.75 is saved in various services for every $1 invested for a disadvantaged child in preschool.",
+        "output": "entailment",
+        "idx": 218
+    },
+    {
+        "input_1": "Two days a week, Kevin leaves his office 45 minutes early to take charge of his 2-year-old daughter, Sophie, while her mother, a university professor, teaches a late class.",
+        "input_2": "Sophie's mother and father are both unemployed parents.",
+        "output": "contradiction",
+        "idx": 219
+    },
+    {
+        "input_1": "Analysand , like several - nd words in English, is derived from the gerundive, and so means `(a person) to be analyzed.",
+        "input_2": "Analysand does not come from gerundive and is not English",
+        "output": "contradiction",
+        "idx": 220
+    },
+    {
+        "input_1": "Six weeks of learning and exploring, sports, arts, and fellowship.",
+        "input_2": "The most important part is the exploration of a camper.",
+        "output": "neutral",
+        "idx": 221
+    },
+    {
+        "input_1": "For more than a century, the U.S. federal and state governments have investigated sweatshops in the garment industry, including the role of immigrants, and have adopted legislation to ameliorate their impact on workers and consumers.",
+        "input_2": "The U.S. government tries to shut down the sweatshops.",
+        "output": "neutral",
+        "idx": 222
+    },
+    {
+        "input_1": "In other words, the savings created in throughput reduction in assembly were lost on the shipping dock.",
+        "input_2": "The shipping dock proved to be more of a cost than the savings created in other areas.",
+        "output": "entailment",
+        "idx": 223
+    },
+    {
+        "input_1": "How old are you talking about?",
+        "input_2": "Where are you talking about?",
+        "output": "contradiction",
+        "idx": 224
+    },
+    {
+        "input_1": "She was kind of headstrong and she was, um, kind of artistic maybe, and, uh, uh, liked to have a good sense of humor.",
+        "input_2": "She wasn't artistic at all and very passive and unsure of herself.",
+        "output": "contradiction",
+        "idx": 225
+    },
+    {
+        "input_1": "Now, as children tend their gardens, they have a new appreciation of their relationship to the land, their cultural heritage, and their community.",
+        "input_2": "Children's work in their gardens give them an appreciation of their cultural heritage.",
+        "output": "entailment",
+        "idx": 226
+    },
+    {
+        "input_1": "And, there is always a need for scholarship funds to help make college degrees possible for our students, most of whom come from central Indiana.",
+        "input_2": "Most of the students come from Indiana.",
+        "output": "entailment",
+        "idx": 227
+    },
+    {
+        "input_1": "My prize example was uttered by the incomparable Cher, during a morning-show interview.",
+        "input_2": "Cher announced my prize at 8 am.",
+        "output": "neutral",
+        "idx": 228
+    },
+    {
+        "input_1": "I was under the impression it was based on Webster's Ninth Collegiate Dictionary , and indeed it was; but there are so many improvements and changes that the absence both of a Longman copyright notice and of any identification of a specific editorial director are a bit mysterious.",
+        "input_2": "I though it was based on Webster's Ninth Collegiate Dictionary.",
+        "output": "entailment",
+        "idx": 229
+    },
+    {
+        "input_1": "For the most part, in-plant production methods for apparel have been organized around the way in which cut parts of garments are distributed to operators for sewing and then assembled into the completed garment.",
+        "input_2": "How the garment parts are distributed is the main point in organizing plants.",
+        "output": "entailment",
+        "idx": 230
+    },
+    {
+        "input_1": "I kept them in good shape until my last 78-rpm turntable died.",
+        "input_2": "I kept them in good shape until the turntable broke.",
+        "output": "entailment",
+        "idx": 231
+    },
+    {
+        "input_1": "The program could be an important boon to productivity and competitiveness.",
+        "input_2": "The program could be important to productivity",
+        "output": "entailment",
+        "idx": 232
+    },
+    {
+        "input_1": "There is no intelligent life on this planet. ",
+        "input_2": "There isn't intelligent life on Earth.",
+        "output": "neutral",
+        "idx": 233
+    },
+    {
+        "input_1": "And he goes, Yeah, sure, I'll take you.",
+        "input_2": "He did not want to take anyone.",
+        "output": "contradiction",
+        "idx": 234
+    },
+    {
+        "input_1": "These newest Scholars bring the number to ten--ten who, like Christa McAuliffe, will touch the future.",
+        "input_2": "These ten criminals are on the lose.",
+        "output": "contradiction",
+        "idx": 235
+    },
+    {
+        "input_1": "Indeed, the central purpose of language, from its moment of emergence, is  communication, social contact, infiuencing surrounding individuals. ",
+        "input_2": "Only two factors form the central purpose of language: communication and social contact.",
+        "output": "contradiction",
+        "idx": 236
+    },
+    {
+        "input_1": "In studies following children from infancy into childhood and adolescence, early brief episodes of parental stimulation and sensitivity did not result in more competent children.",
+        "input_2": "Parental stimulation and sensitivity towards a young child don't really affect a child's competency.",
+        "output": "entailment",
+        "idx": 237
+    },
+    {
+        "input_1": "He also stresses grievances against the United States widely shared in the Muslim world.",
+        "input_2": "The director stresses grievances against the United States.",
+        "output": "neutral",
+        "idx": 238
+    },
+    {
+        "input_1": "The NMCC officer who participated told us that the call was monitored only periodically because the information was sporadic, it was of little value, and there were other important tasks.",
+        "input_2": "The officer didn't tell us anything, he said this was on a need to know basis.",
+        "output": "contradiction",
+        "idx": 239
+    },
+    {
+        "input_1": "Do you ever tell this story yourself?",
+        "input_2": "Do you ever smash your head into the wall?",
+        "output": "contradiction",
+        "idx": 240
+    },
+    {
+        "input_1": "My own reading of the passage turns as much on the word pale as on bond , but the word limit set by the essay competition forced me to be rather elliptical.",
+        "input_2": "I wish I could have spent more time discussing both the words pale and bond.",
+        "output": "-",
+        "idx": 241
+    },
+    {
+        "input_1": "I can remember Mom and Dad saying Grandmom in the kitchen hollering, Daddy, Daddy, Daddy I wish you wouldn't talk like that in front of the girls.",
+        "input_2": "I would prefer if you did not speak in such away in front of the children.",
+        "output": "entailment",
+        "idx": 242
+    },
+    {
+        "input_1": "And like my family's a big part of it.",
+        "input_2": "My family is very important to me.",
+        "output": "neutral",
+        "idx": 243
+    },
+    {
+        "input_1": "We hope that you will consider a personal gift to help us offer our young people as possible.",
+        "input_2": "We hope you will give us a personal gift to help young people.",
+        "output": "entailment",
+        "idx": 244
+    },
+    {
+        "input_1": "Please join us as we continue to rebuild this historic neighborhood into a place of pride and community strength.",
+        "input_2": "We will continue to rebuild the historic neighborhood and reduce the violence we've dealt with lately.",
+        "output": "neutral",
+        "idx": 245
+    },
+    {
+        "input_1": "As a result, 60 percent of our budget comes from United Way of Central Indiana, 10 percent from schools, and the remaining 30 percent from the generosity of business, our own fundraising activities and individual gifts.",
+        "input_2": "60% of our budget comes from Goodwill.",
+        "output": "contradiction",
+        "idx": 246
+    },
+    {
+        "input_1": "Human needs are on the rise in central Indiana and we have to meet the challenge.",
+        "input_2": "It necessary that we meet the challenge of rising human needs in central Indiana.",
+        "output": "entailment",
+        "idx": 247
+    },
+    {
+        "input_1": "She's got all of those, and a swing and a table, too! ",
+        "input_2": "She's got all of those, and a swing, a rocker and a table, too!",
+        "output": "neutral",
+        "idx": 248
+    },
+    {
+        "input_1": "Clarke reported that they were asking the President for authority to shoot down aircraft.",
+        "input_2": "The President would not support this idea.",
+        "output": "neutral",
+        "idx": 249
+    },
+    {
+        "input_1": "We first turn to the problem of forecasting sales in retail stores.",
+        "input_2": "Sales forecasting is the most important aspect and should be addressed first.",
+        "output": "neutral",
+        "idx": 250
+    },
+    {
+        "input_1": " Is this real-world or exercise?",
+        "input_2": "It's just an exercise, for sure.",
+        "output": "contradiction",
+        "idx": 251
+    },
+    {
+        "input_1": "The IU School of Dentistry is committed to remaining the recognized leader in scholarly research, teaching and service.",
+        "input_2": "The IU School of Dentistry is the leader in scholarly research, teaching and service.",
+        "output": "entailment",
+        "idx": 252
+    },
+    {
+        "input_1": "The guidance for Wherley was to send up the aircraft, with orders to protect the White House and take out any aircraft that threatened the Capitol.",
+        "input_2": "The suggestion was to send planes to guard washington DC.",
+        "output": "-",
+        "idx": 253
+    },
+    {
+        "input_1": "At least some FAA officials in Boston Center and the New England Region knew that a hijacker on board American 11 had said we have some planes.",
+        "input_2": "American 11 was checked by the FAA and was cleared for landing.",
+        "output": "contradiction",
+        "idx": 254
+    },
+    {
+        "input_1": "We thought it would be cool to see just how far a BB would shoot.",
+        "input_2": "We shot a BB.",
+        "output": "-",
+        "idx": 255
+    },
+    {
+        "input_1": "Unfortunately, the mistake is compounded and perpetuated by dragging in expressions like man in the street, the average working man , and others, and, as a result, the entire argument degenerates.",
+        "input_2": "Expressions like man in the street, the average working man, and others often compound and perpetuate the mistake.",
+        "output": "entailment",
+        "idx": 256
+    },
+    {
+        "input_1": "NORAD would receive tracking information for the hijacked aircraft either from joint use radar or from the relevant FAA air traffic control facility.",
+        "input_2": "NORAD gets tracking information for planes from joint use radar or the FAA.",
+        "output": "entailment",
+        "idx": 257
+    },
+    {
+        "input_1": "Lexicographers constantly face problems of defining terms that, in some instances, might require a brief essay to explain and far more specialized knowledge than can reasonably be expected from the user.",
+        "input_2": "Lexicographers tend to be very long winded.",
+        "output": "-",
+        "idx": 258
+    },
+    {
+        "input_1": "This year, 1993, marks the ten-year anniversary of the A. Rebekah Fisk Memorial Scholarship.",
+        "input_2": "The A. Rebekah Fisk Memorial Scholarship has been around for five years now.",
+        "output": "contradiction",
+        "idx": 259
+    },
+    {
+        "input_1": "Do you smoke her Saratogas?",
+        "input_2": "Are you a smoker of Saratogas?",
+        "output": "entailment",
+        "idx": 260
+    },
+    {
+        "input_1": "No evidence of firearms or of their identifiable remains was found at the aircraft's crash site, and the cockpit voice recorder gives no indication of a gun being fired or mentioned at any time.",
+        "input_2": "There was no evidence of guns on the plane.",
+        "output": "entailment",
+        "idx": 261
+    },
+    {
+        "input_1": "The other name, native well is, as a later explorer David Carnegie, author of Spinifex and Sand (1898), points out, a misnomer.",
+        "input_2": "The alternative name was a misnomer according to the explorer David Carnegie.",
+        "output": "entailment",
+        "idx": 262
+    },
+    {
+        "input_1": "How about when you were in school?",
+        "input_2": "What about when you were in school?",
+        "output": "entailment",
+        "idx": 263
+    },
+    {
+        "input_1": "I remember going down to the church and there was a group of men there that were organizing an uh, evacuation of all the valuables of the church, take them to the second floor.",
+        "input_2": "There have never been men in that church. ",
+        "output": "contradiction",
+        "idx": 264
+    },
+    {
+        "input_1": "Usually the records were taken from their jackets and loaded naked in stacks, where they picked up dust, scratched one another, and traded static electricity.",
+        "input_2": "The records were put on shelves.",
+        "output": "-",
+        "idx": 265
+    },
+    {
+        "input_1": "Given the predominant share of workers in assembly, organization of work in the sewing room has been the central focus of management attention.",
+        "input_2": "Organization of work in the sewing room is the most important thing for efficiency, which is why it has been the central focus of management attention.",
+        "output": "neutral",
+        "idx": 266
+    },
+    {
+        "input_1": "Just because, you know, she knows how I am, I guess.",
+        "input_2": "She doesn't know what I am like at all.",
+        "output": "contradiction",
+        "idx": 267
+    },
+    {
+        "input_1": "Your contribution helped make it possible for us to provide our students with a quality education.",
+        "input_2": "Your contributions were of no help with our students' education.",
+        "output": "contradiction",
+        "idx": 268
+    },
+    {
+        "input_1": "Again, the time it takes managers to reach a decision is what determines the length of this process.",
+        "input_2": "Most managers take 3-5 days to make a decision.",
+        "output": "neutral",
+        "idx": 269
+    },
+    {
+        "input_1": "Today, Bodenheim's novel might be of interest to students of the English language because of its use of slang.",
+        "input_2": "Bodenheim's novel makes an interesting use of slang.",
+        "output": "entailment",
+        "idx": 270
+    },
+    {
+        "input_1": "Still, the idea has caught on so well that most British newspapers now offer two crossword puzzles each day.",
+        "input_2": "British papers never offer more than one crossword.  ",
+        "output": "contradiction",
+        "idx": 271
+    },
+    {
+        "input_1": "Examples of franglais which they find particularly monstrous are, I hear, to be condemned to a newly created  Mus??e des horreurs. ",
+        "input_2": "They think some franglais are monstrous.",
+        "output": "entailment",
+        "idx": 272
+    },
+    {
+        "input_1": "And how, OK can you tell me any flood stories about growing up in Penn?",
+        "input_2": "There were no floods in Penn, is that right? ",
+        "output": "contradiction",
+        "idx": 273
+    },
+    {
+        "input_1": "Instead, in a number of cases their rulers sought to buy off local Islamist movements by ceding control of many social and educational issues.",
+        "input_2": "Islamist movements would not accept bribery from rulers.",
+        "output": "neutral",
+        "idx": 274
+    },
+    {
+        "input_1": "Who would want to wear such a scent?",
+        "input_2": "Who wouldn't want to smell like that?",
+        "output": "contradiction",
+        "idx": 275
+    },
+    {
+        "input_1": "They have what?",
+        "input_2": "Do they have that?",
+        "output": "neutral",
+        "idx": 276
+    },
+    {
+        "input_1": "He searched along the plane's projected flight path and the airspace to the southwest where it had started to turn.",
+        "input_2": "He never knew what the projected flight plan was.",
+        "output": "contradiction",
+        "idx": 277
+    },
+    {
+        "input_1": "As the explorer Ernest Giles put it, the explorer's experience is a  baptism worse than that of fire'the baptism of no water. ",
+        "input_2": "Giles said an explorer's experience is like a funeral.",
+        "output": "contradiction",
+        "idx": 278
+    },
+    {
+        "input_1": "We are pleased to note that Hu-Friedy, L.D.Caulk, and Star Dental have each agreed to contribute to this worthy cause.",
+        "input_2": "We are happy to say that there are a few donors for this cause.",
+        "output": "entailment",
+        "idx": 279
+    },
+    {
+        "input_1": "In particular, advanced practices in distribution and modular production interact with each other because they both reduce throughput time.",
+        "input_2": "Advanced practices in distribution and modular production are taught to managers in the supplier department.",
+        "output": "neutral",
+        "idx": 280
+    },
+    {
+        "input_1": "The last two items merit comment.",
+        "input_2": "The bottom two items deserve to be commented on negatively.",
+        "output": "neutral",
+        "idx": 281
+    },
+    {
+        "input_1": "A carpenter.",
+        "input_2": "A basketball coach.",
+        "output": "contradiction",
+        "idx": 282
+    },
+    {
+        "input_1": "Parental oversight and involvement in children's TV viewing are essential for two reasons.",
+        "input_2": "Two reasons exist for why parents should keep track of what their children watch.",
+        "output": "entailment",
+        "idx": 283
+    },
+    {
+        "input_1": "As we prepare for all the events this fall, we are also looking into the future with the preparations for a new facility for the professional art school, administrative offices, faculty studios, a library and a contemporary gallery.",
+        "input_2": "The preparations for the fall events include considerations of the future.",
+        "output": "entailment",
+        "idx": 284
+    },
+    {
+        "input_1": "In the most extreme case, a stock-out might cause a customer to switch retailers, costing the lifetime value of that customer and others who might defect due to negative word-of-mouth.",
+        "input_2": "A customer is unlikely to switch retailers after five years.",
+        "output": "neutral",
+        "idx": 285
+    },
+    {
+        "input_1": "Note that these significant technological, market, and environmental changes largely originated outside the apparel industry itself.",
+        "input_2": "This means that there's more opportunity for the apparel sector to keep absorbing and implementing ideas from other markets.",
+        "output": "neutral",
+        "idx": 286
+    },
+    {
+        "input_1": "Indeed, Washington wore a dark brown suit, entirely made in America, for his first inaugural on April 30, 1789.",
+        "input_2": "Most people did not notice that Washington's suit was brown at his first inaugural in April of 1789.",
+        "output": "neutral",
+        "idx": 287
+    },
+    {
+        "input_1": "Knit fleece goods are commonly joined by a seaming operation called over-edging in the factory (and overlocking sewing in home use).",
+        "input_2": "The way knit fleece goods are sewn in factories differs a bit to how they are sewn at home.",
+        "output": "-",
+        "idx": 288
+    },
+    {
+        "input_1": "Misalignment of the edges can ruin many pattern pieces and the final garments for which they were intended.",
+        "input_2": "It doesn't matter if the edges aren't lined up.",
+        "output": "contradiction",
+        "idx": 289
+    },
+    {
+        "input_1": "Yet the train trip across the country she will take at age 3 1/2 and her first day of kindergarten at age 5 may still be memorable when she is 80.",
+        "input_2": "She isn't going to remember the train trip across the country.",
+        "output": "neutral",
+        "idx": 290
+    },
+    {
+        "input_1": "So I guess they went that far.",
+        "input_2": "They went as far as I knew they would.",
+        "output": "-",
+        "idx": 291
+    },
+    {
+        "input_1": "Bells on cocktails ring.",
+        "input_2": "Bells of cocktails are silent.",
+        "output": "contradiction",
+        "idx": 292
+    },
+    {
+        "input_1": "  )The word and concept are Jack Williamson's, from a 1942 story,  Seetee Ship. ",
+        "input_2": "The concept is entirely original.",
+        "output": "contradiction",
+        "idx": 293
+    },
+    {
+        "input_1": "No move was made to evacuate the Vice President at this time.",
+        "input_2": "The Vice President was evacuated immediately.",
+        "output": "contradiction",
+        "idx": 294
+    },
+    {
+        "input_1": "Denim is from de `from' + Nimes , the town.",
+        "input_2": "Nimes means the town in the root of Denim.",
+        "output": "entailment",
+        "idx": 295
+    },
+    {
+        "input_1": "Rosy, too, had seen the tune as Muskrat, Muskat , and Muscat .  I asked him what he thought the original title was.",
+        "input_2": "Rosy had seen the tune with just one name.",
+        "output": "contradiction",
+        "idx": 296
+    },
+    {
+        "input_1": "He also lost the head of his military committee, Abu Ubaidah al Banshiri, one of the most capable and popular leaders of al Qaeda.",
+        "input_2": "Abu Ubaidah al Banshiri was never in any committees and was not in any way affiliated with Al Qaeda.",
+        "output": "contradiction",
+        "idx": 297
+    },
+    {
+        "input_1": "We're off to save the Galaxy!",
+        "input_2": "We refuse to save the galaxy. ",
+        "output": "contradiction",
+        "idx": 298
+    },
+    {
+        "input_1": "However, some recent studies explore the connection between development of linguistic gender and sex/gender, and the question of anatomically determined language is fashionable.)",
+        "input_2": "There are studies examining the connection between a person's gender and linguistic gender.",
+        "output": "entailment",
+        "idx": 299
+    },
+    {
+        "input_1": "Thanks for your courtesy in reviewing this request.",
+        "input_2": "I wish you had shown more courtesy with my request. ",
+        "output": "contradiction",
+        "idx": 300
+    },
+    {
+        "input_1": "We have provided throughout the years quality legal education, and we are continuing to improve.",
+        "input_2": "We have given terrible education and don't want to improve. ",
+        "output": "contradiction",
+        "idx": 301
+    },
+    {
+        "input_1": "Once constructed, this persisting psychological self serves as an anchor for unique experiences, which are retained easily as long as they become personally meaningful.",
+        "input_2": "Personally meaningful unique experiences are always retained easily.",
+        "output": "entailment",
+        "idx": 302
+    },
+    {
+        "input_1": "This group of nations provided 39 percent of all apparel imports in 1964 and 51 percent of all apparel imports by 1988 (measured in square-meter equivalents, a measure of quantity).",
+        "input_2": "This group of nations provided 60 percent of all apparel imports in 1995.",
+        "output": "contradiction",
+        "idx": 303
+    },
+    {
+        "input_1": "Go ahead Adam.",
+        "input_2": "You can't do it Adam.",
+        "output": "contradiction",
+        "idx": 304
+    },
+    {
+        "input_1": "In Sudan, he established an Islamic Army Shura that was to serve as the coordinating body for the consortium of terrorist groups with which he was forging alliances.",
+        "input_2": "He was a native of Sudan.",
+        "output": "neutral",
+        "idx": 305
+    },
+    {
+        "input_1": "Please support our 1996 United Way campaign.",
+        "input_2": "There is no 1996 campaign for United Way.",
+        "output": "contradiction",
+        "idx": 306
+    },
+    {
+        "input_1": "Not only are they winning awards around town but many will be presented with scholarships or gift certificates on April 30th at the annual Awards and Honors Ceremony.",
+        "input_2": "There will be an Honors Ceremony on March 5th.",
+        "output": "contradiction",
+        "idx": 307
+    },
+    {
+        "input_1": "Once demand variation for each SKU was determined for our men's coat manufacturer, its managers faced the question of how to manage the inventory of the items in its rapid replenishment collection while maintaining a smooth flow of products through the sewing room.",
+        "input_2": "The smooth flow of products is more important than rapid replenishment.",
+        "output": "neutral",
+        "idx": 308
+    },
+    {
+        "input_1": "Projects such as this touch the lives of others and enhance the education of the students.",
+        "input_2": "The students' education is bettered by the availability of such projects. ",
+        "output": "entailment",
+        "idx": 309
+    },
+    {
+        "input_1": "We cannot identify whose voices can be heard.",
+        "input_2": "Three different voices can be heard.",
+        "output": "neutral",
+        "idx": 310
+    },
+    {
+        "input_1": "Narrative conversation also fosters language development and emergent literacy, which greatly ease the task of learning to read and write when children get to school.",
+        "input_2": "Adults making narrative conversation with children about abstract art makes it easier for them to learn to read.",
+        "output": "-",
+        "idx": 311
+    },
+    {
+        "input_1": "There seems little point in going any further, except to say that this is the  Revised Edition ; one shudders to think of what might have been in the first edition.",
+        "input_2": "There isn't a point in continuing on.",
+        "output": "entailment",
+        "idx": 312
+    },
+    {
+        "input_1": "Such stitching generally outlasts the fabric of jeans, as one can see from looking at the holey knees of jeans worn by many teenagers.",
+        "input_2": "Many teenagers have holes in their jeans.",
+        "output": "entailment",
+        "idx": 313
+    },
+    {
+        "input_1": "The problem was solved simply by using an already standard character that had a similar sound to what the Viet called themselves.",
+        "input_2": "The issue was worked around by substituting a character with a similar sound.",
+        "output": "entailment",
+        "idx": 314
+    },
+    {
+        "input_1": "Michael was born with cerebral palsy.",
+        "input_2": "Michael got cerebral palsy when he was 2 years old.",
+        "output": "contradiction",
+        "idx": 315
+    },
+    {
+        "input_1": "// All the time.",
+        "input_2": "Never.",
+        "output": "contradiction",
+        "idx": 316
+    },
+    {
+        "input_1": "In this case, public outrage led to early workers' compensation and factory inspection legislation.",
+        "input_2": "Public outrage and protesting lasted for two weeks before legislative actions were made.",
+        "output": "neutral",
+        "idx": 317
+    },
+    {
+        "input_1": "He told us that by the time he arrived, the order had already been passed down NORAD's chain of command.",
+        "input_2": "He told us that the order had been sent down from the FAA.",
+        "output": "contradiction",
+        "idx": 318
+    },
+    {
+        "input_1": "I am asking that you consider supporting our efforts once again this year with a similar gift.",
+        "input_2": "I don't care if you send a similar gift this year, we don't need your support.",
+        "output": "contradiction",
+        "idx": 319
+    },
+    {
+        "input_1": "Um, I wanted to be closer to my family, number one, and, um, number two, I have a lot of friends coming here, which helped me a lot, and, um, I just liked the Charlotte, um, UNC Charlotte because I wanted to be a, a nurse.",
+        "input_2": "I wanted to go to UNC Charlotte to become a nurse.",
+        "output": "entailment",
+        "idx": 320
+    },
+    {
+        "input_1": "Among infiuential explanations of why preschoolers are so drawn to pretending, Freud's psychoanalytic theory and Piaget's cognitive theory held sway for much of the twentieth century.",
+        "input_2": "Prior to the twentieth century, there were no explanations for why preschoolers like pretending.",
+        "output": "neutral",
+        "idx": 321
+    },
+    {
+        "input_1": "Chapter 4 ( The Building Blocks of Lean Retailing) describes how the essential elements of lean retailing'bar codes",
+        "input_2": "Chapter 4 is about essential elements.",
+        "output": "entailment",
+        "idx": 322
+    },
+    {
+        "input_1": "The forty operations indicated in the figure may require only twelve minutes if the operators are working at 100 percent efficiency, but any given shirt still takes twenty working days to pass through the plant.",
+        "input_2": "If operators are operating at 100 percent efficiency, operations can take as much as 2 hours.",
+        "output": "contradiction",
+        "idx": 323
+    },
+    {
+        "input_1": "American 11 struck the NorthTower at 8:46.",
+        "input_2": "The alarmed and confused many people within the radius.",
+        "output": "neutral",
+        "idx": 324
+    },
+    {
+        "input_1": "Now you watch a lot of television don't you?",
+        "input_2": "Now that you got a big television, I bet you watch a lot of it.",
+        "output": "neutral",
+        "idx": 325
+    },
+    {
+        "input_1": "I hope you'll think of Wanda and other mothers' prayers and dreams this Mother's Day.",
+        "input_2": "I am sure you will not think of Wanda or any of these women on Mother's Day.",
+        "output": "contradiction",
+        "idx": 326
+    },
+    {
+        "input_1": "9 About two-thirds of the production volume of our surveyed business units did their marker-making, spreading, and cutting in a single location.",
+        "input_2": "The surveyed businesses worked in the timber industry.",
+        "output": "neutral",
+        "idx": 327
+    },
+    {
+        "input_1": "This organization's structure included as its operating arms an intelligence component, a military committee, a financial committee, a political committee, and a committee in charge of media affairs and propaganda.",
+        "input_2": "The organization included many branches to manage its operations.",
+        "output": "entailment",
+        "idx": 328
+    },
+    {
+        "input_1": "Lacking a target, they were vectored toward military-controlled airspace off the Long Island coast.",
+        "input_2": "Using a military-controlled airspace, the vectorization was successful.",
+        "output": "neutral",
+        "idx": 329
+    },
+    {
+        "input_1": "I moved to San Diego.",
+        "input_2": "I was born and raised in San Diego, but moved somewhere else.",
+        "output": "contradiction",
+        "idx": 330
+    },
+    {
+        "input_1": "For W9's exemplary precision in telling us what vocabulary entries and dictionary entries are is offset by its vagueness about which type of entry its PR-wallahs have counted for their blurb.",
+        "input_2": "W9 poorly explains vocabulary entries, but its PR blurbs are excellent.",
+        "output": "contradiction",
+        "idx": 331
+    },
+    {
+        "input_1": "For one thing, he documents many neologisms, an activity that endears him to many working lexicographers.",
+        "input_2": "Lexicographers are fond of him because he describes so many neologisms.",
+        "output": "entailment",
+        "idx": 332
+    },
+    {
+        "input_1": "About this time, Card, the lead Secret Service agent, the President's military aide, and the pilot were conferring on a possible destination for Air Force One.",
+        "input_2": "There was great concern for the president's safety.",
+        "output": "neutral",
+        "idx": 333
+    },
+    {
+        "input_1": "At very young ages, when children are just beginning to acquire culturally valued skills, they depend almost entirely on interactions with more expert cultural members to make sense of their experiences.",
+        "input_2": "Children do not learn anything from their parents or cultures.",
+        "output": "contradiction",
+        "idx": 334
+    },
+    {
+        "input_1": "Support at this level could assist the dental school in a variety of ways.",
+        "input_2": "The dental school is in need of assistance.",
+        "output": "entailment",
+        "idx": 335
+    },
+    {
+        "input_1": "We are also planning new initiatives.",
+        "input_2": "We are not planning to have any new initiatives",
+        "output": "contradiction",
+        "idx": 336
+    },
+    {
+        "input_1": "Die-cutters are much safer when fully automated, but building computerized loading and unloading features into the machine adds cost.",
+        "input_2": "Fully automated die-cutters are extremely dangerous and should be avoided at all costs.",
+        "output": "contradiction",
+        "idx": 337
+    },
+    {
+        "input_1": "In contrast, suppliers that have continued to innovate and expand their use of the four practices, as well as other activities described in previous chapters, keep outperforming the industry as a whole.",
+        "input_2": "The suppliers that continued to innovate in their use of the four practices consistently underperformed in the industry.",
+        "output": "contradiction",
+        "idx": 338
+    },
+    {
+        "input_1": "Um, well, let's see, so do you think that those experiences helped you figure out the kinds of things you liked to read?",
+        "input_2": "Did those experiences influence your love of fiction?",
+        "output": "neutral",
+        "idx": 339
+    },
+    {
+        "input_1": "As you know, this is an extraordinary year for council fund raising.",
+        "input_2": "As you are already aware, this is a very important year for council fund raising as many costly programs are being added.",
+        "output": "neutral",
+        "idx": 340
+    },
+    {
+        "input_1": "Somewhat more involved ",
+        "input_2": "This one is not very involved.",
+        "output": "contradiction",
+        "idx": 341
+    },
+    {
+        "input_1": "Let's head off an auxiliary crisis before it happens!",
+        "input_2": "An auxiliary crisis should be stopped before it happens!",
+        "output": "entailment",
+        "idx": 342
+    },
+    {
+        "input_1": "joint facility in Riyadh for training the Saudi National Guard.",
+        "input_2": "Training was not allowed in Riyadh.",
+        "output": "contradiction",
+        "idx": 343
+    },
+    {
+        "input_1": "Although no single retailer pioneered or adopted all the innovations that compose lean retailing, we focus here on those in three segments'mass merchants, national chains, and departments stores'that played important roles in initiating the larger transformation.",
+        "input_2": "Lean retailing was developed by multiple retailers in aggregate.",
+        "output": "neutral",
+        "idx": 344
+    },
+    {
+        "input_1": "Shortly after the first call, Barbara Olson reached her husband again.",
+        "input_2": "Barbara Olson never made contact with her husband.",
+        "output": "contradiction",
+        "idx": 345
+    },
+    {
+        "input_1": "My grandmom was pretty much a chain smoker.",
+        "input_2": "My grandma never smoked. ",
+        "output": "contradiction",
+        "idx": 346
+    },
+    {
+        "input_1": "Your contribution--large or small-- through the Annual Fund will carry us one more step toward realizing the Purdue dream for the 21st century.",
+        "input_2": "Such a small donation is really of no value to us. ",
+        "output": "contradiction",
+        "idx": 347
+    },
+    {
+        "input_1": "What are those stories?",
+        "input_2": "These stories are?",
+        "output": "entailment",
+        "idx": 348
+    },
+    {
+        "input_1": "Please help make that same opportunity available to some deserving students today.",
+        "input_2": "The students who are given this opportunity will benefit greatly both now and in the future.",
+        "output": "neutral",
+        "idx": 349
+    },
+    {
+        "input_1": "Rather, the intensity of adult support depends on where the task falls within the child's  zone. ",
+        "input_2": "Adult support the child depends on the situation.",
+        "output": "entailment",
+        "idx": 350
+    },
+    {
+        "input_1": "After an adult describes and demonstrates some activity (for example, putting a teddy bear to bed), 1-year-olds who as yet have little language can easily reproduce the main steps in correct sequence with toys.",
+        "input_2": "Young children have trouble reproducing the steps of an activity.",
+        "output": "contradiction",
+        "idx": 351
+    },
+    {
+        "input_1": "Uh, how important it was to read and we're all English majors, I think that has something to do with it; my brother, sister and I are all, we're all English majors in college.",
+        "input_2": "Some of my family members and myself were invested in the subject of English during college.",
+        "output": "entailment",
+        "idx": 352
+    },
+    {
+        "input_1": "In any event, it is hard to discern, from the arch style affected in an attempt to make dull facts interesting, just what is the origin of sow one's wild oats .  In many entries, Claiborne labors the obvious, offering little or nothing we do not already know, could easily imagine, or for which the author offers no explanation.",
+        "input_2": "Claiborne offers a lot of information that is new and was unknown to the reader.",
+        "output": "contradiction",
+        "idx": 353
+    },
+    {
+        "input_1": "The supervisor instructed the controller to follow standard procedures for handling a no radio aircraft.",
+        "input_2": "The procedures included repeated attempts to reach the aircraft.",
+        "output": "neutral",
+        "idx": 354
+    },
+    {
+        "input_1": "Here the answer is a definite yes.",
+        "input_2": "The answer is yes.",
+        "output": "entailment",
+        "idx": 355
+    },
+    {
+        "input_1": "Um, do you remember everything that your mom, like when she's telling the story, do you remember everything she tells or is some of it you remember and some of it you don't?",
+        "input_2": "Do you listen when your mom tells you to go do your homework?",
+        "output": "contradiction",
+        "idx": 356
+    },
+    {
+        "input_1": "It's definitely grown.",
+        "input_2": "I thought it was gonna grow bigger, but it looks like it's smaller.",
+        "output": "contradiction",
+        "idx": 357
+    },
+    {
+        "input_1": "That's the way, way it was, they're big, plenty, if I were to tell you all the stories of what we went through, I tell you, that I'd keep you all night . That's how it was, it was said, but thank God in the family hardly-- The guerrillas also took out a man from the outskirts near the, the place where we lived, who was called Juan.",
+        "input_2": "The guerrillas never took out a man from the outskirts that were nearby.",
+        "output": "contradiction",
+        "idx": 358
+    },
+    {
+        "input_1": "Your gift to Goodwill will help the many people who want to tell their own stories of success.",
+        "input_2": "Goodwill takes in millions of contributions every year.",
+        "output": "neutral",
+        "idx": 359
+    },
+    {
+        "input_1": "Perhaps one day we shall find an Etruscan library, buried deep in the Italian countryside; but for the present, we have to make do with what we have, which is precious little.",
+        "input_2": "We have to complain and ask for more, as what we have now is not enough.",
+        "output": "contradiction",
+        "idx": 360
+    },
+    {
+        "input_1": "And that's the way it stayed, the firefights there, in that place, and the firefights.",
+        "input_2": "They had fights with buckets of ice cold water.",
+        "output": "contradiction",
+        "idx": 361
+    },
+    {
+        "input_1": "That was Robert Frost.",
+        "input_2": "That was not Robert Frost.",
+        "output": "contradiction",
+        "idx": 362
+    },
+    {
+        "input_1": "If you help me, I said, to move my livestock to Chapeltique.",
+        "input_2": "I don't need any help dealing with my animals. ",
+        "output": "contradiction",
+        "idx": 363
+    },
+    {
+        "input_1": "Onomatopoeia has a long, honorable, and pleasurable history'from Aristophanes' brek-ke-kex ko-ax ko-ax to Kermit's ribbet, ribbet 'from majestic lines in ancient epic poetry to simple, homey words like plop, splash , and murmur .  In every language and time, the sound and look of some words have given clues to their  their sound has suggested their sense.",
+        "input_2": "Onomatopoeia has a very very long history.",
+        "output": "entailment",
+        "idx": 364
+    },
+    {
+        "input_1": "Human Growth  and Development",
+        "input_2": "Human biological development.",
+        "output": "entailment",
+        "idx": 365
+    },
+    {
+        "input_1": " We always had books lots of books.",
+        "input_2": "We had a great many books.",
+        "output": "entailment",
+        "idx": 366
+    },
+    {
+        "input_1": "The passengers continued their assault and at 10:02:23, a hijacker said, Pull it down!",
+        "input_2": "A hijackers was assaulted by passengers at around 10:00.",
+        "output": "entailment",
+        "idx": 367
+    },
+    {
+        "input_1": "A Feminist Dictionary , edited by influential Cheris Kramarae and Paula Treichler along with Ann Russo, suggests the style and the substance of some recent feminist discourse.",
+        "input_2": "Cheris Kramarae, Paula Treichler and Ann Russa were strong supporters of feminism.",
+        "output": "neutral",
+        "idx": 368
+    },
+    {
+        "input_1": "Partnership with YMCA of Liberia - In 1998, we continued our efforts to help the YMCA of Liberia re-establish after 7 years of civil war.",
+        "input_2": "The YMCA has become involved with Liberia to help them recover from war. ",
+        "output": "entailment",
+        "idx": 369
+    },
+    {
+        "input_1": "Your past contribution provided a direct line of support for local programs that promote health and wellness, strengthen families, invest in our children, help people become self-sufficient, and serve the elderly and disabled.",
+        "input_2": "Previous donations made by you were listed in the program newsletter.",
+        "output": "neutral",
+        "idx": 370
+    },
+    {
+        "input_1": "Do you still want to be a nurse or--?",
+        "input_2": "Do you still want to be a dinosaur when you grow up?",
+        "output": "contradiction",
+        "idx": 371
+    },
+    {
+        "input_1": "They're actually both teachers.",
+        "input_2": "They teach people how to do things.",
+        "output": "entailment",
+        "idx": 372
+    },
+    {
+        "input_1": "An Invitation to Sponsor a Bench",
+        "input_2": "A rejection for a wish to Sponsor a bench.",
+        "output": "contradiction",
+        "idx": 373
+    },
+    {
+        "input_1": "He could attract, train, and use recruits for ever more ambitious attacks, rallying new adherents with each demonstration that his was the movement of the future.",
+        "input_2": "It was very hard to find new people willing to join",
+        "output": "contradiction",
+        "idx": 374
+    },
+    {
+        "input_1": "Simply increasing inventory for all SKUs would be a poor allocation of investment, further increasing the order-fill rate for those SKUs for which service levels are already high.",
+        "input_2": "Upping the inventory for SKUs might be a solution, but isn't the best way of tackling the job.",
+        "output": "entailment",
+        "idx": 375
+    },
+    {
+        "input_1": "But the second reads like gobbledygook while the first tries to provide some basic notion of what is involved and where it is applied while, at the same time, gently notifying users that they are going to have to seek elsewhere for a proper definition, the understanding of which requires far more backgound in mathematics and logic than can be assumed in the average user.",
+        "input_2": "In terms of comprehension the first is better.",
+        "output": "-",
+        "idx": 376
+    },
+    {
+        "input_1": "What does he do?",
+        "input_2": "What is his occupation?",
+        "output": "entailment",
+        "idx": 377
+    },
+    {
+        "input_1": "    To the best of our recollection, this may be the only instance in which the origin of an expression has been traced to a statue.",
+        "input_2": "Thousands of expressions owe their origins to statues. ",
+        "output": "contradiction",
+        "idx": 378
+    },
+    {
+        "input_1": "Boston Center asked the Herndon Command Center to issue a similar cockpit security alert nationwide.",
+        "input_2": "Boston Center did not issue any requests to send out security alerts.",
+        "output": "contradiction",
+        "idx": 379
+    },
+    {
+        "input_1": "When parents and children spend most of their time apart, the result is a profound dampening of parents' socializing power.",
+        "input_2": "When parents and kids are together more, the result is parents socialize less than their childless peers.",
+        "output": "contradiction",
+        "idx": 380
+    },
+    {
+        "input_1": "Anybody who asks  Why a brass monkey? ",
+        "input_2": "Brass monkeys are handsome monkeys. ",
+        "output": "neutral",
+        "idx": 381
+    },
+    {
+        "input_1": "(Origin unknown; not from Gaelic)  I think it hardly fanciful to discern a note of Calvinist disapproval in this curt disclaimer.",
+        "input_2": "The disapproval stems from a basic dispute of the issue.",
+        "output": "neutral",
+        "idx": 382
+    },
+    {
+        "input_1": "Parents trying to make their way through these opposing theories, and their attendant advice about child-rearing and educational practice, are likely to find themselves in a dim forest, without a discernible trail blazed before them.",
+        "input_2": "Parents attempting to use these theories travel an unbeaten path.",
+        "output": "entailment",
+        "idx": 383
+    },
+    {
+        "input_1": "A picture-restorer is  one who cleans and restores and sometimes ruins old pictures. ",
+        "input_2": "Old pictures can be given to a picture-restorer to be cleaned or possibly ruined.",
+        "output": "entailment",
+        "idx": 384
+    },
+    {
+        "input_1": "About this time, Card, the lead Secret Service agent, the President's military aide, and the pilot were conferring on a possible destination for Air Force One.",
+        "input_2": "There were no plans to fly anywhere.",
+        "output": "contradiction",
+        "idx": 385
+    },
+    {
+        "input_1": "Onomatopoeia has a long, honorable, and pleasurable history'from Aristophanes' brek-ke-kex ko-ax ko-ax to Kermit's ribbet, ribbet 'from majestic lines in ancient epic poetry to simple, homey words like plop, splash , and murmur .  In every language and time, the sound and look of some words have given clues to their  their sound has suggested their sense.",
+        "input_2": "The word onomatopoeia was not historic from Aristophanes.",
+        "output": "contradiction",
+        "idx": 386
+    },
+    {
+        "input_1": "The kids need your leadership now more than ever.",
+        "input_2": "The kids know what they are doing now",
+        "output": "contradiction",
+        "idx": 387
+    },
+    {
+        "input_1": "As the lead pilot explained, I reverted to the Russian threat.",
+        "input_2": "The Russian threat was revisited.",
+        "output": "entailment",
+        "idx": 388
+    },
+    {
+        "input_1": "For example, sketches or photos can be draped with material of different colors and patterns.",
+        "input_2": "It is not possible to drape photos in different coloured material.",
+        "output": "contradiction",
+        "idx": 389
+    },
+    {
+        "input_1": "Say again, slowly.",
+        "input_2": "Repeat that slower so I can write it down.",
+        "output": "neutral",
+        "idx": 390
+    },
+    {
+        "input_1": " OK, let me ask the question here.",
+        "input_2": "Please ask a question, I have none to ask.",
+        "output": "contradiction",
+        "idx": 391
+    },
+    {
+        "input_1": "It exemplifies the support and encouragement that the faculty and community provides.",
+        "input_2": "The faculty is not supportive or encouraging at all.",
+        "output": "contradiction",
+        "idx": 392
+    },
+    {
+        "input_1": "As you review the gifts you've made this year I please consider a year-end gift to Herron School of Art.",
+        "input_2": "The Herron School of Art does not accept gifts.",
+        "output": "contradiction",
+        "idx": 393
+    },
+    {
+        "input_1": "My sisters seemed to get a good kick out of it.",
+        "input_2": "My sisters seemed to like it when I got in trouble.",
+        "output": "neutral",
+        "idx": 394
+    },
+    {
+        "input_1": "Your support is vital and your generosity will make a real difference.",
+        "input_2": "There will be no difference without support and donations.",
+        "output": "-",
+        "idx": 395
+    },
+    {
+        "input_1": "Its institutions take many forms and survive under many different political regimes.",
+        "input_2": "The institutions have many different forms and have different political regimes that they survive under.",
+        "output": "entailment",
+        "idx": 396
+    },
+    {
+        "input_1": "The sociocultural vision is very dierent from behaviorism, which views development as directly imposed, or shaped, by external forces.",
+        "input_2": "They almost completely contradict one another.",
+        "output": "neutral",
+        "idx": 397
+    },
+    {
+        "input_1": "I wanted to briefly share with you some of the specific uses of the funds that are donated each year.",
+        "input_2": "Allow me to quickly share with you how donated funds are used for medications each year.",
+        "output": "neutral",
+        "idx": 398
+    },
+    {
+        "input_1": "Of the two, the W geographical listings seem more  W lists Aylesbury , which, through some grievous, egregious fault, is not in the geographical section of the L but does appear in the A-Z section (because of the ducks).",
+        "input_2": "I really don't know. this was a confusing line.",
+        "output": "contradiction",
+        "idx": 399
+    },
+    {
+        "input_1": "Over time, their policies- repression, rewards, emigration, and the displacement of popular anger onto scapegoats (generally foreign)-were shaped by the desire to cling to power.",
+        "input_2": "Their policies over time were driven by their thirst for power.",
+        "output": "entailment",
+        "idx": 400
+    },
+    {
+        "input_1": "Callers reported that a passenger had been stabbed and that two people were lying on the floor of the cabin, injured or dead-possibly the captain and first officer.",
+        "input_2": "The passengers tried to help the injured.  ",
+        "output": "neutral",
+        "idx": 401
+    },
+    {
+        "input_1": "Um, she always kept all her bills and expenses at an absolute minimum ran everything very efficiently kept an extremely tidy house uh.",
+        "input_2": "She lived in a pig sty and did nothing to tidy up ever.",
+        "output": "contradiction",
+        "idx": 402
+    },
+    {
+        "input_1": "At first, children find it difficult to distinguish words and other mental symbols from the objects and actions to which they refer.",
+        "input_2": "Children cannot always easily distinguish words and other mental symbols from objects and actions.",
+        "output": "entailment",
+        "idx": 403
+    },
+    {
+        "input_1": "In preschools and kindergartens, behaviorist tenets were used to justify large-group drill on letters, numbers, and general knowledge as well as repetitive worksheet practice that required young children to sit at their desks for long periods, filling in blanks, coloring within the lines, and otherwise following teacher prescriptions.",
+        "input_2": "Behaviorist tenets helped justify strictly regimented education practices.",
+        "output": "entailment",
+        "idx": 404
+    },
+    {
+        "input_1": "she said, I mean, a huge group!",
+        "input_2": "She said there was a pretty large turnout. ",
+        "output": "entailment",
+        "idx": 405
+    },
+    {
+        "input_1": "The whole point is speed and clarity of communications.",
+        "input_2": "Communications speed has reached a perfect equilibrium point.",
+        "output": "neutral",
+        "idx": 406
+    },
+    {
+        "input_1": "The international environment for Bin Ladin's efforts was ideal.",
+        "input_2": "The environment was not ideal for Bin Ladin's efforts.",
+        "output": "contradiction",
+        "idx": 407
+    },
+    {
+        "input_1": "Communication tools like Safety-Wise, Happenings, along with event calendars and other materials, allow volunteers to provide quality, informed leadership.",
+        "input_2": "Volunteers are able to provide quality, informed leadership via communication tools like Safety-Wise, Happenings, along with event calendars and other materials.",
+        "output": "entailment",
+        "idx": 408
+    },
+    {
+        "input_1": "There is no fat in our budget.",
+        "input_2": "Fat has maintained through our budget up until this day.",
+        "output": "contradiction",
+        "idx": 409
+    },
+    {
+        "input_1": " Afterwards, the Bishop walked among the crowds, eating their picnic lunches. ",
+        "input_2": "The Bishop likes walking among crowds while they eat.",
+        "output": "neutral",
+        "idx": 410
+    },
+    {
+        "input_1": "' Keep Indianapolis Beautiful helps us do this by providing us opportunities to work with outstanding people in our community.",
+        "input_2": "Keep Indianapolis Beautiful provides no opportunities to work alongside people in the community.",
+        "output": "contradiction",
+        "idx": 411
+    },
+    {
+        "input_1": "So what is the explanation of the phrase cold enough to freeze the balls off a brass monkey ?  Well, the obvious one, I believe.",
+        "input_2": "Some expressions have a very obvious meaning.",
+        "output": "entailment",
+        "idx": 412
+    },
+    {
+        "input_1": "Recently a project' arose that should be interesting to you as a former student who struggled to clear the financial hurdle of education.",
+        "input_2": "A someone who attended school while meeting the challenges of trying to pay for your education, you might find this new project enticing.",
+        "output": "entailment",
+        "idx": 413
+    },
+    {
+        "input_1": " From General Stores to Mass Retailers",
+        "input_2": "Mass retailers came before general stores.",
+        "output": "contradiction",
+        "idx": 414
+    },
+    {
+        "input_1": "The idea of a domestic command for homeland defense began to be discussed in 1997, and in 1999 the Joint Chiefs developed a concept for the establishment of a domestic Unified Command.",
+        "input_2": "A domestic command is necessary for safety in this new age of terrorism.",
+        "output": "neutral",
+        "idx": 415
+    },
+    {
+        "input_1": "From 9:34 to 10:08, a Command Center facility manager provided frequent updates to Acting Deputy Administrator Monte Belger and other executives at FAA headquarters as United 93 headed toward Washington, D.C.",
+        "input_2": "Frequent updates were provided to Monte Belger and others about United 93.",
+        "output": "entailment",
+        "idx": 416
+    },
+    {
+        "input_1": "They can change the tone of people's voice yes.",
+        "input_2": "People's tone of voice can't ever be changed.",
+        "output": "contradiction",
+        "idx": 417
+    },
+    {
+        "input_1": "Like in most schools in Charlotte, if you go on other sides, it's like everybody's just white, but in my school, there was every kind of person you could ever meet.",
+        "input_2": "There were lots of different kinds of people in my school. ",
+        "output": "entailment",
+        "idx": 418
+    },
+    {
+        "input_1": "It is my (wholly unsubstantiated) guess that the majority of Soviet personnel in Vietnam are in fact not Russian.",
+        "input_2": "It is likely that most of them are from other places",
+        "output": "neutral",
+        "idx": 419
+    },
+    {
+        "input_1": "Real currently, what do you enjoy reading at the present?",
+        "input_2": "What's the worst book you read recently?",
+        "output": "contradiction",
+        "idx": 420
+    },
+    {
+        "input_1": "The Indianapolis YWCA is an open, supportive organization concerned with women and families; providing opportunities to develop skills, knowledge and resources in the areas of health, self-awareness and leadership.",
+        "input_2": "The Indianapolis YWCA is an organization that helps women and families by helping develop skills, knowledge and resources in health, self-awareness and leadership.",
+        "output": "entailment",
+        "idx": 421
+    },
+    {
+        "input_1": "So we took a chance on it and started following the billboards.",
+        "input_2": "We started following the billboards to find the mall.",
+        "output": "neutral",
+        "idx": 422
+    },
+    {
+        "input_1": "As a nonexpert, although interested, subscriber to VERBATIM, it is  a bit mysterious  to me that the singular noun absence takes the plural verb are .  I refer to the first sentence of your article about the Longman Dictionary [XV,1].",
+        "input_2": "The author is concerned about the verb use in VERBATIM magazine.",
+        "output": "entailment",
+        "idx": 423
+    },
+    {
+        "input_1": " OK, let me ask the question here.",
+        "input_2": "Allow me to ask this now, alright",
+        "output": "entailment",
+        "idx": 424
+    },
+    {
+        "input_1": "I have been with the Department of Manufacturing Technology for about thirty years, twenty-five years as chairman and have recently retired.",
+        "input_2": "I have been working with the Department of Manufacturing technology for fifty-five years total",
+        "output": "entailment",
+        "idx": 425
+    },
+    {
+        "input_1": "NORAD officials have maintained consistently that had the passengers not caused United 93 to crash, the military would have prevented it from reaching Washington, D.C.",
+        "input_2": "NORAD officials have maintained that military would have shot it down if the passengers hadn't crashed it first in Pennsylvania.",
+        "output": "neutral",
+        "idx": 426
+    },
+    {
+        "input_1": "Because of rapid brain growth and gradual decline in brain plasticity, the first 5 to 8 years of life are regarded as a sensitive phase of development in which appropriate stimulation is necessary for children to reach their full genetic potential.",
+        "input_2": "You stop learning after 8 years of life.",
+        "output": "neutral",
+        "idx": 427
+    },
+    {
+        "input_1": "Or do would they rather you have stay in Nursing?",
+        "input_2": "Maybe you should quit Nursing and go into another line of work.",
+        "output": "contradiction",
+        "idx": 428
+    },
+    {
+        "input_1": "Without fully realizing it, all of us speak the language of guns and cannons in our everyday conversation, and many words and phrases we spark forth date back to the era of black powder and muzzleloading.",
+        "input_2": "Many phrases we use today began as terminology about guns and cannons. ",
+        "output": "entailment",
+        "idx": 429
+    },
+    {
+        "input_1": "Retailers have an incentive to stock high levels of  They want both to provide sufficient display stock to attract customers'empty shelves are not inviting'and to have products available for those who wish to purchase them.",
+        "input_2": "Empty shelves are routinely turning customers away from stores.",
+        "output": "neutral",
+        "idx": 430
+    },
+    {
+        "input_1": "The whole idea of such a procedure is enough to make one sweat bullets.",
+        "input_2": "It is very nerve-wracking to go through a procedure like that.",
+        "output": "entailment",
+        "idx": 431
+    },
+    {
+        "input_1": "Lancame has begun to market a line of cosmetics called Nios??me, which lexics (opposite of dyslexics) may read as Noisame, a singularly unimaginative name for a  it ranks with product names like Anusol (regardless of its pronunciation in commercials).",
+        "input_2": "A new collection of makeup by Lancame has been named Nios??me, perhaps read as Noisame by some, a name that can be rated as uncreative as the product Anusol.",
+        "output": "entailment",
+        "idx": 432
+    },
+    {
+        "input_1": "This simple fact of sewing makes it very difficult to automate the process.",
+        "input_2": "It is quite easy to automate the process.",
+        "output": "contradiction",
+        "idx": 433
+    },
+    {
+        "input_1": "Muslims believe that these revelations, given to the greatest and last of a chain of prophets stretching from Abraham through Jesus, complete God's message to humanity.",
+        "input_2": "Muslims believe that the revelations are not part of God's message.",
+        "output": "contradiction",
+        "idx": 434
+    },
+    {
+        "input_1": "00 in labor and transportation costs (including direct labor at the plant level; transportation costs for fabric and other supplies shipped to the sewing plant; the cost of transporting finished goods to the manufacturer's distribution center, any customs fees or insurance associated with transportation, and any other costs associated with producing an acceptable unit of finished goods).",
+        "input_2": "There exists an acceptable unit of finished goods.",
+        "output": "entailment",
+        "idx": 435
+    },
+    {
+        "input_1": "Around age 2, children begin to pretend with less realistic toys, such as a block for a telephone.",
+        "input_2": "Toys that are less realistic are often used by kids at roughly age 2.",
+        "output": "entailment",
+        "idx": 436
+    },
+    {
+        "input_1": "Operators worked feverishly to include the FAA, but they had equipment problems and difficulty finding secure phone numbers.",
+        "input_2": "Secure phone numbers were readily available to operators.",
+        "output": "contradiction",
+        "idx": 437
+    },
+    {
+        "input_1": "What kind of, do you ever tell stories to your little sister?",
+        "input_2": "Your sister can read, so I'm sure you don't have to read her stories.",
+        "output": "contradiction",
+        "idx": 438
+    },
+    {
+        "input_1": "In recent decades, certain changes have taken place in the language that reflect voluntary choices of the words used to characterize people; these have focused largely on the conscious and conscientious substitution of neutral, sexless words like individual(s), person , and people for terms that normally denote only males.",
+        "input_2": "Our language is monolithic and we never alter how we speak it.",
+        "output": "contradiction",
+        "idx": 439
+    },
+    {
+        "input_1": "Daddy, Daddy, Daddy send those girls to get those filthy cigarettes.",
+        "input_2": "Daddy, get the girls to buy the cigarettes.",
+        "output": "neutral",
+        "idx": 440
+    },
+    {
+        "input_1": "The jagged heavy line in Figure 6.5 (page 100) depicts a typical inventory pattern for a replenishable product like our blue jeans in size 8. Note that the inventory level drops gradually as consumers purchase the item.",
+        "input_2": "This is the most accurate means of illustrating the patterns of replenishment with products.",
+        "output": "neutral",
+        "idx": 441
+    },
+    {
+        "input_1": "The IUPUI Challenger Scholars are chosen from among outstanding students in the humanities, sciences, technologies and education who have chosen to pursue careers in teaching, at any level.",
+        "input_2": "We choose all students who apply for the IUPUI scholarship. ",
+        "output": "contradiction",
+        "idx": 442
+    },
+    {
+        "input_1": "These dialogues occur frequently and spontaneously as adults and children spend time together'in everyday situations such as household chores, mealtimes, play, storybook reading, outings in the community, and children's eorts to acquire all sorts of skills.",
+        "input_2": "These dialogues happen often.",
+        "output": "entailment",
+        "idx": 443
+    },
+    {
+        "input_1": "Building a Support System for Acquiring New Knowledge and Skills",
+        "input_2": "Promoting skill growth by encouraging the child to find their own way.",
+        "output": "neutral",
+        "idx": 444
+    },
+    {
+        "input_1": "Please call Sharyl Hamblen at 921-2049 or Kim Gattle at 921-2056 if you have any questions.",
+        "input_2": "Call Sharyl or Kim with any questions.",
+        "output": "entailment",
+        "idx": 445
+    },
+    {
+        "input_1": "Like when I lived at home, we did not get along at all for anything in the world; we would fight all the time.",
+        "input_2": "We never had any fights while at home.",
+        "output": "contradiction",
+        "idx": 446
+    },
+    {
+        "input_1": "(Points to the shell's colors) Sometimes people make jewelry out of these shells.",
+        "input_2": "Shells aren't made into jewelry.",
+        "output": "contradiction",
+        "idx": 447
+    },
+    {
+        "input_1": "Nobody who knew him would have expected him to do anything else, whether he had been sent away in disgrace or not'but, as it was thought he had left the country, his return did have a dramatic quality.",
+        "input_2": "Nobody he knew expected him to stop.",
+        "output": "entailment",
+        "idx": 448
+    },
+    {
+        "input_1": "All the lowest dives, the phoniest ginmills ...",
+        "input_2": "The realist of ginmills.",
+        "output": "contradiction",
+        "idx": 449
+    },
+    {
+        "input_1": "This is a story that my dad told me when I was small, a long time ago that, there was a girl that, she was very young, she was going to go visit her parents.",
+        "input_2": "In my dad's story, the young girl didn't live with her parents. ",
+        "output": "entailment",
+        "idx": 450
+    },
+    {
+        "input_1": "In the matter of pronunciations of BrEng names, it is an old-fashioned fantasy of Americans that Brits go round saying POM-frit for Pontefract : most Brits that I have heard give the name a spelling pronunciation these days; and so with many of the old shibboleths.",
+        "input_2": "This is because America went so long dunking on Britian that we have a lot of stereotypes.",
+        "output": "neutral",
+        "idx": 451
+    },
+    {
+        "input_1": "he said to me.",
+        "input_2": "The man mentioned to me.",
+        "output": "entailment",
+        "idx": 452
+    },
+    {
+        "input_1": "The outcome left Bin Ladin indisputably in charge of what remained of the MAK and al Qaeda.",
+        "input_2": "Bin Ladin was in charge of what was left of al Qaeda and vowed to build it back up.",
+        "output": "neutral",
+        "idx": 453
+    },
+    {
+        "input_1": "The controller understood, but chose to  Calling Cleveland Center, you're unreadable.",
+        "input_2": "The Cleveland Center took the responsibilities from the control tower.",
+        "output": "neutral",
+        "idx": 454
+    },
+    {
+        "input_1": "Are your parents putting a lot of pressure on you?",
+        "input_2": "Are you under huge pressure from your parents?",
+        "output": "entailment",
+        "idx": 455
+    },
+    {
+        "input_1": "Because, well, no, Ines was putting up an argument that-, when he told her, No, he said, e, Luis Alonso, I may be going to die, he said, because so much blood loss, he said. ",
+        "input_2": "He said that there was no chance he was going to die of blood loss.",
+        "output": "contradiction",
+        "idx": 456
+    },
+    {
+        "input_1": "The simplest is for one or more of the members to simply donate one million dollars to the IGGS Scholarship Fund.",
+        "input_2": "The simplest is to donate one million dollars to the IGGS scholarship fund, but one can also donate to another charity. ",
+        "output": "neutral",
+        "idx": 457
+    },
+    {
+        "input_1": "Tacitly, Daly, like most feminists, invokes an earlier, quieter voice, that of Virginia Woolf.",
+        "input_2": "Daly was a friend of Virginia Woolf.",
+        "output": "neutral",
+        "idx": 458
+    },
+    {
+        "input_1": "You can stop.",
+        "input_2": "Keep going.",
+        "output": "contradiction",
+        "idx": 459
+    },
+    {
+        "input_1": "These statements were incorrect as well.",
+        "input_2": "The statements were completely accurate.",
+        "output": "contradiction",
+        "idx": 460
+    },
+    {
+        "input_1": "We are also organizing an IU Periodontal Alumni Association that we discussed in Dallas.",
+        "input_2": "The IU Periodontal Alumni Association was formerly discussed by us in Dallas.",
+        "output": "entailment",
+        "idx": 461
+    },
+    {
+        "input_1": "So, it's like she, uh, and the education wasn't the same back in those days.",
+        "input_2": "The education was not the same as back in those days.",
+        "output": "entailment",
+        "idx": 462
+    },
+    {
+        "input_1": "No it hasn't because my grades are still pretty bad.",
+        "input_2": "My grades are not so good.",
+        "output": "entailment",
+        "idx": 463
+    },
+    {
+        "input_1": "Tell me about your bike.",
+        "input_2": "Let me know about your bike.",
+        "output": "entailment",
+        "idx": 464
+    },
+    {
+        "input_1": "IUPUI's goals for the 1990s, in the context of Indiana University's statewide plans, call for improving undergraduate education, enhancing relationships with the community , and strengthening research that will stimulate Indiana's economic growth.",
+        "input_2": "IUPUI never intended on working on Indiana's economic growth.",
+        "output": "contradiction",
+        "idx": 465
+    },
+    {
+        "input_1": "Some of Bin Ladin's close comrades were more peers than subordinates.",
+        "input_2": "Some people had a status almost equal to Bin Ladin.",
+        "output": "entailment",
+        "idx": 466
+    },
+    {
+        "input_1": "Chapters 13 through 15 examine the channel as a whole, from global, private-performance, and public-policy perspectives.",
+        "input_2": "Private-performance is more heavily monitored than the others.",
+        "output": "neutral",
+        "idx": 467
+    },
+    {
+        "input_1": "So I guess they went that far.",
+        "input_2": "I did not think they would go that far.",
+        "output": "neutral",
+        "idx": 468
+    },
+    {
+        "input_1": "At 9:24, Ballinger's warning to United 93 was received in the cockpit.",
+        "input_2": "Ballinger's warning to United 93 at 9:24",
+        "output": "entailment",
+        "idx": 469
+    },
+    {
+        "input_1": "Yeah that's one that I like.",
+        "input_2": "Yeah I like that one.",
+        "output": "entailment",
+        "idx": 470
+    },
+    {
+        "input_1": "Of course, if a researcher tampers with the evidence, making a unilateral, unsupported claim or assumption that a word means something that it does not, then that does not constitute semantic  it is what is known as dirty work at the crossroads, and M and S are indulging in a bit of mischief by suggesting that semantic change either has taken place or is taking place because they have some evidence that a certain change in usage had crept in.",
+        "input_2": "Semantic change happens when the meaning of word's changes to communities over time.",
+        "output": "neutral",
+        "idx": 471
+    },
+    {
+        "input_1": "Won't you be a part of extending the promise with your gift today?",
+        "input_2": "Will you contribute to us today/",
+        "output": "entailment",
+        "idx": 472
+    },
+    {
+        "input_1": "Human needs are on the rise in central Indiana and we have to meet the challenge.",
+        "input_2": "Human needs have steadily been on the rise over the past 10 years. ",
+        "output": "neutral",
+        "idx": 473
+    },
+    {
+        "input_1": "At 10:00:03, Jarrah stabilized the airplane.",
+        "input_2": "Around 10 o'clock Jarrah was in the plane's cockpit.",
+        "output": "neutral",
+        "idx": 474
+    },
+    {
+        "input_1": "The disadvantage of this kind of machine is that it makes seams that are not as secure as the lockstitch; in addition, the appearance of the seam from the top and bottom of the fabric is different.",
+        "input_2": "This machine makes seams that aren't as secure as the lockstitch is in denim.",
+        "output": "neutral",
+        "idx": 475
+    },
+    {
+        "input_1": "The flight did not respond.",
+        "input_2": "The flight was unresponsive.  ",
+        "output": "entailment",
+        "idx": 476
+    },
+    {
+        "input_1": "Perhaps the fascination with man's past grew out of the obsession with ruins evinced by Romanticism; certainly, modern archaeology seems to have followed close behind, for the excavation of the supposed site of Troy took place only about 100 years ago.",
+        "input_2": "People still aren't fascinated with history, no one cares at all. ",
+        "output": "contradiction",
+        "idx": 477
+    },
+    {
+        "input_1": "So I didn't like that at first, and then, of course, you know, as the story unfolded, you would, uh, relate that to your own experiences of being afraid and, and learning to conquer those fears and that kind of thing.",
+        "input_2": "As the story was being told, I tore up the book and never read again.",
+        "output": "contradiction",
+        "idx": 478
+    },
+    {
+        "input_1": "Which is really a story from beginning to end, I suppose.",
+        "input_2": "It is a complete story, I guess.",
+        "output": "entailment",
+        "idx": 479
+    },
+    {
+        "input_1": "Only written or printed Chinese provides the glue to hold the Babel together.",
+        "input_2": "Only written or printed Chinese holds the Babel together, but the words are sometimes written in invisible ink.",
+        "output": "neutral",
+        "idx": 480
+    },
+    {
+        "input_1": "I do not know how he would rate it, but I must confess that for general use I am inclined to put it just a little ahead of Chambers . But I haven't found it quite as much fun to browse in.",
+        "input_2": "I would rate it slightly better than Chambers.",
+        "output": "entailment",
+        "idx": 481
+    },
+    {
+        "input_1": "At the same time, Boston Center realized that a message transmitted just before 8:25 by the hijacker pilot of American 11 included the phrase, We have some planes.",
+        "input_2": "It took the Boston Center 10 minutes to realize what the hijackers had said.",
+        "output": "neutral",
+        "idx": 482
+    },
+    {
+        "input_1": "It is shameful that the Gage Canadian allows only  plaid. ",
+        "input_2": "Gage Canadian allows only teal.",
+        "output": "contradiction",
+        "idx": 483
+    },
+    {
+        "input_1": "The pilots knew their mission was to divert aircraft, but did not know that the threat came from hijacked airliners.",
+        "input_2": "They were not even successful at diverting the aircraft from their intended course.",
+        "output": "neutral",
+        "idx": 484
+    },
+    {
+        "input_1": "Yeah, that's true.",
+        "input_2": "That was completely false.",
+        "output": "contradiction",
+        "idx": 485
+    },
+    {
+        "input_1": "Exactly how a manager divides production between plants with different production costs and cycle times depends on the details of the situation, such as those presented in the cases above.",
+        "input_2": "Cycle times have more of a bearing on the time a manager will spend between plants.",
+        "output": "-",
+        "idx": 486
+    },
+    {
+        "input_1": " Condo living, the spread of AIDS through prostitutes and veterinary surgery. ",
+        "input_2": "It is a common misconception that prostitutes carry STDs.",
+        "output": "contradiction",
+        "idx": 487
+    },
+    {
+        "input_1": "Nobody used to snicker at Chaucer's line (No.5818) in The Prologe of the Wyf of Bathe , in which that harried dame: Why is my neghebores wif so gay?",
+        "input_2": "Nobody laughed at Chaucer's line even though it was funny today.",
+        "output": "entailment",
+        "idx": 488
+    },
+    {
+        "input_1": "I don't remember, but only, only a fractured collarbone, which I recommend to anyone that needs to break a bone, break a collarbone.",
+        "input_2": "I would recommend to break a collarbone of all bones. ",
+        "output": "entailment",
+        "idx": 489
+    },
+    {
+        "input_1": "Securely attached infants actively seek contact with and are easily consoled by their familiar, responsive caregiver.",
+        "input_2": "When an infant is attached to their caregiver they actively seek contact and comfort from them. ",
+        "output": "entailment",
+        "idx": 490
+    },
+    {
+        "input_1": "In addition, its capacity to use information on the state of demand allows it to set inventory levels on a SKU basis that balances the benefits of having a product available against the costs of holding work-in-process and finished goods inventories.",
+        "input_2": "The state of demand is used to determine inventory levels on a SKU basis which finds an equilibrium between benefits of product availability and cost of holding inventories.",
+        "output": "entailment",
+        "idx": 491
+    },
+    {
+        "input_1": "It was led by Ali Mohamed, a former Egyptian army officer who had moved to the United States in the mid-1980s, enlisted in the U.S.",
+        "input_2": "Ali Mohamed, an Egyptian immigrant to the United States, led it.",
+        "output": "entailment",
+        "idx": 492
+    },
+    {
+        "input_1": "But, then like me and my mom will talk all the time and she'll come over here and she'll like have a beer and a cigarette with me and it doesn't matter anymore!",
+        "input_2": "I would never dare drink in front of my mother.",
+        "output": "contradiction",
+        "idx": 493
+    },
+    {
+        "input_1": "Since a second copy exceeded the first by one hundred percent, it was considered an abundance.",
+        "input_2": "It was an abundance by one hundred percent",
+        "output": "entailment",
+        "idx": 494
+    },
+    {
+        "input_1": "Other experiences are linguistic only in reverse, or only as one thinks of what the language ought to be.",
+        "input_2": "There are certain linguistic standards that exist for romance languages which are often incorrectly applied to language originating from other parts of the world.",
+        "output": "neutral",
+        "idx": 495
+    },
+    {
+        "input_1": "The remaining 20 percent are either invented ( laser, bogus, splurge ) or have been borrowed from more than 200 other languages or dialects from Arabic to Zulu.",
+        "input_2": "The English language is a blending of many languages into one.",
+        "output": "neutral",
+        "idx": 496
+    },
+    {
+        "input_1": "And who told you that story?",
+        "input_2": "Did you hear the story from a companion? ",
+        "output": "neutral",
+        "idx": 497
+    },
+    {
+        "input_1": "As a nonexpert, although interested, subscriber to VERBATIM, it is  a bit mysterious  to me that the singular noun absence takes the plural verb are .  I refer to the first sentence of your article about the Longman Dictionary [XV,1].",
+        "input_2": "VERBATIM is a magazine that prints quotes from people.",
+        "output": "neutral",
+        "idx": 498
+    },
+    {
+        "input_1": "In 1998, CCI served 31,484 individuals right in their own backyards.",
+        "input_2": "31,484 were served by CCI, right in their own backyards.",
+        "output": "entailment",
+        "idx": 499
+    }
+]

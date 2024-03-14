@@ -1,0 +1,3002 @@
+[
+    {
+        "input_1": "What are blackholes?",
+        "input_2": "Why are blackholes not wormholes?",
+        "output": "no",
+        "idx": 0
+    },
+    {
+        "input_1": "What are some homemade Egyptian costumes?",
+        "input_2": "What is the best homemade Poison Ivy Costume?",
+        "output": "no",
+        "idx": 1
+    },
+    {
+        "input_1": "Crush used to like me. I think he doesn't anymore. Should I talk to him?",
+        "input_2": "I have a crush, he used to look at me and try to talk to me, then he started avoiding me. Did he give up on me or does he just not like me anymore?",
+        "output": "no",
+        "idx": 2
+    },
+    {
+        "input_1": "What kind of legit online job can I do to fetch me an extra income worldwide?",
+        "input_2": "What kind of small on demand business online could I start to earn an extra income?",
+        "output": "yes",
+        "idx": 3
+    },
+    {
+        "input_1": "What should be my daily routine to get a well shaped body?",
+        "input_2": "What are the subtle differences in the daily routine of a poor vs a well-off child?",
+        "output": "no",
+        "idx": 4
+    },
+    {
+        "input_1": "Can a woman get pregnant without penetration?",
+        "input_2": "Can a woman get pregnant by herself?",
+        "output": "yes",
+        "idx": 5
+    },
+    {
+        "input_1": "How do I reset Gmail account password?",
+        "input_2": "How do I reset a new Gmail password?",
+        "output": "yes",
+        "idx": 6
+    },
+    {
+        "input_1": "How will David Duke's endorsement impact Donald Trump's 2016 presidential campaign?",
+        "input_2": "Has Donald Trump commented on David Duke's campaign for the Senate in Louisiana?",
+        "output": "no",
+        "idx": 7
+    },
+    {
+        "input_1": "What are some good project ideas related to cloud computing and distributed systems?",
+        "input_2": "What are some good project ideas related to Cloud computing?",
+        "output": "no",
+        "idx": 8
+    },
+    {
+        "input_1": "Which branches in SRM University have 100% placement records ?",
+        "input_2": "How is the MBA at SRM University in terms of Placement and Salary Package? Can you please give any documents regarding Final Placements?",
+        "output": "no",
+        "idx": 9
+    },
+    {
+        "input_1": "How do I make my Quora feed interesting again?",
+        "input_2": "How do I make my Quora news feed more interesting?",
+        "output": "yes",
+        "idx": 10
+    },
+    {
+        "input_1": "Should I drop one year after BTech for mba preparations?",
+        "input_2": "Should I drop one year after BCA for MBA preparations?",
+        "output": "yes",
+        "idx": 11
+    },
+    {
+        "input_1": "What is the best site to download films?",
+        "input_2": "What are some of the best websites to download movies?",
+        "output": "yes",
+        "idx": 12
+    },
+    {
+        "input_1": "What are the biggest mistakes people make when choosing a partner for marriage?",
+        "input_2": "What is the biggest mistake people do when they chose their partner?",
+        "output": "yes",
+        "idx": 13
+    },
+    {
+        "input_1": "Can I get my deposit back for an apartment that I haven't signed the lease?",
+        "input_2": "Can I get my deposit back if I haven't signed the lease?",
+        "output": "no",
+        "idx": 14
+    },
+    {
+        "input_1": "What is the next big industry to get into for 2020+?",
+        "input_2": "How big is the Motorsports industry?",
+        "output": "no",
+        "idx": 15
+    },
+    {
+        "input_1": "What are the advantages of the decision taken by the Government of India to scrap out 500 and 1000 rupees notes?",
+        "input_2": "Why did Modi ban 500 and 1000 rupees notes and not 100 rupee notes?",
+        "output": "yes",
+        "idx": 16
+    },
+    {
+        "input_1": "\"Was Alexander the great really \"\"great\"\"?\"",
+        "input_2": "Was Alexander The Great really so great?",
+        "output": "yes",
+        "idx": 17
+    },
+    {
+        "input_1": "How do you tell a girl that she smells?",
+        "input_2": "How can I tell the girl I like that she smells bad?",
+        "output": "yes",
+        "idx": 18
+    },
+    {
+        "input_1": "How can I push myself out of my comfort zone?",
+        "input_2": "How can I make myself to get out of my super comfort zone?",
+        "output": "yes",
+        "idx": 19
+    },
+    {
+        "input_1": "How banning 500 and 1000 rs note will help fight corruption in India?",
+        "input_2": "How does banning 500 and 1000 rupee notes help to control black money?",
+        "output": "yes",
+        "idx": 20
+    },
+    {
+        "input_1": "What books does Putin like to read? Does he have a reading list?",
+        "input_2": "What books Obama does like to read? Does he have a reading list?",
+        "output": "no",
+        "idx": 21
+    },
+    {
+        "input_1": "What does Donald Trump think of India?",
+        "input_2": "What are Donald Trump's views on India?",
+        "output": "yes",
+        "idx": 22
+    },
+    {
+        "input_1": "\"What does it mean when someone says \"\"You're dead to me\"\"?\"",
+        "input_2": "\"What does it mean when someone says \"\"Don't patronize me\"\"?\"",
+        "output": "no",
+        "idx": 23
+    },
+    {
+        "input_1": "Which is the best task manager and reminder app?",
+        "input_2": "Which is the best to-do list app for reminders and task management?",
+        "output": "yes",
+        "idx": 24
+    },
+    {
+        "input_1": "Can an army man own a business?",
+        "input_2": "Most of the spouses of army officers end up as teachers. Is a different career for example starting my own business possible? Any stories to share?",
+        "output": "no",
+        "idx": 25
+    },
+    {
+        "input_1": "Is it better to buy higher quality items for long term savings?",
+        "input_2": "Is it better to buy an expensive phone for a long term or to buy low end phones for short terms and change them every year with a new one?",
+        "output": "no",
+        "idx": 26
+    },
+    {
+        "input_1": "How can an ECE student get admission in NASA?",
+        "input_2": "How much excercise to lower blood pressure?",
+        "output": "no",
+        "idx": 27
+    },
+    {
+        "input_1": "What is the national highway of India?",
+        "input_2": "Which is the longest national highway in India?",
+        "output": "no",
+        "idx": 28
+    },
+    {
+        "input_1": "What are some reliable hair loss treatments?",
+        "input_2": "What should I do to reduce hair fall?",
+        "output": "no",
+        "idx": 29
+    },
+    {
+        "input_1": "Why November 14, birthday of Jawaharlal is celebrated as Children's day? What exceptional thing did he do to be considered as dearest to children?",
+        "input_2": "Has Jawaharlal Nehru done enough to celebrate his birthday as children's day?",
+        "output": "yes",
+        "idx": 30
+    },
+    {
+        "input_1": "What are some of the best strategies to make the world a better place?",
+        "input_2": "How can I find better place world?",
+        "output": "no",
+        "idx": 31
+    },
+    {
+        "input_1": "Why is Australia not one of the hottest countries in the world?",
+        "input_2": "Australian deserts can reach over 40\u00b0C but Australia is still not one of the hottest countries in the world. Why is it not?",
+        "output": "yes",
+        "idx": 32
+    },
+    {
+        "input_1": "Can I trust hirist.com?",
+        "input_2": "Can I trust iimjobs.com?",
+        "output": "no",
+        "idx": 33
+    },
+    {
+        "input_1": "What is the property tax rate in Granville, Ohio? How is it compared to the one of Florida?",
+        "input_2": "What is the property tax rate in Granville, Ohio? How is it compared to the one of California?",
+        "output": "no",
+        "idx": 34
+    },
+    {
+        "input_1": "In terms of crisis handling, did Donald Trump's campaign do everything they could to contain the damage of his video in 2005?",
+        "input_2": "Is Trump brand damaged after his self-professed revelation of grabbing a young girl's vagina?",
+        "output": "no",
+        "idx": 35
+    },
+    {
+        "input_1": "What are the meal plans for the Dr.Moreno's 17 day diet?",
+        "input_2": "What is the Dr. Nowazardan pre-op diet?",
+        "output": "no",
+        "idx": 36
+    },
+    {
+        "input_1": "Why are diabetes patients refusing to eat healthy and exercise? Can you help us understand why this is happening?",
+        "input_2": "Why do diabetic patients refuse to exercise and eat right?",
+        "output": "no",
+        "idx": 37
+    },
+    {
+        "input_1": "What are the best hosting providers for a Java web app on WildFly?",
+        "input_2": "When did the world start turning crazy?",
+        "output": "no",
+        "idx": 38
+    },
+    {
+        "input_1": "What does my palm indicate?",
+        "input_2": "What does having too many lines on your palm indicate?",
+        "output": "no",
+        "idx": 39
+    },
+    {
+        "input_1": "What is the Cut-off of NITIE Mumbai for the year 2016 through GATE in PGDIE?",
+        "input_2": "What is the NITIE, Mumbai cut off for the 2015 intake through the CAT?",
+        "output": "no",
+        "idx": 40
+    },
+    {
+        "input_1": "What makes Cuba & Puerto Rico alike, & what makes the US different (culturally)?",
+        "input_2": "What if Cuba decided to invade Puerto Rico?",
+        "output": "no",
+        "idx": 41
+    },
+    {
+        "input_1": "What are the best books for preparing gate?",
+        "input_2": "What are the best Gate exam Books for mechanical engineering?",
+        "output": "yes",
+        "idx": 42
+    },
+    {
+        "input_1": "What are some fun stuff to do in a sleepover?",
+        "input_2": "What are some fun things to do at a sleepover?",
+        "output": "yes",
+        "idx": 43
+    },
+    {
+        "input_1": "Do people actually object to a marriage during a wedding?",
+        "input_2": "Do people do court marriage before actual marriage india?",
+        "output": "no",
+        "idx": 44
+    },
+    {
+        "input_1": "Is exercise necessary or just optional?",
+        "input_2": "Is exercise necessary?",
+        "output": "yes",
+        "idx": 45
+    },
+    {
+        "input_1": "How can I start preparing for GSOC from scratch?",
+        "input_2": "How should i start preparing for gsoc?",
+        "output": "yes",
+        "idx": 46
+    },
+    {
+        "input_1": "What is the ideal weight for 5'5 girl?",
+        "input_2": "What is the ideal weight of a man?",
+        "output": "no",
+        "idx": 47
+    },
+    {
+        "input_1": "Why is there not any explicit communication from a recruiter when we are not through the interview?",
+        "input_2": "How do I politely reject an interview request from a recruiter?",
+        "output": "no",
+        "idx": 48
+    },
+    {
+        "input_1": "What is vitamin A?",
+        "input_2": "What is a vitamin?",
+        "output": "no",
+        "idx": 49
+    },
+    {
+        "input_1": "What site is similar addmefast.com?",
+        "input_2": "What sites are similar to NaturallyCurly.com?",
+        "output": "no",
+        "idx": 50
+    },
+    {
+        "input_1": "What are some mind-blowing men wallets that exist that most people don't know about?",
+        "input_2": "What are some mind-blowing safe wallets 2016 that exist that most people don't know about?",
+        "output": "yes",
+        "idx": 51
+    },
+    {
+        "input_1": "Which are the best and the most useful smart phone gadgets?",
+        "input_2": "What are the best available smartphones gadgets?",
+        "output": "yes",
+        "idx": 52
+    },
+    {
+        "input_1": "What are good songs to prank my guy friend with?",
+        "input_2": "What are some good songs to make a texting lyric prank?",
+        "output": "no",
+        "idx": 53
+    },
+    {
+        "input_1": "What will be age limit for upsc in 2017?",
+        "input_2": "What would be age Limit for UPSC 2017 onwards?",
+        "output": "yes",
+        "idx": 54
+    },
+    {
+        "input_1": "What are the minimum requirements to enter MIT?",
+        "input_2": "What are the requirements for selection into MIT?",
+        "output": "yes",
+        "idx": 55
+    },
+    {
+        "input_1": "For an MS in electrical, which taught program is better in Germany: German or English?",
+        "input_2": "For an MS in mechanical, which taught program is better in Germany: German or English?",
+        "output": "no",
+        "idx": 56
+    },
+    {
+        "input_1": "Would a sociopath be depressed about being a sociopath?",
+        "input_2": "Is being a sociopath a bad thing?",
+        "output": "no",
+        "idx": 57
+    },
+    {
+        "input_1": "What are some components of a computer?",
+        "input_2": "What are the components of a computer hardware?",
+        "output": "yes",
+        "idx": 58
+    },
+    {
+        "input_1": "How do I make suicide look like an accident?",
+        "input_2": "I just want to die. How can I make it look like an accident?",
+        "output": "yes",
+        "idx": 59
+    },
+    {
+        "input_1": "What do Koreans think about India and Indians?",
+        "input_2": "What do Koreans think of indians?",
+        "output": "yes",
+        "idx": 60
+    },
+    {
+        "input_1": "Is the police singular or plural?",
+        "input_2": "Is have singular or plural?",
+        "output": "no",
+        "idx": 61
+    },
+    {
+        "input_1": "Can a penis smell similar to a vagina?",
+        "input_2": "Is it normal if I can't insert my penis into my partner's vagina?",
+        "output": "no",
+        "idx": 62
+    },
+    {
+        "input_1": "How do you respond to this?",
+        "input_2": "How do I respond to I love you?",
+        "output": "no",
+        "idx": 63
+    },
+    {
+        "input_1": "Would pumping carbon dioxide in a room, make it catch fire?",
+        "input_2": "Why is pouring sand on the fire better than attempting to use a carbon dioxide fire extinguisher?",
+        "output": "no",
+        "idx": 64
+    },
+    {
+        "input_1": "Can I transfer my in game achievements of Asphalt 8 from Android to iOS?",
+        "input_2": "How do I transfer WhatsApp messages from Android to iOS?",
+        "output": "no",
+        "idx": 65
+    },
+    {
+        "input_1": "What is the difference between bank loan and advance?",
+        "input_2": "What is the difference between a loan and an advance?",
+        "output": "yes",
+        "idx": 66
+    },
+    {
+        "input_1": "What is the difference between philosophy and science?",
+        "input_2": "What is the difference between science and philosophy? Does thinking out of the limits of brain don't come in the domain of science?",
+        "output": "yes",
+        "idx": 67
+    },
+    {
+        "input_1": "How can I get the public IP address of a user in Swift?",
+        "input_2": "What type of questions can be expected in an online practical test and two rounds of interviews, for the post of Computer Science engineer at BPCL?",
+        "output": "no",
+        "idx": 68
+    },
+    {
+        "input_1": "When should I learn Autocad?",
+        "input_2": "What should I learn before learning AUTOCAD?",
+        "output": "no",
+        "idx": 69
+    },
+    {
+        "input_1": "What are some facts about the aviation industry?",
+        "input_2": "What can you tell me about aviation management at Emirates Aviation College, Dubai?",
+        "output": "no",
+        "idx": 70
+    },
+    {
+        "input_1": "Why does font size of Twitter text change from tweet to tweet? Tried to find out, but it seems pretty random.",
+        "input_2": "Couldn't a deep neural network be 'trained' on a huge amount of grammatically correct text, and then output 'normalized' text from say tweets?",
+        "output": "no",
+        "idx": 71
+    },
+    {
+        "input_1": "How true is it that time you wasted enjoying is not wasted time?",
+        "input_2": "Is sleeping wasted time?",
+        "output": "no",
+        "idx": 72
+    },
+    {
+        "input_1": "What is the best source to learn Python?",
+        "input_2": "What are some of the best ways to learn python?",
+        "output": "yes",
+        "idx": 73
+    },
+    {
+        "input_1": "Do the hands of a clock ever separate the clock face into 3 equal sectors?",
+        "input_2": "What are the exact times in which hands of a clock divide it to three equal segments?",
+        "output": "yes",
+        "idx": 74
+    },
+    {
+        "input_1": "What are the chances Gary Johnson will be our next president?",
+        "input_2": "What would be required for Gary Johnson to win?",
+        "output": "yes",
+        "idx": 75
+    },
+    {
+        "input_1": "What are some ways to fall asleep when you don't feel tired?",
+        "input_2": "How do I fall asleep when hungry?",
+        "output": "no",
+        "idx": 76
+    },
+    {
+        "input_1": "What makes India different from all other countries in the world?",
+        "input_2": "How is india unique from other countries?",
+        "output": "yes",
+        "idx": 77
+    },
+    {
+        "input_1": "Is the theory of evolution not falsifiable?",
+        "input_2": "Is the theory of evolution unfalsifiable?",
+        "output": "yes",
+        "idx": 78
+    },
+    {
+        "input_1": "Can I use Stripe in Europe?",
+        "input_2": "What is the difference between the benzine used here in Europe and the gasoline used in the USA?",
+        "output": "no",
+        "idx": 79
+    },
+    {
+        "input_1": "What are the causes of high MPV?",
+        "input_2": "What can be the causes of a high WBC? What should I do if I have a WBC of 12.9?",
+        "output": "no",
+        "idx": 80
+    },
+    {
+        "input_1": "How widely accepted are credit cards at small businesses and restaurants in Pakistan?",
+        "input_2": "How widely accepted are credit cards at small businesses and restaurants in Iceland?",
+        "output": "no",
+        "idx": 81
+    },
+    {
+        "input_1": "What are the differences between a hedge fund and a mutual fund?",
+        "input_2": "How is a hedge fund different from a mutual fund?",
+        "output": "yes",
+        "idx": 82
+    },
+    {
+        "input_1": "What is a conference?",
+        "input_2": "What is conference?",
+        "output": "yes",
+        "idx": 83
+    },
+    {
+        "input_1": "When and how is the maximum power transfer used?",
+        "input_2": "What is the maximum power transfer? And when is the maximum power transferred?",
+        "output": "yes",
+        "idx": 84
+    },
+    {
+        "input_1": "What is the basic structure of the U.S. Constitution?",
+        "input_2": "Democracy : Which countries' constitutions hold people above the constitution?",
+        "output": "no",
+        "idx": 85
+    },
+    {
+        "input_1": "How do I plot 'Depth' values from stationary point?",
+        "input_2": "Who is a much better human? A Muslim or a Buddhist?",
+        "output": "no",
+        "idx": 86
+    },
+    {
+        "input_1": "How can I get rid of a pimple on my nose?",
+        "input_2": "How can I get rid of a pimple on the bridge of my nose?",
+        "output": "yes",
+        "idx": 87
+    },
+    {
+        "input_1": "How can we judge a person's character?",
+        "input_2": "How do you judge people's character?",
+        "output": "yes",
+        "idx": 88
+    },
+    {
+        "input_1": "How do I connect devices with a WPS setup?",
+        "input_2": "How many devices can be connected to iCloud?",
+        "output": "no",
+        "idx": 89
+    },
+    {
+        "input_1": "\"What is meant by \"\"jailbreaking\"\" a phone?\"",
+        "input_2": "What is meant by jailbreaking iPhone?",
+        "output": "yes",
+        "idx": 90
+    },
+    {
+        "input_1": "Do you believe in extra terrestrials\u2019 existence?",
+        "input_2": "Do you believe in extra terrestrial life?",
+        "output": "yes",
+        "idx": 91
+    },
+    {
+        "input_1": "How should forget my first love?",
+        "input_2": "How should I forget my first love?",
+        "output": "yes",
+        "idx": 92
+    },
+    {
+        "input_1": "Where can I download soundtrack of Quantico?",
+        "input_2": "Where can one download the soundtrack of Humorously Yours?",
+        "output": "no",
+        "idx": 93
+    },
+    {
+        "input_1": "What are the best ways to lose a lot of weight as quickly as possible?",
+        "input_2": "How do I lose weight and reduce my waist quickly?",
+        "output": "yes",
+        "idx": 94
+    },
+    {
+        "input_1": "Underwhat circumstances d past 6years returns r opened by it department in India?",
+        "input_2": "Ibps PO better or IBPS so?",
+        "output": "no",
+        "idx": 95
+    },
+    {
+        "input_1": "Why is Saltwater taffy candy imported in The Bahamas?",
+        "input_2": "Why are American Saltwater Taffy candies imported in Japan?",
+        "output": "yes",
+        "idx": 96
+    },
+    {
+        "input_1": "I want to become journalist what to do\u2026plzz give me full details?",
+        "input_2": "Why do Muslims follow Gregorian calendar for the Jumma prayer (or the days of the week) while following Islamic calendar for religious festivals?",
+        "output": "no",
+        "idx": 97
+    },
+    {
+        "input_1": "What is the difference between shooting a revolver and a semi-auto?",
+        "input_2": "Do you prefer revolvers or semi-auto pistols?",
+        "output": "no",
+        "idx": 98
+    },
+    {
+        "input_1": "How do you get a crown in Musical.ly?",
+        "input_2": "How can I get a musical.ly crown without downloading anything?",
+        "output": "yes",
+        "idx": 99
+    },
+    {
+        "input_1": "What are the most annoying questions that you feel ridiculous in Quora?",
+        "input_2": "What are the most annoying questions you see on Quora?",
+        "output": "yes",
+        "idx": 100
+    },
+    {
+        "input_1": "What is a sure way to commit suicide?",
+        "input_2": "What is the quickest and less painful way to commit suicide?",
+        "output": "yes",
+        "idx": 101
+    },
+    {
+        "input_1": "When salting meat before searing, how much do you inges?",
+        "input_2": "How much meat would you trade a spear for?",
+        "output": "no",
+        "idx": 102
+    },
+    {
+        "input_1": "How do I pursue career in acting?",
+        "input_2": "How do I pursue my career in acting?",
+        "output": "yes",
+        "idx": 103
+    },
+    {
+        "input_1": "How do I receive money through PayPal?",
+        "input_2": "How do you send someone money through PayPal?",
+        "output": "no",
+        "idx": 104
+    },
+    {
+        "input_1": "What is the best preparation strategy for ugc net english literature?",
+        "input_2": "How do I prepare for UGC NET English Literature exam?",
+        "output": "yes",
+        "idx": 105
+    },
+    {
+        "input_1": "Do you think other countries should have a say in who is elected the President of the USA?",
+        "input_2": "If war were to break out between the USA and another country during the election then would the appointment of the new president be postponed?",
+        "output": "no",
+        "idx": 106
+    },
+    {
+        "input_1": "What would cause a demand curve to shift?",
+        "input_2": "What would cause a demand curve to shift to the right?",
+        "output": "no",
+        "idx": 107
+    },
+    {
+        "input_1": "Is it right for children to recite the Pledge of Allegiance when they don't understand the underlying concepts?",
+        "input_2": "Do all American children recite the Pledge of Allegiance daily at school?",
+        "output": "no",
+        "idx": 108
+    },
+    {
+        "input_1": "How one can define success?",
+        "input_2": "How do you define success in life?",
+        "output": "yes",
+        "idx": 109
+    },
+    {
+        "input_1": "Where can I practice designing questions in java?",
+        "input_2": "Who is the best web marketing companies for eye doctors?",
+        "output": "no",
+        "idx": 110
+    },
+    {
+        "input_1": "Which is the best phone to buy within Rs.15000?",
+        "input_2": "Which mobile phone is the best under 15k?",
+        "output": "yes",
+        "idx": 111
+    },
+    {
+        "input_1": "What are the chances that elements we don't know of exist on other planets or in other galaxies?",
+        "input_2": "Are there undiscovered elements on other planets?",
+        "output": "yes",
+        "idx": 112
+    },
+    {
+        "input_1": "How are careers in English changing, and what's necessary to stay current?",
+        "input_2": "How are careers in archaeology changing and what's necessary to stay current?",
+        "output": "no",
+        "idx": 113
+    },
+    {
+        "input_1": "What are the differences between Computer Science and Computational Science?",
+        "input_2": "What are the difference between Computer Science and Informatics Engineering?",
+        "output": "no",
+        "idx": 114
+    },
+    {
+        "input_1": "I want to help farmers by making use of latest technology in farming to help them get more profit on the crops. Kindly suggest what could be done?",
+        "input_2": "What are some examples of using/leveraging technology for profit?",
+        "output": "no",
+        "idx": 115
+    },
+    {
+        "input_1": "What is block chain technology?",
+        "input_2": "What is block chain?",
+        "output": "no",
+        "idx": 116
+    },
+    {
+        "input_1": "Can we increase height after 23?",
+        "input_2": "Is their anyway to increase height after 23?",
+        "output": "yes",
+        "idx": 117
+    },
+    {
+        "input_1": "How many radioactive elements are there? Are they only called elements? I want to know if they are all dangerous and to what degree.",
+        "input_2": "What are the characteristics of interest for elements called?",
+        "output": "no",
+        "idx": 118
+    },
+    {
+        "input_1": "Which is the best SIP to invest in?",
+        "input_2": "Which are the best SIP to invest in India?",
+        "output": "no",
+        "idx": 119
+    },
+    {
+        "input_1": "How do you know if a girlfriend is right for you?",
+        "input_2": "How can I know if my girlfriend is the right one for me?",
+        "output": "yes",
+        "idx": 120
+    },
+    {
+        "input_1": "How do I become a Hollywood actor?",
+        "input_2": "How can I become a Hollywood actor?",
+        "output": "yes",
+        "idx": 121
+    },
+    {
+        "input_1": "How does it feel to be gay and Christian?",
+        "input_2": "Is it right for a gay Christian to think that gay love is okay but gay sex is unacceptable?",
+        "output": "no",
+        "idx": 122
+    },
+    {
+        "input_1": "Can STDs be transmitted via oral sex?",
+        "input_2": "Can you get stds from oral sex?",
+        "output": "yes",
+        "idx": 123
+    },
+    {
+        "input_1": "How do strong entity and weak entity sets differ in DBMS?",
+        "input_2": "What is a weak entity in DBMS? Why is it called weak?",
+        "output": "yes",
+        "idx": 124
+    },
+    {
+        "input_1": "What is the best coaching for the GRE in Pune? And why is it the best?",
+        "input_2": "What is the best coaching institute for the GRE and TOEFL/IELTS with counselling in Pune?",
+        "output": "no",
+        "idx": 125
+    },
+    {
+        "input_1": "Is Pulsar RS 200 good for touring?",
+        "input_2": "Is Pulsar RS 200 good for touring/hilly roads?",
+        "output": "yes",
+        "idx": 126
+    },
+    {
+        "input_1": "What's it like to be a heroin addict?",
+        "input_2": "What's it like to be a homeless heroin addict?",
+        "output": "no",
+        "idx": 127
+    },
+    {
+        "input_1": "What evidence is there to support the existence of alien life?",
+        "input_2": "Where is the proof of alien life?",
+        "output": "yes",
+        "idx": 128
+    },
+    {
+        "input_1": "Why do they spend to have people like Siddhu Paaji in shows like Kapil Sharma show?",
+        "input_2": "How do I get tickets for The Kapil Sharma Show ?",
+        "output": "no",
+        "idx": 129
+    },
+    {
+        "input_1": "What is the best smartphone currently?",
+        "input_2": "What is the best smartphone to date?",
+        "output": "yes",
+        "idx": 130
+    },
+    {
+        "input_1": "My mind is fucked after learning the law of attraction (and something similar), attracting too much shit that I don't want plus causes over thinking?",
+        "input_2": "How easy or tough is it for an international student to get a job in Australia after their post - graduation (especially in advertising industry)?",
+        "output": "no",
+        "idx": 131
+    },
+    {
+        "input_1": "How do I loose 4 inches in 5 months?",
+        "input_2": "How much time it should take to increase my biceps size from 13.5 inches to 16 inches? I do gym regularly since last 5 months.",
+        "output": "no",
+        "idx": 132
+    },
+    {
+        "input_1": "What would you do if you woke up back in time as your five year old self and with all of your current memories?",
+        "input_2": "If you woke up as your five year old self tomorrow, with the memories of your lived life intact, what would you do?",
+        "output": "yes",
+        "idx": 133
+    },
+    {
+        "input_1": "\"Is nuclear energy \"\"renewable energy\"\"?\"",
+        "input_2": "What are the reasons behind nuclear energy being non-renewable?",
+        "output": "yes",
+        "idx": 134
+    },
+    {
+        "input_1": "How do I become an expert at Google Adwords?",
+        "input_2": "How can I become a Google Adwords expert?",
+        "output": "yes",
+        "idx": 135
+    },
+    {
+        "input_1": "How can I see what other users browsing on my wifi router network? Can I see the websites they surf?",
+        "input_2": "How do I block a few websites on my home's WiFi network?",
+        "output": "no",
+        "idx": 136
+    },
+    {
+        "input_1": "Were you forced to wear skirts when you were young?",
+        "input_2": "What is your most embarrassing experience wearing a short skirt?",
+        "output": "no",
+        "idx": 137
+    },
+    {
+        "input_1": "Why do the people of West Bengal support Mamata Banerjee?",
+        "input_2": "Is Mamata Banerjee Hindu or Muslim by faith?",
+        "output": "no",
+        "idx": 138
+    },
+    {
+        "input_1": "What is the actual density of rubber?",
+        "input_2": "How is the density of rubber determined?",
+        "output": "no",
+        "idx": 139
+    },
+    {
+        "input_1": "How do I fix sound issues in Windows 10?",
+        "input_2": "Windows 10 issues: wifi is shown as disabled and does not enable . How do I fix this?",
+        "output": "no",
+        "idx": 140
+    },
+    {
+        "input_1": "Could planet 9 have cosmic ray lightning?",
+        "input_2": "Could 'planet 9' have an atmosphere?",
+        "output": "no",
+        "idx": 141
+    },
+    {
+        "input_1": "Why do some people seem to get a thrill out of threatening to harm someone?",
+        "input_2": "If you fight someone after they threatened to have people beat you up, can they take you to court?",
+        "output": "no",
+        "idx": 142
+    },
+    {
+        "input_1": "How does the human brain function so efficiently?",
+        "input_2": "How does human brain function?",
+        "output": "yes",
+        "idx": 143
+    },
+    {
+        "input_1": "Which one is better: HP Pavillion 15-au006tx or HP Pavillion 15-au003tx?",
+        "input_2": "Which one is better: HP Pavillion 15-au006tx or HP Pavillion 116tx?",
+        "output": "no",
+        "idx": 144
+    },
+    {
+        "input_1": "How can I get to sleep with my mind racing?",
+        "input_2": "How can I shut down my overactive mind at night in order to get to sleep quicker?",
+        "output": "yes",
+        "idx": 145
+    },
+    {
+        "input_1": "How can I improve myself and figure out what should I do with my life?",
+        "input_2": "How do I find out what I truly want in my life? It fluctuates!",
+        "output": "yes",
+        "idx": 146
+    },
+    {
+        "input_1": "Why was Cyrus Mistry removed from the chairmanship of Tata Sons?",
+        "input_2": "Why Cyrus Mistry has been sacked all of a sudden?",
+        "output": "yes",
+        "idx": 147
+    },
+    {
+        "input_1": "Why do men send pictures of their penis to potential partners?",
+        "input_2": "Why do some guys feel the need to send pictures of their penis to girls they just met?",
+        "output": "yes",
+        "idx": 148
+    },
+    {
+        "input_1": "Which is the best smartphone to buy in august 2016 under Rs. 15000?",
+        "input_2": "Which is the best smartphone by look under Rs 15000?",
+        "output": "yes",
+        "idx": 149
+    },
+    {
+        "input_1": "What is the process of immigration of Finland which I should be adopted?",
+        "input_2": "How do I prepare for city level, TIMES NIE think and learn challenge, Ahmedabad?",
+        "output": "no",
+        "idx": 150
+    },
+    {
+        "input_1": "How can I increase the traffic on my website?",
+        "input_2": "How can I get traffic to my blog www.tovibez.com?",
+        "output": "no",
+        "idx": 151
+    },
+    {
+        "input_1": "Oceanography: How are oceans zoned?",
+        "input_2": "Oceanography: After a day spent in the ocean, why is it I still feel the waves when I'm laying still at night?",
+        "output": "no",
+        "idx": 152
+    },
+    {
+        "input_1": "Who would win a fight, a blue whale or a Bryde\u2019s whale?",
+        "input_2": "Who would win a fight, a blue whale or a Pygmy blue whale?",
+        "output": "no",
+        "idx": 153
+    },
+    {
+        "input_1": "My crush keeps me between heaven and hell. What should I do?",
+        "input_2": "I am a boy of 15 years. Next year, I wish to join Mount Carmel PU College for 1 PU. Please, Please can tell me how to get in?",
+        "output": "no",
+        "idx": 154
+    },
+    {
+        "input_1": "Why is ARCO's gas so much cheaper than other stations?",
+        "input_2": "How does Chevron gas and ARCO gas compare?",
+        "output": "no",
+        "idx": 155
+    },
+    {
+        "input_1": "Which is the best romantic novel by Indian author?",
+        "input_2": "Which is the best romantic novel by an Indian author?",
+        "output": "yes",
+        "idx": 156
+    },
+    {
+        "input_1": "What are some examples of cultural relativism?",
+        "input_2": "What is cultural relativism and what are some examples?",
+        "output": "yes",
+        "idx": 157
+    },
+    {
+        "input_1": "Is it considered bad manners to drink while one has food in their mouth?",
+        "input_2": "Manners and Etiquette: If I invited you over to my house, and offered you food & drink, and you declined, is that rude?",
+        "output": "no",
+        "idx": 158
+    },
+    {
+        "input_1": "Have you ever met a celebrity and share your experience either good or bad?",
+        "input_2": "Have you ever met a celebrity?",
+        "output": "yes",
+        "idx": 159
+    },
+    {
+        "input_1": "Every time I go outside my gate my dog barks at me. Why? Can I control this?",
+        "input_2": "Why do dogs bark and run after vehicles in the night time?",
+        "output": "no",
+        "idx": 160
+    },
+    {
+        "input_1": "Where do I get weed in pune?",
+        "input_2": "How do I get weed in pune?",
+        "output": "yes",
+        "idx": 161
+    },
+    {
+        "input_1": "How can I add a recovery phone number to my Gmail account without password to my account?",
+        "input_2": "I can't remember my Gmail password or my recovery email. How can I recover my e-mail?",
+        "output": "yes",
+        "idx": 162
+    },
+    {
+        "input_1": "Is Apple likely to release a dual-SIM iPhone?",
+        "input_2": "Does Apple have any technical reasons to not launch dual sim iPhone?",
+        "output": "yes",
+        "idx": 163
+    },
+    {
+        "input_1": "Do you think its worth getting the PS4 PRO?",
+        "input_2": "I AM A TOURIST AND I NEED TO EXCHANGE OLD RUPEE NOTES after 31/12/16?",
+        "output": "no",
+        "idx": 164
+    },
+    {
+        "input_1": "Philosophy of Science: Why are temples closed and people are not allowed to move outside on an eclipse day?",
+        "input_2": "Why are Hindu temples closed during eclipses?",
+        "output": "no",
+        "idx": 165
+    },
+    {
+        "input_1": "Royal enfield which bike is better?",
+        "input_2": "Which is the best royal Enfield bike in 2016?",
+        "output": "yes",
+        "idx": 166
+    },
+    {
+        "input_1": "How do radio stations get benefits? Is it only by ads?",
+        "input_2": "Why do old radios sometimes pick up radio stations from other countries instead of only picking up local radio stations?",
+        "output": "no",
+        "idx": 167
+    },
+    {
+        "input_1": "What is one thing you would want to do without being judged?",
+        "input_2": "What are some good techniques for drawing upside down?",
+        "output": "no",
+        "idx": 168
+    },
+    {
+        "input_1": "How do I improve my communication skills in one month?",
+        "input_2": "How do I improve my communication skills.?",
+        "output": "yes",
+        "idx": 169
+    },
+    {
+        "input_1": "Should people's voting power be multiplied by the percentage of tax they pay on their income?",
+        "input_2": "Why can't we have a system where each citizen's voting power is determined by the amount of tax they pay?",
+        "output": "yes",
+        "idx": 170
+    },
+    {
+        "input_1": "How is it possible for sun to have more energy than Lightning?",
+        "input_2": "Is it possible to reach the Sun?",
+        "output": "no",
+        "idx": 171
+    },
+    {
+        "input_1": "What were the major effects of the cambodia earthquake, and how do these effects compare to the Concepcion earthquake in 1835?",
+        "input_2": "What were the major effects of the cambodia earthquake, and how do these effects compare to the Sanriku earthquake in 1611?",
+        "output": "yes",
+        "idx": 172
+    },
+    {
+        "input_1": "Do we use language to think?",
+        "input_2": "If a my stepmother's pantyhose alura jenson & jessy Jones which language do they think in?",
+        "output": "no",
+        "idx": 173
+    },
+    {
+        "input_1": "Now that the Brexit vote has passed, what is the most likely political outcome for the UK?",
+        "input_2": "What is the likely outcome of Brexit?",
+        "output": "no",
+        "idx": 174
+    },
+    {
+        "input_1": "Which is the best washing machine under 15k?",
+        "input_2": "Which is the best washing machine powder?",
+        "output": "no",
+        "idx": 175
+    },
+    {
+        "input_1": "How can you substitute granulated garlic in a recipe?",
+        "input_2": "What is the best way to substitute garlic powder in a recipe?",
+        "output": "yes",
+        "idx": 176
+    },
+    {
+        "input_1": "What age is old enough to read A Song of Ice and Fire?",
+        "input_2": "\"What age is the \"\"Song of Ice and Fire\"\" for?\"",
+        "output": "yes",
+        "idx": 177
+    },
+    {
+        "input_1": "How did Adam and Eve die?",
+        "input_2": "How tall were adam and eve?",
+        "output": "no",
+        "idx": 178
+    },
+    {
+        "input_1": "Can India be cashless?",
+        "input_2": "Can India become cashless?",
+        "output": "yes",
+        "idx": 179
+    },
+    {
+        "input_1": "Which is the best phone to buy within Rs.15000?",
+        "input_2": "What phone should I buy under Rs 15000?",
+        "output": "yes",
+        "idx": 180
+    },
+    {
+        "input_1": "What are the reasons to date/marry an introvert?",
+        "input_2": "What are the perks of dating an introvert?",
+        "output": "no",
+        "idx": 181
+    },
+    {
+        "input_1": "What are the safety precautions on handling shotguns proposed by the NRA in Mississippi?",
+        "input_2": "What are the safety precautions on handling shotguns proposed by the NRA in Arizona?",
+        "output": "yes",
+        "idx": 182
+    },
+    {
+        "input_1": "Is the answer to zero divided by zero infinity?",
+        "input_2": "Is infinity minus one still infinity?",
+        "output": "no",
+        "idx": 183
+    },
+    {
+        "input_1": "What is life in Switzerland like?",
+        "input_2": "What facts about Switzerland do foreigners not believe until they come to Switzerland?",
+        "output": "no",
+        "idx": 184
+    },
+    {
+        "input_1": "Should I leave a job in a corporation, where I am not happy, and go to smaller, newer company where I would be able to work with great people?",
+        "input_2": "Where should I travel with one way ticket to find a job and live a happy life?",
+        "output": "no",
+        "idx": 185
+    },
+    {
+        "input_1": "Should I make my crowdfunder project on both Kickstarter and Indiegogo?",
+        "input_2": "Who browses Indiegogo and Kickstarter?",
+        "output": "no",
+        "idx": 186
+    },
+    {
+        "input_1": "Why might the oven not light up on an old electric range?",
+        "input_2": "Why is electric light important?",
+        "output": "no",
+        "idx": 187
+    },
+    {
+        "input_1": "What food should I eat to gain weight?",
+        "input_2": "Which food is the best to gain weight?",
+        "output": "yes",
+        "idx": 188
+    },
+    {
+        "input_1": "Why has the Tata sons board voted to remove Cyrus Mistry as chairperson?",
+        "input_2": "Why did Ratan Tata remove Cyrus Mistry?",
+        "output": "yes",
+        "idx": 189
+    },
+    {
+        "input_1": "How can I get started in industrial/product design as a hobbyist and self-learner?",
+        "input_2": "How do I learn industrial/product design?",
+        "output": "no",
+        "idx": 190
+    },
+    {
+        "input_1": "Why do people feel getting cheated on is such a big deal?",
+        "input_2": "What are the potential social implications of wearing shoe lifts and how can they be addressed?",
+        "output": "no",
+        "idx": 191
+    },
+    {
+        "input_1": "What are the best books on business management?",
+        "input_2": "What are the best books self management?",
+        "output": "no",
+        "idx": 192
+    },
+    {
+        "input_1": "Is it harmful to smoke just one cigarette every day?",
+        "input_2": "Among all the cigarettes brands in the Indian market, which is less harmful to the body?",
+        "output": "no",
+        "idx": 193
+    },
+    {
+        "input_1": "Will we be able to gain energy from lightning?",
+        "input_2": "Has anyone tried to harness the energy from lightning ever?",
+        "output": "yes",
+        "idx": 194
+    },
+    {
+        "input_1": "Why do I prefer Quora?",
+        "input_2": "Why should I prefer quora?",
+        "output": "yes",
+        "idx": 195
+    },
+    {
+        "input_1": "If something has 1/1000 chance of happening, does it mean that it MUST ever happen?",
+        "input_2": "Should I save to buy a house or put those extra savings into a superfund?",
+        "output": "no",
+        "idx": 196
+    },
+    {
+        "input_1": "How many people died from the atomic attack on Japan?",
+        "input_2": "How many people were killed in Japan by the atomic bombs?",
+        "output": "yes",
+        "idx": 197
+    },
+    {
+        "input_1": "What is it like to be a Muslim woman?",
+        "input_2": "How does a Muslim man propose to a Muslim woman?",
+        "output": "no",
+        "idx": 198
+    },
+    {
+        "input_1": "Why do I feel tired when I wake up?",
+        "input_2": "Why do I feel tired when I sleep late?",
+        "output": "no",
+        "idx": 199
+    },
+    {
+        "input_1": "Why do sneaker manufacturers favour laces over Velcro?",
+        "input_2": "What advantages do shoelaces have over Velcro?",
+        "output": "yes",
+        "idx": 200
+    },
+    {
+        "input_1": "\"How did India get its alias \"\"Bharat\"\"? Was Bharat the previous name of India? Why does India have two names?\"",
+        "input_2": "If India changes its name, what should it be, Bharat or Hindustan?",
+        "output": "no",
+        "idx": 201
+    },
+    {
+        "input_1": "What is a variable potential difference?",
+        "input_2": "What is potential? What is the difference between positive and negative potential?",
+        "output": "no",
+        "idx": 202
+    },
+    {
+        "input_1": "Why are ALL my questions being marked as needing improvement?",
+        "input_2": "Quora: How to ask question on Quora so that it wont get marked as needing improvement?",
+        "output": "yes",
+        "idx": 203
+    },
+    {
+        "input_1": "\"What is the meaning of \"\"literary merit\"\"?\"",
+        "input_2": "How can you tell if a piece of fiction has literary merit?",
+        "output": "no",
+        "idx": 204
+    },
+    {
+        "input_1": "What is the best way to make money on Quora?",
+        "input_2": "Is it possible to make money as a user on Quora?",
+        "output": "yes",
+        "idx": 205
+    },
+    {
+        "input_1": "Raj Bapna Mind power techniques useful to students?",
+        "input_2": "Which Martial arts should I learn?",
+        "output": "no",
+        "idx": 206
+    },
+    {
+        "input_1": "Is a male tester really better than a female one?",
+        "input_2": "Why is the demand rising more for male escorts than female escorts? Is it going to have any effect in the future on Indian culture?",
+        "output": "no",
+        "idx": 207
+    },
+    {
+        "input_1": "Why don't therapist have to make records of what techniques they used and how by their clients?",
+        "input_2": "Therapists: What makes a client memorable and why?",
+        "output": "no",
+        "idx": 208
+    },
+    {
+        "input_1": "\"What is going to be the next \"\"big thing\"\" in the next 25-50 years?\"",
+        "input_2": "\"The Next Big Thing: What is going to be the next \"\"big thing\"\" in the next 15 to 30 years?\"",
+        "output": "yes",
+        "idx": 209
+    },
+    {
+        "input_1": "How can I watch porn on Samsung VR?",
+        "input_2": "How is kettle corn farmed in Australia?",
+        "output": "no",
+        "idx": 210
+    },
+    {
+        "input_1": "What are reviews for the Motley Fool Stock Advisor?",
+        "input_2": "What is your review of The Motley Fool?",
+        "output": "no",
+        "idx": 211
+    },
+    {
+        "input_1": "How can I register for net banking SBI without visiting to branch?",
+        "input_2": "Can I apply for internet banking in SBI without visiting the branch?",
+        "output": "no",
+        "idx": 212
+    },
+    {
+        "input_1": "What do I need to know in advance if I am going to travel by plane first time?",
+        "input_2": "On the 15th I am going to Germany, but this is my first time travelling alone. I am very nervous because I don't know anything like boarding. What is the step-by-step boarding procedure from Delhi International Airport T3?",
+        "output": "no",
+        "idx": 213
+    },
+    {
+        "input_1": "What is the best advice for struggling entrepreneurs?",
+        "input_2": "What is the best advice for a young aspiring entrepreneur?",
+        "output": "no",
+        "idx": 214
+    },
+    {
+        "input_1": "Which are some good tempered glass brands to buy in India?",
+        "input_2": "What are the best tempered glass brand or manufacturers in India?",
+        "output": "yes",
+        "idx": 215
+    },
+    {
+        "input_1": "How do I prepare for the JEE 2016?",
+        "input_2": "How should I prepare for JEE Mains 2017?",
+        "output": "no",
+        "idx": 216
+    },
+    {
+        "input_1": "What are the best stocks to invest in 2012?",
+        "input_2": "What is the best stock to invest in 2016 and why?",
+        "output": "no",
+        "idx": 217
+    },
+    {
+        "input_1": "Why is green tea associated with fat loss?",
+        "input_2": "Does green tea help to lose weight?",
+        "output": "yes",
+        "idx": 218
+    },
+    {
+        "input_1": "What is your review of Vanguard Group?",
+        "input_2": "What is it like to work at Vanguard Group?",
+        "output": "no",
+        "idx": 219
+    },
+    {
+        "input_1": "I've studied Computer Science Engineering and have a PG degree in Advertising, Media and Event Management. Can I pursue PG in NID or abroad?",
+        "input_2": "Can I study neurosciences in graduate school if I have bachelor degree in computer engineering or computer science?",
+        "output": "no",
+        "idx": 220
+    },
+    {
+        "input_1": "What is the best way to reduce gravity in a closed container/room on earth?",
+        "input_2": "How could one reduce gravity in a room on earth?",
+        "output": "yes",
+        "idx": 221
+    },
+    {
+        "input_1": "What are some herbal remedies for constipation?",
+        "input_2": "What's the remedies for constipation?",
+        "output": "no",
+        "idx": 222
+    },
+    {
+        "input_1": "Did any WWII Kamikaze pilots lose their nerve and abort? What happened to them?",
+        "input_2": "Do families or other relatives of kamikaze pilots consider them as heroes or rather soldiers that done what has to be done in that time?",
+        "output": "no",
+        "idx": 223
+    },
+    {
+        "input_1": "If fire needs oxygen to burn, how does it burn in space?",
+        "input_2": "Can wiping pre cum on her vagina prevent pregnancy?",
+        "output": "no",
+        "idx": 224
+    },
+    {
+        "input_1": "What is the best book to learn quantum field theory on your own?",
+        "input_2": "Which is the best problem book in quantum field theory?",
+        "output": "yes",
+        "idx": 225
+    },
+    {
+        "input_1": "How do I become a rocket scientist?",
+        "input_2": "What does it take to become a rocket scientist?",
+        "output": "no",
+        "idx": 226
+    },
+    {
+        "input_1": "How can I tell when someone read an email I sent them?",
+        "input_2": "Yahoo: How can I tell if my sent email was received or read?",
+        "output": "yes",
+        "idx": 227
+    },
+    {
+        "input_1": "Does masturbation cause loss of memory?",
+        "input_2": "Does masturbation reduces memory?",
+        "output": "yes",
+        "idx": 228
+    },
+    {
+        "input_1": "What traffic laws in Japan are particularly hard for foreign drivers to get used to?",
+        "input_2": "What traffic laws in Gabon are particularly hard for foreign drivers to get used to?",
+        "output": "no",
+        "idx": 229
+    },
+    {
+        "input_1": "Is Game of Thrones worth watching?",
+        "input_2": "\"Is GRRM's \"\"Game of Thrones\"\" worth all the hype and worth watching?\"",
+        "output": "yes",
+        "idx": 230
+    },
+    {
+        "input_1": "I start a SCRUM with my team literally the moment I wake up. This is disastrous for my productivity. How do I stop?",
+        "input_2": "Anyone to support one direction?",
+        "output": "no",
+        "idx": 231
+    },
+    {
+        "input_1": "What do you think about ban on Rs. 500 and Rs. 1000 currency notes?",
+        "input_2": "What does Balaji Vishwanathan think about 500/1000 notes banning and issuance of \u20b92000 notes?",
+        "output": "yes",
+        "idx": 232
+    },
+    {
+        "input_1": "Is ranch dressing good for you?",
+        "input_2": "Why is ranch dressing so popular?",
+        "output": "no",
+        "idx": 233
+    },
+    {
+        "input_1": "I had lost my nepalese passport with US visa. I made the new passport. Later I found the lost one. Can I carry my old passport?",
+        "input_2": "I'm an adult now and I had a passport as a minor. Now this passport has expired. Should I go for a new passport or should I get the same one reissued?",
+        "output": "no",
+        "idx": 234
+    },
+    {
+        "input_1": "As an Iranian (Persian) who personally knew Arabs how did they treat you?",
+        "input_2": "What is the difference between Iranians (Persians) and Arabs?",
+        "output": "no",
+        "idx": 235
+    },
+    {
+        "input_1": "How can I make money by publishing a free Android app without showing any ads anywhere on app?",
+        "input_2": "If you have made a free Android app with 10,000+ downloads, how much ad revenue are you making?",
+        "output": "no",
+        "idx": 236
+    },
+    {
+        "input_1": "How do I share PC (Windows XP/ Win7 ) Internet connection to my Android 5.0.2 (Sony Xperia Z3) Lollipop smartphone via USB cable?",
+        "input_2": "How do I share internet from a PC via a USB cable to an Android phone?",
+        "output": "no",
+        "idx": 237
+    },
+    {
+        "input_1": "What are some things I should know before going to Maui?",
+        "input_2": "What are some things one should know before moving to Maui?",
+        "output": "no",
+        "idx": 238
+    },
+    {
+        "input_1": "What is 0/0?",
+        "input_2": "What is (0/0) /0?",
+        "output": "no",
+        "idx": 239
+    },
+    {
+        "input_1": "How can I get wax stains out of a tablecloth?",
+        "input_2": "How do you remove wax from a tablecloth?",
+        "output": "yes",
+        "idx": 240
+    },
+    {
+        "input_1": "How is New Zealand for Indian students wants to study in New Zealand?",
+        "input_2": "What it is like to study in New Zealand for the Indian students?",
+        "output": "yes",
+        "idx": 241
+    },
+    {
+        "input_1": "How do I add photos to my questions on Quora?",
+        "input_2": "How do I add an image to a question on Quora?",
+        "output": "yes",
+        "idx": 242
+    },
+    {
+        "input_1": "How do I block tagging on Facebook photos?",
+        "input_2": "How can I hide all my photos on Facebook from a specific list?",
+        "output": "no",
+        "idx": 243
+    },
+    {
+        "input_1": "How can I register a purebred dog without papers?",
+        "input_2": "How can you register a dog without papers (AKC)?",
+        "output": "yes",
+        "idx": 244
+    },
+    {
+        "input_1": "\"Is love \"\"real\"\"?\"",
+        "input_2": "Is love even real?",
+        "output": "yes",
+        "idx": 245
+    },
+    {
+        "input_1": "Are intelligent people more likely to be alone?",
+        "input_2": "Are smarter people more likely to be lonely?",
+        "output": "yes",
+        "idx": 246
+    },
+    {
+        "input_1": "How do I learn to fight like Bruce Lee?",
+        "input_2": "Why did Bruce Lee never fight professionally?",
+        "output": "no",
+        "idx": 247
+    },
+    {
+        "input_1": "Why don't we have a base on the moon?",
+        "input_2": "When do you think that we will have a permanent base on the Moon?",
+        "output": "yes",
+        "idx": 248
+    },
+    {
+        "input_1": "If you shoot me between the eyes with a 50AE Desert Eagle with 300grain HP! How much Precent chance do I have to survive serieusly?",
+        "input_2": "If you shoot me at 3 feet with a Desert eagle .50AE in the forehead can I survive it?",
+        "output": "yes",
+        "idx": 249
+    },
+    {
+        "input_1": "Is narendra modi a communal person and why?",
+        "input_2": "Is Narendra Modi a communal leader?",
+        "output": "yes",
+        "idx": 250
+    },
+    {
+        "input_1": "How do I get a list of my gmail accounts?",
+        "input_2": "How do I find all of my Gmail accounts?",
+        "output": "yes",
+        "idx": 251
+    },
+    {
+        "input_1": "Does smoking cigarettes cause cancer?",
+        "input_2": "Is there a proven causality between smoking and lung cancer?",
+        "output": "yes",
+        "idx": 252
+    },
+    {
+        "input_1": "What was the plot of the movie Arrival actually about?",
+        "input_2": "How does Louise have time manipulation powers before her contact with the heptapods in Arrival?",
+        "output": "no",
+        "idx": 253
+    },
+    {
+        "input_1": "What happens with teenagers that run away from home?",
+        "input_2": "What do teenage girls do when they get home from school?",
+        "output": "no",
+        "idx": 254
+    },
+    {
+        "input_1": "My friend and I are interested in the same girl. What should I do?",
+        "input_2": "If my friend and I both liked the same girl, what should I do?",
+        "output": "yes",
+        "idx": 255
+    },
+    {
+        "input_1": "Is it necessary to attain a digital marketing courses?",
+        "input_2": "Is it necessary to do digital marketing course?",
+        "output": "yes",
+        "idx": 256
+    },
+    {
+        "input_1": "I'm considering to become a police officer where do I start? (I'm 18 and college student)",
+        "input_2": "I'm 18, and I ran away from home. Is it possible for my parents to put in a missing persons report to the police?",
+        "output": "no",
+        "idx": 257
+    },
+    {
+        "input_1": "What are applications of scare tactics?",
+        "input_2": "How do you submit someone to be on Scare Tactics?",
+        "output": "no",
+        "idx": 258
+    },
+    {
+        "input_1": "Why isn't Yoshihiro Togashi bothered by the fact that his work was copied for Naruto and Bleach?",
+        "input_2": "Why is Ariel the best Disney princess?",
+        "output": "no",
+        "idx": 259
+    },
+    {
+        "input_1": "What is the market share scenario for apparel brands considering only online sales (U.S. only)?",
+        "input_2": "What are best docs related to NLP sentiment analysis and author profiling?",
+        "output": "no",
+        "idx": 260
+    },
+    {
+        "input_1": "What is your definition of an introvert?",
+        "input_2": "\"What is the true definition of \"\"introvert\"\"?\"",
+        "output": "yes",
+        "idx": 261
+    },
+    {
+        "input_1": "What is vxf pipeline?",
+        "input_2": "What is pipeline?",
+        "output": "no",
+        "idx": 262
+    },
+    {
+        "input_1": "How can I reset a iPhone 5?",
+        "input_2": "How do I factory reset my iPhone 5?",
+        "output": "yes",
+        "idx": 263
+    },
+    {
+        "input_1": "What is the story arc of Orihime Inoue in Bleach?",
+        "input_2": "What are the main story arcs in Bleach?",
+        "output": "no",
+        "idx": 264
+    },
+    {
+        "input_1": "I completed my B.tech in ECE, now I'm working in Cognizant as an ETL tester. Is a B.tech enough for my bright career or do I need to do an MBA or a master's?",
+        "input_2": "I did B.Tech(ECE) in 2012. I have not started my career till now. What should I do to restart my career?",
+        "output": "no",
+        "idx": 265
+    },
+    {
+        "input_1": "Was the decision by the Indian Government to demonetize 500 and 1000 notes right or is it a big scam?",
+        "input_2": "What are your views on ban of 500 and 1000 rupee notes in India?",
+        "output": "yes",
+        "idx": 266
+    },
+    {
+        "input_1": "What are some characteristics of a 3-months old Rottweiler?",
+        "input_2": "Can I continue laser hair removal with roaccutane?",
+        "output": "no",
+        "idx": 267
+    },
+    {
+        "input_1": "How do I get sex?",
+        "input_2": "How can I get sex?",
+        "output": "yes",
+        "idx": 268
+    },
+    {
+        "input_1": "Does plucking gray hairs make more grow back?",
+        "input_2": "What happens when you pluck out a white hair?",
+        "output": "no",
+        "idx": 269
+    },
+    {
+        "input_1": "What will be Pope Benedict XVI's legacy as a Pope?",
+        "input_2": "How will Pope Benedict XVI's successor be chosen?",
+        "output": "no",
+        "idx": 270
+    },
+    {
+        "input_1": "How many zeros in 520?",
+        "input_2": "How many zeros are in 1 million?",
+        "output": "no",
+        "idx": 271
+    },
+    {
+        "input_1": "If Quora doesn't understand my question and marks it as needing improvement, can others still see it?",
+        "input_2": "Do Quora users still see questions that are marked as needing improvement?",
+        "output": "yes",
+        "idx": 272
+    },
+    {
+        "input_1": "How can I become more patient?",
+        "input_2": "How can I be more patient?",
+        "output": "yes",
+        "idx": 273
+    },
+    {
+        "input_1": "Which picture makes you feel sad?",
+        "input_2": "Which picture can make you sad?",
+        "output": "yes",
+        "idx": 274
+    },
+    {
+        "input_1": "Why did Hawaii not become a part of the British Empire?",
+        "input_2": "The guys who 'deeply' respects women, whom do they masturbate on?",
+        "output": "no",
+        "idx": 275
+    },
+    {
+        "input_1": "\"What is the difference between \"\"In time and on time\"\"? Which one is correct?\"",
+        "input_2": "\"Is \"\"I really appreciate your time\"\" correct or not?\"",
+        "output": "no",
+        "idx": 276
+    },
+    {
+        "input_1": "What is the future of EDM music in India?",
+        "input_2": "What is the future of EDM music?",
+        "output": "no",
+        "idx": 277
+    },
+    {
+        "input_1": "Will Xiaomi Redmi Note 3 get a marshmallow update in near future?",
+        "input_2": "WHEN will Redmi note 3 get Marshmallow?",
+        "output": "yes",
+        "idx": 278
+    },
+    {
+        "input_1": "How does one overcome social anxiety?",
+        "input_2": "How do I overcome social anxiety and become influential?",
+        "output": "no",
+        "idx": 279
+    },
+    {
+        "input_1": "Laptops: How do you replace the hard drive on an Asus G51VX laptop?",
+        "input_2": "Is it worth it getting a laptop repaired when the hard drive and battery are both fried?",
+        "output": "no",
+        "idx": 280
+    },
+    {
+        "input_1": "How do I buy refurbished electronics in india?",
+        "input_2": "Is it safe to buy nokia 1100 refurbished?",
+        "output": "no",
+        "idx": 281
+    },
+    {
+        "input_1": "What is osell.com?",
+        "input_2": "What is Shopply.com?",
+        "output": "no",
+        "idx": 282
+    },
+    {
+        "input_1": "How do I retrieve element text inside CDATA markup via XPath?",
+        "input_2": "How do I retrieve element tag inside CDATA markup via XPath?",
+        "output": "yes",
+        "idx": 283
+    },
+    {
+        "input_1": "What are the best ways to prepare for UGC NET (computer science)?",
+        "input_2": "What is the best books to prepare UGC Net Computer Science?",
+        "output": "no",
+        "idx": 284
+    },
+    {
+        "input_1": "Other than humans, what are some examples of the smartest mammals?",
+        "input_2": "Is world societies moving towards rational love contract?",
+        "output": "no",
+        "idx": 285
+    },
+    {
+        "input_1": "Why did Hannibal Lecter in The Silence of the Lambs kill the person next to his cell for teasing Clarice Starling?",
+        "input_2": "\"What does the serial killer Buffalo Bill mean when he says \"\"It rubs the lotion on its skin or else it gets the hose again\"\" in Silence of the Lambs?\"",
+        "output": "no",
+        "idx": 286
+    },
+    {
+        "input_1": "How can I start to make money online?",
+        "input_2": "How can I earn money part time online?",
+        "output": "yes",
+        "idx": 287
+    },
+    {
+        "input_1": "What is the new technology behind new 2000 rupee note?",
+        "input_2": "How secured is the new 2000 and 500 currency notes?",
+        "output": "yes",
+        "idx": 288
+    },
+    {
+        "input_1": "What is the worst thing you did to yourself?",
+        "input_2": "What's the worst thing you been threw",
+        "output": "no",
+        "idx": 289
+    },
+    {
+        "input_1": "Is Super Smash Brothers considered a fighting game?",
+        "input_2": "Why is Super Smash Brothers Melee still such a popular game?",
+        "output": "yes",
+        "idx": 290
+    },
+    {
+        "input_1": "How can I improve my English pronunciation?",
+        "input_2": "How can I increase my English fluency?",
+        "output": "yes",
+        "idx": 291
+    },
+    {
+        "input_1": "Is your job allowed to tell you to come to work when you are sick?",
+        "input_2": "Is it illegal to force someone to work when they have a doctor's note telling them not to?",
+        "output": "no",
+        "idx": 292
+    },
+    {
+        "input_1": "What is cellulose sugar?",
+        "input_2": "Is there cellulose in milk?",
+        "output": "no",
+        "idx": 293
+    },
+    {
+        "input_1": "How can I keep my dog from getting fleas?",
+        "input_2": "What are some precautions to avoid getting fleas from my dogs?",
+        "output": "yes",
+        "idx": 294
+    },
+    {
+        "input_1": "What would the conversation be like if Rahul Gandhi, Narendra Modi and Arvind Kejriwal decided to meet over drinks?",
+        "input_2": "What would Gandhi think of Narendra Modi and BJP if he were still alive?",
+        "output": "no",
+        "idx": 295
+    },
+    {
+        "input_1": "How do I hack a password and ID?",
+        "input_2": "How do I hack a password?",
+        "output": "no",
+        "idx": 296
+    },
+    {
+        "input_1": "Is there a way you can get pictures redeveloped if they're from 1988 and you don't have the negative picture film?",
+        "input_2": "Is there a way you can get pictures redeveloped if they are from 1988?",
+        "output": "yes",
+        "idx": 297
+    },
+    {
+        "input_1": "Can I get a disease through sniffing panties?",
+        "input_2": "What About Pokemon, Poke balls And Poke Coins? How To Get Them Fast I Tried A Site Today Worked Fine But Need More Can You Help Me?",
+        "output": "no",
+        "idx": 298
+    },
+    {
+        "input_1": "What happens to a planetary system when its sun dies?",
+        "input_2": "What will happen when the Sun runs out of its fuel and dies?",
+        "output": "yes",
+        "idx": 299
+    },
+    {
+        "input_1": "Can you help me in weight gain with Indian diet plan?",
+        "input_2": "How can I increase my weight and get a decent body figure?",
+        "output": "no",
+        "idx": 300
+    },
+    {
+        "input_1": "What is the difference between fixed cost and variable cost?",
+        "input_2": "What's the difference between fixed and variable costs?",
+        "output": "yes",
+        "idx": 301
+    },
+    {
+        "input_1": "How do I strengthen my eyes?",
+        "input_2": "How can I strengthen my eyes?",
+        "output": "yes",
+        "idx": 302
+    },
+    {
+        "input_1": "How do I implement an algorithm on FPGA?",
+        "input_2": "How do implement object localization algorithm in FPGA?",
+        "output": "no",
+        "idx": 303
+    },
+    {
+        "input_1": "What skills are needed for machine learning jobs?",
+        "input_2": "What skills are required for machine learning internship?",
+        "output": "no",
+        "idx": 304
+    },
+    {
+        "input_1": "Besides hanging yourself what are other ways people commit suicide?",
+        "input_2": "What would be a cool way to commit suicide?",
+        "output": "yes",
+        "idx": 305
+    },
+    {
+        "input_1": "Are there real life karma police?",
+        "input_2": "\"What are some real life examples of \u201cKarma\"\"?\"",
+        "output": "yes",
+        "idx": 306
+    },
+    {
+        "input_1": "How do I select in Ranji or under-19 from varansi, even I did not play any tournament before.",
+        "input_2": "What is senior scientist salary in amsterdam?",
+        "output": "no",
+        "idx": 307
+    },
+    {
+        "input_1": "Considering how aerodynamic its design is, why is it that car manufacturers don't dimple their cars like a golf ball?",
+        "input_2": "Why don't cars have scallops, like golf balls, for fuel efficiency?",
+        "output": "yes",
+        "idx": 308
+    },
+    {
+        "input_1": "\"When should you use \"\"has been\"\" and \"\"was\"\"?\"",
+        "input_2": "\"When should I use \"\"has been\"\", \"\"have been\"\" and \"\"had been\"\"?\"",
+        "output": "no",
+        "idx": 309
+    },
+    {
+        "input_1": "How do I recover photos on Android after factory reset?",
+        "input_2": "How can I recover photos after factory resetting my Android Galaxy S3?",
+        "output": "yes",
+        "idx": 310
+    },
+    {
+        "input_1": "Where can I get a database of Canadian family offices?",
+        "input_2": "Where can I get an Asian family office database?",
+        "output": "no",
+        "idx": 311
+    },
+    {
+        "input_1": "How do you know if you're a jerk?",
+        "input_2": "How can I know if I'm a jerk and how can I be less of a jerk?",
+        "output": "no",
+        "idx": 312
+    },
+    {
+        "input_1": "How is the procedure for making a passport?",
+        "input_2": "What is the procedure to make a passport?",
+        "output": "yes",
+        "idx": 313
+    },
+    {
+        "input_1": "How can I contact Airtel customer service?",
+        "input_2": "How do I contact Airbnb customer support?",
+        "output": "no",
+        "idx": 314
+    },
+    {
+        "input_1": "What causes a blood blister in the eye?",
+        "input_2": "What causes blood blister on the nose?",
+        "output": "no",
+        "idx": 315
+    },
+    {
+        "input_1": "Are atheists more rude to theists or vice versa? Why?",
+        "input_2": "Do atheists look down on theists? And vice versa?",
+        "output": "no",
+        "idx": 316
+    },
+    {
+        "input_1": "How is it to live in Stockholm as a student?",
+        "input_2": "What is it like living in Stockholm Sweden as a Canadian?",
+        "output": "no",
+        "idx": 317
+    },
+    {
+        "input_1": "Are penny stocks good to invest in?",
+        "input_2": "Are penny stocks even worth investing in?",
+        "output": "yes",
+        "idx": 318
+    },
+    {
+        "input_1": "Is this the correct time for an energy revolution (renewable energy) in India?",
+        "input_2": "What should my AIPMT score to take admission in Bhartiya vidyapeth Pune?",
+        "output": "no",
+        "idx": 319
+    },
+    {
+        "input_1": "How do I trade binary options?",
+        "input_2": "What is the best way to learn how to trade binary options effectively as a beginner?",
+        "output": "no",
+        "idx": 320
+    },
+    {
+        "input_1": "Hearing-impaired people, how do yo deal?",
+        "input_2": "I am gay and I like another gay guy but I'm shy\u2026 what should I do?",
+        "output": "no",
+        "idx": 321
+    },
+    {
+        "input_1": "What is likely theological significance of Muhammad saying \u201cIn heaven, Miriam, the mother of Jesus, will be one of my wives.\u201d Hadith al-Siyuti 6/395?",
+        "input_2": "\"In what part of the Tirmidhi Hadith do you find the Muhammad quote, \"\"The worldly comforts are not for me, I am like a traveler, who takes rest....\"\"?\"",
+        "output": "no",
+        "idx": 322
+    },
+    {
+        "input_1": "How can we know about the MBM college fee structure for a B.Tech?",
+        "input_2": "Is an M.Tech for structures good in JCE or R.V. College?",
+        "output": "no",
+        "idx": 323
+    },
+    {
+        "input_1": "What is code six?",
+        "input_2": "What is RELAP code?",
+        "output": "no",
+        "idx": 324
+    },
+    {
+        "input_1": "How do I set up a voicemail when you don't have a voicemail box?",
+        "input_2": "Why would someone not set up their voicemail?",
+        "output": "no",
+        "idx": 325
+    },
+    {
+        "input_1": "What are the best places to visit with parents?",
+        "input_2": "What are the best places you have visited?",
+        "output": "no",
+        "idx": 326
+    },
+    {
+        "input_1": "What is traditional hinduism?",
+        "input_2": "What is Manasa Puja according to Hinduism?",
+        "output": "no",
+        "idx": 327
+    },
+    {
+        "input_1": "What does a programmer analyst do?",
+        "input_2": "What is a programmer analyst?",
+        "output": "yes",
+        "idx": 328
+    },
+    {
+        "input_1": "How can I find the first visitors for a website?",
+        "input_2": "How much can a website with 40 million pageviews/mo, 5MM UV, 69% returning visitors, 86% aged 18-34, 70% female, 20% US, 50% SE Asia visitors, be valued at?",
+        "output": "no",
+        "idx": 329
+    },
+    {
+        "input_1": "What is the best order to watch the Star Wars series?",
+        "input_2": "What movies should all economics students watch before they graduate?",
+        "output": "no",
+        "idx": 330
+    },
+    {
+        "input_1": "What can private investigators find out?",
+        "input_2": "Where do I find a private investigator?",
+        "output": "no",
+        "idx": 331
+    },
+    {
+        "input_1": "Why my friend ignores me?",
+        "input_2": "Why do my friends ignore me?",
+        "output": "yes",
+        "idx": 332
+    },
+    {
+        "input_1": "\"What are some examples of sentences using the word \"\"augment\"\"?\"",
+        "input_2": "\"What are some examples of sentences using the word \"\"creditable\"\"?\"",
+        "output": "no",
+        "idx": 333
+    },
+    {
+        "input_1": "What should I eat before exercising?",
+        "input_2": "Should I eat before I exercise and, if so, what should I eat?",
+        "output": "yes",
+        "idx": 334
+    },
+    {
+        "input_1": "What is an Account Manager?",
+        "input_2": "What is E-commerce Account Manager occupation called in Canada?",
+        "output": "no",
+        "idx": 335
+    },
+    {
+        "input_1": "I always shut my alarm and go back to sleep. How can I get up early (at 6:00 am) every day?",
+        "input_2": "How do you train yourself to get up early every morning at 4 am and let go of the warm cozy blanket?",
+        "output": "no",
+        "idx": 336
+    },
+    {
+        "input_1": "Now that India has banned 500 & 1000 notes, what will people with excess of such notes accrued as black money do? Can they still escape?",
+        "input_2": "Now after banning of \u20b9500 & \u20b91000 notes, what are the ways in which people can convert their black money into white and how can it be prevented?",
+        "output": "yes",
+        "idx": 337
+    },
+    {
+        "input_1": "Costumer lifetime value Twitter?",
+        "input_2": "Where can I find a list of TSYS resellers?",
+        "output": "no",
+        "idx": 338
+    },
+    {
+        "input_1": "Which phone should I buy, Xiaomi Redmi Note 3 32 GB or LeEco Le 2?",
+        "input_2": "Which smartphone should I buy, Le eco 2 or redmi note 3 (32 GB) ?",
+        "output": "yes",
+        "idx": 339
+    },
+    {
+        "input_1": "How do we make money online?",
+        "input_2": "What are the easiest ways to make good money using the Internet?",
+        "output": "yes",
+        "idx": 340
+    },
+    {
+        "input_1": "Are conservatives smarter than liberals?",
+        "input_2": "\"Why do liberals criticize conservatives for being \"\"anti-science\"\" yet liberals believe there are more than 2 genders?\"",
+        "output": "no",
+        "idx": 341
+    },
+    {
+        "input_1": "How can I build deb file for ubuntu (code: python3)?",
+        "input_2": "Where is Freedom251?",
+        "output": "no",
+        "idx": 342
+    },
+    {
+        "input_1": "How do I use sleep analysis in iPhone?",
+        "input_2": "S it wrong for me (a mother) to sleep naked with my 16 year old son?",
+        "output": "no",
+        "idx": 343
+    },
+    {
+        "input_1": "What is lingua franca?",
+        "input_2": "How does lingua franca work?",
+        "output": "yes",
+        "idx": 344
+    },
+    {
+        "input_1": "Is it advisable to change my salary account from the SBI to the HDFC Bank?",
+        "input_2": "Can I change my sbi bank account address through onlinesbi.com?",
+        "output": "no",
+        "idx": 345
+    },
+    {
+        "input_1": "What are the best English songs to listen?",
+        "input_2": "Some best english songs?",
+        "output": "yes",
+        "idx": 346
+    },
+    {
+        "input_1": "Why should you brush your teeth twice a day?",
+        "input_2": "Can I brush my teeth once a day?",
+        "output": "no",
+        "idx": 347
+    },
+    {
+        "input_1": "What are the best books (foreign as well as Indian) for preparing for Indian Engineering Services - Mechanical examination?",
+        "input_2": "What is the best Mechanical Engineering app for Indian public sector undertaking companies?",
+        "output": "no",
+        "idx": 348
+    },
+    {
+        "input_1": "How do I measure the body frequency?",
+        "input_2": "How can Dopamine levels in the human body be measured?",
+        "output": "no",
+        "idx": 349
+    },
+    {
+        "input_1": "How should I prepare for IAS now?",
+        "input_2": "How do I prepare for civil service?",
+        "output": "yes",
+        "idx": 350
+    },
+    {
+        "input_1": "How can I be a real estate agent?",
+        "input_2": "How can one be a real estate agent?",
+        "output": "yes",
+        "idx": 351
+    },
+    {
+        "input_1": "How can you prove that 2+2=4?",
+        "input_2": "How can I prove that 4 = 5?",
+        "output": "no",
+        "idx": 352
+    },
+    {
+        "input_1": "How did the 4% of neanderthal DNA appear in Non-Africans?",
+        "input_2": "Which SAP module is good for BA graduate (SAP mm SD,CRM)? Or should I go for tally ?",
+        "output": "no",
+        "idx": 353
+    },
+    {
+        "input_1": "How and why were Bastet and Anubis worshipped in Ancient Egypt?",
+        "input_2": "How were Bastet and Anubis worshipped in Ancient Egypt?",
+        "output": "yes",
+        "idx": 354
+    },
+    {
+        "input_1": "What is the meaning of the Olympic Games rings symbol?",
+        "input_2": "What do the color and form of the Olympic Rings represent?",
+        "output": "yes",
+        "idx": 355
+    },
+    {
+        "input_1": "How Do I get Relaince Jio Sim?",
+        "input_2": "Where can I buy reliance jio 4g sim?",
+        "output": "yes",
+        "idx": 356
+    },
+    {
+        "input_1": "Who is the best South Indian actor?",
+        "input_2": "Who is the best actor in South India?",
+        "output": "yes",
+        "idx": 357
+    },
+    {
+        "input_1": "At what time between 5 and 6 o\u2019clock are the hands of a clock 3 minutes apart?",
+        "input_2": "What is the angle made by the minute hand and the hour hand, if the clock shows 8:30 pm?",
+        "output": "no",
+        "idx": 358
+    },
+    {
+        "input_1": "What are the things to do before you die?",
+        "input_2": "What are the things to do before die?",
+        "output": "yes",
+        "idx": 359
+    },
+    {
+        "input_1": "How do start my own business?",
+        "input_2": "What's the most rewarding aspect of owning your own business?",
+        "output": "no",
+        "idx": 360
+    },
+    {
+        "input_1": "What happens if you die in a dream?",
+        "input_2": "What happens when you die in a dream?",
+        "output": "yes",
+        "idx": 361
+    },
+    {
+        "input_1": "Why is water considered to be a nonpolar molecule?",
+        "input_2": "If water were a nonpolar molecule, how would the properties of water be different?",
+        "output": "no",
+        "idx": 362
+    },
+    {
+        "input_1": "How do I add photos to my questions on Quora?",
+        "input_2": "How do I add pictures to questions on Quora?",
+        "output": "yes",
+        "idx": 363
+    },
+    {
+        "input_1": "How can black money brought out by discontinuing 500 and 1000 notes?",
+        "input_2": "How does banning 500 & 1000 rupee notes solve black money problem?",
+        "output": "yes",
+        "idx": 364
+    },
+    {
+        "input_1": "Are rhetorical questions allowed on Quora?",
+        "input_2": "\"Is Quora only for \"\"serious\"\" questions?\"",
+        "output": "no",
+        "idx": 365
+    },
+    {
+        "input_1": "What is the best book for JEE Mains?",
+        "input_2": "What are the best books for JEE Mains practice?",
+        "output": "yes",
+        "idx": 366
+    },
+    {
+        "input_1": "What is the best acoustic guitar under $500?",
+        "input_2": "Best acoustic guitars under $300?  Best under $500?",
+        "output": "yes",
+        "idx": 367
+    },
+    {
+        "input_1": "Roughly how much would an app like Yik Yak cost to develop?",
+        "input_2": "How much does it cost to develop a krishi vigyan kendra?",
+        "output": "no",
+        "idx": 368
+    },
+    {
+        "input_1": "Should all human lives be thought of as having equal value?",
+        "input_2": "\"\"\"All Lives Have Equal Value\"\" True or not?\"",
+        "output": "yes",
+        "idx": 369
+    },
+    {
+        "input_1": "How is life of IIT?",
+        "input_2": "How's life like at IIT?",
+        "output": "yes",
+        "idx": 370
+    },
+    {
+        "input_1": "How would I build a magnetic propulsion system?",
+        "input_2": "How do I build a magnetic propulsion engine?",
+        "output": "yes",
+        "idx": 371
+    },
+    {
+        "input_1": "What are the best new business idea in india with less investment?",
+        "input_2": "What are best business plan to invest?",
+        "output": "yes",
+        "idx": 372
+    },
+    {
+        "input_1": "How do I deal with people who speak mean things behind my back?",
+        "input_2": "How do you deal with it when people gossip behind your back?",
+        "output": "yes",
+        "idx": 373
+    },
+    {
+        "input_1": "State the relation between wealth and welfare.?",
+        "input_2": "What if I do not like coding, what are the other options where I have scope?",
+        "output": "no",
+        "idx": 374
+    },
+    {
+        "input_1": "Who is the President of America now?",
+        "input_2": "Who is the president of America?",
+        "output": "yes",
+        "idx": 375
+    },
+    {
+        "input_1": "What are the differences between the hatred for Hillary Clinton and Barack Obama?",
+        "input_2": "What are the differences between Hillary Clinton and Barack Obama?",
+        "output": "no",
+        "idx": 376
+    },
+    {
+        "input_1": "My gf Of almost 2 years has told me she loves me but she isn't IN love with me, she wants space all the time and wants a break. What should I do?",
+        "input_2": "I told my girlfriend that I needed some space and time for myself and she got angry and has not spoken to me in three days. Does the fault lie with me and most importantly how do I fix it?",
+        "output": "no",
+        "idx": 377
+    },
+    {
+        "input_1": "What is the best fitness tracker?",
+        "input_2": "What is the best fitness tracker for swimming?",
+        "output": "no",
+        "idx": 378
+    },
+    {
+        "input_1": "If a young, attractive heterosexual man declines getting involved with a woman but still really enjoys her company, does that mean she is in the friend zone forever or could there be something between them later?",
+        "input_2": "When the man says to a woman: you are my best friend, what does that mean? Does he like her?",
+        "output": "no",
+        "idx": 379
+    },
+    {
+        "input_1": "What are some ways to keep a vagina tight?",
+        "input_2": "How do I make my vagina tight?",
+        "output": "yes",
+        "idx": 380
+    },
+    {
+        "input_1": "Why mensurating is still a taboo in many parts of India?",
+        "input_2": "What are some movies similar to The hunt (2012) and 12 angry men?",
+        "output": "no",
+        "idx": 381
+    },
+    {
+        "input_1": "How can you record your voice on your computer?",
+        "input_2": "How do I record my voice?",
+        "output": "no",
+        "idx": 382
+    },
+    {
+        "input_1": "Do you believe in the concept of soul? What are your reasons for believing in the existence of soul?",
+        "input_2": "Do you guys believe that humans' soul exist or not?",
+        "output": "no",
+        "idx": 383
+    },
+    {
+        "input_1": "What is the size of the ergonomic consultant market?",
+        "input_2": "What is the size of the ergonomic consulting market?",
+        "output": "yes",
+        "idx": 384
+    },
+    {
+        "input_1": "Where can I find/employ a real hacker?",
+        "input_2": "Where can I hire a hacker?",
+        "output": "yes",
+        "idx": 385
+    },
+    {
+        "input_1": "Commercial image license for machine learning?",
+        "input_2": "What is the minimum amount of settlement that takes for lawyers to take interest in your litigation?",
+        "output": "no",
+        "idx": 386
+    },
+    {
+        "input_1": "How can I overcome my past?",
+        "input_2": "How do I overcome my past?",
+        "output": "yes",
+        "idx": 387
+    },
+    {
+        "input_1": "\"What is a \"\"healthy diet\"\"?\"",
+        "input_2": "What is a diet supplement?",
+        "output": "no",
+        "idx": 388
+    },
+    {
+        "input_1": "\"What are some sentence examples using \"\"into\"\"?\"",
+        "input_2": "\"What are some sentence examples using \"\"superfluous\"\"?\"",
+        "output": "no",
+        "idx": 389
+    },
+    {
+        "input_1": "People hate China?",
+        "input_2": "What is the historical significance of Independence Hall?",
+        "output": "no",
+        "idx": 390
+    },
+    {
+        "input_1": "Why are some people so psycho that they didn't feel any empathy while committing a gruesome crime?",
+        "input_2": "Why do some people think because they have a relative who is a police officer they will not be prosecuted if they commit crimes?",
+        "output": "no",
+        "idx": 391
+    },
+    {
+        "input_1": "How long does it take to truly love someone?",
+        "input_2": "How long did it take you to get over someone you truly love?",
+        "output": "yes",
+        "idx": 392
+    },
+    {
+        "input_1": "Is 2hands.org a scam?",
+        "input_2": "Is insurance.comparisons.org a scam?",
+        "output": "no",
+        "idx": 393
+    },
+    {
+        "input_1": "How far can human eyes see at night on the surface of Earth and Mars?",
+        "input_2": "On the clearest night, how far into the universe can the human eye see?",
+        "output": "no",
+        "idx": 394
+    },
+    {
+        "input_1": "What is a nursing care plan for cirrhosis?",
+        "input_2": "What is a nursing care plan for asthma?",
+        "output": "no",
+        "idx": 395
+    },
+    {
+        "input_1": "What is digital marketing? What are the basics of digital marketing?",
+        "input_2": "What is the concept of digital marketing?",
+        "output": "yes",
+        "idx": 396
+    },
+    {
+        "input_1": "What are the differences between Google's Chromecast and Apple's Airplay devices?",
+        "input_2": "Will the Chromecast device support DLNA or any other streaming protocols?",
+        "output": "no",
+        "idx": 397
+    },
+    {
+        "input_1": "How did Joseph Goebbels become such a good public speaker?",
+        "input_2": "How did Joseph Goebbels practise at becoming a better public speaker?",
+        "output": "yes",
+        "idx": 398
+    },
+    {
+        "input_1": "Why has the Modi government introduced \u20b92000 currency note? Isn't that dangerous?",
+        "input_2": "Why is the Indian government introduced 2000 note instead of 1000 note?",
+        "output": "yes",
+        "idx": 399
+    },
+    {
+        "input_1": "How do I catch Pok\u00e9mon in Pok\u00e9mon GO?",
+        "input_2": "How do I catch more Pok\u00e9mon in Pok\u00e9mon GO?",
+        "output": "yes",
+        "idx": 400
+    },
+    {
+        "input_1": "How can I get more answers on my question?",
+        "input_2": "How could I get more answers to my questions on Quora?",
+        "output": "yes",
+        "idx": 401
+    },
+    {
+        "input_1": "How one should know that he/she completely prepare for CA final exam?",
+        "input_2": "What is the best way to prepare for the theoretical part of the CA Final Exam?",
+        "output": "yes",
+        "idx": 402
+    },
+    {
+        "input_1": "\"Who said, \"\"man is the talking animal\"\"?\"",
+        "input_2": "\"Who said \"\"man is a political animal''?\"",
+        "output": "no",
+        "idx": 403
+    },
+    {
+        "input_1": "Why are you voting for Hillary Clinton over Donald Trump?",
+        "input_2": "Why should I or shouldn't I vote for Donald Trump for President in the Republican primary or US general elections in 2016?",
+        "output": "no",
+        "idx": 404
+    },
+    {
+        "input_1": "How do I prepare for RRB SSE?",
+        "input_2": "How can I prepare RRB sse in mechanical?",
+        "output": "no",
+        "idx": 405
+    },
+    {
+        "input_1": "How do I get selected in IIT in 8 months?",
+        "input_2": "How can I get selected in IIT?",
+        "output": "no",
+        "idx": 406
+    },
+    {
+        "input_1": "What is the best institute for SAP HANA training?",
+        "input_2": "Which is the best online institute for SAP HANA training?",
+        "output": "no",
+        "idx": 407
+    },
+    {
+        "input_1": "How are subshells and orbitals different?",
+        "input_2": "How shells and subshells and orbitals are oriented?",
+        "output": "no",
+        "idx": 408
+    },
+    {
+        "input_1": "Why is wool a good insulator?",
+        "input_2": "Where can one purchase cotton wool in the US?",
+        "output": "no",
+        "idx": 409
+    },
+    {
+        "input_1": "Why did you reverse your position on the TPP and how do you plan to resolve your contrasting viewpoint with Tim Kaine regarding the issue?",
+        "input_2": "Non background person scope in iOS developer field?",
+        "output": "no",
+        "idx": 410
+    },
+    {
+        "input_1": "How can I approach this guy that I like?",
+        "input_2": "How can I approach a guy that I like?",
+        "output": "yes",
+        "idx": 411
+    },
+    {
+        "input_1": "How do I prepare for both groups of CA FINAL within 10 months?",
+        "input_2": "How do I prepare for both groups of CA Final in 5 months as my exams are due in May 2017?",
+        "output": "no",
+        "idx": 412
+    },
+    {
+        "input_1": "The Great Gatsby (1925 book): Is Daisy Buchanan misunderstood?",
+        "input_2": "The Great Gatsby (1925 book): how does Daisy Buchanan die?",
+        "output": "no",
+        "idx": 413
+    },
+    {
+        "input_1": "Why are the concepts of pointers in C still considered as the most powerful concepts among all the programming languages?",
+        "input_2": "What are some of the most difficult to understand concepts in C programming?",
+        "output": "no",
+        "idx": 414
+    },
+    {
+        "input_1": "How can I volunteer at a vet clinic?",
+        "input_2": "How can you volunteer at a vet clinic?",
+        "output": "yes",
+        "idx": 415
+    },
+    {
+        "input_1": "What are the advantages of scanning electron microscopes?",
+        "input_2": "What are the advantages of a scanning electron microscope?",
+        "output": "yes",
+        "idx": 416
+    },
+    {
+        "input_1": "How does the Quora view counting system work?",
+        "input_2": "What does Quora use to automatically update a question's view count?",
+        "output": "yes",
+        "idx": 417
+    },
+    {
+        "input_1": "How do I renew bike insurance online?",
+        "input_2": "Can I renew my motor insurance online?",
+        "output": "no",
+        "idx": 418
+    },
+    {
+        "input_1": "Does love exist anymore?",
+        "input_2": "Does love exist?",
+        "output": "yes",
+        "idx": 419
+    },
+    {
+        "input_1": "How good is taking psychology in the UPSC optional subject?",
+        "input_2": "Is Sociology a good optional subject for UPSC mains? Why?",
+        "output": "no",
+        "idx": 420
+    },
+    {
+        "input_1": "What is the best method to develop photographic memory?",
+        "input_2": "How can I develop photographic memory skills?",
+        "output": "yes",
+        "idx": 421
+    },
+    {
+        "input_1": "How can I create a BLE beacon which can connect to the Android devices through a custom app? What module should I use?What are the prerequisites?",
+        "input_2": "How can I create a BLE Beacon signal using nrf5122 for Android devices?",
+        "output": "no",
+        "idx": 422
+    },
+    {
+        "input_1": "Why do Americans often drive slowly in the left lane?",
+        "input_2": "Why do people drive so slowly on the left lane in Hawaii?",
+        "output": "yes",
+        "idx": 423
+    },
+    {
+        "input_1": "What is Balaji Viswanathan's take on 500 & 1000 rupees currency notes ban in India?",
+        "input_2": "What are your views on ban of 500 and 1000 rupee notes in India?",
+        "output": "yes",
+        "idx": 424
+    },
+    {
+        "input_1": "\"How do you say \"\"thank you\"\" in your language?\"",
+        "input_2": "\"What is the best way to say \"\"Thank you\"\"?\"",
+        "output": "no",
+        "idx": 425
+    },
+    {
+        "input_1": "Poultry: How did brown eggs become a standard market choice over white ones in the UK?",
+        "input_2": "Why are eggs perfectly white in the United States?",
+        "output": "no",
+        "idx": 426
+    },
+    {
+        "input_1": "If dark energy is created with expansion can infinite of it be created?",
+        "input_2": "Does universe expand because of some energy? And if yes and expansion has no limit, is that energy infinite or at least potentially infinite?",
+        "output": "yes",
+        "idx": 427
+    },
+    {
+        "input_1": "What do French people think about Louis Vuitton bags?",
+        "input_2": "Is it true that Louis Vuitton burns all their unsold bags?",
+        "output": "no",
+        "idx": 428
+    },
+    {
+        "input_1": "Was Medieval armor painted?",
+        "input_2": "What would be painted on medieval armor?",
+        "output": "yes",
+        "idx": 429
+    },
+    {
+        "input_1": "Why do dogs run behind a moving vehicle?",
+        "input_2": "Why do dogs generally bark and chase moving vehicles?",
+        "output": "yes",
+        "idx": 430
+    },
+    {
+        "input_1": "What are those numbers appearing on tv?",
+        "input_2": "Why do we see numbers or codes on the screen while watching TV?",
+        "output": "yes",
+        "idx": 431
+    },
+    {
+        "input_1": "What are some of the advantages of filling nitrogen gas filling in tires?",
+        "input_2": "Is nitrogen good for tires?",
+        "output": "yes",
+        "idx": 432
+    },
+    {
+        "input_1": "What are the most annoying types of questions on Quora?",
+        "input_2": "What are some of the weirdest questions on Quora?",
+        "output": "no",
+        "idx": 433
+    },
+    {
+        "input_1": "Which is the best company to work for an aeronautical/aerospace engineer and why?",
+        "input_2": "What are the best companies to work at as an aerospace engineer?",
+        "output": "yes",
+        "idx": 434
+    },
+    {
+        "input_1": "How did the Opium Wars affect China?",
+        "input_2": "Where can I score opium in Pune?",
+        "output": "no",
+        "idx": 435
+    },
+    {
+        "input_1": "Who is Shane Dawson? What is his before and after?",
+        "input_2": "Who is Shane Dawson?",
+        "output": "yes",
+        "idx": 436
+    },
+    {
+        "input_1": "From where is it good to buy laptops from store or online?",
+        "input_2": "Should I buy laptop online or from a store in nearby market?",
+        "output": "yes",
+        "idx": 437
+    },
+    {
+        "input_1": "What ethnicity do I look like?",
+        "input_2": "Where are him from?",
+        "output": "no",
+        "idx": 438
+    },
+    {
+        "input_1": "How do the tourist attractions on the Scandinavian Highlands compare to attractions in Poland?",
+        "input_2": "How do the tourist attractions on the Scandinavian Highlands compare to attractions in Lithuania?",
+        "output": "no",
+        "idx": 439
+    },
+    {
+        "input_1": "Why does Mitt Romney wear mormon underwear?",
+        "input_2": "What is the average first salary a computer engineer could have in India?",
+        "output": "no",
+        "idx": 440
+    },
+    {
+        "input_1": "How do I connect with popeye hub if I dont have a five network connection?",
+        "input_2": "Can I use famous characters from movies and TV shows as a fake profile for marketing material on Twitter, Facebook, etc.?",
+        "output": "no",
+        "idx": 441
+    },
+    {
+        "input_1": "Which is a cheap and good hotel to stay in goa? Like some oyo rooms or any other?",
+        "input_2": "What are the cheapest places to stay in Goa?",
+        "output": "yes",
+        "idx": 442
+    },
+    {
+        "input_1": "It's it feasible to survive a shot in the head or the heart with a Desert Eagle 50AE at close range when 300 grain hollow points are used?",
+        "input_2": "If I shot myself in the head with a Desert eagle 50AE what would happends?",
+        "output": "yes",
+        "idx": 443
+    },
+    {
+        "input_1": "Is the Moon always showing exactly the same part of its surface towards the Earth?",
+        "input_2": "How can it be possible (in terms of coincidences) that the moon always has the same side faced towards earth?",
+        "output": "yes",
+        "idx": 444
+    },
+    {
+        "input_1": "Which is best opinions sharing app?",
+        "input_2": "What is best opinion sharing app?",
+        "output": "yes",
+        "idx": 445
+    },
+    {
+        "input_1": "Do waitstaff at high-end restaurants want honest feedback from patrons when they ask how the meal was?",
+        "input_2": "What do high-end restaurants do if a credit card is declined at the end of a meal?",
+        "output": "no",
+        "idx": 446
+    },
+    {
+        "input_1": "What are some of the best car tools?",
+        "input_2": "What are some of the best car technology based car gadgets?",
+        "output": "yes",
+        "idx": 447
+    },
+    {
+        "input_1": "How tall will I be? I am 12.5 years old.",
+        "input_2": "How tall will I be if I am 5'5 and 14 years old?",
+        "output": "no",
+        "idx": 448
+    },
+    {
+        "input_1": "What are the symptoms of a fentanyl overdose?",
+        "input_2": "What are the symptoms of an ibuprofen overdose?",
+        "output": "no",
+        "idx": 449
+    },
+    {
+        "input_1": "What keeps stars or planets stable?",
+        "input_2": "What keeps planets hanging in space?",
+        "output": "yes",
+        "idx": 450
+    },
+    {
+        "input_1": "What is a good website for free books?",
+        "input_2": "\"Where can you read \"\"MegaMan NT Warrior\"\" online?\"",
+        "output": "no",
+        "idx": 451
+    },
+    {
+        "input_1": "What is the difference between () => {} and (() => {}) ()?",
+        "input_2": "\"What is the difference between \"\";\"\" and \"\",\"\"?\"",
+        "output": "no",
+        "idx": 452
+    },
+    {
+        "input_1": "Is it recommended for an IIT undergrad to join IIM A/B/C straight out of college or after one year of work experience in finance/consulting sector?",
+        "input_2": "What are some career options for someone who has dropped out of a B.Tech after two years?",
+        "output": "no",
+        "idx": 453
+    },
+    {
+        "input_1": "What does Warren Buffett think about Renaissance?",
+        "input_2": "What does Warren Buffett think of Renaissance's Medallion fund returns?",
+        "output": "yes",
+        "idx": 454
+    },
+    {
+        "input_1": "What is karma according to Vedas?",
+        "input_2": "What is karma according to Veda?",
+        "output": "yes",
+        "idx": 455
+    },
+    {
+        "input_1": "How can I get rid of the pain of unrequited love?",
+        "input_2": "How do I get rid of the pain of unrequited love?",
+        "output": "yes",
+        "idx": 456
+    },
+    {
+        "input_1": "which laptop will be best under Rs 30,000?",
+        "input_2": "Which laptop is best to buy within the range of 30000rs?",
+        "output": "yes",
+        "idx": 457
+    },
+    {
+        "input_1": "Effects of zika virus?",
+        "input_2": "How harmful is zika virus?",
+        "output": "yes",
+        "idx": 458
+    },
+    {
+        "input_1": "What are some of the most mind-blowing facts about the United States?",
+        "input_2": "What do you like most and least about being an American?",
+        "output": "no",
+        "idx": 459
+    },
+    {
+        "input_1": "Is chemical engineering a good idea for me as pre-med?",
+        "input_2": "I know two foreign languages, Arabic and French. what else should learn in the technical fields to maximize my career?",
+        "output": "no",
+        "idx": 460
+    },
+    {
+        "input_1": "Why is India allowing Chinese companies like Xioami to invest freely in Indian markets while that freedom is not enjoyed by Indian companies in China?",
+        "input_2": "Why isn't Indian markets struck hard by international events like Brexit?",
+        "output": "no",
+        "idx": 461
+    },
+    {
+        "input_1": "How can I get a job in HR as fresher from engineering?",
+        "input_2": "Can a HR get a software engineer job?",
+        "output": "no",
+        "idx": 462
+    },
+    {
+        "input_1": "What advice would you give yourself 10 years ago?",
+        "input_2": "What are the top ten things you have experienced in life?",
+        "output": "no",
+        "idx": 463
+    },
+    {
+        "input_1": "I like my best friend but she doesn't know. What should I do to make her realise without it coming as a shock to her?",
+        "input_2": "A work friend sarcastically told me no one cared for me, I took this seriously but I'm not sure how to react to it?",
+        "output": "no",
+        "idx": 464
+    },
+    {
+        "input_1": "Why doesn't Quora allow the use of emoticons?",
+        "input_2": "Why doesn't Quora support emoji?",
+        "output": "yes",
+        "idx": 465
+    },
+    {
+        "input_1": "Inland problem transporting a 31m large component",
+        "input_2": "How are Punjabi Aroras different from Multani Aroras?",
+        "output": "no",
+        "idx": 466
+    },
+    {
+        "input_1": "What Sites are similar to itinindia.com?",
+        "input_2": "What are similar sites to gfxtra.com?",
+        "output": "no",
+        "idx": 467
+    },
+    {
+        "input_1": "What are the key differences between HBO Now and HBO GO?",
+        "input_2": "What's the difference between HBO Go and HBO Now?",
+        "output": "yes",
+        "idx": 468
+    },
+    {
+        "input_1": "How can I recover Facebook account?",
+        "input_2": "How do recover my Facebook account?",
+        "output": "yes",
+        "idx": 469
+    },
+    {
+        "input_1": "What would it take for you to leave your job and co-found a start-up?",
+        "input_2": "How much of risk is to leave a permanent job & take over/lead the big data branch of a start-up firm?",
+        "output": "no",
+        "idx": 470
+    },
+    {
+        "input_1": "As an Indian, what type of cultural shock have you experienced within India when you visited other states?",
+        "input_2": "South Indian: What was your biggest culture shock when visiting North India?",
+        "output": "no",
+        "idx": 471
+    },
+    {
+        "input_1": "What does it mean to have a personal relationship with Krishna, Jesus, Allah or Yahweh?",
+        "input_2": "Give me some names of famous GSB people and their contribution to industry in India?",
+        "output": "no",
+        "idx": 472
+    },
+    {
+        "input_1": "Where should I invest $100,000?",
+        "input_2": "Where can I invest $250,000?",
+        "output": "no",
+        "idx": 473
+    },
+    {
+        "input_1": "How do submarines operate?",
+        "input_2": "How do submarines surface?",
+        "output": "no",
+        "idx": 474
+    },
+    {
+        "input_1": "Do people post questions in Quora just so that they can skip searching in Google for a few minutes?",
+        "input_2": "Why do so many people ask questions on Quora that can be easily answered by any number of legitimate sources on the Web? Have they not heard of Google or Bing?",
+        "output": "yes",
+        "idx": 475
+    },
+    {
+        "input_1": "What causes rubidium to react with water?",
+        "input_2": "What causes rubidium to explode in water?",
+        "output": "yes",
+        "idx": 476
+    },
+    {
+        "input_1": "What are the main differences between birds and reptiles?",
+        "input_2": "What is the main difference between a reptile and a fish?",
+        "output": "no",
+        "idx": 477
+    },
+    {
+        "input_1": "How do I become IAS?",
+        "input_2": "How can I become an IAS?",
+        "output": "yes",
+        "idx": 478
+    },
+    {
+        "input_1": "If Donald Trump loses the general election, what do you think his reaction will be?",
+        "input_2": "If Donald Trump loses the general election, will he attempt to seize power by force claiming the election was fraudulent?",
+        "output": "yes",
+        "idx": 479
+    },
+    {
+        "input_1": "Where can I advertise my product for free?",
+        "input_2": "Where can I advertise my business for free online?",
+        "output": "no",
+        "idx": 480
+    },
+    {
+        "input_1": "Is starting a PhD after the age of 28 recommended?",
+        "input_2": "What is the average age of PhD graduates by discipline?",
+        "output": "no",
+        "idx": 481
+    },
+    {
+        "input_1": "Porn Storylines?",
+        "input_2": "Would you recommend golf 4 2002 model? What are the known problems with it?",
+        "output": "no",
+        "idx": 482
+    },
+    {
+        "input_1": "Why did SpaceX send a wheel of cheese into space?",
+        "input_2": "Why don't we send preserved human remains into deep space as a DNA time capsule of sorts?",
+        "output": "no",
+        "idx": 483
+    },
+    {
+        "input_1": "What is protein synthesis? What is the site of protein synthesis in a cell?",
+        "input_2": "What is protein synthesis?",
+        "output": "yes",
+        "idx": 484
+    },
+    {
+        "input_1": "Is sex is required in relationship?",
+        "input_2": "Is sex important in a relationship?",
+        "output": "yes",
+        "idx": 485
+    },
+    {
+        "input_1": "What can I do to increase my chances of getting into a study abroad program?",
+        "input_2": "What can I do to increase my chances of getting a scholarship to study abroad?",
+        "output": "no",
+        "idx": 486
+    },
+    {
+        "input_1": "What are the best ways to lose weight?",
+        "input_2": "How can I loose 10 pounds in 60 days?",
+        "output": "no",
+        "idx": 487
+    },
+    {
+        "input_1": "What is torque?",
+        "input_2": "What is mean by torque?",
+        "output": "yes",
+        "idx": 488
+    },
+    {
+        "input_1": "Is India a better country than Vietnam?",
+        "input_2": "Which is more developed, India or Vietnam?",
+        "output": "yes",
+        "idx": 489
+    },
+    {
+        "input_1": "To what extent Hindu practice chhaupadi is good?",
+        "input_2": "Can radiation give you?",
+        "output": "no",
+        "idx": 490
+    },
+    {
+        "input_1": "Is a knee replacement more difficult after a complete patellectomy?",
+        "input_2": "Is a knee replacement complicated to perform after a complete patellectomy?",
+        "output": "yes",
+        "idx": 491
+    },
+    {
+        "input_1": "How much do lab puppies cost?",
+        "input_2": "How much does a Boston Terrier Puppy cost on average?",
+        "output": "no",
+        "idx": 492
+    },
+    {
+        "input_1": "Afghanistan: What do Afghans think of Hamid Karzai?",
+        "input_2": "What do Afghans think of Indians?",
+        "output": "no",
+        "idx": 493
+    },
+    {
+        "input_1": "Is manual testing dying?",
+        "input_2": "Does manual functional testing have future?",
+        "output": "no",
+        "idx": 494
+    },
+    {
+        "input_1": "What is the difference between sea and ocean",
+        "input_2": "What is the difference between a sea and an ocean?",
+        "output": "yes",
+        "idx": 495
+    },
+    {
+        "input_1": "What are some of the best companies in the UAE and the KSA for mechanical engineers from India? How do they hire?",
+        "input_2": "What companies need spare parts for pumps in UAE?",
+        "output": "no",
+        "idx": 496
+    },
+    {
+        "input_1": "Is it possible to have a permanent bruise?",
+        "input_2": "Is it possible to get a permanent bruise?",
+        "output": "yes",
+        "idx": 497
+    },
+    {
+        "input_1": "Why do we need constructors in Java?",
+        "input_2": "What is the use of constructor?",
+        "output": "no",
+        "idx": 498
+    },
+    {
+        "input_1": "What type of government does Guatemala have? How does it compare to those in other countries?",
+        "input_2": "What type of government does Guatemala have? How does it compare to the one in Germany?",
+        "output": "no",
+        "idx": 499
+    }
+]

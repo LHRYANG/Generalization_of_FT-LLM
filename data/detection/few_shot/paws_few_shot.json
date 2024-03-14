@@ -1,0 +1,42 @@
+[
+    {
+        "input_1": "In 1954 she married Reinaldo Zamparelli , lived in Bogot\u00e1 , Colombia and later in Lima , Peru .",
+        "input_2": "She married Reinaldo Zamparelli in 1954 , living in Bogot\u00e1 , Colombia and later in Lima , Peru .",
+        "output": "yes"
+    },
+    {
+        "input_1": "Lou is the informal guardian of a little girl named Lucy ( Doughty ) , whom he has left in his car outside the prison .",
+        "input_2": "Doughty is the informal guardian of a little girl named Lou ( Lucy ) , whom he left outside of the prison in his car .",
+        "output": "no"
+    },
+    {
+        "input_1": "Even after the penance of the past , when God blessed him with these eggs as children , it is nothing but fate and a result of rigorous action .",
+        "input_2": "Even after past penance if God blessed him with these eggs as children it is nothing but fate and a result of rigorous action .",
+        "output": "yes"
+    },
+    {
+        "input_1": "The first oral consultations took place between the Soviet Embassy and the Norwegian Government in November 1964 .",
+        "input_2": "The first oral consultations between the Norwegian embassy and the Soviet government took place in November 1964 .",
+        "output": "no"
+    },
+    {
+        "input_1": "In 1926 she left Winniza and moved to St. Petersburg with her parents and brothers , where she met Ivan Samylovskii two years later .",
+        "input_2": "In 1926 she left St. Petersburg and moved with her parents and brothers to Vinnitsa , where she met Ivan Samylovskii two years later .",
+        "output": "no"
+    },
+    {
+        "input_1": "A magnetic layer of rock spreads north of the volcano , and under Pasos Blancos a large magnetite body has been modelled .",
+        "input_2": "A large layer of rock spreads north of the volcano , and below Pasos Blancos a magnetic magnetite body has been modelled .",
+        "output": "no"
+    },
+    {
+        "input_1": "In 1902 Konstantinos Aspiotis , the son of Gerasimos , was director of the company .",
+        "input_2": "In 1902 Gerasimos , son of Konstantinos Aspiotis , became the director of the company .",
+        "output": "no"
+    },
+    {
+        "input_1": "A singular conspiracy ( 1974 ) by Barry Perowne is a fictional treatment of the unconsidered period in Edgar Allan Poe 's life from January to May 1844 .",
+        "input_2": "A Singular Conspiracy ( 1974 ) by Barry Perowne is a fictional treatment of the unaccounted period in Edgar Allan Poe 's life from January to May 1844 .",
+        "output": "yes"
+    }
+]

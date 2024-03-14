@@ -1,0 +1,3002 @@
+[
+    {
+        "input_1": "Two brown-haired boys, smiling, skip along together with a cane and a butterfly net while wearing explorer hats and buttoned-up red jackets.",
+        "input_2": "Two boys are carrying a cane and a net and smile.",
+        "output": "entailment",
+        "idx": 0
+    },
+    {
+        "input_1": "The magnolias are flowering in the weight of the spring thunderstorm.",
+        "input_2": "There are magnolias someplace continuing to flower.",
+        "output": "entailment",
+        "idx": 1
+    },
+    {
+        "input_1": "Core reader, a schoolgirl in a green sari, is learning to play a tune on a newly-snatched harmonium.",
+        "input_2": "Core reader is learning to play a harmonium.",
+        "output": "entailment",
+        "idx": 2
+    },
+    {
+        "input_1": "The brilliant colors of the ceramic pieces on display in the art gallery stand out in their dazzling glory.",
+        "input_2": "The pottery pieces are made by sculptors from Nigeria.",
+        "output": "neutral",
+        "idx": 3
+    },
+    {
+        "input_1": "A family of few people are staring at the camera waiting to have their photo taken.",
+        "input_2": "A family of few individuals are posing for a picture.",
+        "output": "entailment",
+        "idx": 4
+    },
+    {
+        "input_1": "A man with a hoodie in the driver's seat of a beat-up Pontiac is resting his head on his hand and frowning.",
+        "input_2": "The man's engine is making a puffing sound and the hood is drooping on his hood.",
+        "output": "neutral",
+        "idx": 5
+    },
+    {
+        "input_1": "A young boy stares at ducks in a pond during the first warm day of the year.",
+        "input_2": "There is at least one boy staring at ducks in the pond.",
+        "output": "entailment",
+        "idx": 6
+    },
+    {
+        "input_1": "A group of children are jumping on a trampoline in the backyard of their suburban home.",
+        "input_2": "Children are playing with dolls and toy trucks in their grandparents' living room.",
+        "output": "contradiction",
+        "idx": 7
+    },
+    {
+        "input_1": "A health physicist inspects radiation-related devices inside a laboratory, while the oncoming Fifth Nuclear Generating Station is visible out the window.",
+        "input_2": "The physicist is interacting with a security guard.",
+        "output": "neutral",
+        "idx": 8
+    },
+    {
+        "input_1": "Men on the rooftop of a Himalayan building use a bamboo contraption to bend and harvest the green tea leaves from the bushes.",
+        "input_2": "Workers are bending the tea leaves using their hands.",
+        "output": "contradiction",
+        "idx": 9
+    },
+    {
+        "input_1": "During a thunderstorm, a child hides behind his mother.",
+        "input_2": "The mother is on a picnic.",
+        "output": "neutral",
+        "idx": 10
+    },
+    {
+        "input_1": "The two boxers are wearing black shorts, boxing gloves, and protective helmets.",
+        "input_2": "One boxer is sitting on a stool, defending against punches thrown by the other boxer.",
+        "output": "neutral",
+        "idx": 11
+    },
+    {
+        "input_1": "Ohme left for New York on December fourth to begin her journey.",
+        "input_2": "Ohme was in New York on Dec. 4, 19\u2014, the day she left.",
+        "output": "entailment",
+        "idx": 12
+    },
+    {
+        "input_1": "In her dreams, she sees herself as a yeoman guarding a medieval castle from a stray leopard.",
+        "input_2": "there is no additional third person perspective including her dreams. If it was included, it could be inferred by the author's choice of words that she would",
+        "output": "entailment",
+        "idx": 13
+    },
+    {
+        "input_1": "A man is sawing a tree trunk into boards using a handsaw.",
+        "input_2": "The tree trunk is using a chainsaw to drive itself into another tree.",
+        "output": "neutral",
+        "idx": 14
+    },
+    {
+        "input_1": "Max is crouched down, holding a plate of chicken fried in bread crumbs.",
+        "input_2": "Max is crouched down with the chicken and bread crumbs.",
+        "output": "entailment",
+        "idx": 15
+    },
+    {
+        "input_1": "A St. Bernard and his owner on a foggy morning at Golden Gate Fields.",
+        "input_2": "A dog is at Golden Gate Fields.",
+        "output": "entailment",
+        "idx": 16
+    },
+    {
+        "input_1": "The whirling ballerina is spinning in a lake surrounded by ice floes.",
+        "input_2": "A ballerina is spinning.",
+        "output": "entailment",
+        "idx": 17
+    },
+    {
+        "input_1": "A girl and her brother are in the hospital and looking around.",
+        "input_2": "The boy is at a lake with a towel around his neck.",
+        "output": "contradiction",
+        "idx": 18
+    },
+    {
+        "input_1": "The fish are jumping and the beachball is swaying in an endlessly clear lagoon near the equator.",
+        "input_2": "Fish (not people) are leaping.",
+        "output": "entailment",
+        "idx": 19
+    },
+    {
+        "input_1": "Two kids are swinging on swing sets in Hyde Park.",
+        "input_2": "The children are on their summer vacation.",
+        "output": "neutral",
+        "idx": 20
+    },
+    {
+        "input_1": "A young couple in a small apartment have had a baby room added next to their bedroom.",
+        "input_2": "The couple is having a living room constructed next to their foyer.",
+        "output": "contradiction",
+        "idx": 21
+    },
+    {
+        "input_1": "A teenager stops to look at a man in winter clothes trying to sell him a new life insurance policy.",
+        "input_2": "A teenager is trying to invest some money in stocks.",
+        "output": "contradiction",
+        "idx": 22
+    },
+    {
+        "input_1": "A group of swans sun themselves on the water at Lake Morge of Gen\u00e8ve, Switzerland.",
+        "input_2": "A group of swans fly over Lake Morre with a red sky.",
+        "output": "contradiction",
+        "idx": 23
+    },
+    {
+        "input_1": "The laser sits on a small black platform and pings while new pips are scorched into the material.",
+        "input_2": "The laser is sitting on a rounded platform and burning the material.",
+        "output": "contradiction",
+        "idx": 24
+    },
+    {
+        "input_1": "Although the girls are wearing bermudas which are short and loose, traces of difference are still found due to their differing body types.",
+        "input_2": "The girls are golfing and each one has on different style of shorts and shirt.",
+        "output": "neutral",
+        "idx": 25
+    },
+    {
+        "input_1": "The kids are playing a game in which they stand in a circle and try to keep their balance.",
+        "input_2": "There are kids playing some sort of game (which happens in the past).",
+        "output": "entailment",
+        "idx": 26
+    },
+    {
+        "input_1": "In Pensacola, the sky is bright blue, the water is light blue, and the clouds are puffy and white.",
+        "input_2": "The sky is blue.",
+        "output": "entailment",
+        "idx": 27
+    },
+    {
+        "input_1": "An eight-ton block of concrete is suspended from a crane's hook and lowered by a plumber to the ground. Next to it is a three",
+        "input_2": "The block weighs seven tons.",
+        "output": "contradiction",
+        "idx": 28
+    },
+    {
+        "input_1": "Being lost, a man looks around, while a woman looks for the map on the hood of the car.",
+        "input_2": "Some man and woman from which no one with typical experience in such situations can easily disentangle, are wandering around/in some place.",
+        "output": "entailment",
+        "idx": 29
+    },
+    {
+        "input_1": "A large cat is getting a pedicure at a pet groomer.",
+        "input_2": "A cat is getting a pedicure.",
+        "output": "entailment",
+        "idx": 30
+    },
+    {
+        "input_1": "An olive sits on top a plain wooden table.",
+        "input_2": "Onion sits on the table.",
+        "output": "contradiction",
+        "idx": 31
+    },
+    {
+        "input_1": "A boy with his arm around an old dog is seeing a stutterer get drunk on stage in a bar.",
+        "input_2": "The boy is at a social club.",
+        "output": "neutral",
+        "idx": 32
+    },
+    {
+        "input_1": "The inlet, flooded with fisherman in patched clothes.",
+        "input_2": "An empty inlet.",
+        "output": "contradiction",
+        "idx": 33
+    },
+    {
+        "input_1": "Daniel took the abridged version of War and Peace with him to Paris for vacation.",
+        "input_2": "Daniel took the unabridged version of War and Peace for vacation.",
+        "output": "contradiction",
+        "idx": 34
+    },
+    {
+        "input_1": "A man bicycling down the street is following the sun toward the west.",
+        "input_2": "A man is on the street on a bicycle.",
+        "output": "entailment",
+        "idx": 35
+    },
+    {
+        "input_1": "A girl who is crossing the street legally has been hit by a car that stopped illegally.",
+        "input_2": "The accident is at a busy crosswalk.",
+        "output": "neutral",
+        "idx": 36
+    },
+    {
+        "input_1": "A blonde-haired woman is wearing earphones while listening to a tape.",
+        "input_2": "The woman is not wearing any earphones.",
+        "output": "contradiction",
+        "idx": 37
+    },
+    {
+        "input_1": "There are several pages before the index and several pages after the index.",
+        "input_2": "There is no index, and there are no pages written after the last page.",
+        "output": "contradiction",
+        "idx": 38
+    },
+    {
+        "input_1": "At the stable, horses are eating an abundant meal while a woman attempts to herd them together in the old way.",
+        "input_2": "The stable has horses that are marred with a branding-iron.",
+        "output": "contradiction",
+        "idx": 39
+    },
+    {
+        "input_1": "American rock climber Lynn Hill climbs Free Woman (5.10+) in Little Switzerland, North Carolina, USA.",
+        "input_2": "The rock climber hung upside down from a wall.",
+        "output": "entailment",
+        "idx": 40
+    },
+    {
+        "input_1": "A couple rings a doorbell.",
+        "input_2": "An odd number of people are at this location.",
+        "output": "entailment",
+        "idx": 41
+    },
+    {
+        "input_1": "Five paperback books support a log on top of three pillows sitting on top of the neighbor's house.",
+        "input_2": "Ice cream cones and snowflakes are falling off of the log.",
+        "output": "neutral",
+        "idx": 42
+    },
+    {
+        "input_1": "The Dolan twins are on their bicycles pedaling on the country road while holding hands.",
+        "input_2": "The Dolan twins are riding bicycles and holding hands.",
+        "output": "entailment",
+        "idx": 43
+    },
+    {
+        "input_1": "The minimum wage in the country is not enough for a meal at the pub.",
+        "input_2": "The minimum wage \"for that country\" is not enough for a meal at a pub.",
+        "output": "entailment",
+        "idx": 44
+    },
+    {
+        "input_1": "The charcoal sketches were of various scenes that didn't yet have color.",
+        "input_2": "There are charcoal sketches.",
+        "output": "entailment",
+        "idx": 45
+    },
+    {
+        "input_1": "The young man in a booth is smoking a cigarette as the Automat patron wheels up for a game of pool.",
+        "input_2": "The young man is eating dinner at the Automat.",
+        "output": "contradiction",
+        "idx": 46
+    },
+    {
+        "input_1": "A three-year-old child in a yellow tracksuit and a big blue hat is sitting on the ground with a stick asking for food.",
+        "input_2": "A three-year-old child in a tracksuit and a hat is standing up, shivering and holding a thin rope.",
+        "output": "contradiction",
+        "idx": 47
+    },
+    {
+        "input_1": "A young woman is trying to pull a loose tooth out, but it won't budge.",
+        "input_2": "The woman is biting her fingernails.",
+        "output": "contradiction",
+        "idx": 48
+    },
+    {
+        "input_1": "The ship is by the coast of the Coppermine River, where the ocean waves are splashing against the shore.",
+        "input_2": "The ship is observing the shore from a nearby rock.",
+        "output": "neutral",
+        "idx": 49
+    },
+    {
+        "input_1": "A man walks with a bottle of milk while bare-armed in sub-freezing weather.",
+        "input_2": "The man walks with an large gait.",
+        "output": "neutral",
+        "idx": 50
+    },
+    {
+        "input_1": "A boy is outside sitting on a swing. A man comes out of the house and yells at the boy angrily.",
+        "input_2": "The man is the boy\u2019s father. He comes outside and kicks the boy off the swing.",
+        "output": "neutral",
+        "idx": 51
+    },
+    {
+        "input_1": "The boy in the blue shirt is learning how to throw pitches from his father, who is a member of the city's Little League team.",
+        "input_2": "The boy is standing and staring at an unlucky cat who has been hit by a car (and not holding a ball).",
+        "output": "contradiction",
+        "idx": 52
+    },
+    {
+        "input_1": "The hoard of baseballs were loaded into the net behind the dugout.",
+        "input_2": "Bulky objects are being loaded onto a net; less bulky objects are bulging out of a net.",
+        "output": "entailment",
+        "idx": 53
+    },
+    {
+        "input_1": "Two technicians lift an orange upside-down dome structure over a building, while dozens of flags float in the background.",
+        "input_2": "The technicians are carrying the structure, which is pink instead of orange, to a building.",
+        "output": "contradiction",
+        "idx": 54
+    },
+    {
+        "input_1": "A tribe of Osage Indians in traditional garb is smiling and posing for a photograph after the plane landed.",
+        "input_2": "The tribe is in traditional garb, smiling and taking a picture.",
+        "output": "entailment",
+        "idx": 55
+    },
+    {
+        "input_1": "The local winery in Louisiana is shipping a beer barrel.",
+        "input_2": "The contents of the barrel are beer and not wine.",
+        "output": "entailment",
+        "idx": 56
+    },
+    {
+        "input_1": "A teenager named Forrester is kicking a football but it hits the fence.",
+        "input_2": "A teenager named Forrester is handing a football to a different teenager named Forrester.",
+        "output": "contradiction",
+        "idx": 57
+    },
+    {
+        "input_1": "The sun rises in the background as a sign on a wall lists the connection between crime and membership in gangs.",
+        "input_2": "The sun sets in front of the skyscrapers.",
+        "output": "contradiction",
+        "idx": 58
+    },
+    {
+        "input_1": "A man writes the mailing address on the package.",
+        "input_2": "There is a man doing so.",
+        "output": "entailment",
+        "idx": 59
+    },
+    {
+        "input_1": "A teenage girl plays cards with her grandmother.",
+        "input_2": "A girl is playing cards with her grandmother.",
+        "output": "entailment",
+        "idx": 60
+    },
+    {
+        "input_1": "They were considering an addition to the home that would add more bedrooms as well as a small kitchen.",
+        "input_2": "They were putting up for approval the plans for room additions.",
+        "output": "neutral",
+        "idx": 61
+    },
+    {
+        "input_1": "In the park, a bronze statue of a man and a horse is being eroded by the elements: rain and wind.",
+        "input_2": "The statue is being eroded and the horse leaves hoof prints as he walks.",
+        "output": "entailment",
+        "idx": 62
+    },
+    {
+        "input_1": "A group of women on May Day are marching in front of Macy's in New York City raising their fists.",
+        "input_2": "A group of women, in contemporary dress, are drinking wine out of goblets while patting a dog at a party.",
+        "output": "contradiction",
+        "idx": 63
+    },
+    {
+        "input_1": "An upper case letter \"R\" on a red background, surrounded by three lower case \"r\"'s on a blue background; the sides and back",
+        "input_2": "Letter is shown as \"R\" with a backwards \"R\" behind it.",
+        "output": "neutral",
+        "idx": 64
+    },
+    {
+        "input_1": "The man behind the counter is selling a longneck beer to the man sitting at the bar.",
+        "input_2": "A man is selling a beer.",
+        "output": "entailment",
+        "idx": 65
+    },
+    {
+        "input_1": "A worker in a uniform is restoring an antique tall chair with care.",
+        "input_2": "The worker is attempting to repair the chair.",
+        "output": "neutral",
+        "idx": 66
+    },
+    {
+        "input_1": "A scruffy-looking man carries a makeshift sign saying, \"Will work for food\".",
+        "input_2": "The man whose appearance is satisfactory is carrying a sign saying, \"Will deliver pizzas for money.\"",
+        "output": "contradiction",
+        "idx": 67
+    },
+    {
+        "input_1": "A male ballet dressed in a leotard and tights, is dancing in the park.",
+        "input_2": "The 16 year old is practicing his technique for the big show on Wednesday.",
+        "output": "neutral",
+        "idx": 68
+    },
+    {
+        "input_1": "Mr. Newman is in bed, sleeping; the covers are pulled up around his ears.",
+        "input_2": "Mr. Newman is in bed sleeping.",
+        "output": "entailment",
+        "idx": 69
+    },
+    {
+        "input_1": "The city walls are worn and cracked in some places because they have been there for such a long time.",
+        "input_2": "The walls are worn and cracked.",
+        "output": "entailment",
+        "idx": 70
+    },
+    {
+        "input_1": "The crew is repairing the fence because there is a legal problem with it.",
+        "input_2": "The crew is repairing the fence because they decided to take down the old one as a part of maintenance.",
+        "output": "contradiction",
+        "idx": 71
+    },
+    {
+        "input_1": "A young, strong, blond man is holding a halberd while standing near a river.",
+        "input_2": "The man is in a medieval era.",
+        "output": "neutral",
+        "idx": 72
+    },
+    {
+        "input_1": "A single photo of a car's parts boxed up and sold as spare parts.",
+        "input_2": "Two photos of a car's parts boxed up and sold as spare parts.",
+        "output": "contradiction",
+        "idx": 73
+    },
+    {
+        "input_1": "A plasma globe at a store sports a kaleidoscope pattern.",
+        "input_2": "The shopkeeper is packing the upside-down globe.",
+        "output": "neutral",
+        "idx": 74
+    },
+    {
+        "input_1": "The doctor puts a leg cast on a man's broken leg.",
+        "input_2": "A doctor is doing something to a patient.",
+        "output": "entailment",
+        "idx": 75
+    },
+    {
+        "input_1": "The housekeeper vacuums a carpet with the help of a young Mexican woman.",
+        "input_2": "The woman is vacuuming a rug in a home located in the southwestern United States.",
+        "output": "neutral",
+        "idx": 76
+    },
+    {
+        "input_1": "Indiana passes Rudy Isham to Clint Jones, who in turn shoots an eighteenth-century oak door.",
+        "input_2": "Indiana is driving and spots his friend in a cab.",
+        "output": "contradiction",
+        "idx": 77
+    },
+    {
+        "input_1": "A cheerful moose-headed man wearing a tuxedo is playing the squeezebox while standing next to a fence.",
+        "input_2": "There is a man who is playing music.",
+        "output": "entailment",
+        "idx": 78
+    },
+    {
+        "input_1": "The steam shovel is scraping tar from the downtown cedar road.",
+        "input_2": "The workers are cleaning up after a street construction accident earlier that day.",
+        "output": "neutral",
+        "idx": 79
+    },
+    {
+        "input_1": "Two bicycles collide in the street in front of a church.",
+        "input_2": "Five men on single bicycles use riding trails in the country.",
+        "output": "contradiction",
+        "idx": 80
+    },
+    {
+        "input_1": "The cannons overlook the protestors who march in the streets outside with banners.",
+        "input_2": "The cannons are located on the roof of the museum.",
+        "output": "neutral",
+        "idx": 81
+    },
+    {
+        "input_1": "Ceramic on skulls is arranged on a pedestal on a dark background.",
+        "input_2": "Plastic of bones arranged on a wall.",
+        "output": "contradiction",
+        "idx": 82
+    },
+    {
+        "input_1": "A man is using chopsticks to move some sweet rice cake pieces onto his spoon.",
+        "input_2": "A boy is use a pair of chopsticks to play with thrown pieces of sweet rice cake.",
+        "output": "contradiction",
+        "idx": 83
+    },
+    {
+        "input_1": "A girl holds up another as she reads from a book to the other children next to the sign at the Meade public library.",
+        "input_2": "The sign is a poster for the library reading program.",
+        "output": "neutral",
+        "idx": 84
+    },
+    {
+        "input_1": "A pixel character is playing a string instrument.",
+        "input_2": "The character is playing a string instrument.",
+        "output": "entailment",
+        "idx": 85
+    },
+    {
+        "input_1": "A wizened World War II veteran passes a fundraising box for the American Heart Association at a dry cleaners.",
+        "input_2": "The photographer in the 1940s is a beauty queen.",
+        "output": "contradiction",
+        "idx": 86
+    },
+    {
+        "input_1": "The young couple are planning out their travel into the country.",
+        "input_2": "The couple is doing yardwork.",
+        "output": "contradiction",
+        "idx": 87
+    },
+    {
+        "input_1": "A photo in black and white from the 1930s shows a young boy holding the leash while an adorable puppy is playing with a ball.",
+        "input_2": "The puppy is ten weeks old.",
+        "output": "neutral",
+        "idx": 88
+    },
+    {
+        "input_1": "A man sits at a table and looks down at what seems to be a book or booklet.",
+        "input_2": "The man is sitting at a library reading table with a few nearby bookshelves.",
+        "output": "neutral",
+        "idx": 89
+    },
+    {
+        "input_1": "The elderly couple looks into a house that has been abandoned by an eccentric billionaire.",
+        "input_2": "There is couple in a house, and one of them is looking at the house.",
+        "output": "entailment",
+        "idx": 90
+    },
+    {
+        "input_1": "A suited man is giving a speech outside a house, and a couple of men in uniform and a woman and a boy listen to him.",
+        "input_2": "A man is giving a speech inside a house.",
+        "output": "contradiction",
+        "idx": 91
+    },
+    {
+        "input_1": "Two clouds of smoke form into figures of a man and a woman.",
+        "input_2": "The smoke trick is being performed at a magic show.",
+        "output": "neutral",
+        "idx": 92
+    },
+    {
+        "input_1": "A basketball player stands over a teammate while holding the ball.",
+        "input_2": "Handshakes are taking place.",
+        "output": "contradiction",
+        "idx": 93
+    },
+    {
+        "input_1": "A shallow stream is flowing between the rocks. In front of it is a tan kayak with orange life jacket.",
+        "input_2": "The stream is flowing.",
+        "output": "entailment",
+        "idx": 94
+    },
+    {
+        "input_1": "A man, sitting at a piano, plays with his left hand while his right arm rests on chair's upper arm.",
+        "input_2": "A woman is playing the piano with both hands.",
+        "output": "contradiction",
+        "idx": 95
+    },
+    {
+        "input_1": "A player shoots on goal from the top of the crease. Another player dives to stop the shooter.",
+        "input_2": "The player is trying to get past the player.",
+        "output": "contradiction",
+        "idx": 96
+    },
+    {
+        "input_1": "This film received the designation \"Best Feature Film\" at the festival \"Overton International Film Festival\"",
+        "input_2": "The festival \"Overton International Film Festival\" exists and it designated \"Best Feature Film\" to this film.",
+        "output": "entailment",
+        "idx": 97
+    },
+    {
+        "input_1": "Krush is putting out a fire with a garden hose while Blaze shoots water out of his mouth to help.",
+        "input_2": "The fire is on the other end of the city.",
+        "output": "neutral",
+        "idx": 98
+    },
+    {
+        "input_1": "Lois and Jimmy are walking back to the house while pushing baby Paulson in his stroller.",
+        "input_2": "Lois and Jimmy are picking up Paulson from the babysitter's.",
+        "output": "contradiction",
+        "idx": 99
+    },
+    {
+        "input_1": "",
+        "input_2": "",
+        "output": "entailment",
+        "idx": 100
+    },
+    {
+        "input_1": "A little boy is measuring the length of his fishing rod by touching his thumb and his pinky with the tip of the rod (supported by his two",
+        "input_2": "A boy is measuring the length of his fishing pole",
+        "output": "entailment",
+        "idx": 101
+    },
+    {
+        "input_1": "A spring boat race is taking place at a club with the members counting to begin the race.",
+        "input_2": "A row, pole, and scull boat race is taking place at the University of California.",
+        "output": "contradiction",
+        "idx": 102
+    },
+    {
+        "input_1": "People sit around a card table, arguing and gesturing in a heated discussion.",
+        "input_2": "People stand around a pool table, drinking and leaning on the table.",
+        "output": "contradiction",
+        "idx": 103
+    },
+    {
+        "input_1": "The road is blowing dirt in the air as a slot can be seen on the highway off-ramp going to the left.",
+        "input_2": "The road is blowing dirt onto your windshield.",
+        "output": "entailment",
+        "idx": 104
+    },
+    {
+        "input_1": "The fan on the table is oscillating in front of the placid face of a man who is having lunch with his girlfriend.",
+        "input_2": "The fan is covered by a cube.",
+        "output": "neutral",
+        "idx": 105
+    },
+    {
+        "input_1": "A man and woman stand on a boat as another man uses a diving mask and snorkel to examine an oil stain on the ocean floor.",
+        "input_2": "The experiment is underway.",
+        "output": "entailment",
+        "idx": 106
+    },
+    {
+        "input_1": "A toddler and his toy penguin drink soy milk while seated in a stroller.",
+        "input_2": "The toddler wants more soy milk, but he's allergic to it.",
+        "output": "neutral",
+        "idx": 107
+    },
+    {
+        "input_1": "A grown man is putting on a tuxedo to go out for the night with his friends.",
+        "input_2": "The man is putting his jacket on.",
+        "output": "neutral",
+        "idx": 108
+    },
+    {
+        "input_1": "A woman is sitting by a record player, using an LP with a skipping needle to play the music.",
+        "input_2": "The woman is standing up and singing the music.",
+        "output": "contradiction",
+        "idx": 109
+    },
+    {
+        "input_1": "A young girl is wearing a red yodeling jacket.",
+        "input_2": "A girl has a red jacket.",
+        "output": "entailment",
+        "idx": 110
+    },
+    {
+        "input_1": "Flamingos are taking flight at a zoo in Livingstone, Zambia.",
+        "input_2": "There is a flamingo taking flight in a specific zoo.",
+        "output": "entailment",
+        "idx": 111
+    },
+    {
+        "input_1": "A fierce-looking boy raises a bow and arrow toward the corkboard in the archery range.",
+        "input_2": "A boy is using archery equipment.",
+        "output": "entailment",
+        "idx": 112
+    },
+    {
+        "input_1": "Two girls sit on the steps in front of the church. One has red hair and one has blonde hair.",
+        "input_2": "Two girls are sitting in the pew, and one has dark brown hair and one has blonde hair.",
+        "output": "contradiction",
+        "idx": 113
+    },
+    {
+        "input_1": "The construction workers hold the two-by-six boards for connecting the joists together.",
+        "input_2": "The workers are setting up a community center among children.",
+        "output": "neutral",
+        "idx": 114
+    },
+    {
+        "input_1": "If you look carefully at these photosof the Aurora Borealis , you can see a hazy green color covering the sky. This color is from gas",
+        "input_2": "The Northern Lights are constantly changing and moving across the sky from night to night.",
+        "output": "neutral",
+        "idx": 115
+    },
+    {
+        "input_1": "A monkey is sleeping on a wooden bed in a second story window in a small village.",
+        "input_2": "The monkey is sleeping while being inside of a house.",
+        "output": "entailment",
+        "idx": 116
+    },
+    {
+        "input_1": "A newly minted car with freshly-washed paint sits in a drive way in Delaware.",
+        "input_2": "New cars are parked in parking spaces near the street in New York.",
+        "output": "contradiction",
+        "idx": 117
+    },
+    {
+        "input_1": "Two girls who seem to be about twelve years old chat to each other politely.",
+        "input_2": "Two girls are speaking.",
+        "output": "entailment",
+        "idx": 118
+    },
+    {
+        "input_1": "An older man squashes a small ball with a racket in a glass squash court.",
+        "input_2": "There is a ball boy on the side of the court.",
+        "output": "neutral",
+        "idx": 119
+    },
+    {
+        "input_1": "A cereal seed has become the shortest player on the team after his feet \u2014 and the rest of him (except for his eye) are shown.",
+        "input_2": "Despite lacking many of the elements necessary to be a lily pad\u2014roots, leaves and stems\u2014he insists that he is, in fact, a",
+        "output": "neutral",
+        "idx": 120
+    },
+    {
+        "input_1": "A full-length wool sweater is sitting on top of a young girl.",
+        "input_2": "A girl is wearing a sweater.",
+        "output": "entailment",
+        "idx": 121
+    },
+    {
+        "input_1": "Young skaters ride their bikes outside in the streets of a French town.",
+        "input_2": "The skaters wear heavy jackets and ride their bikes inside.",
+        "output": "contradiction",
+        "idx": 122
+    },
+    {
+        "input_1": "A woman in a white lab coat is working in the middle of a chemistry experiment.",
+        "input_2": "The woman is outdoors gardening.",
+        "output": "contradiction",
+        "idx": 123
+    },
+    {
+        "input_1": "Three nuns chat with the sisters of the convent who would be headed to Selma later that year.",
+        "input_2": "Three girls chat with the nuns, who have just returned from Selma.",
+        "output": "contradiction",
+        "idx": 124
+    },
+    {
+        "input_1": "A pre-teen girl purses her lips upon seeing a shelf full of books in the silence room.",
+        "input_2": "A pre-teen girl is stuffing books into the room of silence.",
+        "output": "contradiction",
+        "idx": 125
+    },
+    {
+        "input_1": "A man is about to drop the ball, but then catches it before it hits the ground and throws it to his team's catcher.",
+        "input_2": "An outfielder is catching a pop fly.",
+        "output": "contradiction",
+        "idx": 126
+    },
+    {
+        "input_1": "A woman in a pink bathing suit is getting a massage outside a private cabana.",
+        "input_2": "The lady is lying outside at the resort.",
+        "output": "neutral",
+        "idx": 127
+    },
+    {
+        "input_1": "The man in coveralls is wiping sweat from his brow as he waits in the long line at the job-placement office.",
+        "input_2": "The man in a suit is filling out forms, waiting in a much shorter line.",
+        "output": "contradiction",
+        "idx": 128
+    },
+    {
+        "input_1": "A cat is confused about what is going on in a house it broke into.",
+        "input_2": "There is a cat, and it is confused.",
+        "output": "entailment",
+        "idx": 129
+    },
+    {
+        "input_1": "Grierson helps Dolores at the kitchen window. Later, Dolores and her husband drink coffee.",
+        "input_2": "The house is in Mexico.",
+        "output": "neutral",
+        "idx": 130
+    },
+    {
+        "input_1": "A young cellist sinks into the chair as he plays by the window.",
+        "input_2": "A cellist is standing up by the window, playing.",
+        "output": "contradiction",
+        "idx": 131
+    },
+    {
+        "input_1": "A magpie, a type of bird, sits on a slate roof, above a slate pathway.",
+        "input_2": "The first part of the consecutive sentence shows an emu, a type of bird.",
+        "output": "contradiction",
+        "idx": 132
+    },
+    {
+        "input_1": "There was a burning house, which burned up into ashes.",
+        "input_2": "After flames shot out of the house, some people ran away as a crowd.",
+        "output": "neutral",
+        "idx": 133
+    },
+    {
+        "input_1": "A little boy wearing a sweatshirt pretending to be a wolf.",
+        "input_2": "An older man is wearing a shirt.",
+        "output": "contradiction",
+        "idx": 134
+    },
+    {
+        "input_1": "Two identical girls wearing red and white striped sweaters are holding hands while standing near a tree.",
+        "input_2": "The girls are dressed in winter attire.",
+        "output": "neutral",
+        "idx": 135
+    },
+    {
+        "input_1": "The little boy scribbled a doodle, going up the side of the page towards the top, and it resembles a football player tackling someone.",
+        "input_2": "The boy scribbled a doodle and the doodle looks like a tackle football play.",
+        "output": "entailment",
+        "idx": 136
+    },
+    {
+        "input_1": "Joe MacDonnell is wearing a gold, brown, and white jacket and blue jeans as he stands on a wooden platform and admires his race car.",
+        "input_2": "Joe MacDonnell is wearing blue jeans, a green turtleneck, and a green jacket as he leans on the rear fender of the same race",
+        "output": "contradiction",
+        "idx": 137
+    },
+    {
+        "input_1": "The camera zooms out showing the driver sitting down in the car and his and his passenger's hands extended.",
+        "input_2": "The car is driving down town.",
+        "output": "neutral",
+        "idx": 138
+    },
+    {
+        "input_1": "The colors of an oleander plant are hard to tell apart. They are very pure, changing slowly.",
+        "input_2": "The oleander has two dozen bicolored flowers matching in purity of pigment.",
+        "output": "neutral",
+        "idx": 139
+    },
+    {
+        "input_1": "The mother is showing the painting to her daughter, Violet, who is impressed.",
+        "input_2": "Violet is showing the painting.",
+        "output": "contradiction",
+        "idx": 140
+    },
+    {
+        "input_1": "An electric motor spins the spinner, which throws the wool so it can be carded.",
+        "input_2": "The wool is on a farm.",
+        "output": "neutral",
+        "idx": 141
+    },
+    {
+        "input_1": "While the grownups are busy talking at the table, one of the little girls is trying to apply black nail polish to her fingertips.",
+        "input_2": "A girl is trying to paint her nails.",
+        "output": "entailment",
+        "idx": 142
+    },
+    {
+        "input_1": "A woman with red nails is holding a gilded splinter while laughing with a friend.",
+        "input_2": "The woman's hands are not visible.",
+        "output": "contradiction",
+        "idx": 143
+    },
+    {
+        "input_1": "On Thanksgiving Day, fourteen-year-old Anna Helweg of Portland, Oregon leads a two-hundred member youth choir in singing inside the",
+        "input_2": "The choir is singing at a Thanksgiving Day service.",
+        "output": "neutral",
+        "idx": 144
+    },
+    {
+        "input_1": "A photograph of an early spring morning- an early hayride.",
+        "input_2": "It is the middle of fall; board games and hot chocolate are on the table.",
+        "output": "contradiction",
+        "idx": 145
+    },
+    {
+        "input_1": "Paul Converse sits in a pew while confiding in a pastor.",
+        "input_2": "The pastor is at the pulpit.",
+        "output": "neutral",
+        "idx": 146
+    },
+    {
+        "input_1": "A building's interior, as seen from the roof, is covered with wire mesh to prevent sparrows from penetrating the building.",
+        "input_2": "There is a wire mesh over the entrance.",
+        "output": "entailment",
+        "idx": 147
+    },
+    {
+        "input_1": "The frog jumps into the water to catch its dinner.",
+        "input_2": "The frog is hopping on land eating its dinner.",
+        "output": "contradiction",
+        "idx": 148
+    },
+    {
+        "input_1": "This scientist was born at Milan, Italy.",
+        "input_2": "This scientist is Italian.",
+        "output": "entailment",
+        "idx": 149
+    },
+    {
+        "input_1": "A woman is holding an infant. She is looking happy, or glad.",
+        "input_2": "A woman is frowning.",
+        "output": "contradiction",
+        "idx": 150
+    },
+    {
+        "input_1": "Workers carry sandbags in front of the neighborhood store to hold back the water after a spring flood.",
+        "input_2": "The workers are trying to stabilize the foundation of the store that sits beside a river.",
+        "output": "neutral",
+        "idx": 151
+    },
+    {
+        "input_1": "Outdoors, people are playing instruments and having fun in enthusiastic celebration",
+        "input_2": "People are celebrating the Czech republic breaking the barrier of being the only European country without a McDonald's",
+        "output": "neutral",
+        "idx": 152
+    },
+    {
+        "input_1": "The older woman is singing along with the television to the same notes, and makes the same movements, as the young woman to her right.",
+        "input_2": "The surroundings are a well-appointed, very comfortable apartment.",
+        "output": "neutral",
+        "idx": 153
+    },
+    {
+        "input_1": "A man is slicing fresh cheese with his knife in the back of an Italian restaurant.",
+        "input_2": "The man is preparing food for a meal.",
+        "output": "neutral",
+        "idx": 154
+    },
+    {
+        "input_1": "A student is singing by himself on a stage in the auditorium. He is using sheet music to help him with his singing.",
+        "input_2": "A singer is trying to sing on stage.",
+        "output": "entailment",
+        "idx": 155
+    },
+    {
+        "input_1": "The man is taking coffee cans filled with orange juice to put under the freezer.",
+        "input_2": "The man is putting some cans under the freezer.",
+        "output": "entailment",
+        "idx": 156
+    },
+    {
+        "input_1": "A man is standing and painting the bedroom with a new, medium-sized paintbrush.",
+        "input_2": "The man is lying while painting the bedroom.",
+        "output": "contradiction",
+        "idx": 157
+    },
+    {
+        "input_1": "A stallion is leading a large hank of buffalo up a hill.",
+        "input_2": "The stallion is pulling a prairie schooner.",
+        "output": "neutral",
+        "idx": 158
+    },
+    {
+        "input_1": "A girl reaches out towards her family, possibly chasing a kite.",
+        "input_2": "The kite is shaped like a heart, and there is another heart on the horizon.",
+        "output": "neutral",
+        "idx": 159
+    },
+    {
+        "input_1": "A man is bending over with his back facing a vegetable stand with his hands on the handles.",
+        "input_2": "A man is reaching for the stands sale.",
+        "output": "entailment",
+        "idx": 160
+    },
+    {
+        "input_1": "Sue Buckley plays croquet while her dog keeps chasing after the balls.",
+        "input_2": "Sue Buckley and her dog are playing croquet.",
+        "output": "entailment",
+        "idx": 161
+    },
+    {
+        "input_1": "Four runners are crossing the finish line in a short distance race.",
+        "input_2": "Three runners are entering the lake beyond the finish line.",
+        "output": "contradiction",
+        "idx": 162
+    },
+    {
+        "input_1": "The lifeguards are arriving to scan the beach along the ocean cliffs in search for a missing man.",
+        "input_2": "There are lifeguards scanning a beach.",
+        "output": "entailment",
+        "idx": 163
+    },
+    {
+        "input_1": "Brambani Schmooze, dressed a bit quaintly, is standing in a ritzy bar that she created.",
+        "input_2": "Schmooze isn't standing in a bar.",
+        "output": "contradiction",
+        "idx": 164
+    },
+    {
+        "input_1": "Henry VIII says, \"My Lord Archbishop, look where I am\" as he shows him his sword inside the arch.",
+        "input_2": "Bishop Morton looks at an elaborate sword wound around with garnish and jeweled in gold.",
+        "output": "neutral",
+        "idx": 165
+    },
+    {
+        "input_1": "The festival attendees board a ferry to go to the amusement park.",
+        "input_2": "The attendees are taking a ferry to go to some stores.",
+        "output": "contradiction",
+        "idx": 166
+    },
+    {
+        "input_1": "After the speaker at a conference stated that the goal was to come together during her speech, a delegate in the crowd can be seen standing on his chair",
+        "input_2": "The delegate is sitting down on his chair.",
+        "output": "contradiction",
+        "idx": 167
+    },
+    {
+        "input_1": "The pastor conducting services uses a salt shaker [with a hole] to sprinkle a little bit of salt on a mustard jar.",
+        "input_2": "The sexton uses the paste (from the jar) to lay lines on the floor in front of the sanctuary.",
+        "output": "neutral",
+        "idx": 168
+    },
+    {
+        "input_1": "A woman places a braise, a casserole made with meat and vegetables, in the oven to bake.",
+        "input_2": "The woman is eating the braise.",
+        "output": "contradiction",
+        "idx": 169
+    },
+    {
+        "input_1": "The plum is frozen to the ice.",
+        "input_2": "The plum is covered in snow.",
+        "output": "neutral",
+        "idx": 170
+    },
+    {
+        "input_1": "A pouting girl is emptying out her locker.",
+        "input_2": "The girl is pouting in her locker.",
+        "output": "entailment",
+        "idx": 171
+    },
+    {
+        "input_1": "A new lieutenant stands at attention while the drill sergeant barks orders.",
+        "input_2": "The lieutenant is standing in the middle of the rain.",
+        "output": "neutral",
+        "idx": 172
+    },
+    {
+        "input_1": "The family is planning their summer vacation.",
+        "input_2": "The family is planning a vacation.",
+        "output": "entailment",
+        "idx": 173
+    },
+    {
+        "input_1": "A family is giving each other a New Year's toast to celebrate the future. (they are holding champagne glasses)",
+        "input_2": "The family is at home in the kitchen.",
+        "output": "neutral",
+        "idx": 174
+    },
+    {
+        "input_1": "A businessman in a hurry walks up and down the streets of Peoria, Illinois. Everyone seems to be going about their business as usual.",
+        "input_2": "Night has fallen and streetlights and office lights are coming on.",
+        "output": "neutral",
+        "idx": 175
+    },
+    {
+        "input_1": "A conductor stands in front of his orchestra leading an excerpt from Verdi's \"La traviata\".",
+        "input_2": "The conductor is standing in a bluegrass band.",
+        "output": "contradiction",
+        "idx": 176
+    },
+    {
+        "input_1": "A lonely young woman walks onto a bus in a montage of people exiting the bus. After struggling against it for several seconds, she turns to walk",
+        "input_2": "There is a woman heading for the bus.",
+        "output": "entailment",
+        "idx": 177
+    },
+    {
+        "input_1": "An older man is standing on his porch and looking across the street at his neighbor.",
+        "input_2": "The man has a scowl on his face.",
+        "output": "neutral",
+        "idx": 178
+    },
+    {
+        "input_1": "A room full of workspace can be found behind large doors.",
+        "input_2": "A room is full of cubicles.",
+        "output": "contradiction",
+        "idx": 179
+    },
+    {
+        "input_1": "A man in a uniform is sitting on a bench in a wildlife and recreation area, holding a leash connected to the collar of a bird.",
+        "input_2": "A man is sitting on a bench, holding a leash and petting a dog.",
+        "output": "entailment",
+        "idx": 180
+    },
+    {
+        "input_1": "A skua stands posed in an arctic environment.",
+        "input_2": "The bird is posed in the jungle.",
+        "output": "contradiction",
+        "idx": 181
+    },
+    {
+        "input_1": "A woman is walking up the steps of a home. The home is decorated with different kinds of trees.",
+        "input_2": "It is a holiday and the woman is bringing a present for her child, which can be seen to be in the foreground.",
+        "output": "neutral",
+        "idx": 182
+    },
+    {
+        "input_1": "A large mackerel fish grasps a hooked fishing line far out in the water.",
+        "input_2": "A fisherman is reeling a large blue marlin in.",
+        "output": "contradiction",
+        "idx": 183
+    },
+    {
+        "input_1": "A Cessna takes off from Bush Field Airport, in Augusta, Georgia, to get footage of a long stretch of the Augusta Canal.",
+        "input_2": "The filming plane flies in and over the canal before takeoff.",
+        "output": "neutral",
+        "idx": 184
+    },
+    {
+        "input_1": "The racers get entangled in a huge tie if they hit the narrow board at the end of the muddy mountain.",
+        "input_2": "There is a board at the end of the mountain.",
+        "output": "entailment",
+        "idx": 185
+    },
+    {
+        "input_1": "A bed of honeybees is talking to itself and pointing to a shopping list item.",
+        "input_2": "A bed of bees is members of an audience nodding in rhythm to a speaker on stage.",
+        "output": "contradiction",
+        "idx": 186
+    },
+    {
+        "input_1": "Brewing beer at home in one's basement during the Prohibition.",
+        "input_2": "No prohibition involved.",
+        "output": "contradiction",
+        "idx": 187
+    },
+    {
+        "input_1": "The boy is staggering under the weight of the 10-pound bag of peat.",
+        "input_2": "A bag of peat is heavy.",
+        "output": "entailment",
+        "idx": 188
+    },
+    {
+        "input_1": "Laid out on a table are colorful, old fashioned, gingham cloth napkins used during picnics and family gatherings. Smoke from the fireplace",
+        "input_2": "Is slowly drifting through the set.",
+        "output": "neutral",
+        "idx": 189
+    },
+    {
+        "input_1": "A bird is sitting on the branch of the tree.",
+        "input_2": "A bird is perched on a branch.",
+        "output": "entailment",
+        "idx": 190
+    },
+    {
+        "input_1": "A helmet the ancient Greek Warrior used to wear to protect him from arrows, and a Greek lyre. The text reads: \"Their blending of music",
+        "input_2": "The text is on a museum plaque about Greek armor and weapons.",
+        "output": "neutral",
+        "idx": 191
+    },
+    {
+        "input_1": "A man in overalls grabs the chute of wheat ready to be sent to the local mill.",
+        "input_2": "A man is grabbing the wheat ready for 'sale'.",
+        "output": "entailment",
+        "idx": 192
+    },
+    {
+        "input_1": "A man in a turban is looking up at the air raid siren on the roof of a building.",
+        "input_2": "An Indian is looking at an air raid siren.",
+        "output": "entailment",
+        "idx": 193
+    },
+    {
+        "input_1": "A young couple are sitting on coloured lawn chairs and sharing a drink.",
+        "input_2": "The man is drinking beer.",
+        "output": "neutral",
+        "idx": 194
+    },
+    {
+        "input_1": "A chef is using his knife to trim off fat off the edge of a veal roast.",
+        "input_2": "The chef is using his bowl to measure out chopped onions.",
+        "output": "contradiction",
+        "idx": 195
+    },
+    {
+        "input_1": "Electricians are installing new lamps in the shop.",
+        "input_2": "Plumbers are installing piping in the shop.",
+        "output": "contradiction",
+        "idx": 196
+    },
+    {
+        "input_1": "A young man wearing a baseball cap is sprinting towards home plate - his sports team just has the momentum to win.",
+        "input_2": "The young man is sprinting towards home plate.",
+        "output": "entailment",
+        "idx": 197
+    },
+    {
+        "input_1": "A man is \"swimming\" his feet in water.",
+        "input_2": "A man is dangling his feet in the water.",
+        "output": "contradiction",
+        "idx": 198
+    },
+    {
+        "input_1": "Halle Yaffe and her father are sitting at the dinner table. He is scolding \"Halle\" for being messy and careless with his books",
+        "input_2": "Halle Yaffe is being scolded for being messy and for carelessness.",
+        "output": "entailment",
+        "idx": 199
+    },
+    {
+        "input_1": "A group of boys are sitting in a cinema watching the latest movie.",
+        "input_2": "The boys are on a school trip.",
+        "output": "neutral",
+        "idx": 200
+    },
+    {
+        "input_1": "The morning sun is beating down on village huts outside the village.",
+        "input_2": "The sun is setting.",
+        "output": "contradiction",
+        "idx": 201
+    },
+    {
+        "input_1": "A rosebud that is opening petal by petal.",
+        "input_2": "A rosebud that has already bloomed.",
+        "output": "contradiction",
+        "idx": 202
+    },
+    {
+        "input_1": "A skyline formed by rocks jutting out from the water near a lake.",
+        "input_2": "A skyline formed by buildings is near the water.",
+        "output": "contradiction",
+        "idx": 203
+    },
+    {
+        "input_1": "A boy using a knife is mixing water with paste to make papier-m\u00e2ch\u00e9.",
+        "input_2": "A boy is using the paste and mixing the water.",
+        "output": "entailment",
+        "idx": 204
+    },
+    {
+        "input_1": "A family of turkeys are sitting around on their eggs.",
+        "input_2": "The turkeys are roosting in a tree during spring.",
+        "output": "neutral",
+        "idx": 205
+    },
+    {
+        "input_1": "The penguins are standing in a formation at the Antarctic Peninsula.",
+        "input_2": "There are penguins at the Antarctic.",
+        "output": "entailment",
+        "idx": 206
+    },
+    {
+        "input_1": "A child raises his hand to answer a trivia question and the other children click their pens in unison.",
+        "input_2": "The children are frowning.",
+        "output": "contradiction",
+        "idx": 207
+    },
+    {
+        "input_1": "The fly is being reeled in, slowly into the fisherman's arms.",
+        "input_2": "The fisherman is reeling in his line faster than the fly is flying.",
+        "output": "contradiction",
+        "idx": 208
+    },
+    {
+        "input_1": "Dr. Martin Luther King Jr. delivers a speech at a Civil rights protest.",
+        "input_2": "A man called Martin Luther King Jr. is making a speech.",
+        "output": "entailment",
+        "idx": 209
+    },
+    {
+        "input_1": "A pickpocket dribbles the sphere through the leaves above the gilded acorn on the bracelet.",
+        "input_2": "The sphere is in the acorn on the bracelet.",
+        "output": "contradiction",
+        "idx": 210
+    },
+    {
+        "input_1": "A man on Marinette Avenue in Milwaukee picks up a pint of milk so his mother won't have to make a trip to the store.",
+        "input_2": "A man is picking up milk.",
+        "output": "entailment",
+        "idx": 211
+    },
+    {
+        "input_1": "The rock that looks like a loaf of bread",
+        "input_2": "The rock is no longer a loaf of bread.",
+        "output": "contradiction",
+        "idx": 212
+    },
+    {
+        "input_1": "A fifteen-year-old Diana is standing in front of a picture frame resting on her easel.",
+        "input_2": "The girl in the picture is screaming.",
+        "output": "contradiction",
+        "idx": 213
+    },
+    {
+        "input_1": "A tiger cub is sitting on a primitive throne playing with an erotic phallus-shaped object.",
+        "input_2": "A tiger cub is sitting.",
+        "output": "entailment",
+        "idx": 214
+    },
+    {
+        "input_1": "Two girls standing on either side of a tall wedge of shattered trees in Utah's Zion National Park.",
+        "input_2": "The trees are not broken.",
+        "output": "contradiction",
+        "idx": 215
+    },
+    {
+        "input_1": "In the foreground, the six members of the Sabbatini polo team are sitting behind crossed mallets and their horses. In the background is",
+        "input_2": "In the foreground is a jungle. In the tree is a hut with three dolphins on ropes jumping out of the water.",
+        "output": "contradiction",
+        "idx": 216
+    },
+    {
+        "input_1": "A woman wearing a red spandex uniform is sitting on the grass after a bike accident.",
+        "input_2": "The woman is wearing a green sports uniform.",
+        "output": "contradiction",
+        "idx": 217
+    },
+    {
+        "input_1": "A large cleaning lady standing in the desert next to a regular dustpan prefers the smaller one found in her cart.",
+        "input_2": "The cart holds cleaning supplies.",
+        "output": "entailment",
+        "idx": 218
+    },
+    {
+        "input_1": "The 4W terminal was built in 1920 to accommodate greater speed and higher motorized traffic during World War I.",
+        "input_2": "The terminal was built in order to welcome visitors in Chicago.",
+        "output": "neutral",
+        "idx": 219
+    },
+    {
+        "input_1": "Light beams into a house through a transom.",
+        "input_2": "The sun is shining.",
+        "output": "neutral",
+        "idx": 220
+    },
+    {
+        "input_1": "A small brown dog, with white and black patches on the feet and muzzle, is chasing after a Frisbee.",
+        "input_2": "A large white dog with black patches is chasing after a Frisbee.",
+        "output": "contradiction",
+        "idx": 221
+    },
+    {
+        "input_1": "A woman opens a package and finds a scratch on a slab of meat. The cook makes up a story about how it happened.",
+        "input_2": "The woman does not get her meat package.",
+        "output": "contradiction",
+        "idx": 222
+    },
+    {
+        "input_1": "The buoy is still tied to the boat with a wire, but the pirate ship has sunk below the water.",
+        "input_2": "There is a buoy still fixed to a boat.",
+        "output": "entailment",
+        "idx": 223
+    },
+    {
+        "input_1": "A mysterious-looking man with a cane on a dark foggy night is openly staring at a well-to-do dressed lady as she passes him",
+        "input_2": "The man is staring blatantly at the lady.",
+        "output": "entailment",
+        "idx": 224
+    },
+    {
+        "input_1": "A group of 13- and 14-year-old boys are at a party and one of the boys dressed as a ghost.",
+        "input_2": "16- and 17-year-old boys are at a party.",
+        "output": "contradiction",
+        "idx": 225
+    },
+    {
+        "input_1": "A man from the Nehalem tribe is standing in front of a microphone while singing.",
+        "input_2": "A man is singing while standing.",
+        "output": "entailment",
+        "idx": 226
+    },
+    {
+        "input_1": "A silver dodgeball is falling to the ground.",
+        "input_2": "A ball made out of dodge is falling to the ground.",
+        "output": "entailment",
+        "idx": 227
+    },
+    {
+        "input_1": "A young girl looks sad as she watches the rain funnel down the drain.",
+        "input_2": "The girl is standing next to her bicycle near a storm drain in the city because her mom won't let her ride in the rain.",
+        "output": "neutral",
+        "idx": 228
+    },
+    {
+        "input_1": "A white Maltese poodle named Capone stands casually by the green couch in an Italian living room.",
+        "input_2": "A large brown Labrador retriever is posing, sitting with its paws on the sofa in an English living room.",
+        "output": "contradiction",
+        "idx": 229
+    },
+    {
+        "input_1": "The woman on the left embraces her dog while smiling at the baby crawling to get a running wheel.",
+        "input_2": "The woman kneels down to grab the dog on the right.",
+        "output": "contradiction",
+        "idx": 230
+    },
+    {
+        "input_1": "A scamp is scampering around a brick wall.",
+        "input_2": "A man is walking up the wall.",
+        "output": "contradiction",
+        "idx": 231
+    },
+    {
+        "input_1": "An ice skater is doing a slalom down the big ramp in the background, avoiding obstacles.",
+        "input_2": "A skater is doing a slalom down the slope in the foreground, avoiding obstacles.",
+        "output": "contradiction",
+        "idx": 232
+    },
+    {
+        "input_1": "The hotel was planned to be 130 stories tall but the top part will be covered with $50,000 of shrubbery.",
+        "input_2": "The hotel is already built.",
+        "output": "contradiction",
+        "idx": 233
+    },
+    {
+        "input_1": "A man on a unicycle rides along the banks on the IJsselmeer.",
+        "input_2": "A woman is riding a bicycle.",
+        "output": "contradiction",
+        "idx": 234
+    },
+    {
+        "input_1": "The boy uses an online banking service to deposit his cash.",
+        "input_2": "The boy is standing in front of a library.",
+        "output": "neutral",
+        "idx": 235
+    },
+    {
+        "input_1": "There are emergency fire trucks onto the highway with their sirens on.",
+        "input_2": "The fire trucks are silent.",
+        "output": "contradiction",
+        "idx": 236
+    },
+    {
+        "input_1": "In the newsroom, Bob Ferguson, the son-in-law and successor of Roy W. Howard, waves to the crowd from a window.",
+        "input_2": "Howard has resigned and is leaving to cover an international event.",
+        "output": "neutral",
+        "idx": 237
+    },
+    {
+        "input_1": "A collection of files, the tool used for straightening a bent nail, are in a toolbox in a red case.",
+        "input_2": "The case has a magnet closure and a strap to carry it.",
+        "output": "neutral",
+        "idx": 238
+    },
+    {
+        "input_1": "We want to hear from you, take away this blank with your thoughts and send to\u00a0 Bergen op Zoom.",
+        "input_2": "The \"we\" of the message receive information about the reader's thoughts.",
+        "output": "entailment",
+        "idx": 239
+    },
+    {
+        "input_1": "A platinum engagement ring with three small diamonds surrounding a large diamond is shown from different angles.",
+        "input_2": "A very expensive engagement ring is being displayed.",
+        "output": "entailment",
+        "idx": 240
+    },
+    {
+        "input_1": "A small boy is picking up trash along a road.",
+        "input_2": "The boy is helping his father clean up after the carnival or circus.",
+        "output": "neutral",
+        "idx": 241
+    },
+    {
+        "input_1": "Roseanne Gibson and Clara St.Pierre are sitting cross-legged on a pouf.",
+        "input_2": "Women are sitting on a pouf.",
+        "output": "entailment",
+        "idx": 242
+    },
+    {
+        "input_1": "A file clerk is typing numbers on her decimal machine under the direct supervision of her boss.",
+        "input_2": "The file clerk is typing alphabetical letters on her keyboard.",
+        "output": "contradiction",
+        "idx": 243
+    },
+    {
+        "input_1": "A Native American man in a loincloth running while carrying a spear over each shoulder.",
+        "input_2": "There exists a man who is a Native American, and he is running with at least two spears.",
+        "output": "entailment",
+        "idx": 244
+    },
+    {
+        "input_1": "The professional rugby player is complaining about another team's shin guard being too hard.",
+        "input_2": "A referee is standing next to the athlete and is listening to his complaints.",
+        "output": "neutral",
+        "idx": 245
+    },
+    {
+        "input_1": "A girl is wading in a stream. She is wearing a frilly dress and a brass bucket.",
+        "input_2": "A girl is in a stream frolicking.",
+        "output": "entailment",
+        "idx": 246
+    },
+    {
+        "input_1": "Children of different races and ages play happily in a variety of clothing.",
+        "input_2": "There are children playing.",
+        "output": "entailment",
+        "idx": 247
+    },
+    {
+        "input_1": "The man wearing the Roman soldier cosplay mask pivots his arm upward as his wife twists the camera around.",
+        "input_2": "The man is turning his head to the right.",
+        "output": "contradiction",
+        "idx": 248
+    },
+    {
+        "input_1": "Watermelon slices swing from a rope tied between two trees.",
+        "input_2": "Three children are sharing the watermelon, sitting on the ground.",
+        "output": "neutral",
+        "idx": 249
+    },
+    {
+        "input_1": "Along a quiet country road, a horse pulling a buggy stops at a farm to relieve itself.",
+        "input_2": "The horse and buggy are in a city.",
+        "output": "contradiction",
+        "idx": 250
+    },
+    {
+        "input_1": "An old man wears wooden shoes with red denim pants.",
+        "input_2": "The old man is walking in the countryside.",
+        "output": "neutral",
+        "idx": 251
+    },
+    {
+        "input_1": "The zig zag chain of the crest rises up and down.",
+        "input_2": "The chain is attached to two lions.",
+        "output": "neutral",
+        "idx": 252
+    },
+    {
+        "input_1": "An older man is vacuuming up leaves and other grass clippings.",
+        "input_2": "The man is cleaning.",
+        "output": "entailment",
+        "idx": 253
+    },
+    {
+        "input_1": "Nowhere does the glory of Iowa and America shine beside in Ottumwa, yellow pages, and Fort Atkinson on the Mississippi.",
+        "input_2": "There is an image of a fertile valley in Ottumwa, there is an image of the junction of two dead streams in Ottumwa, there",
+        "output": "contradiction",
+        "idx": 254
+    },
+    {
+        "input_1": "A blond toddler in a dungaree plays contently in a colorful playground and holds a bulky brown puppy close to her chest. Isolated on",
+        "input_2": "The toddler is waiting to be picked up from daycare, as she has her puppy.",
+        "output": "neutral",
+        "idx": 255
+    },
+    {
+        "input_1": "The yak labeled, \"Yak Meat\" is in a penboard.",
+        "input_2": "A yak with the label 'Yak Meat' is locked in a penboard.",
+        "output": "entailment",
+        "idx": 256
+    },
+    {
+        "input_1": "World War ll was over, and a row of soldiers march in a peace parade to celebrate this event.",
+        "input_2": "The soldiers were waving American flags.",
+        "output": "neutral",
+        "idx": 257
+    },
+    {
+        "input_1": "The governor's castle was seized in a surprise siege.",
+        "input_2": "A siege occurred around the castle.",
+        "output": "entailment",
+        "idx": 258
+    },
+    {
+        "input_1": "There are seven slices of cheese, all different sizes. The smallest, at the bottom, is provelone. On top of it are four c",
+        "input_2": "There are seven slices of cheese, all different sizes, and all are different kinds. The smallest, at the bottom, is provelone. On",
+        "output": "contradiction",
+        "idx": 259
+    },
+    {
+        "input_1": "A family of black men and women outside a hospital show signs of relief.",
+        "input_2": "The nurse is handing the doctor a clipboarde.",
+        "output": "contradiction",
+        "idx": 260
+    },
+    {
+        "input_1": "A Red Sox player has just caught the fly ball.",
+        "input_2": "The player is wearing a bright blue uniform.",
+        "output": "neutral",
+        "idx": 261
+    },
+    {
+        "input_1": "Blaise uses the vocoder to edit the picture. Then, a hand finishing editing it.",
+        "input_2": "Blaise starts editing the picture while a person unseen is telling him to zoom in on the actress' face.",
+        "output": "neutral",
+        "idx": 262
+    },
+    {
+        "input_1": "The fox leaps on the dog and starts biting its neck.",
+        "input_2": "The fox is attacking the dog.",
+        "output": "entailment",
+        "idx": 263
+    },
+    {
+        "input_1": "An older African American man welds a tricycle in his outdoor workshop.",
+        "input_2": "An older man is blacksmithing.",
+        "output": "entailment",
+        "idx": 264
+    },
+    {
+        "input_1": "The British sailor held the American flag with",
+        "input_2": "",
+        "output": "neutral",
+        "idx": 265
+    },
+    {
+        "input_1": "Lower catchment areas are shown in blue, higher catchment areas are in white.",
+        "input_2": "Higher catchment areas are shown in blue.",
+        "output": "contradiction",
+        "idx": 266
+    },
+    {
+        "input_1": "A bag flies and the men shoot.",
+        "input_2": "the men are at war; the bag contains a very important message",
+        "output": "neutral",
+        "idx": 267
+    },
+    {
+        "input_1": "An altar boy is doing the difficult task of lighting a gauze candle above another, larger candle, which is shaped like a cross.",
+        "input_2": "A priest is consecrating hosts held on an ostensorium during a Mass.",
+        "output": "neutral",
+        "idx": 268
+    },
+    {
+        "input_1": "A boy in a denim jacket is ready to hang out near his pick-up truck.",
+        "input_2": "There is a boy in a denim jacket standing near a truck.",
+        "output": "entailment",
+        "idx": 269
+    },
+    {
+        "input_1": "The mechanism to quantize the flavors between the two senses of suppression and lack of clothing.",
+        "input_2": "The mechanism is quantizing the flavors.",
+        "output": "entailment",
+        "idx": 270
+    },
+    {
+        "input_1": "A girl in lane one is swimming.",
+        "input_2": "The girl is holding up part of her body or her entire body!",
+        "output": "entailment",
+        "idx": 271
+    },
+    {
+        "input_1": "A man wearing a blue uniform and holding a rifle stands in front of a cannon.",
+        "input_2": "Four soldiers stand by the cannon.",
+        "output": "neutral",
+        "idx": 272
+    },
+    {
+        "input_1": "Three fighter planes are engaged in formation-flying; one is slightly closer to the camera than the others.",
+        "input_2": "There are three fighters in the picture.",
+        "output": "entailment",
+        "idx": 273
+    },
+    {
+        "input_1": "A housewife puts a plate of pancakes on the table as she sings a yodeling song.",
+        "input_2": "A \"Pancakes cookbook\" is on the table.",
+        "output": "contradiction",
+        "idx": 274
+    },
+    {
+        "input_1": "A worker is carrying a roll of brightly colored cloth, while another worker is holding the end.",
+        "input_2": "There is a worker carrying cloth.",
+        "output": "entailment",
+        "idx": 275
+    },
+    {
+        "input_1": "A woman half-morning dressed is descending the steps of the veranda with a tray full of books.",
+        "input_2": "The woman is descending the veranda to reach the part of the garden where she is going to read.",
+        "output": "neutral",
+        "idx": 276
+    },
+    {
+        "input_1": "The photographer took a photo of the street transformer on 57th street.",
+        "input_2": "There is a photographer taking a picture.",
+        "output": "entailment",
+        "idx": 277
+    },
+    {
+        "input_1": "A woman is eating with a straw, chugging the country's typical drink \u2014 Lambrusco.",
+        "input_2": "The woman is drinking on an Italian bus.",
+        "output": "neutral",
+        "idx": 278
+    },
+    {
+        "input_1": "The Heat is out on vacation resting in the hammock while their children are jumping rope.",
+        "input_2": "There is a family of seven on vacation.",
+        "output": "entailment",
+        "idx": 279
+    },
+    {
+        "input_1": "Zoning Board at the entrance of the Prairie Park, awaiting the start of the commissioner's meeting.",
+        "input_2": "A Board is waiting for a meeting to start.",
+        "output": "entailment",
+        "idx": 280
+    },
+    {
+        "input_1": "A farmer is walking through the field with his cow in the background.",
+        "input_2": "It is afternoon on a farm.",
+        "output": "neutral",
+        "idx": 281
+    },
+    {
+        "input_1": "The cathedral in Amiens is seen from a tall building.",
+        "input_2": "There are buildings taller than the cathedral.",
+        "output": "entailment",
+        "idx": 282
+    },
+    {
+        "input_1": "The slow breakdown of a mechanical energy storage.",
+        "input_2": "The compression spring of a garage door closing.",
+        "output": "contradiction",
+        "idx": 283
+    },
+    {
+        "input_1": "The two boys are stretching the muscles on their arms and chests for making impressions.",
+        "input_2": "There are two boys in the picture.",
+        "output": "entailment",
+        "idx": 284
+    },
+    {
+        "input_1": "Four girls are passing a large baton back and forth in a sunny yard.",
+        "input_2": "There are girls playing in a field.",
+        "output": "entailment",
+        "idx": 285
+    },
+    {
+        "input_1": "Ronald Erspamer comments that napalm can mold into high, jagged stalagmites.",
+        "input_2": "Napalm is poured and is now forming stalagmites.",
+        "output": "entailment",
+        "idx": 286
+    },
+    {
+        "input_1": "Inside the forge, a man is working absolutely naked smithing a piece of metal.",
+        "input_2": "The man is holding a hammer in his left hand, wearing shoes, and holding a candle in his right hand.",
+        "output": "neutral",
+        "idx": 287
+    },
+    {
+        "input_1": "A small-village chief, wearing a cloak, does a wild dance after being informed that the runner-up, who would have been chief,",
+        "input_2": "There is an individual who is a chief and a runner up in the village.",
+        "output": "entailment",
+        "idx": 288
+    },
+    {
+        "input_1": "An older man wearing glasses is sitting by the side of desk while he is reading a book.",
+        "input_2": "A red mug of coffee is on the desk.",
+        "output": "neutral",
+        "idx": 289
+    },
+    {
+        "input_1": "The young craftsman chops away with his chisel while carving a sculpture of an imposing god.",
+        "input_2": "An artist is sculpting a god using a chisel.",
+        "output": "entailment",
+        "idx": 290
+    },
+    {
+        "input_1": "A yak is standing near the wall.",
+        "input_2": "A yak is standing.",
+        "output": "entailment",
+        "idx": 291
+    },
+    {
+        "input_1": "A man is bathed by the sun as he rows a boat past the melon farm.",
+        "input_2": "The man sucks on a straw.",
+        "output": "contradiction",
+        "idx": 292
+    },
+    {
+        "input_1": "A large bald man in a grey suit is standing straight up.",
+        "input_2": "The man has a bent neck, subtle curves are present.",
+        "output": "neutral",
+        "idx": 293
+    },
+    {
+        "input_1": "A twelve-year-old girl with blonde hair and a red shirt is singing while holding an autoharp on her knees.",
+        "input_2": "The young girl is singing a sea chanty.",
+        "output": "neutral",
+        "idx": 294
+    },
+    {
+        "input_1": "A man is parking his Harley motorcycle at the airport parking garage.",
+        "input_2": "The biker is checking out his motorcycle.",
+        "output": "neutral",
+        "idx": 295
+    },
+    {
+        "input_1": "A computer-generated toucan is destroying a termite nest of another toucan on a computer screen.",
+        "input_2": "A hand-drawn toucan is eating a termite-ridden expanded wood block in a nature magazine.",
+        "output": "contradiction",
+        "idx": 296
+    },
+    {
+        "input_1": "A person riding a camel stops to talk with a police officer in a red cape.",
+        "input_2": "A camel rider stops to speak with a cop.",
+        "output": "entailment",
+        "idx": 297
+    },
+    {
+        "input_1": "A seed merchant is pulling out one large, red sunflower seed from among a collection of tiny seeds.",
+        "input_2": "A man is pulling a seed out from some seeds.",
+        "output": "entailment",
+        "idx": 298
+    },
+    {
+        "input_1": "A young man is debugging a computer made by MacGuinness Corp.",
+        "input_2": "The young man is sitting in front of a computer.",
+        "output": "neutral",
+        "idx": 299
+    },
+    {
+        "input_1": "The group of tourists is walking up the tall kliff towards the cable railway.",
+        "input_2": "The kliff has sheer cliffs which drop down into the ocean.",
+        "output": "neutral",
+        "idx": 300
+    },
+    {
+        "input_1": "A dog walking its owner jogs next to an obese, naked man running in the heat. The man is sweating, and has a sullen",
+        "input_2": "The owner is exercising her dog, and the dog is happy, but the man is not enjoying his exercise at all.",
+        "output": "neutral",
+        "idx": 301
+    },
+    {
+        "input_1": "Soviet soldier is riding in the open door of a Soviet Mil Mi-24 (NATO reporting name of Hind) helicopter.",
+        "input_2": "The helicopter is in flight, giving the soldier a bird's-eye view of the terrain below.",
+        "output": "neutral",
+        "idx": 302
+    },
+    {
+        "input_1": "Looking through the archways of the Palais des Papes.",
+        "input_2": "The person gazing is present in a particular palace, even if not mentioned specifically.",
+        "output": "entailment",
+        "idx": 303
+    },
+    {
+        "input_1": "Two technicians lift an orange upside-down dome structure over a building, while dozens of flags float in the background.",
+        "input_2": "The dome structure is an observatory.",
+        "output": "neutral",
+        "idx": 304
+    },
+    {
+        "input_1": "A man uses a book to weigh down one edge of a dropped T-shirt, while pulling the fabric tight with another book in his other hand.",
+        "input_2": "The man uses books to weigh down the edges of a T-shirt while mending the shape using another book.",
+        "output": "entailment",
+        "idx": 305
+    },
+    {
+        "input_1": "A young man is debugging a computer made by MacGuinness Corp.",
+        "input_2": "A man is repairing a computer.",
+        "output": "entailment",
+        "idx": 306
+    },
+    {
+        "input_1": "Mary Byrne's gardener is clipping her roses in the garden.",
+        "input_2": "The flowers are golden roses.",
+        "output": "neutral",
+        "idx": 307
+    },
+    {
+        "input_1": "A man is tossing round the spheroid-shaped ball, trying to master the skill.",
+        "input_2": "A man is tossing a ball.",
+        "output": "entailment",
+        "idx": 308
+    },
+    {
+        "input_1": "A man is sitting at a table eating dinner while using the computer on the back burner",
+        "input_2": "The man is using a laptop to check his e-mail.",
+        "output": "contradiction",
+        "idx": 309
+    },
+    {
+        "input_1": "A man is pushing a small mountain bike into the hills in the area of the city of Grenchen.",
+        "input_2": "There is a person riding a bike.",
+        "output": "entailment",
+        "idx": 310
+    },
+    {
+        "input_1": "A man in a business suit, holding a clipboard, takes notes during a laboratory examination.",
+        "input_2": "The man, wearing a hospital gown, sleeps while the laboratory technician takes his blood pressure.",
+        "output": "contradiction",
+        "idx": 311
+    },
+    {
+        "input_1": "A mother bear protects her cub by standing in front of him as a man with a net tries to capture the cub.",
+        "input_2": "The cub is endangered.",
+        "output": "entailment",
+        "idx": 312
+    },
+    {
+        "input_1": "A family is standing before a handmade wooden house ornament.",
+        "input_2": "The family is Christmas shopping.",
+        "output": "neutral",
+        "idx": 313
+    },
+    {
+        "input_1": "Waldron and Hiat are using butcher blocks to carefully lift a huge tray of lemon tarts and scones.",
+        "input_2": "They are selling baked goods at a country market.",
+        "output": "neutral",
+        "idx": 314
+    },
+    {
+        "input_1": "Migrant natoma work at a chemical plant located on the banks of the Nieuwe Maas estuary at Nieuwe-Spijk in",
+        "input_2": "No title",
+        "output": "neutral",
+        "idx": 315
+    },
+    {
+        "input_1": "Next to the animals in the shelter is the dog, who is raising his lip to bare his teeth.",
+        "input_2": "There is a dog inside the shelter that bears its teeth.",
+        "output": "entailment",
+        "idx": 316
+    },
+    {
+        "input_1": "A pink blotch fades on the face of this baby taking a nap.",
+        "input_2": "A baby is sleeping.",
+        "output": "entailment",
+        "idx": 317
+    },
+    {
+        "input_1": "A cue carves waves into the surface of the water.",
+        "input_2": "A speedboat is going across the waves.",
+        "output": "neutral",
+        "idx": 318
+    },
+    {
+        "input_1": "A night-time photograph of a town sign is reflected in the Schafer's department store building's exterior lights.",
+        "input_2": "A day-time view taken of a traffic light is reflected in the exterior lights of a gas station.",
+        "output": "contradiction",
+        "idx": 319
+    },
+    {
+        "input_1": "Jack is going to his new house with a collection of crates stacked in a truck.",
+        "input_2": "Jack is transporting his crates from one place to another.",
+        "output": "entailment",
+        "idx": 320
+    },
+    {
+        "input_1": "A group of Baptist churchgoers sings hymns in lower Manhattan.",
+        "input_2": "A group of Jewish orthodox are singing praise.",
+        "output": "contradiction",
+        "idx": 321
+    },
+    {
+        "input_1": "Mr. Newman is in bed, sleeping; the covers are pulled up around his ears.",
+        "input_2": "Mr. Newman is getting dressed and putting a shoe on.",
+        "output": "contradiction",
+        "idx": 322
+    },
+    {
+        "input_1": "Shawnee Mission North High School's yearbook is held together with an industrial composite.",
+        "input_2": "The yearbook is labelled \"\"The 1990 Moon\"\".",
+        "output": "neutral",
+        "idx": 323
+    },
+    {
+        "input_1": "There are snowcaps on the peaks of the hermitage.",
+        "input_2": "It is winter.",
+        "output": "entailment",
+        "idx": 324
+    },
+    {
+        "input_1": "The athlete breaks his personal record, recording a blazing time of 1:01.5.",
+        "input_2": "A clock is shown in the frame (12:59.23).",
+        "output": "contradiction",
+        "idx": 325
+    },
+    {
+        "input_1": "A teenage girl claims she doesn't know a fellow student.",
+        "input_2": "A girl is disputing a girl's familiarity.",
+        "output": "entailment",
+        "idx": 326
+    },
+    {
+        "input_1": "A sound is made by striking an iron plate with a thick rubber mallet.",
+        "input_2": "A sound occurs when a thick rubber mallet strikes an iron plate.",
+        "output": "entailment",
+        "idx": 327
+    },
+    {
+        "input_1": "A teenager on a moped stops to wiggle the handle of a locked fence.",
+        "input_2": "The teenager climbed the fence to get to buried treasure behind it.",
+        "output": "neutral",
+        "idx": 328
+    },
+    {
+        "input_1": "A strange looking card has the picture of a breakfast on a pear made of chocolate with a fork standing on top of it.",
+        "input_2": "The image is of a milkshake with straw under it.",
+        "output": "contradiction",
+        "idx": 329
+    },
+    {
+        "input_1": "Cows graze near the stream.",
+        "input_2": "Cows are eating grass. Text: Dark clouds gather overhead.Contradicts: The sky is blue with a few white clouds.",
+        "output": "contradiction",
+        "idx": 330
+    },
+    {
+        "input_1": "There is a modern elevator with the caption \"Height and pressure levels in the sixteenth floor office.\" The elevator is noted with a red line being on",
+        "input_2": "The elevator has a red line on and there-floor buttons lighting up.",
+        "output": "neutral",
+        "idx": 331
+    },
+    {
+        "input_1": "The television in the living room is on and two people are listening to it.",
+        "input_2": "The TV is airing the news.",
+        "output": "neutral",
+        "idx": 332
+    },
+    {
+        "input_1": "The shot was taken with so many condensation on the lens, that it looked like droplets of water on the lens were wiping across the screen.",
+        "input_2": "The shot is a long shot of a port at the beginning of a sunny day.",
+        "output": "neutral",
+        "idx": 333
+    },
+    {
+        "input_1": "The scale of the architecture one thousand yards away is massive.",
+        "input_2": "Architecture is present that is far away.",
+        "output": "entailment",
+        "idx": 334
+    },
+    {
+        "input_1": "A boy dives off a diving board into a pool.",
+        "input_2": "The boys are attending a summer camp.",
+        "output": "neutral",
+        "idx": 335
+    },
+    {
+        "input_1": "Ian Wolfe, Canadian speed skater, demonstrates the stone wheel technique.",
+        "input_2": "An athlete from Germany demonstrates the stone wheel technique.",
+        "output": "contradiction",
+        "idx": 336
+    },
+    {
+        "input_1": "A charge pinscher wearing a blue bandanna barks at the man at the door.",
+        "input_2": "The black-and-white dog is growling.",
+        "output": "neutral",
+        "idx": 337
+    },
+    {
+        "input_1": "The pheasants in a wildlife preserve are looking for food by hiding under dry leaves and pine needles.",
+        "input_2": "There are pheasants in a preserve.",
+        "output": "entailment",
+        "idx": 338
+    },
+    {
+        "input_1": "The batter prepares his pan to flip some corn pancakes.",
+        "input_2": "The cook is preparing his pan to flip pancakes with syrup.",
+        "output": "contradiction",
+        "idx": 339
+    },
+    {
+        "input_1": "A boy is checking to see if an awful toothache is just swelling.",
+        "input_2": "A boy is feeling a swollen tooth.",
+        "output": "entailment",
+        "idx": 340
+    },
+    {
+        "input_1": "Four people are standing in a line at the post office, while the other people are waiting behind them.",
+        "input_2": "The people in line are waiting to use the post office.",
+        "output": "entailment",
+        "idx": 341
+    },
+    {
+        "input_1": "One student is pointing an acceleration meter toward the other as she sneaks up with a pair of scissors.",
+        "input_2": "The students are in science class.",
+        "output": "neutral",
+        "idx": 342
+    },
+    {
+        "input_1": "A large man is proposing to a well-dressed, thinner woman.",
+        "input_2": "A man is kneeling and proposing to a woman.",
+        "output": "entailment",
+        "idx": 343
+    },
+    {
+        "input_1": "A man is standing on a scale in a store while a clerk is recording the reading of the scale.",
+        "input_2": "There is a man standing on a scale.",
+        "output": "entailment",
+        "idx": 344
+    },
+    {
+        "input_1": "A farmer checks on his horses in the night time.",
+        "input_2": "A trailer home is parked beside the barn.",
+        "output": "neutral",
+        "idx": 345
+    },
+    {
+        "input_1": "As soon as the basketball is shot, a man goes up to catch it and he bounces it once before putting it back on the ground.",
+        "input_2": "The man is not catching, but dribbling the ball.",
+        "output": "contradiction",
+        "idx": 346
+    },
+    {
+        "input_1": "LOREL requests a large key.",
+        "input_2": "Lorel wants a key.",
+        "output": "entailment",
+        "idx": 347
+    },
+    {
+        "input_1": "A small business owner is looking at an inspection report while showing a bright smile.",
+        "input_2": "A business owner is looking at an inspection report.",
+        "output": "entailment",
+        "idx": 348
+    },
+    {
+        "input_1": "Mr. Bleecker wears a heavy brown suit with a flawlessly tied tie.",
+        "input_2": "Bleecker has survived cancer treatment.",
+        "output": "neutral",
+        "idx": 349
+    },
+    {
+        "input_1": "A woman uses a three-pronged block called a Swede's axe to chop up a thick piece of wood.",
+        "input_2": "The same woman uses a saw to practice woodworking.",
+        "output": "contradiction",
+        "idx": 350
+    },
+    {
+        "input_1": "A high-ranking officer in a gray military coat is holding up three thick, official documents to be signed by a person in a suit.",
+        "input_2": "An official is putting his signature on some paperwork.",
+        "output": "entailment",
+        "idx": 351
+    },
+    {
+        "input_1": "A worker is using a blowtorch to cut a wooden wine barrel down to the correct length.",
+        "input_2": "There is a worker cutting a barrel using a blowtorch.",
+        "output": "entailment",
+        "idx": 352
+    },
+    {
+        "input_1": "A man is working on the engine of a beveled ship. In the back, there is a recently completed house.",
+        "input_2": "The windows are not yet installed and the ship is the house's transport, to a new land.",
+        "output": "neutral",
+        "idx": 353
+    },
+    {
+        "input_1": "The little girl is holding a candle at a candlelight vigil.",
+        "input_2": "The girl is holding an ear of corn.",
+        "output": "contradiction",
+        "idx": 354
+    },
+    {
+        "input_1": "The brook that goes through the town flows between two green looking hills.",
+        "input_2": "The town is far away from the city.",
+        "output": "neutral",
+        "idx": 355
+    },
+    {
+        "input_1": "An emanate man is walking in the heat of a summer day, with sweat pouring off his bare torso.",
+        "input_2": "There is a naked man walking on the street and sweating profusely.",
+        "output": "entailment",
+        "idx": 356
+    },
+    {
+        "input_1": "Jeff's smiles for the camera as Terry laughs at hidden joke only she knows",
+        "input_2": "This picture was taken at a beach.",
+        "output": "neutral",
+        "idx": 357
+    },
+    {
+        "input_1": "A group of young teenagers are drawing on the sidewalk, trying to record the scrawl of their absentminded friend.",
+        "input_2": "The group of teenagers are eating lunch.",
+        "output": "contradiction",
+        "idx": 358
+    },
+    {
+        "input_1": "The magician gulps down a sword during her performance.",
+        "input_2": "The magician does not swallow the sword.",
+        "output": "contradiction",
+        "idx": 359
+    },
+    {
+        "input_1": "The gun in the hand of a bandit is pointed at the camera. The gun is visible.",
+        "input_2": "The gun in the hand pointing a revolver at the camera.",
+        "output": "contradiction",
+        "idx": 360
+    },
+    {
+        "input_1": "There was a burning house, which burned up into ashes.",
+        "input_2": "The house was burnt.",
+        "output": "contradiction",
+        "idx": 361
+    },
+    {
+        "input_1": "Cafe Van Gogh was brightly lit to enable diners to see each other's faces.",
+        "input_2": "It is being served coffee.",
+        "output": "neutral",
+        "idx": 362
+    },
+    {
+        "input_1": "The family stands in front of their house; the father is holding a garden hose.",
+        "input_2": "The family is in an automobile.",
+        "output": "contradiction",
+        "idx": 363
+    },
+    {
+        "input_1": "A typical lunch served in the cafeteria of Longfellow Elementary School in Washington, D.C. is presented.",
+        "input_2": "A school lunch exists.",
+        "output": "entailment",
+        "idx": 364
+    },
+    {
+        "input_1": "A view of the airport terminals.",
+        "input_2": "A tower in the desert.",
+        "output": "contradiction",
+        "idx": 365
+    },
+    {
+        "input_1": "A father is teaching his young son how to cook at the stove.",
+        "input_2": "The father is teaching his young daughter how to cook at the stove.",
+        "output": "contradiction",
+        "idx": 366
+    },
+    {
+        "input_1": "A new steam engine is just about to embark with rust on its wheels and a sticky primer in the bow.",
+        "input_2": "",
+        "output": "neutral",
+        "idx": 367
+    },
+    {
+        "input_1": "A woman in a navy blue suit walks along a street in a city and is thinking.",
+        "input_2": "A woman in a yellow shirt and green skirt walks along the street.",
+        "output": "contradiction",
+        "idx": 368
+    },
+    {
+        "input_1": "A woman with blonde hair is popping open a bottle of beer and drinking it in one gulp.",
+        "input_2": "The young woman is wearing a red dress and drinking a cup of coffee.",
+        "output": "contradiction",
+        "idx": 369
+    },
+    {
+        "input_1": "A newspaper editor, Frank Sullivan, is about to be attacked by arachnids but is being saved by geese.",
+        "input_2": "There is an event\u00a0\u2014 Sullivan being attacked by arachnids before being saved by geese\u00a0\u2014 that could occur in Moby Dick for",
+        "output": "entailment",
+        "idx": 370
+    },
+    {
+        "input_1": "A police officer is asking a man to leave the premises, but the man contemptuously tosses his sandbag over his shoulder.",
+        "input_2": "An officer is engaging a person in denial of a site.",
+        "output": "entailment",
+        "idx": 371
+    },
+    {
+        "input_1": "A wheel of gorgonzola cheese is sitting on the counter of a cheese shop.",
+        "input_2": "There is cheese on the counter of a business.",
+        "output": "entailment",
+        "idx": 372
+    },
+    {
+        "input_1": "Alone in a booth at a diner, a mother munches her bowl of poutine.",
+        "input_2": "There is a mother enjoying poutine.",
+        "output": "entailment",
+        "idx": 373
+    },
+    {
+        "input_1": "A pianist's hands pianists loud, high-pitched notes with a sharp end.",
+        "input_2": "The pianist is playing the piano.",
+        "output": "entailment",
+        "idx": 374
+    },
+    {
+        "input_1": "The wires of a wireframe sculpture are deflating.",
+        "input_2": "Wires around a sculpture are deflating.",
+        "output": "entailment",
+        "idx": 375
+    },
+    {
+        "input_1": "Ian Wolfe, Canadian speed skater, demonstrates the stone wheel technique.",
+        "input_2": "Ian has red hair and blue eyes with freckles on his face, and is wearing blue warm-up pants, red short sleeves, and white",
+        "output": "neutral",
+        "idx": 376
+    },
+    {
+        "input_1": "A stand of furled sails, mounted opposite a window, have the same opacity as the glass.",
+        "input_2": "The sails are mounted behind the window.",
+        "output": "contradiction",
+        "idx": 377
+    },
+    {
+        "input_1": "Kirkland, Illinois looks foggy.",
+        "input_2": "The geographical idea of a place called Kirkland exists and it is in Illinois.",
+        "output": "entailment",
+        "idx": 378
+    },
+    {
+        "input_1": "A man and a woman broke into a skid after pushing two kids on the swingset.",
+        "input_2": "A man and a woman must push two children on the swing set.",
+        "output": "entailment",
+        "idx": 379
+    },
+    {
+        "input_1": "A large plum is sitting inside the wooden bowl.",
+        "input_2": "A plum exists inside the bowl.",
+        "output": "entailment",
+        "idx": 380
+    },
+    {
+        "input_1": "Two shields adorned with bright, colorful flowers stand on a pedestal in the art gallery.",
+        "input_2": "The shields are on display in a gallery.",
+        "output": "entailment",
+        "idx": 381
+    },
+    {
+        "input_1": "A carpenter tries to tutor the children of Sloten in the United States.",
+        "input_2": "The carpenter is not a tutor for the children of Sloten.",
+        "output": "contradiction",
+        "idx": 382
+    },
+    {
+        "input_1": "The construction crew holds up a sheet of titanium.",
+        "input_2": "The men are building a rocket ship.",
+        "output": "neutral",
+        "idx": 383
+    },
+    {
+        "input_1": "On an island in Lake Erie, the U.S. Federal Government had the federal frame of Michigan intersect the boundary of Ohio. It is located within",
+        "input_2": "The Ohio shore of the lake is approximately away.",
+        "output": "neutral",
+        "idx": 384
+    },
+    {
+        "input_1": "",
+        "input_2": "",
+        "output": "entailment",
+        "idx": 385
+    },
+    {
+        "input_1": "The boy uses an online banking service to deposit his cash.",
+        "input_2": "The boy tries to deposit cash at the bank.",
+        "output": "contradiction",
+        "idx": 386
+    },
+    {
+        "input_1": "A large teenage boy is yelling at a smaller boy, who is ready to jump on him at any moment.",
+        "input_2": "The boy is part of a game of dodgeball.",
+        "output": "neutral",
+        "idx": 387
+    },
+    {
+        "input_1": "A wholesome girl has a dusty book of spells picked out.",
+        "input_2": "The spells are studied by the girl.",
+        "output": "entailment",
+        "idx": 388
+    },
+    {
+        "input_1": "A pea plant leaves are drooping, shriveling, wilting, and dying from pests.",
+        "input_2": "The plant is in the process of dying.",
+        "output": "entailment",
+        "idx": 389
+    },
+    {
+        "input_1": "Al Barden records information in his blue notebook.",
+        "input_2": "Al Barden is taking notes.",
+        "output": "entailment",
+        "idx": 390
+    },
+    {
+        "input_1": "A few strands of hair are sticking up at different angles towards a teen's face in the mirror.",
+        "input_2": "Several strands of hair are sticking up.",
+        "output": "entailment",
+        "idx": 391
+    },
+    {
+        "input_1": "A Japanese man is doing tricks with a red competition-standard bungee jump rope.",
+        "input_2": "A Chinese man is trying to complete bungee jumps owned by the government.",
+        "output": "contradiction",
+        "idx": 392
+    },
+    {
+        "input_1": "The windshield wipers of a car scrape off the ice as the car pulls into a garage.",
+        "input_2": "A car is doing something to a windshield",
+        "output": "entailment",
+        "idx": 393
+    },
+    {
+        "input_1": "The accountant slides his finger along his computer monitor, counting the expenses on his calculator.",
+        "input_2": "The accountant counting expenses.",
+        "output": "entailment",
+        "idx": 394
+    },
+    {
+        "input_1": "Some young students in a \"Producer's Pot\" scout group for people concerned in academic and cultural advancements are using a kiln to bake oden",
+        "input_2": "The students are waiting for the oden to completely cook.",
+        "output": "neutral",
+        "idx": 395
+    },
+    {
+        "input_1": "A hand selects an exercise bar in a busy gym.",
+        "input_2": "The individual is working out.",
+        "output": "neutral",
+        "idx": 396
+    },
+    {
+        "input_1": "One day my brother Dante and our friend Denny, we were out taking pictures in Bakerfield.",
+        "input_2": "The teenage boy is taking a photograph of a pool.",
+        "output": "neutral",
+        "idx": 397
+    },
+    {
+        "input_1": "A public statue of Paul Revere sits in front of a row of Colonial homes.",
+        "input_2": "The statue has a back-lit base that looks like a fire.",
+        "output": "neutral",
+        "idx": 398
+    },
+    {
+        "input_1": "An onion sits on a cutting board.",
+        "input_2": "There is an onion sitting on a cutting board.",
+        "output": "entailment",
+        "idx": 399
+    },
+    {
+        "input_1": "Oily hands with veins are embracing a swan.",
+        "input_2": "Oily hands are soldering a circuit board.",
+        "output": "contradiction",
+        "idx": 400
+    },
+    {
+        "input_1": "The narrator places a telephone call and awaits a response.",
+        "input_2": "The caller asks to speak to Lofty, but the operator informs her there is no person and she is disconnected.",
+        "output": "neutral",
+        "idx": 401
+    },
+    {
+        "input_1": "A waitress is serving a family their breakfast. A small girl, with a round face and pigtails, is shrieking after discovering something had singed",
+        "input_2": "Kids are playing in the house while the parents are away. They don't shriek.",
+        "output": "contradiction",
+        "idx": 402
+    },
+    {
+        "input_1": "Midday sunlight is casting shadows in a shallow azure ocean while a barracuda is seen swimming by.",
+        "input_2": "The fish is an important symbol for the nation.",
+        "output": "neutral",
+        "idx": 403
+    },
+    {
+        "input_1": "Two shields adorned with bright, colorful flowers stand on a pedestal in the art gallery.",
+        "input_2": "The shields are in a dark area surrounded by black cases.",
+        "output": "contradiction",
+        "idx": 404
+    },
+    {
+        "input_1": "A younger boy demonstrates how easy it is to play the violin.",
+        "input_2": "An older boy is learning how to play the violin.",
+        "output": "contradiction",
+        "idx": 405
+    },
+    {
+        "input_1": "A young girl teaches her frog about simplifying his life by removing the food bowl from his habitat. Seven years later, the frog is still and very",
+        "input_2": "A frog is moving around a tank.",
+        "output": "entailment",
+        "idx": 406
+    },
+    {
+        "input_1": "A couple with their backs to the viewer is eating dim sum on a shopping date.",
+        "input_2": "The couple is on a date in Japan.",
+        "output": "contradiction",
+        "idx": 407
+    },
+    {
+        "input_1": "A woman chops off the end of a fish before rapidly frying it for her customer.",
+        "input_2": "A man is eating a hot meal at the other side of the restaurant.",
+        "output": "neutral",
+        "idx": 408
+    },
+    {
+        "input_1": "Metallic strips are hanging vertically on the clothesline.",
+        "input_2": "Metallic strips are lying horizontal.",
+        "output": "contradiction",
+        "idx": 409
+    },
+    {
+        "input_1": "Char playing the guitar while kneeling on the floor.",
+        "input_2": "Char playing the cello.",
+        "output": "contradiction",
+        "idx": 410
+    },
+    {
+        "input_1": "Two nuns are ringing a bell near a seaport, asking people passing by to \"accept God's grace\".",
+        "input_2": "The women are holding a sign asking passersby to \"Receive God's Grace.\"",
+        "output": "neutral",
+        "idx": 411
+    },
+    {
+        "input_1": "Elephant balances with three balls on his trunk.",
+        "input_2": "Elephant is balancing three balls on his trunk.",
+        "output": "entailment",
+        "idx": 412
+    },
+    {
+        "input_1": "A driver is gripping the wheel of the car as he drives through tornadoes caused by a freak tornado.",
+        "input_2": "The driver is avoiding damage to his car.",
+        "output": "neutral",
+        "idx": 413
+    },
+    {
+        "input_1": "A little girl's foot is resting on top of a toddler boy's head while they both smile.",
+        "input_2": "The toddler girl is crying.",
+        "output": "contradiction",
+        "idx": 414
+    },
+    {
+        "input_1": "A grey-colored hawk is soaring against the clear Florida sky.",
+        "input_2": "The hawk is in flight.",
+        "output": "entailment",
+        "idx": 415
+    },
+    {
+        "input_1": "A golfer chugs water at the eighteenth tee before teeing off.",
+        "input_2": "A golfer is sitting in the clubhouse eating a sandwich after teeing off.",
+        "output": "contradiction",
+        "idx": 416
+    },
+    {
+        "input_1": "The football player is doing a balancing trick with a specific plank.",
+        "input_2": "The football player is balancing four planks on top of each other.",
+        "output": "neutral",
+        "idx": 417
+    },
+    {
+        "input_1": "A centenarian man sitting on a bench watches with satisfaction the busy goings-on in his hometown.",
+        "input_2": "An enfeebled man is lying on the bench instead of being busy.",
+        "output": "contradiction",
+        "idx": 418
+    },
+    {
+        "input_1": "Ice blocks are being loaded onto the ship to be taken to another country as the last of the season.",
+        "input_2": "The ice blocks are being taken to melt in a warm climate.",
+        "output": "neutral",
+        "idx": 419
+    },
+    {
+        "input_1": "Cousineau State Park is a nature reserve located on the shore of Lake Michigan in Michigan.",
+        "input_2": "The map in the book shows the location of Cousineau State Park in New York, across the lake from Lake Erie",
+        "output": "contradiction",
+        "idx": 420
+    },
+    {
+        "input_1": "A smoker smokes a cigarette on a street connected to many skyscrapers.",
+        "input_2": "A smoker is smoking a cigarette on the street.",
+        "output": "entailment",
+        "idx": 421
+    },
+    {
+        "input_1": "The sun is low in the sky, shining through towering pillars of rock. The cliffs are moving past fast.",
+        "input_2": "The rock pillars are driving through the desert under a clear blue sky.",
+        "output": "neutral",
+        "idx": 422
+    },
+    {
+        "input_1": "A girl who is crossing the street legally has been hit by a car that stopped illegally.",
+        "input_2": "The girl is jaywalking.",
+        "output": "contradiction",
+        "idx": 423
+    },
+    {
+        "input_1": "A woman with tanned skin and blonde hair is applying makeup to cover up the freckles on her nose and cheeks.",
+        "input_2": "The woman is applying makeup to make herself as pale as possible.",
+        "output": "contradiction",
+        "idx": 424
+    },
+    {
+        "input_1": "The firefighter smashes the blazing red fire hydrant which shoots water up in the air.",
+        "input_2": "There is a fire hydrant.",
+        "output": "entailment",
+        "idx": 425
+    },
+    {
+        "input_1": "Someone has just gotten a pair of umbrella stilts, and the person is going for a jog.",
+        "input_2": "Someone is jogging in the rain.",
+        "output": "entailment",
+        "idx": 426
+    },
+    {
+        "input_1": "Along a quiet country road, a horse pulling a buggy stops at a farm to relieve itself.",
+        "input_2": "A horse and buggy are near a farm.",
+        "output": "entailment",
+        "idx": 427
+    },
+    {
+        "input_1": "They have season passes and they continuously visit the amusement park.",
+        "input_2": "They are accompanying their kids in the amusement park.",
+        "output": "neutral",
+        "idx": 428
+    },
+    {
+        "input_1": "An artist is arranging brushes and paints on the shelf.",
+        "input_2": "The artist is arranging brushes and paints on a shelf in the studio.",
+        "output": "neutral",
+        "idx": 429
+    },
+    {
+        "input_1": "The bookkeeper at the construction company threw away old documents in the trash can before he left work for the day.",
+        "input_2": "A bookkeeper threw documents into a trash can.",
+        "output": "entailment",
+        "idx": 430
+    },
+    {
+        "input_1": "Tiny bubbles, bursting, or a boiling kettle typical symbolize anger. In passive adaptation, the bubbles turn to smoke, smoldering and wis",
+        "input_2": "The woman is happy.",
+        "output": "contradiction",
+        "idx": 431
+    },
+    {
+        "input_1": "A cluster of flags are positioned on top of a building in the financial district.",
+        "input_2": "A cluster of flags are erected in the financial district.",
+        "output": "entailment",
+        "idx": 432
+    },
+    {
+        "input_1": "A close-up of a woman's face as she gasps while sitting on the floor next to her mountain of snacks on game night.",
+        "input_2": "The woman is happy at having won the game, and is surrounded by her friends.",
+        "output": "neutral",
+        "idx": 433
+    },
+    {
+        "input_1": "The windshield wipers of a car scrape off the ice as the car pulls into a garage.",
+        "input_2": "The car is dirty and covered in salt from the road.",
+        "output": "neutral",
+        "idx": 434
+    },
+    {
+        "input_1": "A secretary is typing at the office's computer.",
+        "input_2": "The secretary is holding action figures from the front of her.",
+        "output": "contradiction",
+        "idx": 435
+    },
+    {
+        "input_1": "The dark clouds grow over the field behind the creek, preparing for a possible thunderstorm.",
+        "input_2": "Dark clouds are in the sky.",
+        "output": "entailment",
+        "idx": 436
+    },
+    {
+        "input_1": "A man in a business meeting is forcing a newspaper down into a trash can with his foot.",
+        "input_2": "The newspaper has been destroyed.",
+        "output": "entailment",
+        "idx": 437
+    },
+    {
+        "input_1": "A woman has brought her meal back to her log cabin. She waits to attempt to grill it over the open fire, unaware that a bear is watching",
+        "input_2": "The woman, with her meal, is approaching a cabin that is clearly not surrounded by woodland.",
+        "output": "contradiction",
+        "idx": 438
+    },
+    {
+        "input_1": "The butcher chops the tops off of kale to create flowers, setting them on elaborate curved displays in the front window.",
+        "input_2": "The butcher chops the tops off of kale.",
+        "output": "contradiction",
+        "idx": 439
+    },
+    {
+        "input_1": "A bowl of batter rests on the counter as the cake is baking in the oven.",
+        "input_2": "Batter is in a bowl.",
+        "output": "entailment",
+        "idx": 440
+    },
+    {
+        "input_1": "A tractor is skewed and partially laying on its side from an overturned hay wagon.",
+        "input_2": "A tractor is intact and in the upright position.",
+        "output": "contradiction",
+        "idx": 441
+    },
+    {
+        "input_1": "The players rub up against each other during a ballgame at the ballpark.",
+        "input_2": "The players are at home plate.",
+        "output": "contradiction",
+        "idx": 442
+    },
+    {
+        "input_1": "A photograph of a college-aged woman holding an open note between her hands as she speaks into it.",
+        "input_2": "The note already has been opened.",
+        "output": "contradiction",
+        "idx": 443
+    },
+    {
+        "input_1": "On the left-hand side, there is a man who is bending down to look inside a fridge. On the right-hand side, a glass",
+        "input_2": "The man is trying to find a snack for the upcoming party.",
+        "output": "neutral",
+        "idx": 444
+    },
+    {
+        "input_1": "System operators are checking the radar at a ship supply store.",
+        "input_2": "Radar is operating at a ship store.",
+        "output": "entailment",
+        "idx": 445
+    },
+    {
+        "input_1": "Two people wearing rubber gloves hold a red piece of medical equipment in mid air.",
+        "input_2": "There are two people handling a red piece of equipment.",
+        "output": "entailment",
+        "idx": 446
+    },
+    {
+        "input_1": "Snow has fallen overnight before the first day of winter.",
+        "input_2": "Snow has yet to fall.",
+        "output": "contradiction",
+        "idx": 447
+    },
+    {
+        "input_1": "The father on the left is wearing a sweatshirt.",
+        "input_2": "The father is wearing a garment that he generally wears on top of his shirt while doing normal human activities.",
+        "output": "entailment",
+        "idx": 448
+    },
+    {
+        "input_1": "A mother is frosting a cupcake in the kitchen.",
+        "input_2": "A daughter is licking a cupcake in the kitchen.",
+        "output": "contradiction",
+        "idx": 449
+    },
+    {
+        "input_1": "Outside her house, a mother cooks with her children.",
+        "input_2": "Inside her house, a mother is cooking with her spouse.",
+        "output": "contradiction",
+        "idx": 450
+    },
+    {
+        "input_1": "After the basketball game, a friend delivers pineapples from Hawaii to the happy couple.",
+        "input_2": "The couple is on their honeymoon in Hawaii.",
+        "output": "neutral",
+        "idx": 451
+    },
+    {
+        "input_1": "The young man in a booth is smoking a cigarette as the Automat patron wheels up for a game of pool.",
+        "input_2": "A young man is smoking sullenly as an Automat patron dives behind a pool table.",
+        "output": "entailment",
+        "idx": 452
+    },
+    {
+        "input_1": "The health department says that octogenarians consume the same amount of sugar as teenagers.",
+        "input_2": "The octogenarians drink orange juice instead of sugar.",
+        "output": "contradiction",
+        "idx": 453
+    },
+    {
+        "input_1": "The farmer is hard at work harvesting his cantaloupe.",
+        "input_2": "A gardener is watering flowers.",
+        "output": "contradiction",
+        "idx": 454
+    },
+    {
+        "input_1": "A teenage youth wearing a blue and white kilt and tall black hat carrying a long cross pays a visit to friends and family.",
+        "input_2": "A kilt-wearing youth is working on a tradition of some sort.",
+        "output": "entailment",
+        "idx": 455
+    },
+    {
+        "input_1": "People are drinking coffee and enjoying the view in front of the bridge.",
+        "input_2": "There is coffee being consumed at a place where people are watching the bridge.",
+        "output": "entailment",
+        "idx": 456
+    },
+    {
+        "input_1": "A young couple in a small apartment have had a baby room added next to their bedroom.",
+        "input_2": "The couple is carrying the baby about the apartment.",
+        "output": "neutral",
+        "idx": 457
+    },
+    {
+        "input_1": "A straight vinegar container has triangular cutouts on the sides.",
+        "input_2": "The sides of the container are transparent, so the liquid can be seen inside.",
+        "output": "neutral",
+        "idx": 458
+    },
+    {
+        "input_1": "A man and a woman are seated together eating Chinese food at a restaurant down the street from the Ruins of Nu-Sen.",
+        "input_2": "The man is eating a plate of peppers and other food not served with Chinese cuisine, likely Americanized Mexican food, while the woman is sitting with a",
+        "output": "contradiction",
+        "idx": 459
+    },
+    {
+        "input_1": "Three-year-old Cornelia tests out a pressure sensor that goes off when she pushes a yellow button.",
+        "input_2": "11-year-old Cornelia tests out a pressure sensor that goes off when she pushes a yellow button.",
+        "output": "contradiction",
+        "idx": 460
+    },
+    {
+        "input_1": "A male high-school student is squinting and grinding his teeth at his hairdresser.",
+        "input_2": "A student is squinting.",
+        "output": "entailment",
+        "idx": 461
+    },
+    {
+        "input_1": "The photo features Joe Shlabotnik in a snapshot tucked behind the poster for the comic strip \"Moon Mullins\".",
+        "input_2": "He is posing with a carrot that he has planted as a moustache.",
+        "output": "neutral",
+        "idx": 462
+    },
+    {
+        "input_1": "Two men in dark sunglasses are chasing each other on a footbridge.",
+        "input_2": "There are two men on a footbridge.",
+        "output": "entailment",
+        "idx": 463
+    },
+    {
+        "input_1": "At the end of tunnel, a light is shining on a woman who is looking down the tracks at the train.",
+        "input_2": "The train is coming into the station.",
+        "output": "neutral",
+        "idx": 464
+    },
+    {
+        "input_1": "An eight-kilogram (17-pound) gold medal lies at the bottom of the medal basin after the teenager's weight successfully met the emmen",
+        "input_2": "A person wearing weights exceeding eight kilograms (17 pounds) is at the bottom of a pool of water.",
+        "output": "entailment",
+        "idx": 465
+    },
+    {
+        "input_1": "A woman in a red coat and tall boots pushes a yellow shopping cart through a alley to a convenience store.",
+        "input_2": "A woman in a black coat and brown boots is pulling a blue shopping cart car inside a convenience store.",
+        "output": "contradiction",
+        "idx": 466
+    },
+    {
+        "input_1": "Evening ends at a plowed field.",
+        "input_2": "The sunset drops below the horizon.",
+        "output": "neutral",
+        "idx": 467
+    },
+    {
+        "input_1": "A runner is starting his last lap in a summer sports tournament.",
+        "input_2": "A wrestler is starting his first lap in an overcast winter day.",
+        "output": "contradiction",
+        "idx": 468
+    },
+    {
+        "input_1": "A pet civet on a leash crosses the sidewalk and passes behind two passersby.",
+        "input_2": "One of the people is wearing a baseball cap.",
+        "output": "neutral",
+        "idx": 469
+    },
+    {
+        "input_1": "An old soldier is telling his grandson all about his Baseball career.",
+        "input_2": "The soldier is holding a Baseball bat and two Baseball shoes.",
+        "output": "neutral",
+        "idx": 470
+    },
+    {
+        "input_1": "",
+        "input_2": "\"Ethan wants to build a home on asteroid bombardier, the best location for viewing the inanimate objects in space. Ethan orders supplies: a",
+        "output": "contradiction",
+        "idx": 471
+    },
+    {
+        "input_1": "The words \"simplify\" and \"recursive\", written in colored text.",
+        "input_2": "The words \"contradict\" and \"corollary\", written in colored text.",
+        "output": "contradiction",
+        "idx": 472
+    },
+    {
+        "input_1": "A minister stands over a small group of teenage girls who just were confirmed in a church in Essex, England. They hold flowers on their laps.",
+        "input_2": "",
+        "output": "entailment",
+        "idx": 473
+    },
+    {
+        "input_1": "A man in a brown suit is shedding his business attire, rushing out a room when something is bugging him.",
+        "input_2": "A man is shedding his business attire.",
+        "output": "entailment",
+        "idx": 474
+    },
+    {
+        "input_1": "Two jars of orange marmalade that stayed closed due to an errant lid.",
+        "input_2": "The jars were filled too full.",
+        "output": "neutral",
+        "idx": 475
+    },
+    {
+        "input_1": "Louisville, Kentucky's pitcher takes a deep breath before surrendering the winning run on a hit with bases loaded and two outs.",
+        "input_2": "The players are in the Major League Baseball.",
+        "output": "neutral",
+        "idx": 476
+    },
+    {
+        "input_1": "The television is showing a picture that is distorted and blurry because of a malfunctioning cable cord.",
+        "input_2": "The television set is on the second story of a house.",
+        "output": "neutral",
+        "idx": 477
+    },
+    {
+        "input_1": "Ten governors sing the National Anthem of the United States and wave flags.",
+        "input_2": "The governors are on tour.",
+        "output": "neutral",
+        "idx": 478
+    },
+    {
+        "input_1": "The Sousa Band is playing music for a crowd in the park, near the grandstands.",
+        "input_2": "The band is playing \"American Patrol\" by Ottomar Anton.",
+        "output": "neutral",
+        "idx": 479
+    },
+    {
+        "input_1": "A family is sitting outdoors enjoying a Father's Day picnic.",
+        "input_2": "It is a Child's Day picnic.",
+        "output": "contradiction",
+        "idx": 480
+    },
+    {
+        "input_1": "An older man standing in the street holds a clipboard and is making estimations in a notepad.",
+        "input_2": "The man is an architect inspecting a building in pre-construction.",
+        "output": "neutral",
+        "idx": 481
+    },
+    {
+        "input_1": "Various teams in autumn sports: boys' tennis, girls' field hockey, and boys' boxing. The names of the teams are seen: Pomona",
+        "input_2": "A boys' team and a girls' team are participating in different sports.",
+        "output": "entailment",
+        "idx": 482
+    },
+    {
+        "input_1": "Helen of Troy is bent over in her studio, focused on stirring clay with a paintbrush.",
+        "input_2": "The woman is preparing for a sculpting session.",
+        "output": "neutral",
+        "idx": 483
+    },
+    {
+        "input_1": "A mule pulled a wagon with residents and supplies across the branch-covered path.",
+        "input_2": "A goat pulls the wagon containing some food etc.",
+        "output": "contradiction",
+        "idx": 484
+    },
+    {
+        "input_1": "A smiling man with a tattoo on his forearm is lying on the beach, while people are playing soccer in the background.",
+        "input_2": "The man is frowning.",
+        "output": "contradiction",
+        "idx": 485
+    },
+    {
+        "input_1": "A skinny boy playing as goalie misses the soccer ball. The ball lands in the goal zone. The goalkeeper's father gives him a thumbs up.",
+        "input_2": "The father is hugging his son on a large modern soccer field.",
+        "output": "neutral",
+        "idx": 486
+    },
+    {
+        "input_1": "A portrait of President Wilson's reaction to Germany's attitude towards the shaken up peace conference.",
+        "input_2": "The painting is not President Wilson's.",
+        "output": "contradiction",
+        "idx": 487
+    },
+    {
+        "input_1": "A young woman laughs as she runs with a soccer ball in her arms.",
+        "input_2": "The woman is running head first.",
+        "output": "neutral",
+        "idx": 488
+    },
+    {
+        "input_1": "Two people wearing rubber gloves hold a red piece of medical equipment in mid air.",
+        "input_2": "The two people are doctors perusing through abdominal findings.",
+        "output": "neutral",
+        "idx": 489
+    },
+    {
+        "input_1": "The trainer is putting dog treats onto a suspended level while the dog jumps down for them.",
+        "input_2": "The dog jumps onto the level.",
+        "output": "entailment",
+        "idx": 490
+    },
+    {
+        "input_1": "The Gerber web is introduced to a crowd in Merritt, Ontario.",
+        "input_2": "Helicopters flying over the site in open connection to Gerber.",
+        "output": "neutral",
+        "idx": 491
+    },
+    {
+        "input_1": "A mother is sitting on a bench with her son, reading to him from a book.",
+        "input_2": "The woman is at the playground, reading a book.",
+        "output": "neutral",
+        "idx": 492
+    },
+    {
+        "input_1": "Ripples from the pool's surface cast rippled shadows on the grass.",
+        "input_2": "The ripples from the pool's surface are not in grass.",
+        "output": "contradiction",
+        "idx": 493
+    },
+    {
+        "input_1": "A guitarist is performing vulgar music for two women and some cheesy moves at the library.",
+        "input_2": "The women are not watching the performance.",
+        "output": "neutral",
+        "idx": 494
+    },
+    {
+        "input_1": "A sloppily dressed teen drops a broken Bingo machine into a storm drain.",
+        "input_2": "The teenager is breaking up the machine after an unsuccessful Bingo tournament.",
+        "output": "neutral",
+        "idx": 495
+    },
+    {
+        "input_1": "One character named Rondel is holding up a plate of deviled eels and saying, \"Right you are, Rondel.\" A different",
+        "input_2": "A different character is carrying a plate of deviled eels with mustard. mustard.",
+        "output": "contradiction",
+        "idx": 496
+    },
+    {
+        "input_1": "Innsbruck, an Austrian city surrounded by mountains, sits on a small hill surrounded by trees. On the side of the hill, a small",
+        "input_2": "During the fall, trees around the city change color.",
+        "output": "neutral",
+        "idx": 497
+    },
+    {
+        "input_1": "A woman uses a wooden bucket as a drum as she makes the background sound for a freestyle rap",
+        "input_2": "A woman is using a wooden pail to play a drum as part of an activity.",
+        "output": "entailment",
+        "idx": 498
+    },
+    {
+        "input_1": "A more slender person prepares to step onto bathroom scales to check his weight.",
+        "input_2": "Someone who is more slender prepares to step onto scales.",
+        "output": "entailment",
+        "idx": 499
+    }
+]
